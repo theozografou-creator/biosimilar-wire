@@ -1,0 +1,17 @@
+{
+  "keep_days": 60,
+  "report_every_days": 14,
+  "report_window_days": 14,
+  "feeds": [
+    {"name": "Fierce Biotech", "url": "https://www.fiercebiotech.com/rss/xml"},
+    {"name": "Fierce Pharma", "url": "https://www.fiercepharma.com/rss/xml"},
+    {"name": "Endpoints News", "url": "https://endpts.com/feed/"},
+    {"name": "BioPharma Dive", "url": "https://www.biopharmadive.com/feeds/news/"},
+    {"name": "Big Molecule Watch", "url": "https://www.bigmoleculewatch.com/feed/", "always_biosimilar": true},
+    {"name": "GaBI Online", "url": "https://news.google.com/rss/search?q=site:gabionline.net+when:30d&hl=en-US&gl=US&ceid=US:en", "always_biosimilar": true},
+    {"name": "Center for Biosimilars", "url": "https://news.google.com/rss/search?q=site:centerforbiosimilars.com+when:30d&hl=en-US&gl=US&ceid=US:en", "always_biosimilar": true},
+    {"name": "Google News: biosimilar", "url": "https://news.google.com/rss/search?q=biosimilar+when:7d&hl=en-US&gl=US&ceid=US:en", "always_biosimilar": true}
+  ],
+  "keywords": ["biosimilar", "interchangeab", "bpcia", "patent dance", "reference product", "follow-on biologic"],
+  "watchlist": ["Sandoz", "Celltrion", "Samsung Bioepis", "Biocon", "Formycon", "Alvotech", "Amneal", "Fresenius Kabi", "Henlius", "Bio-Thera", "Teva", "Dr. Reddy", "Coherus", "Organon"]
+}

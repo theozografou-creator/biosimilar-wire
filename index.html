@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Biosimilar Wire</title>
+<style>
+:root{--bg:#f6f3ec;--ink:#1b1d1a;--mute:#6b6f66;--line:#d9d4c6;--acc:#0b6b57;--card:#fffdf8}
+@media (prefers-color-scheme:dark){:root{--bg:#131614;--ink:#e9e6dc;--mute:#9aa093;--line:#2c312c;--acc:#5fc9ae;--card:#1a1e1b}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 "Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif}
+.wrap{max-width:780px;margin:0 auto;padding:20px 16px 60px}
+header{border-bottom:3px double var(--ink);padding-bottom:10px;margin-bottom:14px}
+h1{font-size:2.1rem;line-height:1.1;margin:0;letter-spacing:-.01em}
+.meta,.ctl,button,select,input,.src,.tag{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;font-size:.74rem}
+.meta{color:var(--mute);margin-top:6px}
+.tabs{display:flex;gap:6px;margin-bottom:12px}
+button,select,input{background:var(--card);color:var(--ink);border:1px solid var(--line);padding:7px 10px;border-radius:3px}
+button{cursor:pointer}
+button.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.ctl{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px}
+.ctl input{flex:1;min-width:140px}
+h2.day{font-size:.78rem;font-family:ui-monospace,Menlo,monospace;text-transform:uppercase;letter-spacing:.08em;color:var(--mute);border-bottom:1px solid var(--line);padding:18px 0 4px;margin:0}
+article{padding:12px 0;border-bottom:1px solid var(--line)}
+article a.t{color:var(--ink);text-decoration:none;font-size:1.12rem;font-weight:600;line-height:1.3}
+article a.t:hover{color:var(--acc);text-decoration:underline}
+article p{margin:4px 0 0;color:var(--mute);font-size:.95rem}
+.src{color:var(--mute);margin-bottom:3px}
+.tag{color:var(--acc);border:1px solid var(--acc);padding:0 5px;border-radius:2px;margin-left:6px}
+.rep{background:var(--card);border:1px solid var(--line);padding:4px 18px 14px;margin-bottom:16px}
+.rep h3{font-size:1.05rem;margin:18px 0 4px}
+.rep ul{margin:0;padding-left:20px}.rep li{margin:6px 0}
+.rep a,.note a{color:var(--acc)}
+.note{color:var(--mute);font-size:.92rem;padding:14px 0}
+.bad{color:#c0392b}
+</style>
+</head>
+<body><div class="wrap">
+<header><h1>Biosimilar Wire</h1><div class="meta" id="meta">Loading ...</div></header>
+<div class="tabs"><button id="tNews" class="on">News</button><button id="tRep">Reports</button></div>
+<section id="news">
+ <div class="ctl">
+  <button id="fBio" class="on">Biosimilars</button><button id="fAll">All biotech</button>
+  <select id="fSrc"><option value="">All sources</option></select>
+  <select id="fDays"><option value="1">24 hours</option><option value="7" selected>7 days</option><option value="30">30 days</option><option value="999">Everything</option></select>
+  <input id="fQ" type="search" placeholder="Search">
+ </div>
+ <div id="list"></div>
+</section>
+<section id="reports" hidden></section>
+<div class="meta" id="feeds" style="margin-top:30px"></div>
+</div>
+<script>
+const $=id=>document.getElementById(id);
+const el=(t,c,txt)=>{const e=document.createElement(t);if(c)e.className=c;if(txt!=null)e.textContent=txt;return e};
+let data={items:[],feeds:[]},reports=[],bioOnly=true;
+const isBio=x=>x.score!=null?x.score>=2:x.biosimilar;
+
+function render(){
+  const days=+$("fDays").value,src=$("fSrc").value,q=$("fQ").value.toLowerCase().trim();
+  const since=new Date(Date.now()-days*864e5).toISOString();
+  const rows=data.items.filter(x=>(!bioOnly||isBio(x))&&(!src||x.source===src)&&x.date>=since&&
+    (!q||(x.title+" "+(x.summary||x.snippet)+" "+x.source).toLowerCase().includes(q)));
+  const list=$("list");list.textContent="";
+  if(!rows.length){list.append(el("p","note",data.updated?"Nothing matches these filters.":"No data yet. The first update has not run."));return}
+  let last="";
+  for(const x of rows){
+    const d=new Date(x.date).toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long"});
+    if(d!==last){list.append(el("h2","day",d));last=d}
+    const a=el("article"),s=el("div","src",x.source);
+    if(!bioOnly&&isBio(x))s.append(el("span","tag","biosimilar"));
+    for(const w of x.watch||[])s.append(el("span","tag",w));
+    const t=el("a","t",x.title);t.href=x.link;t.target="_blank";t.rel="noopener";
+    a.append(s,t);
+    const body=x.summary||x.snippet;if(body)a.append(el("p",null,body));
+    list.append(a);
+  }
+}
+
+function md(text){
+  const esc=s=>s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+  const inl=s=>esc(s).replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>")
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,'<a href="$2" target="_blank" rel="noopener">$1</a>');
+  let out="",ul=false;
+  for(const raw of text.split("\n")){
+    const l=raw.trim();
+    const li=l.match(/^[-*]\s+(.*)/),h=l.match(/^#{1,3}\s+(.*)/);
+    if(li){if(!ul){out+="<ul>";ul=true}out+="<li>"+inl(li[1])+"</li>";continue}
+    if(ul){out+="</ul>";ul=false}
+    if(h)out+="<h3>"+inl(h[1])+"</h3>";else if(l)out+="<p>"+inl(l)+"</p>";
+  }
+  return out+(ul?"</ul>":"");
+}
+
+function renderReports(){
+  const box=$("reports");box.textContent="";
+  const m=location.hostname.match(/^(.+)\.github\.io$/),repo=location.pathname.split("/")[1];
+  const note=el("p","note");
+  if(m&&repo){
+    note.append("To write a new report now: ");
+    const a=el("a",null,"open the update job");a.href=`https://github.com/${m[1]}/${repo}/actions/workflows/update.yml`;a.target="_blank";
+    note.append(a,", press Run workflow and tick the report box. It shows up here a few minutes later.");
+  }else note.textContent="A new report is written automatically every two weeks.";
+  box.append(note);
+  if(!reports.length)box.append(el("p","note","No report yet. Reports need the API key to be set (see README)."));
+  for(const r of reports){
+    const d=el("div","rep"),f=o=>new Date(o).toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"});
+    d.append(el("h2","day",`${f(r.from)} to ${f(r.date)} · ${r.items} items`));
+    const b=el("div");b.innerHTML=md(r.markdown);d.append(b);box.append(d);
+  }
+}
+
+function tab(news){$("news").hidden=!news;$("reports").hidden=news;$("tNews").classList.toggle("on",news);$("tRep").classList.toggle("on",!news)}
+$("tNews").onclick=()=>tab(true);$("tRep").onclick=()=>tab(false);
+$("fBio").onclick=()=>{bioOnly=true;$("fBio").classList.add("on");$("fAll").classList.remove("on");render()};
+$("fAll").onclick=()=>{bioOnly=false;$("fAll").classList.add("on");$("fBio").classList.remove("on");render()};
+["fSrc","fDays"].forEach(i=>$(i).onchange=render);$("fQ").oninput=render;
+
+(async()=>{
+  const get=async p=>{try{const r=await fetch(p+"?t="+Date.now());return r.ok?await r.json():null}catch(e){return null}};
+  data=await get("data/news.json")||data;reports=await get("data/reports.json")||[];
+  $("meta").textContent=data.updated?`Updated ${new Date(data.updated).toLocaleString("en-GB",{dateStyle:"medium",timeStyle:"short"})} · ${data.items.length} items`:"Not updated yet";
+  for(const s of [...new Set(data.items.map(x=>x.source))].sort())$("fSrc").append(new Option(s,s));
+  const f=$("feeds");
+  if(data.feeds.length){f.append("Sources: ");data.feeds.forEach((s,i)=>{f.append(el("span",s.ok?null:"bad",s.name+(s.ok?"":" (failed)")),i<data.feeds.length-1?" · ":"")})}
+  render();renderReports();
+})();
+</script>
+</body></html>
