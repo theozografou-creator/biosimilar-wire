@@ -42,11 +42,16 @@ article p{margin:4px 0 0;color:var(--mute);font-size:.95rem}
 .rep a,.note a{color:var(--acc)}
 .note{color:var(--mute);font-size:.92rem;padding:14px 0}
 .bad{color:#c0392b}
+.prof{background:var(--card);border:1px solid var(--line);padding:12px 16px;margin:8px 0}
+.prof h3{margin:0 0 6px;font-size:1.3rem}.prof div{font-size:.95rem}.prof b{font-weight:600}
+h2.sec{font-size:1.15rem;margin:26px 0 0;padding-bottom:4px;border-bottom:2px solid var(--ink)}
+.secnote{color:var(--mute);font-size:.9rem;margin:4px 0 0}
+#mSaved button{padding:4px 8px}
 </style>
 </head>
 <body><div class="wrap">
 <header><h1>Biosimilar Wire</h1><div class="meta" id="meta">Loading ...</div></header>
-<div class="tabs"><button id="tNews" class="on">News</button><button id="tRep">Reports</button></div>
+<div class="tabs"><button id="tNews" class="on">News</button><button id="tRep">Reports</button><button id="tMol">Molecule</button></div>
 <section id="news">
  <div class="ctl">
   <button id="fBio" class="on">Biosimilars</button><button id="fAll">All biotech</button>
@@ -57,6 +62,19 @@ article p{margin:4px 0 0;color:var(--mute);font-size:.95rem}
  <div id="list"></div>
 </section>
 <section id="reports" hidden></section>
+<section id="mol" hidden>
+ <div class="ctl">
+  <input id="mQ" type="search" placeholder="Molecule or brand, e.g. ustekinumab" enterkeyhint="search" autocapitalize="off" autocorrect="off">
+  <button id="mGo" class="on">Search</button>
+  <select id="mMonths"><option value="6">6 months</option><option value="12" selected>12 months</option></select>
+ </div>
+ <div class="ctl" id="mSaved"></div>
+ <div id="mOut"></div>
+ <details class="note"><summary>Access key</summary>
+  <p>Opening saved searches works for everyone. Starting a new search needs a GitHub access key. It is stored only on this device.</p>
+  <div class="ctl"><input id="mKey" type="password" placeholder="github_pat_..."><button id="mKeySave">Save</button></div>
+ </details>
+</section>
 <div class="meta" id="feeds" style="margin-top:30px"></div>
 </div>
 <script>
@@ -119,8 +137,72 @@ function renderReports(){
   }
 }
 
-function tab(news){$("news").hidden=!news;$("reports").hidden=news;$("tNews").classList.toggle("on",news);$("tRep").classList.toggle("on",!news)}
-$("tNews").onclick=()=>tab(true);$("tRep").onclick=()=>tab(false);
+const TABS={tNews:"news",tRep:"reports",tMol:"mol"};
+function tab(id){for(const k in TABS){$(TABS[k]).hidden=k!==id;$(k).classList.toggle("on",k===id)}}
+for(const k in TABS)$(k).onclick=()=>tab(k);
+
+const REPO=(()=>{const m=location.hostname.match(/^(.+)\.github\.io$/),r=location.pathname.split("/")[1];return m&&r?m[1]+"/"+r:"theozografou-creator/biosimilar-wire"})();
+const slug=s=>s.toLowerCase().trim().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+const key=()=>{try{return localStorage.getItem("bw_key")||""}catch(e){return""}};
+const getJ=async p=>{try{const r=await fetch(p+"?t="+Date.now());return r.ok?await r.json():null}catch(e){return null}};
+async function ghRaw(path){
+  try{const h={Accept:"application/vnd.github.raw"};if(key())h.Authorization="Bearer "+key();
+    const r=await fetch(`https://api.github.com/repos/${REPO}/contents/${path}?t=${Date.now()}`,{headers:h,cache:"no-store"});
+    return r.ok?await r.json():null}catch(e){return null}}
+const molGet=async p=>key()?(await ghRaw(p)||await getJ(p)):await getJ(p);
+let molData=null,molBusy=false;
+function molMsg(t){const o=$("mOut");o.textContent="";o.append(el("p","note",t))}
+function showMol(d){
+  if(d)molData=d;d=molData;if(!d)return;
+  const o=$("mOut");o.textContent="";
+  const since=new Date(Date.now()-(+$("mMonths").value)*30.5*864e5).toISOString(),p=d.profile;
+  const box=el("div","prof");box.append(el("h3",null,p.inn));
+  const row=(k,v)=>{if(v){const r=el("div");r.append(el("b",null,k+": "),v);box.append(r)}};
+  row("Brand",(p.brands||[]).join(", "));row("Originator",p.originator);row("Mechanism",p.mechanism);row("Area",p.area);
+  if(d.biosimilars&&d.biosimilars.length)row("Biosimilars",d.biosimilars.map(b=>b.company+(b.name?" ("+b.name+")":"")+(b.status?", "+b.status:"")).join(" · "));
+  box.append(el("div","meta",(d.ai?"Profile and related molecules written by Claude. Check before relying on it. ":"Basic search: no related molecules, because no API key is set. ")+"Searched "+new Date(d.searched).toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"})+". News from Google News, at most about 100 hits per molecule."));
+  o.append(box);
+  let rel=false;
+  for(const s of d.sections){
+    if(s.related&&!rel){rel=true;o.append(el("h2","day","Same mechanism, including next generation"))}
+    const items=s.items.filter(x=>x.date>=since);
+    o.append(el("h2","sec",s.title+" · "+items.length));
+    if(s.note)o.append(el("p","secnote",s.note));
+    if(!items.length)o.append(el("p","note","No news found in this period."));
+    for(const x of items){
+      const a=el("article");
+      a.append(el("div","src",(x.source?x.source+" · ":"")+new Date(x.date).toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"})));
+      const t=el("a","t",x.title);t.href=x.link;t.target="_blank";t.rel="noopener";a.append(t);o.append(a);
+    }
+  }
+}
+async function loadMolIndex(){
+  const idx=await molGet("data/molecules/index.json")||[],b=$("mSaved");b.textContent="";
+  for(const x of idx){const c=el("button",null,x.inn||x.query);c.onclick=async()=>{$("mQ").value=x.query;molMsg("Loading ...");const d=await molGet(`data/molecules/${x.slug}.json`);d?showMol(d):molMsg("Could not load this search.")};b.append(c)}
+}
+async function molSearch(){
+  const q=$("mQ").value.trim(),s=slug(q);if(!s||molBusy)return;
+  const old=await molGet(`data/molecules/${s}.json`);
+  if(!key()){old?showMol(old):molMsg("No saved search for this. New searches need the access key (see below).");return}
+  molBusy=true;
+  try{
+    molMsg("Starting search ...");
+    const r=await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/molecule.yml/dispatches`,{method:"POST",
+      headers:{Authorization:"Bearer "+key(),Accept:"application/vnd.github+json"},body:JSON.stringify({ref:"main",inputs:{molecule:q}})});
+    if(r.status!==204){molMsg("Could not start the search (GitHub answered "+r.status+"). Check the access key.");if(old)showMol(old);return}
+    for(let i=1;i<=45;i++){
+      molMsg(`Searching ... usually 1 to 2 minutes (${i*8}s)`);
+      await new Promise(r=>setTimeout(r,8000));
+      const d=await ghRaw(`data/molecules/${s}.json`);
+      if(d&&(!old||d.searched!==old.searched)){showMol(d);loadMolIndex();return}
+    }
+    molMsg("This is taking longer than expected. Try again in a few minutes.");
+  }catch(e){molMsg("Search failed: "+e.message)}finally{molBusy=false}
+}
+$("mGo").onclick=molSearch;$("mQ").onkeydown=e=>{if(e.key==="Enter")molSearch()};$("mMonths").onchange=()=>showMol();
+$("mKey").value=key();
+$("mKeySave").onclick=()=>{try{localStorage.setItem("bw_key",$("mKey").value.trim());$("mKeySave").textContent="Saved"}catch(e){$("mKeySave").textContent="Could not save"}};
+loadMolIndex();
 $("fBio").onclick=()=>{bioOnly=true;$("fBio").classList.add("on");$("fAll").classList.remove("on");render()};
 $("fAll").onclick=()=>{bioOnly=false;$("fAll").classList.add("on");$("fBio").classList.remove("on");render()};
 ["fSrc","fDays"].forEach(i=>$(i).onchange=render);$("fQ").oninput=render;
