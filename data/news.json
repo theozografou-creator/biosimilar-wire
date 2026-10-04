@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T09:31:21.392507+00:00",
+ "updated": "2026-10-04T18:18:52.424388+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "6153b9725326",
+   "source": "Google News: biosimilar",
+   "title": "EURETINA 2026: Real-world evidence on retinal biosimilars - Ophthalmology Times",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUV9VZ0ZRY0wzYlB2TzdfcWUyNldpdUZuQzdJbmtXZDFFTUpjdEJEcUlRSElVeFhpcnJteHFZN1BrM2YxeVpzUldMNDY2cXg2dHA2TzJZZldnNnlROUN6MFJhdUNqbHZ6TWhjUlFIQmtMNGxiOXJZRXdvdVNOSGxjSzRyYmtjTzZNRW9EdkNyMHdzamt0REpKRTJzWGc?oc=5",
+   "date": "2026-10-04T13:02:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "294c7170b390",
+   "source": "Google News: biosimilar",
+   "title": "Residual Protein A Assays Market To 2035: Mab Production and Biosimilars Fuel Demand - News and Statistics - IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLXc3Q2tEYjZhdmJ4NS1iWTBJbEU1eWo2cVNJclBudWNoX0lLVkYwaEFtamtVTVh1VjRYWXlEd3ZuRmRqMTlDUmh6c0lwUHN0VUU4Q3JFQWpxYVNUdU80SU50TFBaMUVNekhQaHZqQnNkQ1dhSnBXZDhDSGZrQk1TbXEtNklwTV9MVnRBLVlySHVJdktsc3VTUFp0Z05XZWZyZ0ZWaWZhSUViUjVBWFVvMnhGMUwtcU05T3NVV1BJZEZGckFpekROVE5wdXNyT2ZOMkxMYVVYVnd6MUExdHlB?oc=5",
+   "date": "2026-10-04T11:31:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "4bf6b9a5d710",
    "source": "Fierce Biotech",
@@ -592,6 +612,16 @@
    "watch": []
   },
   {
+   "id": "d28714520f8e",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves Degevma, a biosimilar for cancer-related bone complications - The Cancer Letter",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WUXdHRDRxMEIxSWxxVHlaa1duQkNtVXY0VWdJQTc4TkhCZ0xUOTNFUTdkcEVsZWhKRVNLcUI4Rm1vV2ZsamJJSVVIYm1yVW1ZbWFuaFZoSW8welVsbDl6dDBGYS1zZw?oc=5",
+   "date": "2026-10-03T02:53:50+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "ac26dffde135",
    "source": "Google News: biosimilar",
    "title": "Sandoz reorganises ahead of 'golden decade' for biosimilars - FirstWord Pharma",
@@ -701,6 +731,16 @@
    "date": "2026-10-02T14:21:00+00:00",
    "snippet": "",
    "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a616b297c91d",
+   "source": "BioPharma Dive",
+   "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
+   "link": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
+   "date": "2026-10-02T14:16:54+00:00",
+   "snippet": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
+   "biosimilar": false,
    "watch": []
   },
   {
@@ -1545,6 +1585,18 @@
    "source": "Google News: biosimilar",
    "title": "Teva Continues Biosimilar Momentum With U.S. FDA Approval of DEGEVMA (Denosumab-adet), a Biosimilar to Xgeva (Denosumab) - Moomoo",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNejl2c2tFRUxxVjhrR1F3TmxVdVd5YUxUYVBwNUNTTEFwY3dSR1ZuWlVzS3JHLWVSMFpqUncyR21hRjExc21ZTm9WQzhUUFZybjVRY1dlazAwQzdoMWZtX0JHdTJEaFQ3VXJZOVVtbmRrbTEzX0c0bndXZzFlNkNaak42Y3RBb0VfMEpPLUJOYkFWdnNZZk9maUVjNU9kSUk3eEs1bnlnRmtvaUQ5THNv?oc=5",
+   "date": "2026-09-28T20:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "d829dae31a36",
+   "source": "Google News: biosimilar",
+   "title": "Teva Continues Biosimilar Momentum with U.S. FDA Approval - globenewswire.com",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNY2JNN2hFUXJWeEt1c0h2eDVKRE9MRDZ1UU5LeGFBeXE5eVRuMHdQUko1NmphRWJ5bTNVcHhBUk9hdFM3U3lkZGRqbmNvY2RkVWJxaGUyc3VORWFlRndTSWNwaXgzNy1FWGt5T1BhcnVNRVd3OXRyLUNYeC1Ob3F0b2ZkeHk1ZTNqbTBSQlpTS3Z0UGM2bENiTDQ3TlhVemNaZmFPbHJtMTJxd2RLZ3dvVTYteDNfMGZDNlZNdHpiQVBLNTktWjAzMGN2aG5SRGpseko1dG42TVdVUkVpQ0xseGZwd1c0VTVRWGo3YktrX3gwcWN3X2M4NGx0SXN6YjU0RXdmU1JQcVA5OE55NmgzN3hySzY?oc=5",
    "date": "2026-09-28T20:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
