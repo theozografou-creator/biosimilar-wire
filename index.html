@@ -2,14 +2,23 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Biosimilar Wire">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#f6f3ec" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#131614" media="(prefers-color-scheme: dark)">
 <title>Biosimilar Wire</title>
 <style>
 :root{--bg:#f6f3ec;--ink:#1b1d1a;--mute:#6b6f66;--line:#d9d4c6;--acc:#0b6b57;--card:#fffdf8}
 @media (prefers-color-scheme:dark){:root{--bg:#131614;--ink:#e9e6dc;--mute:#9aa093;--line:#2c312c;--acc:#5fc9ae;--card:#1a1e1b}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 "Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif}
-.wrap{max-width:780px;margin:0 auto;padding:20px 16px 60px}
+.wrap{max-width:780px;margin:0 auto;padding:calc(20px + env(safe-area-inset-top,0px)) 16px calc(60px + env(safe-area-inset-bottom,0px))}
 header{border-bottom:3px double var(--ink);padding-bottom:10px;margin-bottom:14px}
 h1{font-size:2.1rem;line-height:1.1;margin:0;letter-spacing:-.01em}
 .meta,.ctl,button,select,input,.src,.tag{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;font-size:.74rem}
