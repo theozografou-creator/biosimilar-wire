@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T12:35:43.232362+00:00",
+ "updated": "2026-10-05T15:31:28.675969+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": ""
   },
   {
@@ -52,6 +52,168 @@
   }
  ],
  "items": [
+  {
+   "id": "0dccdce8e062",
+   "source": "Fierce Biotech",
+   "title": "Genentech pays Alector $100M for preclinical Parkinson’s prospect",
+   "link": "https://www.fiercebiotech.com/biotech/genentech-pays-alector-100m-preclinical-parkinsons-prospect",
+   "date": "2026-10-05T15:31:28.675969+00:00",
+   "snippet": "Genentech is paying Alector $100 million upfront for exclusive rights to a preclinical drug candidate that targets a driver of neurodegeneration in Parkinson’s disease.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "414f64af0a65",
+   "source": "Fierce Biotech",
+   "title": "Vaxcyte’s stock jumps as pneumococcal vaccine holds its own against Pfizer's, Merck’s shots",
+   "link": "https://www.fiercebiotech.com/biotech/vaxcytes-stock-jumps-pneumococcal-vaccine-holds-its-own-against-pfizer-mercks-shots",
+   "date": "2026-10-05T15:31:28.675969+00:00",
+   "snippet": "Vaxcyte has seen its stock jump after the biotech’s 31-valent pneumococcal vaccine candidate went head-to-head with Pfizer’s Prevnar 20 and Merck & Co.’s Capvaxive in a phase 3 contest.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b9eaec785bb1",
+   "source": "Fierce Biotech",
+   "title": "FDA signs off on first heart valve designed to dynamically expand in children",
+   "link": "https://www.fiercebiotech.com/medtech/fda-signs-first-heart-valve-designed-dynamically-expand-children",
+   "date": "2026-10-05T15:31:28.675969+00:00",
+   "snippet": "The FDA has approved a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "222138986228",
+   "source": "Fierce Pharma",
+   "title": "Evolving Patient Support Programs: Clinical Support as Competitive Advantage",
+   "link": "https://www.fiercepharma.com/sponsored/evolving-patient-support-programs-clinical-support-competitive-advantage",
+   "date": "2026-10-05T15:31:28.675969+00:00",
+   "snippet": "For biopharmaceutical commercial teams, integrating clinical support into Patient Support Programs (PSPs) is becoming a competitive advantage for differentiating complex therapies in crowded markets.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cdf9b1afe4e9",
+   "source": "Fierce Pharma",
+   "title": "For biopharma manufacturing at speed and scale, the future is flexible",
+   "link": "https://www.fiercepharma.com/sponsored/biopharma-manufacturing-speed-and-scale-future-flexible-0",
+   "date": "2026-10-05T15:31:28.675969+00:00",
+   "snippet": "Biopharma development has long trended toward specialized and personalized therapies such as cell and gene therapies, antibody-drug conjugates, and monoclonal antibodies (mAbs), among others.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4cf68e775816",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves second U.S.-supply manufacturing suite for Alvotech's SIMLANDI biosimilar - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHl1d3cxVmhySFZPMU9hcXdXUEI0TGtiRW9TbTVUOXZYTjN2a2MxdmdvZEdCaVdSVkZFYjJvQ3lBZ0dackFnb0daS280UkZDcnBEUlluNjJfQXBCUnI4QkYzTVhINU5uYUFrOGlxVlN1SjVpT2xRbk1FRXd6cWtqcmtQM3JCWERwWlBybUxSVkhVWVo5NU5lVENtMnFKeGxnOVBkVGd5NmVkMmFGdEdoa2FXeVpyYno1akRILQ?oc=5",
+   "date": "2026-10-05T15:16:35+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "c456ab7adfce",
+   "source": "Endpoints News",
+   "title": "Vaxcyte's pneumococcal vaccine succeeds in Phase 3, stock surges",
+   "link": "https://endpoints.news/vaxcytes-pneumococcal-vaccine-succeeds-in-phase-3-stock-surges/",
+   "date": "2026-10-05T15:06:23+00:00",
+   "snippet": "Vaxcyte's shares {$PCVX} jumped 35% Monday morning after the company announced that its experimental pneumococcal vaccine VAX-31 met its key endpoints in a Phase 3 trial with adults, a major step in its quest to ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c65d387dbb4f",
+   "source": "Endpoints News",
+   "title": "Genmab details ovarian cancer data; Lilly's Jaypirca gets a label expansion",
+   "link": "https://endpoints.news/genmab-details-ovarian-cancer-data-lillys-jaypirca-gets-a-label-expansion/",
+   "date": "2026-10-05T15:02:14+00:00",
+   "snippet": "Plus news about Biogen and Gate Bioscience. Genmab shares ovarian cancer data for Rina-S: The drugmaker's FRα-directed ADC attained a 45.9% objective response rate in patients with platinum-resistant ovarian cancer (PROC) ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7415fe84ce1b",
+   "source": "Endpoints News",
+   "title": "Roche enlists Alector in Parkinson's deal, paying $100M upfront",
+   "link": "https://endpoints.news/roche-enlists-alector-in-parkinsons-deal-paying-100m-upfront/",
+   "date": "2026-10-05T14:30:01+00:00",
+   "snippet": "Alector is teaming up with another large drugmaker, fresh off a separate partnership collapsing. Alector will get $100 million upfront from Roche in a deal centered on the biotech’s neuroscience and Parkinson’s disease efforts. If ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0a05229ee7fc",
+   "source": "Endpoints News",
+   "title": "Shionogi to pay $2B for IntraBio, a commercial rare disease biotech",
+   "link": "https://endpoints.news/shionogi-to-pay-2b-for-intrabio-a-commercial-rare-disease-biotech/",
+   "date": "2026-10-05T14:19:13+00:00",
+   "snippet": "Shionogi is buying an Austin, TX-based commercial biotech for $2 billion upfront, adding another medicine to the Japanese pharma's rare disease portfolio. The drugmaker is scooping up IntraBio and its oral treatment Aqneursa, Shionogi",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3a8886d799fc",
+   "source": "Endpoints News",
+   "title": "Special report 2026: Meet 20 women changing the biopharma industry as we know it",
+   "link": "https://endpoints.news/special-report-2026-meet-20-women-changing-the-biopharma-industry-as-we-know-it/",
+   "date": "2026-10-05T14:00:22+00:00",
+   "snippet": "After running this special report for eight years, we've noticed some patterns. We’ve now honored more than 160 women across various sectors of the biopharma industry. Their paths are unique — some fell in love with ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "caa7e9bce0cb",
+   "source": "BioPharma Dive",
+   "title": "Optogenics researchers win a Nobel Prize; Roche bets on Alector brain drug",
+   "link": "https://www.biopharmadive.com/news/nobel-optogenetics-roche-alector-csl-alentis-jaypirca-bayer/832083/",
+   "date": "2026-10-05T13:57:00+00:00",
+   "snippet": "The Nobel laureates “laid the foundation” for a new field of brain research, the award committee wrote. Elsewhere, Roche and CSL cut licensing deals and the FDA endorsed broader use of a Lilly medicine.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f69a4e39a286",
+   "source": "BioPharma Dive",
+   "title": "Vaxcyte skyrockets on ‘near best-case’ pneumococcal vaccine data",
+   "link": "https://www.biopharmadive.com/news/vaxcyte-pneumococcal-vaccine-opus-study-results-prevnar-capvaxive/832095/",
+   "date": "2026-10-05T13:52:00+00:00",
+   "snippet": "The company’s next-generation shot surpassed Wall Street’s expectations by matching the effectiveness of vaccines from Pfizer and Merck on nearly all bacterial strains in the first of three Phase 3 trials.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a791d9f89bd4",
+   "source": "Google News: biosimilar",
+   "title": "Janssen wins Delaware’s first ever biosimilar preliminary injunction - IAM Media",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEJvUkRZaHp5STBSOXVDOTVQSmRDWFpFMnZCcTRvaHB4TE03cFF0NlBuSlU0Y3VtYkJnTC1Hd0Y3ZXBYZjZQQVZueHpkMDlJRkxOTm5XSW1ESmZKclljU00ySEJ0SmRyMmRlVUJKdDNQQlg1SVFoTm8zZEZZMDdRZzZBUEdxVlFlRjNjTHh5T0NvMVhYdGMxeVRWUDFMUzdSZnNz?oc=5",
+   "date": "2026-10-05T13:33:50+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "b7a3357915b2",
+   "source": "Google News: biosimilar",
+   "title": "OMLYCLO® (omalizumab-igec), the first and only FDA-approved interchangeable biosimilar to XOLAIR®, now commercially available in the U.S. - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPYTlmWVo0Vy1KcmRvQWtUUXhoaXA1OXh5S2R4MW1fZHpGTVB2dm4xQ2hHaC12MTRvcU1ROGxTQ1ROaTNXek1FLUFuMUc0cW5MSDFwa1RuVzFKdzRubjJ3WXJkcWdvR3JSaDFzM2YxdDZBaTVsRVF4Yi1pRTYtWUpjeHZCeUY2Mzl1TnZtUFRIbmtHa2VBa09tNGNjbXpRaFNLUjRWNmdjTjN4bXVpdTU1QmluUU15NklSbTNNYU9rUXV3RmZJWTdqMVh1LW4tV2hyQ0xJaFMyVHo5TnZZU0dlRUZfSnp2azBQR1dIdjRyVEJXcFdDcDQwT09ubGREUzByN2RQRmhrOTVYOE5SanNjeHNGT2N1U0RtbWVTLVREWGIybmRNaTFFU9IBrgJBVV95cUxOLTlSQ3FTYkNBaThxX1lqeHVfSlZ1ZVc4RjNSLWNBN2ZMTHRXdFF4SmxTWEZkWEVjX1ZrNkdVaENNT3NpM3JyU1RpbTdQUTZzalpoaEtIa0xaaG1iZVJHY2FBQ0ZBUzhBWmlnVkRRT2hSajJYSVV0M1hLVXFNNENzYXJTN3F6LVNjX25XajJqTWxQRy1LbXZzSkxGb0I5bWg4NFhERmNmd29xQVRmS3dCc3FIclNjdWE5ZURPcHV3TWs1VDh3dW9Vd2FNWmo2QVY4NkNwcGFzeFhKRmdLRVpmYVo2S1RGSVB2TTU5Z0wxR2tTZjQ1TVgwX2c1T2ktWHBocDM4RmFPbDB6NXF1T0VXa1FFTVRtaWdYZVBNR0pBWXF5TDVVaVFsd0d1S0FoZw?oc=5",
+   "date": "2026-10-05T13:13:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "90db52ad6550",
+   "source": "Google News: biosimilar",
+   "title": "OMLYCLO® (omalizumab-igec), the first and only FDA-approved interchangeable biosimilar to XOLAIR®, now commercially available in the U.S. - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQdi1nQk1VQUdwejl5OThZOXFqQWtGdTNKZkNyZ3RiT0R6RGd3NDdDQjNfWHFxMUNpcHdIRk5qNk5mZEJZeGZZSUNmWEFlbVZxUEVhOU1JdzR3Z3ZWZ3FpSXNYbmZHek96eFhRN3NLRTNVWjJwelhWN09GbGh4ZnBKOGk5U3F0RnFLbTJTVmVjYy1mc0pUSXg0OG5HbThyblZXR1lCVFV2WklBMThtNzVHTWItUlRDQmY0OXJXQV9fMHZOMlJHYkcydXpZM1pqSEdBTVl5UTJuenpEekpzaC0yMXBpX3B6dDJRUGJ3Y2tRQTRqYzZxMFdtY2NTcElJVXVacDYwcUVZNmlDWW03R3YtV0pnemRhMTJ1aTBN?oc=5",
+   "date": "2026-10-05T12:45:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "4e284a68b64b",
    "source": "Fierce Biotech",
