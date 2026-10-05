@@ -8,6 +8,9 @@ on:
         description: "Write a new report now"
         type: boolean
         default: false
+      days:
+        description: "Days the report covers"
+        default: "14"
 permissions:
   contents: write
 concurrency: update
@@ -24,6 +27,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           FORCE_REPORT: ${{ inputs.report }}
+          REPORT_DAYS: ${{ inputs.days }}
       - run: |
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"

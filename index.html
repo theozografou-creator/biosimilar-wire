@@ -119,22 +119,69 @@ function md(text){
   return out+(ul?"</ul>":"");
 }
 
-function renderReports(){
-  const box=$("reports");box.textContent="";
-  const m=location.hostname.match(/^(.+)\.github\.io$/),repo=location.pathname.split("/")[1];
-  const note=el("p","note");
-  if(m&&repo){
-    note.append("To write a new report now: ");
-    const a=el("a",null,"open the update job");a.href=`https://github.com/${m[1]}/${repo}/actions/workflows/update.yml`;a.target="_blank";
-    note.append(a,", press Run workflow and tick the report box. It shows up here a few minutes later.");
-  }else note.textContent="A new report is written automatically every two weeks.";
-  box.append(note);
-  if(!reports.length)box.append(el("p","note","No report yet. Reports need the API key to be set (see README)."));
+let repBusy=false;
+function digest(days){
+  const since=new Date(Date.now()-days*864e5).toISOString(),seen=new Set();
+  const cats=[["Litigation and patents",/patent|litigation|lawsuit|settle|court|bpcia|infring/i],
+    ["Deals and partnerships",/\bdeal|licens|partner|acqui|agreement|collaborat|merger|buyout/i],
+    ["Approvals and regulatory",/approv|\bfda\b|\bema\b|chmp|interchangeab|filing|regulator|positive opinion|guidance/i],
+    ["Launches and market",/launch|pric|market|uptake|formulary|\bpbm|sales|revenue/i],["Other",/./]];
+  const g=cats.map(()=>[]);let n=0;
+  for(const x of data.items){
+    if(x.date<since||!isBio(x))continue;
+    const k=x.title.toLowerCase().replace(/ - [^-]+$/,"").replace(/[^a-z0-9]+/g," ").trim().slice(0,60);
+    if(seen.has(k))continue;seen.add(k);n++;
+    g[cats.findIndex(c=>c[1].test(x.title+" "+(x.summary||x.snippet||"")))].push(x);
+  }
+  const box=$("repNow");box.textContent="";
+  const d=el("div","rep");d.append(el("h2","day",`Biosimilar headlines, last ${days} days · ${n} items`));
+  if(!n)d.append(el("p","note","Nothing found for this period."));
+  cats.forEach((c,i)=>{
+    if(!g[i].length)return;
+    g[i].sort((a,b)=>(b.score||0)-(a.score||0)||(a.date<b.date?1:-1));
+    d.append(el("h3",null,c[0]));const ul=el("ul");
+    for(const x of g[i].slice(0,10)){
+      const li=el("li"),a=el("a",null,x.title);a.href=x.link;a.target="_blank";a.rel="noopener";
+      li.append(a,el("span","meta"," "+x.source+", "+new Date(x.date).toLocaleDateString("en-GB",{day:"numeric",month:"short"})));ul.append(li);
+    }
+    d.append(ul);if(g[i].length>10)d.append(el("p","meta",`and ${g[i].length-10} more in the News tab`));
+  });
+  box.append(d);
+}
+async function makeReport(days){
+  digest(days);
+  const st=$("repStatus");
+  if(!key()){st.textContent="This is a list of headlines by topic, not a written summary. For a written summary, save the access key in the Molecule tab and set the API key in the repository.";return}
+  if(repBusy)return;repBusy=true;
+  try{
+    const first=reports[0]&&reports[0].date;
+    st.textContent="Starting ...";
+    const r=await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/update.yml/dispatches`,{method:"POST",
+      headers:{Authorization:"Bearer "+key(),Accept:"application/vnd.github+json"},body:JSON.stringify({ref:"main",inputs:{report:"true",days:String(days)}})});
+    if(r.status!==204){st.textContent="Could not start (GitHub answered "+r.status+"). Check the access key.";return}
+    for(let i=1;i<=30;i++){
+      st.textContent=`Writing the summary ... usually 1 to 2 minutes (${i*8}s). Headlines below in the meantime.`;
+      await new Promise(r=>setTimeout(r,8000));
+      const d=await ghRaw("data/reports.json");
+      if(d&&d[0]&&d[0].date!==first){reports=d;$("repNow").textContent="";st.textContent="";renderReportList();return}
+    }
+    st.textContent="No written summary came back. Check that the API key is set in the repository.";
+  }catch(e){st.textContent="Failed: "+e.message}finally{repBusy=false}
+}
+function renderReportList(){
+  const box=$("repList");box.textContent="";
   for(const r of reports){
     const d=el("div","rep"),f=o=>new Date(o).toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"});
-    d.append(el("h2","day",`${f(r.from)} to ${f(r.date)} · ${r.items} items`));
+    d.append(el("h2","day",`Summary · ${f(r.from)} to ${f(r.date)} · ${r.items} items`));
     const b=el("div");b.innerHTML=md(r.markdown);d.append(b);box.append(d);
   }
+}
+function renderReports(){
+  const box=$("reports");box.textContent="";
+  const c=el("div","ctl");
+  for(const n of [7,14]){const b=el("button","on",`Summarize last ${n} days`);b.onclick=()=>makeReport(n);c.append(b)}
+  const st=el("p","note");st.id="repStatus";const now=el("div");now.id="repNow";const list=el("div");list.id="repList";
+  box.append(c,st,now,list);renderReportList();
 }
 
 const TABS={tNews:"news",tRep:"reports",tMol:"mol"};

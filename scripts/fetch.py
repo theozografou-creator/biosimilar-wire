@@ -86,7 +86,10 @@ def summarize(new_items):
 
 
 def write_report(items, reports):
-    days = CFG["report_window_days"]
+    try:
+        days = min(60, max(1, int(os.environ.get("REPORT_DAYS") or CFG["report_window_days"])))
+    except ValueError:
+        days = CFG["report_window_days"]
     since = NOW - timedelta(days=days)
     picked = [x for x in items if x["date"] >= since.isoformat()
               and (x.get("score", 0) >= 2 or (x["biosimilar"] and "score" not in x))][:120]
@@ -108,7 +111,7 @@ def write_report(items, reports):
     except Exception as ex:
         print("report failed:", ex)
         return
-    reports.insert(0, {"date": NOW.isoformat(), "from": since.isoformat(), "items": len(picked), "markdown": text})
+    reports.insert(0, {"date": NOW.isoformat(), "from": since.isoformat(), "days": days, "items": len(picked), "markdown": text})
     save(REPORTS, reports[:20])
     print("report written from", len(picked), "items")
 
