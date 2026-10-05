@@ -90,14 +90,17 @@ function render(){
     (!q||(x.title+" "+(x.summary||x.snippet)+" "+x.source).toLowerCase().includes(q)));
   const list=$("list");list.textContent="";
   if(!rows.length){list.append(el("p","note",data.updated?"Nothing matches these filters.":"No data yet. The first update has not run."));return}
+  const keep=new Map();for(const s of stories(rows)){const t=top2(s);t.forEach((m,i)=>keep.set(m.id,i?0:s._m.length-t.length))};
   let last="";
   for(const x of rows){
+    if(!keep.has(x.id))continue;
     const d=new Date(x.date).toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long"});
     if(d!==last){list.append(el("h2","day",d));last=d}
-    const a=el("article"),s=el("div","src",x.source);
+    const a=el("article"),s=el("div","src",x._p);
     if(!bioOnly&&isBio(x))s.append(el("span","tag","biosimilar"));
     for(const w of x.watch||[])s.append(el("span","tag",w));
-    const t=el("a","t",x.title);t.href=x.link;t.target="_blank";t.rel="noopener";
+    if(keep.get(x.id)>0)s.append(el("span","tag","+"+keep.get(x.id)+" similar hidden"));
+    const t=el("a","t",x._t);t.href=x.link;t.target="_blank";t.rel="noopener";
     a.append(s,t);
     const body=x.summary||x.snippet;if(body)a.append(el("p",null,body));
     list.append(a);
@@ -120,31 +123,62 @@ function md(text){
 }
 
 let repBusy=false;
+const STOP=new Set("a an the and or of to in for on with by at from as is are its it new up after over amid into than that this be has have will not u eu say more".split(" "));
+const LOWQ=/yahoo|gurufocus|marketscreener|investing\.com|stock ?titan|tipranks|simply wall|benzinga|seeking alpha|globenewswire|pr newswire|business wire|dealroom|univest|\bmsn\b|marketbeat|stocktwits|quiver|zacks|morningstar|tradingview|finviz|insider monkey|motley/i;
+const TOPQ=/fierce|endpoints|biopharma dive|big molecule|gabi|generics and biosimilars|center for biosimilars|ajmc|\bstat\b|reuters|bloomberg|biospace|pharma letter|european pharmaceutical review|pharmaphorum|pharmatimes|korea biomedical|biopharma-reporter|pharmaceutical technology|bioprocess/i;
+function prep(x){
+  if(x._t)return;
+  let t=x.title,p=x.source;const g=/^Google News/.test(x.source),m=t.match(/^(.*) - ([^-]{2,60})$/);
+  if(m&&(g||x.source==="GaBI Online"||x.source==="Center for Biosimilars")){t=m[1];if(g)p=m[2]}
+  x._t=t;x._p=p;x._d=Date.parse(x.date);
+  x._k=new Set(t.toLowerCase().replace(/[^a-z0-9 ]+/g," ").split(" ").map(w=>w.replace(/s$/,"")).filter(w=>w.length>1&&!STOP.has(w)));
+  x._c=(x.watch||[]).filter(c=>t.toLowerCase().includes(c.toLowerCase()));
+  x._q=(TOPQ.test(p)?2:LOWQ.test(p)?0:1)+(x.score||0)/10+((x.summary||x.snippet)?.1:0);
+}
+// Group articles about the same story. Each story keeps its articles best first in _m.
+function stories(rows){
+  rows.forEach(prep);const df=new Map();
+  for(const x of rows)for(const k of x._k)df.set(k,(df.get(k)||0)+1);
+  const w=k=>Math.log(1+rows.length/df.get(k)),seeds=[];
+  for(const x of [...rows].sort((a,b)=>b._q-a._q||b._d-a._d)){
+    x._w=0;for(const k of x._k)x._w+=w(k);
+    let hit=null;
+    for(const s of seeds){
+      if(Math.abs(s._d-x._d)>6*864e5)continue;
+      let sh=0;for(const k of x._k)if(s._k.has(k))sh+=w(k);
+      const ov=sh/(Math.min(x._w,s._w)||1),cw=x._c.filter(c=>s._c.includes(c)).length;
+      if(ov>=.6||cw>=2||(cw>=1&&ov>=.4)){hit=s;break}
+    }
+    if(hit)hit._m.push(x);else{x._m=[x];seeds.push(x)}
+  }
+  return seeds;
+}
+// The two best articles of a story: never the same headline twice, second one from another publisher if possible.
+function top2(s){
+  const tk=x=>[...x._k].sort().join(" "),a=s._m[0],rest=s._m.slice(1).filter(m=>tk(m)!==tk(a));
+  const b=rest.find(m=>m._p!==a._p)||rest[0];return b?[a,b]:[a];
+}
 function digest(days){
-  const since=new Date(Date.now()-days*864e5).toISOString(),seen=new Set();
+  const since=new Date(Date.now()-days*864e5).toISOString();
   const cats=[["Litigation and patents",/patent|litigation|lawsuit|settle|court|bpcia|infring/i],
-    ["Deals and partnerships",/\bdeal|licens|partner|acqui|agreement|collaborat|merger|buyout/i],
+    ["Deals and partnerships",/\bdeal|licens|partner|acqui|agreement|collaborat|merger|buyout|\bpact/i],
     ["Approvals and regulatory",/approv|\bfda\b|\bema\b|chmp|interchangeab|filing|regulator|positive opinion|guidance/i],
     ["Launches and market",/launch|pric|market|uptake|formulary|\bpbm|sales|revenue/i],["Other",/./]];
-  const g=cats.map(()=>[]);let n=0;
-  for(const x of data.items){
-    if(x.date<since||!isBio(x))continue;
-    const k=x.title.toLowerCase().replace(/ - [^-]+$/,"").replace(/[^a-z0-9]+/g," ").trim().slice(0,60);
-    if(seen.has(k))continue;seen.add(k);n++;
-    g[cats.findIndex(c=>c[1].test(x.title+" "+(x.summary||x.snippet||"")))].push(x);
-  }
+  const g=cats.map(()=>[]),all=stories(data.items.filter(x=>x.date>=since&&isBio(x)));
+  for(const s of all)g[cats.findIndex(c=>c[1].test(s._t+" "+(s.summary||s.snippet||"")))].push(s);
   const box=$("repNow");box.textContent="";
-  const d=el("div","rep");d.append(el("h2","day",`Biosimilar headlines, last ${days} days · ${n} items`));
-  if(!n)d.append(el("p","note","Nothing found for this period."));
+  const d=el("div","rep");d.append(el("h2","day",`Biosimilar headlines, last ${days} days · ${all.length} stories`));
+  if(!all.length)d.append(el("p","note","Nothing found for this period."));
   cats.forEach((c,i)=>{
     if(!g[i].length)return;
-    g[i].sort((a,b)=>(b.score||0)-(a.score||0)||(a.date<b.date?1:-1));
+    g[i].sort((a,b)=>b._m.length-a._m.length||b._q-a._q||b._d-a._d);
     d.append(el("h3",null,c[0]));const ul=el("ul");
-    for(const x of g[i].slice(0,10)){
-      const li=el("li"),a=el("a",null,x.title);a.href=x.link;a.target="_blank";a.rel="noopener";
-      li.append(a,el("span","meta"," "+x.source+", "+new Date(x.date).toLocaleDateString("en-GB",{day:"numeric",month:"short"})));ul.append(li);
-    }
-    d.append(ul);if(g[i].length>10)d.append(el("p","meta",`and ${g[i].length-10} more in the News tab`));
+    for(const s of g[i].slice(0,10))top2(s).forEach((x,n)=>{
+      const li=el("li"),a=el("a",null,x._t);a.href=x.link;a.target="_blank";a.rel="noopener";
+      li.append(a,el("span","meta"," "+x._p+", "+new Date(x.date).toLocaleDateString("en-GB",{day:"numeric",month:"short"})+(n===0&&s._m.length>2?` · ${s._m.length} reports in total`:"")));
+      if(n)li.style.cssText="list-style:none;margin-top:0;opacity:.8";ul.append(li);
+    });
+    d.append(ul);if(g[i].length>10)d.append(el("p","meta",`and ${g[i].length-10} more stories in the News tab`));
   });
   box.append(d);
 }
