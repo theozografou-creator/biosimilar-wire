@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T21:38:01.716645+00:00",
+ "updated": "2026-10-05T00:37:24.061104+00:00",
  "ai": false,
  "feeds": [
   {
@@ -1006,6 +1006,19 @@
    "snippet": "Eli Lilly is walking away from Foghorn Therapeutics' \"synthetic lethality\" drug development, and the small biotech is reducing its headcount by 40% as a result of the culled collaboration. The duo is dropping a Phase ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "048d401e93b2",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis and Teva expand strategic partnership - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGNPcy1vM0dsTFJzMmR0RDAxS1p3UnlIWDhKc3J1c0pYSUNRSE13OVA1aFVROEJodUJJU29wUDRWZmQ0bHR4Ync2bXU5dllMbmJLMkMxOFAxNUJ0TmdnaDNJdzlxNERrbk5mUlNBSWNXMnRQSzFRV2h4NXluOF90QUtuTzdUc3lzc0UydE9aNkFSbGsxSGlWc29Ub1pya3NjYkpxWA?oc=5",
+   "date": "2026-10-01T14:03:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
   },
   {
    "id": "3e7dc1e3c921",
