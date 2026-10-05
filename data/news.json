@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T00:37:24.061104+00:00",
+ "updated": "2026-10-05T03:29:45.564047+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "7b35dd908654",
+   "source": "Endpoints News",
+   "title": "CSL to pay $355M upfront to co-develop Alentis’ kidney and liver drug",
+   "link": "https://endpoints.news/csl-to-pay-355m-upfront-to-co-develop-alentis-kidney-and-liver-drug/",
+   "date": "2026-10-05T02:22:24+00:00",
+   "snippet": "The Australian drugmaker CSL will pay $355 million for Alentis Therapeutics’ anti-fibrosis drug, plus as much as $1.2 billion in future payments. Under the deal announced Sunday evening, CSL will co-develop ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "6153b9725326",
    "source": "Google News: biosimilar",
