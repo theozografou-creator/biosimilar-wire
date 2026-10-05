@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T18:33:27.716526+00:00",
+ "updated": "2026-10-05T21:32:59.432317+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,58 @@
  ],
  "items": [
   {
+   "id": "4ab910ae4b63",
+   "source": "Fierce Pharma",
+   "title": "HRSA names 10 drugmakers for revised 340B rebate pilot ahead of 2027 launch",
+   "link": "https://www.fiercepharma.com/regulatory/hrsa-announces-drugmakers-products-revised-340b-rebate-pilot",
+   "date": "2026-10-05T21:32:59.432317+00:00",
+   "snippet": "The list of approved participants and drugs is larger than the controversial pilot's first attempted launch. It comes the same day that CMS launched a soon-to-be-mandatory data repository for Part D 340B claim submissions.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e0f0dae6e1e4",
+   "source": "Google News: biosimilar",
+   "title": "Christine Johnston on why biosimilars are losing formulary ground - Managed Healthcare Executive",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXNZRE12X2IyTk5aRjZmdXhnTWlBU2xJckRwUHBTRFJvck8tZktpYmdyQXg3dU1RVUNqYnV1MnNsMmY5NEpUT0pWZkZVM0x0bzlKTFJodWs0ajFoX21XQ1E4UklNRXFUZFo3WjFhWWJxTWk0bUdKaUlnNEpqazFQX0NnS3JqNUY5dFJpNm1QVnFmN2ZLTzEwU0huUk5tNThrMUFsTA?oc=5",
+   "date": "2026-10-05T20:37:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "49eb61edf3c8",
+   "source": "Endpoints News",
+   "title": "Senior Leerink analyst downgrades Bristol Myers, citing pipeline fears",
+   "link": "https://endpoints.news/senior-leerink-analyst-downgrades-bristol-myers-citing-pipeline-fears/",
+   "date": "2026-10-05T19:40:45+00:00",
+   "snippet": "A Leerink analyst is signaling new bearishness in Bristol Myers Squibb, downgrading his view of the company’s stock because of skepticism about some key upcoming catalysts. David Risinger shifted Bristol Myers' stock from outperform to ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3d4eb6140722",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Soars 13% on FDA Nod That “Effectively Doubles” US Humira Biosimilar Capacity - tikr.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1RyR0NGMGJ2UUhHX1BNV3FpbV8yT25yMkVHQTBQREpEQ2c4akl0MWRGY292QURpS3RneE4tVFkzS3llVUVwN3ItbWU1bFZWQTFoLWFJOHhwRkxSMW1tQUJxck9XRWJOdjN3dEVVTzdpcC0zOWN2a1VnVlJkQ1l3U2ttOXQyeXE1QndodnFGZmZzblZpVWlrTHkzQjZwSkVhZ1YxdHgyTDU4ckNIQzU4?oc=5",
+   "date": "2026-10-05T19:17:24+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "6931342fb041",
+   "source": "Endpoints News",
+   "title": "Genentech AI leader Richard Bonneau leaves pharma in latest exit",
+   "link": "https://endpoints.news/exclusive-genentech-ai-leader-richard-bonneau-leaves-pharma-in-latest-exit/",
+   "date": "2026-10-05T18:58:14+00:00",
+   "snippet": "In the latest high-profile departure at Roche's Genentech unit, the pharma has parted ways with its global head of AI for drug discovery, Endpoints News has learned. Computational biologist Richard Bonneau has left, effective immediately ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "71c3350190ae",
    "source": "Fierce Biotech",
    "title": "Meet Motivista: Click Therapeutics debuts first-of-its-kind schizophrenia digital therapeutic",
@@ -91,6 +143,18 @@
    "snippet": "STADA and Sino Biopharmaceutical Limited (“SBP Group”), through its subsidiary Chia Tai Tianqing Pharmaceutical Group (“CTTQ”), have entered into a partnership to manufacture, market, and sell biosimilars. CTTQ will develop, manufacture, and supply biosimilar candidates, while ...",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "9a32e655b8f2",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Wins FDA Nod for 2nd Simlandi Manufacturing Suite - BioPharm International",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaVYtc2Q1a19EQ1o3NmRrTXI2VldhZGthak14QjhPNlBuZXNvQmhxaXVWT0t2aE4tWXN1WGJUR3JMNFpUR1ktdXVSTHQ4X212Wk9JQ2lzRDBZZDhQd1AzeDRTRzNDU3F5TngxdDFHRHEtU25ST0lWZmFrQW5ZZHgwUUY0ZXprekZRd0FKcWlZVHZRV0pxd2g1XzJFSkdyUQ?oc=5",
+   "date": "2026-10-05T18:08:27+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "36aa20dcfe2e",
@@ -295,6 +359,16 @@
    "watch": []
   },
   {
+   "id": "68821431a8d3",
+   "source": "Google News: biosimilar",
+   "title": "OMLYCLO® (omalizumab-igec), the first and only FDA-approved interchangeable biosimilar to XOLAIR®, now commercially available in the U.S. - PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPenY1OElnOWJ5YWx4cWFkU2gwWnZSYzBrVmYxdVZUS1M3ckM4Sy1VWjJpMml6OGs0ZFZ1RE9hWHhVMDhONGlWLVNvRkxjZm1zZ3p2clVkQ2RMeDktV1BaMmw4UkxXbHd6ZHF6dWZWM1lsb1Q1MGZzT3JiY3FCdy1SSTNpVjJZSGZQWnlHSExJeF85SFYwQ0dTSGJkRFhYT1JtX25vMldGcWZHVlBpTU5FeWRZMWlrS0Q4Y0RXWU1EV1EwRkU5N2k2cHVlMG92VFkyUXhJa3Y4TlZyc3duY0Naa1dtTHRHTFpLcjUyd1pxV2NnRllZb3lleTJNNUhEM04xSG1UYTVoZXpNWXBjd2ItM0paaw?oc=5",
+   "date": "2026-10-05T12:45:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "4e284a68b64b",
    "source": "Fierce Biotech",
    "title": "How to Choose a Biologics CDMO: 4 Criteria That Matter the Most",
@@ -419,6 +493,16 @@
    "watch": [
     "Teva"
    ]
+  },
+  {
+   "id": "00b5ff23643a",
+   "source": "Google News: biosimilar",
+   "title": "AEON: Initiating Coverage – Imitation is a Sincere Form of Flattery: Seeking a Botox Biosimilar - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd0tQeE5adGEtU1FmNkZfN1NJNDFxMENIRUpFcVZWdmR5YzVJaEdCUXpPMjlkemlacnlFVFh6U0JpUTJZYXE5NlAxSGZLZWJVUGd6YUNRMWFEZ05kSUlZNXNGSFVCcE9MX3gyV1gtelVFdkpWRHpMbV9yaXU3azBkOUY4QmwwSmFmRjBDNG00OUlVT1hBZi02eHlEVU1yMW9iOWQyUG9n?oc=5",
+   "date": "2026-10-05T09:36:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "c15057293274",
@@ -2054,6 +2138,16 @@
    "title": "Meitheal Pharmaceuticals Announces FDA Approval of High-Concentration Formulation of YUSIMRY®, a Biosimilar to Humira - BioSpace",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZEZGYWMzc1V4YjY1Q0x2UHV2OGQya0t1SkJGcGktVS05MnBsVW45cDRaczc4RHlpQnRZZnNuZ1h5Mmt3cEdzNkNCZTYyQWtQdVdwSm9TRkR3ZmZZdnBNRG5OaEpFdlF5UUhUR1lBT0xuelQ5SHJPUkhiNFBmNW1zWjRHSGpjNEFxbTFmY0NPMXQ2M0RQWU1JT3hSS3FWUnRUQXZlUlk1NkxtdV9zSnNwX09nTFpxc29CY1JRSjJ4cFRPVVFJREktamI4UEZ3dDZnMkktNGQwekJRTkpoUGlzZWpiMlc4LXpaTXpB?oc=5",
    "date": "2026-09-29T02:05:21+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "ff3ea76ee32a",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilars: The Prescription for Lower Costs & Improved Access - Physician's Weekly",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDNOenJTU2p1MV9wZ2xpb0JDWmFoWEhHVmZ6a1lHREtWVjhlSGNRR2NnMC10NEpEQnh0Wms1NEo4U2FscWl2R3ptZXB2UmNNcjl1UWxpblJRRE9JSldqWU1CVDE3UC0tSFUyaEh4RlRrUXVrdGRYbkxBRm9hUFlnWElKbV8tSDN0U3ptS0hoSXdTRlA2STEyU3BkTEpSOURYVTdERllzT2VQZw?oc=5",
+   "date": "2026-09-28T22:56:26+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
