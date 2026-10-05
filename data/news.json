@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T09:32:40.954576+00:00",
+ "updated": "2026-10-05T10:37:05.338729+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,50 @@
  ],
  "items": [
   {
+   "id": "28a7e10f1031",
+   "source": "Fierce Biotech",
+   "title": "CSL pays $355M to co-develop Alentis’ phase 2-stage fibrosis drug",
+   "link": "https://www.fiercebiotech.com/biotech/csl-pays-355m-co-develop-alentis-phase-2-stage-fibrosis-drug",
+   "date": "2026-10-05T10:37:05.338729+00:00",
+   "snippet": "Australia’s CSL is paying $355 million upfront for the rights to Alentis Therapeutics’ phase 2-stage fibrosis drug.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "afc821d71925",
+   "source": "Fierce Pharma",
+   "title": "FDA dings Evolus for blurring the lines between Botox rival and lipstick",
+   "link": "https://www.fiercepharma.com/marketing/fda-dings-evolus-blurring-lines-between-botox-rival-and-lipstick",
+   "date": "2026-10-05T10:37:05.338729+00:00",
+   "snippet": "The FDA has warned Evolus over an Instagram reel that made the “especially problematic” suggestion of blurred lines between a prescription product and consumer cosmetics.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8cba66fb19e6",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Gets US FDA Approval For Additional Manufacturing Capacity For Simlandi Biosimilar; Shares Up Pre-Bell - marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONllCYlNFLTNGM2V0QnA5NnVKdVIzamhmazNSNFJxZmVyNTVLYV9IbGpzTWUtbTd6TGJDWW1Nd2pHamNWYldzS2cwNkEwZE95ZU5VNXd5cm84TGIybWNTeTB5eThmR0NuYUI2ZHJzZVRqLUlldGl1cEhPRVF4M01kbS1TVGNVUXFlSTU2NWFfN1dLZEN1WlgxbFE5NXpWSkxrT21NcjZob0VJZERRTDJvbGM3bUJLUVJXUllmQ3NzN2Z6a1ByY3VTckxzMVRnTlJCNmpCNGt1NVRCLU1MS3lWeFJTSE90QQ?oc=5",
+   "date": "2026-10-05T09:59:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "e0f70de1b501",
+   "source": "Google News: biosimilar",
+   "title": "Teva secures FDA approval for Degevma biosimilar - PharmaTimes",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSEpQdTRwaEhyeU1yajF2MWVPY2wtY2RWSF8zSHNEanRmTmlVVnhoeXFxUHpLWTBTVWtNbjlhUUgwNnlnZGNlZngweks1Q3BFcnBtaWF5MTRKaEEwSmVOX0ZSaXJTemtSNG90U1ZQZjhBSUhUT0xEankwVmZhc0RtWkxncUE?oc=5",
+   "date": "2026-10-05T09:51:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
    "id": "c15057293274",
    "source": "Fierce Biotech",
    "title": "Genmab’s latest phase 2 data spur claim ADC is ‘clearly superior’ to AbbVie’s Elahere",
@@ -88,6 +132,18 @@
    "title": "FDA approves additional U.S. manufacturing capacity for SIMLANDI®, Alvotech’s biosimilar to Humira® - The Manila Times",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSUNTV0lkclU2blV0RlhJeW5FUHZfVDlfTzJYVm9BbkFHZVpyaFAwSTNHc25paEFIWTZNLUJCV1dzQ1hMMlU5WjFaS05waGhCQnRaRXQ0aGUxSExmSXhjMlRSYk1zYmJqVDR1UkFqTHJfZWVMWk94Z1VRM0ZSR2pCRkRLMEtTRjZaaWdGNEZLaFdyb3NXal9vOThGSm9mYzM1ampCUWowNG9sdFJ0UFliX2tQcG9tRjRfbzVVRlVteXRkTmY5SzA0dlJUcmdoN2RRQXdjOWhoOHUtTHN0QVZzZkZVMWJQNVowYkZWSjFGcjlnbm1yZUtCUDN0UdIBgAJBVV95cUxNR0paUl9NcVYtOU1kZ29Jb1dNcXB3QTNfVFQxN2ZVXzFjVHl1S3FtbmlNVkZvVl9DZFVCT1VHZTgybjdBYWhTeWN2NG9RaGZZZTJlN1Azb0RoR2RlUTR5aFg0cmEwQ0ptNlZtNl9rMU5tcW1yeXpaS1k1V3lZM0N5enQ4SnpPY25xSlZqcTJfY29tMWVOTUJDTTFpX2Z5UEtaVEc1bE1kZy1xOEFMOWhRQzVpcUhuWllDenNYN196VHlMY04yNmYxY21xZjI1N3BQN2F4NFFYVTFqNzJnTzRWQUFVb2lyRHJwSTJoQ1NBMjNrLXZTVGlwVV9mSUR5bVVi?oc=5",
    "date": "2026-10-05T08:20:21+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "e014929392e6",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves additional U.S. manufacturing capacity for SIMLANDI®, Alvotech’s biosimilar to Humira® - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV1Jrc0dvT3dyX1pnOGFPTUVsMWVCNVBnN1h4Y09DSU9POEVidzF3Z2Zjajd3RHV1SEtieGNOYlExM0gwcEhjRVBpS1RaU3REbGtCNXB3T2ZyMGVuSHhlbGZfLTFtQkctendpUTJxcHZaa2YxSkxFWnJwbGZKVXdBWWt4SXd3TDJUQlJLeEJqRU1ZekUxdmpqNXBPdFBkMS1MVU9rbkhzSmhfamhWOWJsRmwyUG0zelFUY284czgyaG45Tk9EWk0zakR1Zmd5dTZra09VUUVPbHBKNTB4Ql9kTG5zT28wVVhaTU1DbGVGZWNIN296NE5mY2c4UdIBgAJBVV95cUxORm5vNVhaeUZqT3VuNTRVejhqdU1NZjR4aTJNX3JIczJ5Q0lzSHlnTWRHZGJuVnN0RXhXTFlvc3FaZnhUSTAwWkZLYmFWTWVBVGtMblJmRUgxMTQxVEdCTUoxMTMyLVZsUzZGcnZoMlFhYTFwM0lXZFYxVHZibWU2OTVpTjhEMkdIbnZuWlpJS01QU1NXNG5jMlRUeFVyMkNJY1RLcWZsb1FpTEdwZ1hlQk5EQ3hyc3hxR3NOb1d4cGlWbVpWQnB4a2pudVRLME5VakpQTDhrM1c1YVVNdFFkUlpHNzlEbExGR3ZEQzczejJwN1RPWmozdEhGSFViVW1V?oc=5",
+   "date": "2026-10-05T08:20:18+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
