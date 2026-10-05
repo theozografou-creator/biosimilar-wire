@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T03:29:45.564047+00:00",
+ "updated": "2026-10-05T06:39:00.060063+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,36 @@
   }
  ],
  "items": [
+  {
+   "id": "5e609d2ab8fe",
+   "source": "Fierce Biotech",
+   "title": "There Is No Such Thing as a Typical Biotech",
+   "link": "https://www.fiercebiotech.com/sponsored/there-no-such-thing-typical-biotech",
+   "date": "2026-10-05T06:39:00.060063+00:00",
+   "snippet": "Why Your Operating Model Should Reflect Your Company’s DNA",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f3985fe78235",
+   "source": "Fierce Pharma",
+   "title": "The Future of Healthcare Marketing Isn’t More Media. It’s Better Intelligence.",
+   "link": "https://www.fiercepharma.com/sponsored/future-healthcare-marketing-isnt-more-media-its-better-intelligence",
+   "date": "2026-10-05T06:39:00.060063+00:00",
+   "snippet": "Healthcare marketers have never had more ways to reach an audience.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9bc1a52219f5",
+   "source": "Fierce Pharma",
+   "title": "BridgeBio taps Hip Hop Public Health and others up to put a new beat on ATTR-CM awareness",
+   "link": "https://www.fiercepharma.com/marketing/bridgebio-taps-hip-hop-public-health-and-others-put-new-beat-attr-cm-awareness",
+   "date": "2026-10-05T06:39:00.060063+00:00",
+   "snippet": "BridgeBio's YouTube awareness push to lead up to World Amyloidosis Day features a conversation with Hip Hop Public Health's Doug E. Fresh and more.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "7b35dd908654",
    "source": "Endpoints News",
@@ -819,6 +849,19 @@
    "title": "Samsung Bioepis, Teva expand biosimilar alliance with up to six new programs - AllSci",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHVsNHdKUWpScjlJRFlJeGRlZW1GVVV3QUIyd1NIRkxNQWJnUm53RWxtTElqWHB5QkdmMWZZMUZYVktKRjRUM3lVQWxyU25wRHliODFKdDRURVkyeG9GVmJGMW1jMGR1VE11aElfXzRSX1c3V3E5Q2NkX0dadV9ueUVfRWhiRS1EOVg3SjNoS0ltU2duVE1mbzhPejY5SUdT?oc=5",
    "date": "2026-10-02T11:45:31+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
+   "id": "023167cf07e3",
+   "source": "Google News: biosimilar",
+   "title": "Update: Teva, Samsung Bioepis Partner to Develop, Commercialize Biosimilar Candidates - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbWRjUnd1Sy1pX1lQdDJyaS1pZHVSWkp5NnhfNlk4djVkZGZpSHdWTFV4ajVfVlZVSmF2X2YzVnVaOFM3aFM0OFpvbzBmQndJS1JWR2RpYnhMWDl1dlhUNmZWTEJpclFDTXZRRlpubDRKb0ZBWlFKVzFPakVIWVJuZmRwdjhzbmJ5VjNiUEFkTmdFQmU0QXdNMndtRTllZw?oc=5",
+   "date": "2026-10-02T11:27:43+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
