@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T06:39:00.060063+00:00",
+ "updated": "2026-10-05T09:32:40.954576+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,60 @@
   }
  ],
  "items": [
+  {
+   "id": "c15057293274",
+   "source": "Fierce Biotech",
+   "title": "Genmab’s latest phase 2 data spur claim ADC is ‘clearly superior’ to AbbVie’s Elahere",
+   "link": "https://www.fiercebiotech.com/biotech/genmab-data-spur-claim-adc-clearly-superior-abbvies-elahere",
+   "date": "2026-10-05T09:32:40.954576+00:00",
+   "snippet": "Genmab has linked an antibody-drug conjugate to median progression-free survival of 9.5 months, leading TD Cowen analysts to hail the asset as “clearly superior” to AbbVie’s Elahere.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4ce0492cc529",
+   "source": "BioPharma Dive",
+   "title": "Precision for All: Closing the gap between innovation and impact",
+   "link": "https://www.biopharmadive.com/spons/precision-for-all-closing-the-gap-between-innovation-and-impact/831229/",
+   "date": "2026-10-05T09:00:00+00:00",
+   "snippet": "Why diagnostic-driven therapies need a new commercialization model to reach more eligible patients.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8470dbb5d923",
+   "source": "BioPharma Dive",
+   "title": "How AI is transforming biopharma manufacturing facilities of the future",
+   "link": "https://www.biopharmadive.com/spons/how-ai-is-transforming-biopharma-manufacturing-facilities-of-the-future/831222/",
+   "date": "2026-10-05T09:00:00+00:00",
+   "snippet": "As AI accelerates drug discovery, here are the ways pharmaceutical manufacturing facilities are adapting.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d8bd89f62e8a",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves additional U.S. manufacturing capacity for SIMLANDI®, Alvotech’s biosimilar to Humira® - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSUNTV0lkclU2blV0RlhJeW5FUHZfVDlfTzJYVm9BbkFHZVpyaFAwSTNHc25paEFIWTZNLUJCV1dzQ1hMMlU5WjFaS05waGhCQnRaRXQ0aGUxSExmSXhjMlRSYk1zYmJqVDR1UkFqTHJfZWVMWk94Z1VRM0ZSR2pCRkRLMEtTRjZaaWdGNEZLaFdyb3NXal9vOThGSm9mYzM1ampCUWowNG9sdFJ0UFliX2tQcG9tRjRfbzVVRlVteXRkTmY5SzA0dlJUcmdoN2RRQXdjOWhoOHUtTHN0QVZzZkZVMWJQNVowYkZWSjFGcjlnbm1yZUtCUDN0UdIBgAJBVV95cUxNR0paUl9NcVYtOU1kZ29Jb1dNcXB3QTNfVFQxN2ZVXzFjVHl1S3FtbmlNVkZvVl9DZFVCT1VHZTgybjdBYWhTeWN2NG9RaGZZZTJlN1Azb0RoR2RlUTR5aFg0cmEwQ0ptNlZtNl9rMU5tcW1yeXpaS1k1V3lZM0N5enQ4SnpPY25xSlZqcTJfY29tMWVOTUJDTTFpX2Z5UEtaVEc1bE1kZy1xOEFMOWhRQzVpcUhuWllDenNYN196VHlMY04yNmYxY21xZjI1N3BQN2F4NFFYVTFqNzJnTzRWQUFVb2lyRHJwSTJoQ1NBMjNrLXZTVGlwVV9mSUR5bVVi?oc=5",
+   "date": "2026-10-05T08:20:21+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "924b466a1126",
+   "source": "Google News: biosimilar",
+   "title": "FDA approval lets Alvotech double capacity to make a Humira alternative for U.S. supply - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1dlVDNwN1hSek9ydjZZekNGMGdRZTFKdmx0MlJLR1F5NmJVQTNteXRDN0Zjb0wwSkJ1VndFaG5BRFZGbnl5Nm9lSVdGaXA5MzNWQzhySFZLUFdEOExWTmNQZDV3Q1FIelM2Uy1jLWRFYnU0c0dGVXVPMGhySmdIX1dTUTEwNW9EaHUxNHFRdEo1emhXalhXR2x2RUpQTlRvRjVGR1l5WlBaYVdFYUtQMmhnUFR4QS1PN2c?oc=5",
+   "date": "2026-10-05T08:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
   {
    "id": "5e609d2ab8fe",
    "source": "Fierce Biotech",
