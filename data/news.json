@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T10:37:05.338729+00:00",
+ "updated": "2026-10-05T12:35:43.232362+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": ""
   },
   {
@@ -52,6 +52,88 @@
   }
  ],
  "items": [
+  {
+   "id": "4e284a68b64b",
+   "source": "Fierce Biotech",
+   "title": "How to Choose a Biologics CDMO: 4 Criteria That Matter the Most",
+   "link": "https://www.fiercebiotech.com/sponsored/how-choose-biologics-cdmo-4-criteria-matter-most",
+   "date": "2026-10-05T12:35:43.232362+00:00",
+   "snippet": "Choosing a biologics CDMO goes beyond capabilities. Four criteria can help sponsors assess quality, cost, technology and long-term partnership.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "65e01fe49713",
+   "source": "Fierce Biotech",
+   "title": "Gate CEO sees expanded $870M pact with Lilly as ‘vote of confidence’ in biotech’s platform",
+   "link": "https://www.fiercebiotech.com/biotech/gate-secures-870m-vote-confidence-eli-lilly",
+   "date": "2026-10-05T12:35:43.232362+00:00",
+   "snippet": "Eli Lilly has been pushing at an open door by tacking on $870 million in biobucks to its existing collaboration with Gate Bioscience.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fa329b1575ca",
+   "source": "Fierce Biotech",
+   "title": "Trio of scientists who developed neuron light switches win Nobel Prize in Physiology or Medicine",
+   "link": "https://www.fiercebiotech.com/research/3-scientists-who-developed-neuron-light-switches-win-nobel-prize-physiology-or-medicine",
+   "date": "2026-10-05T12:35:43.232362+00:00",
+   "snippet": "The 2026 Nobel Prize in Physiology or Medicine has been given to three scientists who forged a new neuroscience technique that uses light to precisely flip chosen neurons on and off.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3630ca50ba7a",
+   "source": "Fierce Pharma",
+   "title": "Novo flags FDA hemophilia review extension tied to manufacturing site corrections",
+   "link": "https://www.fiercepharma.com/pharma/novo-flags-fda-hemophilia-review-extension-tied-manufacturing-site-corrections",
+   "date": "2026-10-05T12:35:43.232362+00:00",
+   "snippet": "Already boasting a positive recommendation overseas, Novo’s hemophilia A newcomer Frehemgo will have to wait a while longer before taking a crack at the U.S. market.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f9d114dc7a88",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves additional U.S. manufacturing capacity for Simlandi, Alvotech’s biosimilar to Humira - Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNjFSNDN1S1hFaEQ2Sk5YNHFZZ0R5UGdyUGc5VGdTRXFWTzlMOGVhbU1fbnZtNlRKcjNDZEhQMkNfRlBfSlJkLU5FU1FIOEhqNTVRTmx5WW1DV3VfeUF1UGxqSG1GOUZ0VVROZ0pnTklXMGJsb1haR012QUt0R3YzX0RQeU5lZU5XU3IxTGEtZFJDM1lBT1JuM3BQVGZmRW0wSTZGVnRHcURQenE5U2VLd3NZMHk4YjNPNlotZG5SUnpZemJTeEdLRE16cw?oc=5",
+   "date": "2026-10-05T11:44:50+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "e99cea6d369e",
+   "source": "Endpoints News",
+   "title": "Nobel goes to scientists who paved the way for light-activated gene therapies",
+   "link": "https://endpoints.news/nobel-goes-to-scientists-who-paved-the-way-for-light-activated-gene-therapies/",
+   "date": "2026-10-05T11:08:36+00:00",
+   "snippet": "Three scientists have won this year’s Nobel Prize in medicine for developing optogenetics, a technology that uses light to control nerve signals. While their work has been mostly used in research, the method has birthed ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cfb5a16f9034",
+   "source": "Endpoints News",
+   "title": "Sensible Bio secures $47M Series A for mRNA therapy manufacturing platform",
+   "link": "https://endpoints.news/sensible-bio-secures-47m-series-a-for-mrna-therapy-manufacturing-platform/",
+   "date": "2026-10-05T11:00:27+00:00",
+   "snippet": "Sensible Biotechnologies is looking to mark its territory in the increasingly hot space of mRNA therapeutics, raising $47 million in a Series A round to develop its manufacturing approach. “Current mRNA technology is fine for ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "efbda8af0c85",
+   "source": "Endpoints News",
+   "title": "Epicrispr builds case for FSHD treatment with updated data for EPI-321",
+   "link": "https://endpoints.news/epicrispr-builds-case-for-fshd-treatment-with-updated-data-for-epi-321/",
+   "date": "2026-10-05T11:00:22+00:00",
+   "snippet": "Epicrispr Biotechnologies continued to show encouraging findings from testing of its epigenetic editing treatment for the genetic muscle disease facioscapulohumeral muscular dystrophy. Twelve people have been dosed with the therapy, EPI-321, as part of the ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "28a7e10f1031",
    "source": "Fierce Biotech",
