@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T15:31:28.675969+00:00",
+ "updated": "2026-10-05T18:33:27.716526+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": ""
   },
   {
@@ -52,6 +52,76 @@
   }
  ],
  "items": [
+  {
+   "id": "71c3350190ae",
+   "source": "Fierce Biotech",
+   "title": "Meet Motivista: Click Therapeutics debuts first-of-its-kind schizophrenia digital therapeutic",
+   "link": "https://www.fiercebiotech.com/medtech/meet-motivista-click-therapeutics-first-its-kind-schizophrenia-digital-therapeutic",
+   "date": "2026-10-05T18:33:27.716526+00:00",
+   "snippet": "Click Therapeutics has nabbed FDA approval for its digital therapeutic Motivista, which now becomes the first authorized treatment for negative schizophrenia symptoms.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fa3707d8c5ff",
+   "source": "Fierce Pharma",
+   "title": "Gilead partners with Calm to roll out disease-specific emotional wellness support",
+   "link": "https://www.fiercepharma.com/marketing/gilead-partners-calm-roll-out-disease-specific-emotional-wellness-support",
+   "date": "2026-10-05T18:33:27.716526+00:00",
+   "snippet": "Sleep app Calm is helping Gilead achieve its dream of helping its patients through a journey of whole-person health.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2840bd0374e2",
+   "source": "Fierce Pharma",
+   "title": "Shionogi strikes $2B deal for IntraBio hot off FDA label expansion",
+   "link": "https://www.fiercepharma.com/pharma/shionogi-strikes-2b-deal-intrabio-heels-fda-approval",
+   "date": "2026-10-05T18:33:27.716526+00:00",
+   "snippet": "The acquisition builds on Shionogi’s plans to diversify beyond its anti-infectious disease drug base and to beef up its budding rare disease unit.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c7c573b58d09",
+   "source": "Big Molecule Watch",
+   "title": "STADA and SBP Group Launch Biosimilars Partnership",
+   "link": "https://www.bigmoleculewatch.com/2026/10/05/stada-and-sbp-group-launch-biosimilars-partnership/",
+   "date": "2026-10-05T18:15:05+00:00",
+   "snippet": "STADA and Sino Biopharmaceutical Limited (“SBP Group”), through its subsidiary Chia Tai Tianqing Pharmaceutical Group (“CTTQ”), have entered into a partnership to manufacture, market, and sell biosimilars. CTTQ will develop, manufacture, and supply biosimilar candidates, while ...",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "36aa20dcfe2e",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Index-Journal",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIa1FaalNCWE9RREM3SUZvcUI3OXJaU1NRR0VPb3g3Nndyc0JlVXFaUVpDY2p5UWhfLWw0TlZaUGxBSHIzNVZJQlZJa2dsUVVXQ05ua3NVVTYtNXIxWnB3a1dxZll1QkV3YUlGdk1wcFd6ZTNXVm1kZw?oc=5",
+   "date": "2026-10-05T16:44:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "ad1e102379b5",
+   "source": "Endpoints News",
+   "title": "FDA delays Novo’s hemophilia A drug review over factory issues",
+   "link": "https://endpoints.news/fda-delays-novos-hemophilia-a-drug-review-over-factory-issues/",
+   "date": "2026-10-05T16:27:02+00:00",
+   "snippet": "US regulators have extended their review of Novo's hemophilia A injection, denecimig, because of issues at an unnamed manufacturing facility. The FDA attributed the delay to “ongoing facility remediation activities” observed during a pre-license inspection ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "badde2bd55b7",
+   "source": "BioPharma Dive",
+   "title": "Shionogi pays $2B to acquire a rare disease startup",
+   "link": "https://www.biopharmadive.com/news/shionogi-pays-2b-to-acquire-a-rare-disease-startup/832103/",
+   "date": "2026-10-05T15:57:00+00:00",
+   "snippet": "The acquisition of Texas-based IntraBio adds to a growing rare disease business for Shionogi by handing the company a marketed treatment for two inherited conditions.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "0dccdce8e062",
    "source": "Fierce Biotech",
@@ -152,6 +222,16 @@
    "date": "2026-10-05T14:19:13+00:00",
    "snippet": "Shionogi is buying an Austin, TX-based commercial biotech for $2 billion upfront, adding another medicine to the Japanese pharma's rare disease portfolio. The drugmaker is scooping up IntraBio and its oral treatment Aqneursa, Shionogi",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e7b8fff2d5cb",
+   "source": "Google News: biosimilar",
+   "title": "OMLYCLO® (omalizumab-igec), the first and only FDA-approved interchangeable biosimilar to XOLAIR®, now commercially available in the U.S. - BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOS25oTlN4dGtjZWxDU21rX3YyQjdlSG9DNDVVS3VIemRMcXpvYkZzQWtYaGgydXY2N0ZxSjl5TmpZVEs2a3Z0aDIyUkFBdmhKTmI1V2tOeGNMUXVsYVhUMlhCWkFOa1NhM1B3a1lwbUFlcnpMNkg5Mk1GRFBsZlBHekFGcTF1MjNuMXJnVTR3SHM2MWFuOXFYR3VIcElHTHc0SDNlWnZ2ampCNTc4cThkRWw5eHcwaC1pMFFBSTFSUUQzOV82dEphREx2TnRLY1V4amlrZUhxVXFhSXMtOXotVF91MFkxQlBLY1ZzOEZkRzRZTmxYVXFoaWdBOHg3cVE?oc=5",
+   "date": "2026-10-05T14:05:44+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -1967,6 +2047,16 @@
    "watch": [
     "Sandoz"
    ]
+  },
+  {
+   "id": "1fc2a67e12e4",
+   "source": "Google News: biosimilar",
+   "title": "Meitheal Pharmaceuticals Announces FDA Approval of High-Concentration Formulation of YUSIMRY®, a Biosimilar to Humira - BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZEZGYWMzc1V4YjY1Q0x2UHV2OGQya0t1SkJGcGktVS05MnBsVW45cDRaczc4RHlpQnRZZnNuZ1h5Mmt3cEdzNkNCZTYyQWtQdVdwSm9TRkR3ZmZZdnBNRG5OaEpFdlF5UUhUR1lBT0xuelQ5SHJPUkhiNFBmNW1zWjRHSGpjNEFxbTFmY0NPMXQ2M0RQWU1JT3hSS3FWUnRUQXZlUlk1NkxtdV9zSnNwX09nTFpxc29CY1JRSjJ4cFRPVVFJREktamI4UEZ3dDZnMkktNGQwekJRTkpoUGlzZWpiMlc4LXpaTXpB?oc=5",
+   "date": "2026-09-29T02:05:21+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "ff385a5046ae",
