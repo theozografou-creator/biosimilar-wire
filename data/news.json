@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T00:38:14.785076+00:00",
+ "updated": "2026-10-06T03:27:37.781970+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,30 @@
   }
  ],
  "items": [
+  {
+   "id": "bd2d4ec26201",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion Launches Omlyclo as First Omalizumab Biosimilar in the U.S. - finance.biggo.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JRi1XeGh4Y3FTd2NvWThqYUdhLUtNUGpwazNFR3FEeVVPeV9mb0QtVlBmNXR1Rm54cUUzdzRseDM5dF9OTG9aV05rUTBpVWVKX3Z6NTFzSTUtVEIzd0dRcVprWWFUVmVpWktJOExrV2ZiSEFtTmc?oc=5",
+   "date": "2026-10-06T00:35:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "792e16a2d89a",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion launches first US biosimilar to Xolair - Aju Press",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnU0FYXzY5YUpma1VmLUR6bHBTbHI3V2RmMThXa3ZGZ254eEY5d2FQMWxGdS03Z3NfR25hQXR2MzlpaE5fM2JsQ1dSaDNrd1NzUUJMUTJLUdIBV0FVX3lxTFBnU0FYXzY5YUpma1VmLUR6bHBTbHI3V2RmMThXa3ZGZ254eEY5d2FQMWxGdS03Z3NfR25hQXR2MzlpaE5fM2JsQ1dSaDNrd1NzUUJMUTJLUQ?oc=5",
+   "date": "2026-10-06T00:30:58+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
   {
    "id": "d28a0c570f18",
    "source": "Big Molecule Watch",
