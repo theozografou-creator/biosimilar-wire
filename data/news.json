@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T15:28:34.173126+00:00",
+ "updated": "2026-10-06T18:30:37.723892+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,56 @@
   }
  ],
  "items": [
+  {
+   "id": "70a198afc09a",
+   "source": "Fierce Biotech",
+   "title": "Abbott nabs FDA approval for new CardioMEMS HF System that allows heart readings to be seen at home",
+   "link": "https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-new-cardiomems-hf-system-allows-heart-readings-be-seen-home",
+   "date": "2026-10-06T18:30:37.723892+00:00",
+   "snippet": "Abbott has been given U.S. clearance for new updates to its CardioMEMS HF System that allow for patient-facing capabilities through its CardioGuide HF App.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d2b35fa41eef",
+   "source": "Fierce Pharma",
+   "title": "ViiV girds data package for Cabenuva in competitive HIV treatment market",
+   "link": "https://www.fiercepharma.com/pharma/viiv-girds-data-package-cabenuva-competitive-hiv-treatment-market",
+   "date": "2026-10-06T18:30:37.723892+00:00",
+   "snippet": "As competition in both the HIV treatment and prevention fields continues to mount, GSK’s ViiV Healthcare is looking to expand the reach of its long-acting Cabenuva, homing in on the combination treatment’s potential to help people whose infection isn’t adequately kept in check ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e763d5d20730",
+   "source": "BioPharma Dive",
+   "title": "Forbion, a prominent biotech investor, raises $2.6B for a pair of venture funds",
+   "link": "https://www.biopharmadive.com/news/forbion-venture-capital-growth-fund-fundraise/832254/",
+   "date": "2026-10-06T18:04:00+00:00",
+   "snippet": "The fundraise is the firm’s largest to date, providing a lift for a European biotech industry that’s fallen further behind its counterparts in the U.S. and China.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "175ca95bced1",
+   "source": "BioPharma Dive",
+   "title": "ArriVent collapses on disappointing lung cancer data",
+   "link": "https://www.biopharmadive.com/news/arrivent-furmonertinib-egfr-lung-cancer-study-results/832220/",
+   "date": "2026-10-06T16:12:00+00:00",
+   "snippet": "More than half of the company’s value was wiped out by findings that appear to erase a chance to battle Johnson & Johnson and others for market share.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0a276cc57597",
+   "source": "BioPharma Dive",
+   "title": "Dual-acting drug from AbbVie, Genmab scores in frontline lymphoma trial",
+   "link": "https://www.biopharmadive.com/news/abbvie-genmab-epkinly-dlbcl-epcore-study-results/832241/",
+   "date": "2026-10-06T15:42:00+00:00",
+   "snippet": "The better-than-expected results could make Epkinly the new “undisputed” treatment standard in newly diagnosed DLBCL, according to one analyst.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "96ce162e9f7f",
    "source": "Fierce Biotech",
@@ -109,6 +159,16 @@
    "link": "https://www.fiercepharma.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion",
    "date": "2026-10-06T15:28:34.173126+00:00",
    "snippet": "Novartis’ flagship radioligand therapy Pluvicto entered a rapid growth phase recently, driven by FDA approvals in earlier-stage prostate cancer and broader uptake in community settings. But a regulatory overhaul proposed by federal nuclear authorities now threatens to derail ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "52a966090c14",
+   "source": "Endpoints News",
+   "title": "AstraZeneca heralds new R&D facility in that ‘other’ Cambridge",
+   "link": "https://endpoints.news/astrazeneca-heralds-new-rd-facility-in-that-other-cambridge/",
+   "date": "2026-10-06T15:28:00+00:00",
+   "snippet": "AstraZeneca prides itself on investing roughly a quarter of its annual revenue into research and development. On Monday, the company inaugurated a 570,000-square-foot building in Cambridge, MA, that it says will soon employ 2,000 workers ...",
    "biosimilar": false,
    "watch": []
   },
@@ -219,6 +279,16 @@
    "link": "https://www.biopharmadive.com/news/top-biotech-pharma-medical-conferences-2027/832075/",
    "date": "2026-10-06T12:00:00+00:00",
    "snippet": "Medical meetings often feature important clinical trial results, making them barometers of biotech and pharma companies’ research progress. Here’s a list of conferences to watch for in 2027.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "48a937198164",
+   "source": "BioPharma Dive",
+   "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
+   "link": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
+   "date": "2026-10-06T12:00:00+00:00",
+   "snippet": "This podcast explores how leading Alzheimer’s experts are working to bridge the gap between clinical trial design and frontline care.",
    "biosimilar": false,
    "watch": []
   },
@@ -613,6 +683,18 @@
    "snippet": "Plus news about Biogen and Gate Bioscience. Genmab shares ovarian cancer data for Rina-S: The drugmaker's FRα-directed ADC attained a 45.9% objective response rate in patients with platinum-resistant ovarian cancer (PROC) ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "942f9de444bd",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion releases Xolair biosimilar - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FQ01Ua0NPdFF5UXYtVFpzVGpCM0lsOW51QjJZR0JXcE1tMGl1cmpnRjkzVm9EaFJzckVrOTNvLUhNU0JuMDZHYUxHSklKalN4WHNVbXh6amtiUldOa29nN05vS1ZCQVBIUENmOUVUaw?oc=5",
+   "date": "2026-10-05T14:57:21+00:00",
+   "snippet": "Celltrion releases Xolair biosimilar Drug Store News",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
   },
   {
    "id": "7415fe84ce1b",
@@ -2008,6 +2090,16 @@
    ]
   },
   {
+   "id": "dbea85853a25",
+   "source": "Google News: biosimilar",
+   "title": "The Biosimilars Forum welcomes bipartisan legislation to strengthen competition - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONjN3QXlELU9DZjBXRmp1UkNfejNxbFFSTFlKRW14Nm9yMzlCSWVJOWV5d1RTU19xOGxmUlZFRXNYR1hEYlhQZ09qNW56MWVDVFFFZjFhM3E5Z3FHUjY0NDVWZF9adnJXZmRRZkg0dWJ5Yl9rRDZxTHZHZFNvZ05hNTQ2ZUdhd2FHU1R0QXF4cDdsTFNuU1d2UHFYbHAzM1U?oc=5",
+   "date": "2026-10-01T13:42:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "3e7dc1e3c921",
    "source": "Endpoints News",
    "title": "#EASD26: Regeneron's antibody helps patients regain muscle after stopping GLP-1 therapy",
@@ -2297,6 +2389,16 @@
    "title": "The BioPharm Brief: Pills, Skin, and Biosimilars - BioPharm International",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEY5WnVFTDQ1V1FzS2RUOXpkbDRJeVFSVl9sUW1jeHgzelZtLU84bzR6YTEtczlnbFExa3dXTTBiZzVZbERwaTBENFlDVzZFMHNLS05KbWQxMThTRnZBcmtVVW1YbmlSQmV5Qk1tOF93MnZvQm5MVUZVM2FtMWNoR3NzeTM2cjZDakxGeUc1REpPQQ?oc=5",
    "date": "2026-09-30T22:42:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "539a1f66c4b1",
+   "source": "Google News: biosimilar",
+   "title": "FDA Approves Byooviz, First Biosimilar to Treat Macular Edema and Other Eye Conditions - HCPLive",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOUc4RFVsODZOT2ViR2R2YUxXemc0U2dnUnVtTG1aS05fUmQyNXFZR0h1SHZqTW5FMWJEejZxMGdFRGpPREU3amRyd3RqRkhCcEx5ZVVfT3RUQnFMOXV5UV9UZEZpSDQ1bHRUempuWHRfaGlXa2Qyb0dCVmZlcXRjckZJdjNWX2dzTkMzZFdBVFJpZVBZTEZTSW56aDZEa2tyRUVRRlc0eXZDYzdsRHhCb3lCM0o?oc=5",
+   "date": "2026-09-30T22:27:40+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
