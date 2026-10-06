@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T18:30:37.723892+00:00",
+ "updated": "2026-10-06T21:26:52.151902+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": ""
   },
   {
@@ -52,6 +52,48 @@
   }
  ],
  "items": [
+  {
+   "id": "8a8d63acaf46",
+   "source": "Fierce Biotech",
+   "title": "Big Pharma-backed Nuvig halts development of lead fusion protein in rare autoimmune disease",
+   "link": "https://www.fiercebiotech.com/biotech/big-pharma-backed-nuvig-halts-development-lead-fusion-protein-rare-autoimmune-disease",
+   "date": "2026-10-06T21:26:52.151902+00:00",
+   "snippet": "Big Pharma-backed Nuvig Therapeutics has halted one of the two trials for its sole clinical asset after determining the program wouldn’t be able to advance quickly enough.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b9370fbca0ea",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech and LOTTE Biologics Announce Long-Term Manufacturing Partnership for Multiple Biosimilar Products at Syracuse Facility - Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONXdvSlpMQXAwM3dEY3FTallhRzFqRy1EQTNfMWczOEtmc1d0YmxSbHc3b18zb3RMaUt3YlJHYzJmY201TGZMdUZ3NlYxQW15WTJGU3ZuZ1FWdzlDYUN6d0tBT3JqdmhmMXpoejNoN1diRDdaeVZkRVlFVGdZbGZNMnJKcC04QWtEUnhsa25lRHhVa0pRdG1mM2VQQWJvQXFYbm53U2pFV21OZkpReDVpWmM2VkdCbmlRaVJRTnByMGZOb1FiNFVYVElFUVFVclhhWXM3MVdWVkhLNERjR1IyMl9aakM5bWhNNDRCTmxmWTdqQQ?oc=5",
+   "date": "2026-10-06T20:50:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "5292f6ef604c",
+   "source": "Endpoints News",
+   "title": "Utah steps up AI prescribing",
+   "link": "https://endpoints.news/utah-steps-up-ai-prescribing/",
+   "date": "2026-10-06T20:26:16+00:00",
+   "snippet": "Utah is way ahead of the rest of the country in embracing AI in healthcare. Now it’s doubling down. Utah’s Office of AI Policy operates a regulatory sandbox that gives startups and other organizations",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "73241701244b",
+   "source": "Endpoints News",
+   "title": "In DC, a secretive new thorn has appeared in pharma's side",
+   "link": "https://endpoints.news/in-dc-a-secretive-new-thorn-has-appeared-in-pharmas-side/",
+   "date": "2026-10-06T19:00:20+00:00",
+   "snippet": "What do the Seattle Latino Chamber of Commerce, the Venezuelan-American Republican Club of Miami-Dade and the lower-tier professional men’s soccer team Akron City Football Club have in common? They’re all listed ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "70a198afc09a",
    "source": "Fierce Biotech",
@@ -419,6 +461,16 @@
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVm50eFllbUg4NmJQMHU4STdaV1gtdnpZTG1kQUsyTU5pQVhMZ3p3TEIyZTJVb1NTci02N200eXRDbDhhUVBFSzFCWEhwU240VEpWMDZ0Zlc5cDZWQldOWkpxeV9QYVhYWXdpbnFYa3hfWTlPNGpmeDFybHFJTDJvdXRUUm1tVEZaTmdxNERLZDVMYkRTQ25nQmRoSEgwQzl2V3B4eV8xcXN4dEdqTmhucDR6aTRNNjdmU0hIcmhsa2tabTRMZnVBSEdpNU9rM2UtSy1mZnVKZGJsQ0dHdEVtM2h0X2MxUU1PZnlDUFdpV1JDLWVNd2NVQndMSVdqSkZoY2xkenpyaExVNVBtZWJub0poYw?oc=5",
    "date": "2026-10-06T05:00:00+00:00",
    "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "d295c175aab7",
+   "source": "GaBI Online",
+   "title": "GaBi Online | Global - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQUdvN3RfWnEzOGg0dXZxY0hiWi00VXhwdlVxM3V3bGVXYnlhd1V0clE5b2x4SmhlWF9rSVA5OHZmdXJrTUc1aEZUZktYSlRiQTJLRk5udEJwaXpEOVE1ODFFMS1ubHFoZXAxRzIzUFpudFlLOVNqbHhDQWxPRTZOQ1FsUDdPY2VKd0YybUpTSEFOZHhUS1pheUE4QWM3SVI0YzhJR1JPeDFyUTNoZVpYZ2plZXNJTUV2cWxTUzgxQjYwY1p4TXZIeUdnSkl2ekQ5bWtzVzZMQ0djTzZYLU9mTmNYWFJMMWVFOTVsSnBpcjByQQ?oc=5",
+   "date": "2026-10-06T01:39:00+00:00",
+   "snippet": "GaBi Online | Global Generics and Biosimilars Initiative",
    "biosimilar": true,
    "watch": []
   },
@@ -1057,6 +1109,16 @@
    "watch": [
     "Celltrion"
    ]
+  },
+  {
+   "id": "7432dee7387f",
+   "source": "Google News: biosimilar",
+   "title": "A New York plant will make ingredients for medicines closely matched to drugs made from living cells. - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYUdFZGx2OHJhaWFRZHd3MlBJZk50XzVuWGVtV2M2MmV1RDlESlRITExSYlp2emdjTHV1Ulo2QW5aaWtMY2FNazdzU1U2b2ZpOFZJakYyc2ZYMzNKRFhsX3BtMzF1ZEViYVhNXzUtSkgwWGFPNkREeVhZY0hPdmdhQVJ4ZXFCV2VqRHphRm1oaVFyMkh3dElsTnQya0JPSHItSmtmM2F5ckZWdldSSkUzNFFkSjM0QQ?oc=5",
+   "date": "2026-10-05T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "5e609d2ab8fe",
