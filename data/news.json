@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T03:27:37.781970+00:00",
+ "updated": "2026-10-06T06:33:41.005055+00:00",
  "ai": false,
  "feeds": [
   {
@@ -1548,6 +1548,16 @@
    "title": "Meitheal receives FDA OK for Humira biosimilar - drugstorenews.com",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nVDlUb1lvUUJ3SG56QTlSUm1RSi0xX250LW13ZXdYNmNBYmpmUHNPeTRBYXlfTWg4eW5KcGlHTENpV2tmR1lySUlLZnVZajZzSjl1SUQxbzNzTHRheGh3cUhxWFU1eVZ4enZRZUllSnk2dVM4VVJN?oc=5",
    "date": "2026-10-01T18:11:19+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "81c6d62b4847",
+   "source": "Google News: biosimilar",
+   "title": "Bioanalytical Tools for the Characterization of Biologics and Biosimilars - Chromatography Online",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQVVoT0NCejRfZUI3Z1FoQkI4NXl4cVV5QmZ1X2RpWnhhblY3czYyb1JYck83N1BCZXBuR3JfMjNETzdma1VxOWtVYmpvMDBKVXhFMVVualVQVzMzMHlKRi0ySk9uYldEY3k3UF9XY3hBOHI5aTFONFVPVFNmQkY1R3FjZUpMWjh0OVNSVWx0NWg5dDZnMGNIM2tXQlRGQ0daeC1GVDVDOA?oc=5",
+   "date": "2026-10-01T17:30:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
