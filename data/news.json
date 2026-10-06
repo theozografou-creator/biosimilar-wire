@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T06:33:41.005055+00:00",
+ "updated": "2026-10-06T09:30:03.318537+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,76 @@
   }
  ],
  "items": [
+  {
+   "id": "486f97769570",
+   "source": "Fierce Biotech",
+   "title": "TRex Bio stomps toward $111M IPO, as Retension and Lycia also gear up to go public",
+   "link": "https://www.fiercebiotech.com/biotech/trex-bio-stomps-toward-111m-ipo-retension-and-lycia-also-gear-go-public",
+   "date": "2026-10-06T09:30:03.318537+00:00",
+   "snippet": "Eli Lilly-backed TRex Bio is aiming for a $111.3 million IPO, while hypertension-focused Retension Pharmaceuticals hopes for a more modest $33.8 million and protein degradation biotech Lycia Therapeutics plans its own listing.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f7010d25d3bc",
+   "source": "Endpoints News",
+   "title": "Lycia seeks IPO for antibody degraders as TRexBio, Retension set terms",
+   "link": "https://endpoints.news/lycia-seeks-ipo-for-antibody-degrader-work-as-trexbio-retension-forge-ahead/",
+   "date": "2026-10-06T08:21:13+00:00",
+   "snippet": "Lycia Therapeutics, a protein degradation startup built around science out of the lab of Nobel laureate Carolyn Bertozzi, has filed for an initial public offering. Two other biotech companies are also advancing their own Nasdaq ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cf26a56fd8f0",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - NEW Media Inc.",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3dDJzUnFueVplOUN0MHE3TlM0LTJaNWplV2FIVHBEUmt5eEhmRkdveDNvYTlpaVJ5aUdDQlNDY0tkVmhQa05xYkZkTWMzc1hrYng2R2JIa0h5MVdhUVE?oc=5",
+   "date": "2026-10-06T05:04:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "5dad0045c2d7",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Daily Courier",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQYVJxUjNrb2FTUkFELTRZVTd2UmlqQnpmcTlRTU5HUDlLdEhDNzJEU1h1TWQwSlgyYUQtVWRPZnpsdnY1OHB3Q2szRHduaG1TVlpVUmlPWmdGUHBRV1V2enZTWUhhQ1FVaGxwd3FoekFmYXZvM2Nid0g5S0VOOHhaaXFhbnlWX1JRNk5LanN2Nld2a3dXVHlMR2JlOXhHcFF4MUpyMkVRR0JxVnpta2NKVXZsS3ZvWEp5TDlqQncyRlRHR2hPYmVGUV8zVV9LaElTOEtmdUNOajBkaGJXS3Ywc2EtNnpmYlQwbm1WR0c3ZWpJTTBGSC0tZXo5QmY1ZHZVSjMxcEF2VkpwRHQ0bEhFV0owWQ?oc=5",
+   "date": "2026-10-06T05:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "ee8fbace79df",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Delaware Business Now",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQSmhBY1RKMHkya09hSWxFNHo1MmhpMlhlOS1QQldHS3VUQTh0OGhGR3NibXQyMHd1ZHhENDVJeDVndEplRE1SNkYtYVFibmZaOFItck9HYVIybS1UNlRXdGw1VGFZQmh3ZUc0cGFQYTZQT0xNS2FrUzBaVEhDTXdZSHJGZWlERTZXZjdrSXREVF93amNGVGtMUmpMdXN3ZTVMYzNGa2tjcUtncHhHOG5JSlprclFjcGUtSmxXN0lGVWdpTXJCeXc1QTRxWjZBVXNSRXNpMXo0Ni1paDN2c2pCbkN1cEpVOE91NTlIZWw1UzBtMGMweUFEQmVBd1lLQTJyTjBjRTdzcTUtMXotcGZKSjFtSkdOTm85TmE2dA?oc=5",
+   "date": "2026-10-06T05:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "59da0cf7f636",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Buffalo News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjFMaWlxZ0ZQT29FRDlpTGFfOXJfLVU4T1JfeE4xcDhTQ2M3VW9VYVhIMV9UMmhSWjZmdThaeWNkUGNjcU9OdHpDbUQtdEgwNkFNQkpDRHRUVmJMV2pvSzUwWlVzaDR1TWhoTUxQNTVoWUpuT3puMTR0OFUxR00tOHk2bFRZMHM2U1J2UG1jYkdjTGtIcURYbWppYUdEbU9ORzVyYkVsZXdqaHltUWc?oc=5",
+   "date": "2026-10-06T05:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "0abcce4205d5",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Sioux City Journal",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd3pBbDV2b1JybXF0VlNJcjJGNGxJNTVMemlDSkxyaldKZ3hTU1VLdFZQUXlHZ0dsczBFdzY5bXFOMG1lSmNRenp6X2pFOVV3VVk5U0pYNWpiOXU4MGJ1RFdWM3htOEpnV2I1S1ltQTlTd01rdGxjMEdjT05qbHprdGVTMktGMXhZeXNvZVZPRFFMQnBheXBnTVFWZ2oyU0pWX0RMV2V5a0tFVVA5ZFpZVDI3LVA?oc=5",
+   "date": "2026-10-06T05:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "bd2d4ec26201",
    "source": "Google News: biosimilar",
@@ -534,6 +604,18 @@
    "title": "Alvotech Gets US FDA Approval For Additional Manufacturing Capacity For Simlandi Biosimilar; Shares Up Pre-Bell - marketscreener.com",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONllCYlNFLTNGM2V0QnA5NnVKdVIzamhmazNSNFJxZmVyNTVLYV9IbGpzTWUtbTd6TGJDWW1Nd2pHamNWYldzS2cwNkEwZE95ZU5VNXd5cm84TGIybWNTeTB5eThmR0NuYUI2ZHJzZVRqLUlldGl1cEhPRVF4M01kbS1TVGNVUXFlSTU2NWFfN1dLZEN1WlgxbFE5NXpWSkxrT21NcjZob0VJZERRTDJvbGM3bUJLUVJXUllmQ3NzN2Z6a1ByY3VTckxzMVRnTlJCNmpCNGt1NVRCLU1MS3lWeFJTSE90QQ?oc=5",
    "date": "2026-10-05T09:59:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "31c14056c082",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Gets US FDA Approval For Additional Manufacturing Capacity For Simlandi Biosimilar; Shares Up Pre-Bell - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWGNuR1B3RFlpMTk2VV9EUllmYi1uUllQUzFvRVFyT1BQTXJtSkVETm9RanR5Q000ME9uSVVjU3FUUzV2WjJoaXJDV1p2WVlkWTJJYUNYMXZubUpzUVRwVi0wMVZRTEtwRXZUTGRDMDZKUmh5WGtKd09rcC1SX0pCdzdreUJpOHdNT0R1bGVEWnE4bkIt?oc=5",
+   "date": "2026-10-05T09:52:04+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
