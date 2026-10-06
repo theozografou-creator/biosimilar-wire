@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T21:32:59.432317+00:00",
+ "updated": "2026-10-06T00:38:14.785076+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,16 @@
  ],
  "items": [
   {
+   "id": "d28a0c570f18",
+   "source": "Big Molecule Watch",
+   "title": "Janssen Granted Preliminary Injunction Against Golimumab Biosimilar",
+   "link": "https://www.bigmoleculewatch.com/2026/10/05/janssen-granted-preliminary-injunction-against-golimumab-biosimilar/",
+   "date": "2026-10-05T23:05:35+00:00",
+   "snippet": "On September 30, 2026, the U.S. District Court for the District of Delaware issued an order granting Janssen Biotech, Inc. and Janssen Sciences Ireland UC’s (collectively, “Janssen”) motion for a preliminary injunction in Janssen Biotech, Inc. v. Accord BioPharma, Inc., No. ...",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "4ab910ae4b63",
    "source": "Fierce Pharma",
    "title": "HRSA names 10 drugmakers for revised 340B rebate pilot ahead of 2027 launch",
@@ -87,6 +97,18 @@
    "source": "Google News: biosimilar",
    "title": "Alvotech Soars 13% on FDA Nod That “Effectively Doubles” US Humira Biosimilar Capacity - tikr.com",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1RyR0NGMGJ2UUhHX1BNV3FpbV8yT25yMkVHQTBQREpEQ2c4akl0MWRGY292QURpS3RneE4tVFkzS3llVUVwN3ItbWU1bFZWQTFoLWFJOHhwRkxSMW1tQUJxck9XRWJOdjN3dEVVTzdpcC0zOWN2a1VnVlJkQ1l3U2ttOXQyeXE1QndodnFGZmZzblZpVWlrTHkzQjZwSkVhZ1YxdHgyTDU4ckNIQzU4?oc=5",
+   "date": "2026-10-05T19:17:24+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "acdfef5915a0",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Soars 13% on FDA Nod That “Effectively Doubles” US Humira Biosimilar Capacity - TIKR.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmlwcEZpNzRPTmhNNjZocXd1a3oxZkZoclgwRXY0QkdmekJGdjVLRXBDb0pNUXdzc2pXNjllcmNaZE9XazNnbHY1WVgxeThVYXpJeTVFakFmdC1GdFNYdURFbExtdW5OWkVyUlA3eEoxczZkSHVLSTZ0X05TckF1MTRoTUhVdXJZZVdMTGJYZGZxTnU2aFdXVWVqVy1VdUxQY2hPRVZRb1R5NjRDQnc?oc=5",
    "date": "2026-10-05T19:17:24+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -349,6 +371,18 @@
    "watch": []
   },
   {
+   "id": "1228d4286605",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz opens manufacturing center in Slovenia - drugstorenews.com",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mWXdpZDlPdlRhS05nNF93dDB3REVaUlBnR3VDUE00UEZSZzlnbGNRYmlmX196UVBDN19veEpDMWU5OHl6ajdEMDQ5QVdncGoteml3TmV3VDdITkVZV1RWai1FN3VTOC1HVW9mRS0ydFM0QzBZekxN?oc=5",
+   "date": "2026-10-05T13:04:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
    "id": "90db52ad6550",
    "source": "Google News: biosimilar",
    "title": "OMLYCLO® (omalizumab-igec), the first and only FDA-approved interchangeable biosimilar to XOLAIR®, now commercially available in the U.S. - TradingView",
@@ -503,6 +537,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "4f01c80c2307",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Gets US FDA Nod for Additional Manufacturing Capacity for Humira Biosimilar - marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS2FIZjRWQjlxLVVZZDA1bS02MGNXTm91MUdWQ202SnJzX0N2X0UyQWJfbFNNUUJFMEFhQkFFY0o2MUVJa0lfamI5QVNZaERia3NrQkp2Yy1FdnJjMGpCTkZvTzIxMlRFRkxqelIyMDJxNkhnRHh0X2dZMU9ZMXlPejR5VEduUzQ5bWZqcVRaTFhHTFJnQXVVeDFVTkd4N3ZEcjE4ZXU2QVNtcXY2WFAyOHdEREZvZE1SMkNFUm9pMTRha0s0NTBIdFhYT3BQUTdkQTJZ?oc=5",
+   "date": "2026-10-05T09:32:44+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "c15057293274",
