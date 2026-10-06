@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T12:34:11.022185+00:00",
+ "updated": "2026-10-06T15:28:34.173126+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,106 @@
   }
  ],
  "items": [
+  {
+   "id": "96ce162e9f7f",
+   "source": "Fierce Biotech",
+   "title": "Biotech’s peptide shows promise as ‘bait molecule’ to treat neuropathic pain in mice",
+   "link": "https://www.fiercebiotech.com/research/mimetics-peptide-shows-promise-non-psychedelic-method-reducing-neuropathic-pain",
+   "date": "2026-10-06T15:28:34.173126+00:00",
+   "snippet": "While psychedelic drugs may be capturing all the attention when it comes to finding fresh ways to treat neuropathic pain, research with mice has suggested a peptide approach may also be effective.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "26ffd7d711e5",
+   "source": "Fierce Biotech",
+   "title": "ArriVent’s phase 3 lung cancer trial flops, sinking stock",
+   "link": "https://www.fiercebiotech.com/biotech/arrivents-phase-3-lung-cancer-trial-flops-sinking-stock",
+   "date": "2026-10-06T15:28:34.173126+00:00",
+   "snippet": "A phase 3 lung cancer study of ArriVent BioPharma’s EGFR inhibitor has missed its primary endpoint, sending the biotech’s stock down 57% in early trading on the Nasdaq.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4690dda21861",
+   "source": "Fierce Biotech",
+   "title": "Kairos seizes moment to push prostate cancer prospect into earlier setting",
+   "link": "https://www.fiercebiotech.com/biotech/kairos-seizes-moment-push-prostate-cancer-prospect-earlier-setting",
+   "date": "2026-10-06T15:28:34.173126+00:00",
+   "snippet": "Kairos Pharma is moving prostate cancer prospect ENV-105 into an earlier line of treatment in response to midphase survival data.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cdb14fafcd42",
+   "source": "Fierce Pharma",
+   "title": "AbbVie, Genmab score first-line DLBCL win for Epkinly, teeing up challenge to Roche's Polivy",
+   "link": "https://www.fiercepharma.com/pharma/abbvie-genmab-tout-ph3-first-line-win-epkinly-mounting-rivalry-roche",
+   "date": "2026-10-06T15:28:34.173126+00:00",
+   "snippet": "Epkinly plus R-CHOP cut the risk of progression or death by 51% compared with R-CHOP alone in newly diagnosed DLBCL, setting up a potential first-line challenge to Roche’s Polivy.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4d42b9950eac",
+   "source": "Fierce Pharma",
+   "title": "Genentech celebrates 50 years of 'The Impossible Bet' in anniversary documentary",
+   "link": "https://www.fiercepharma.com/marketing/genentech-celebrates-50-years-impossible-bet-anniversary-documentary",
+   "date": "2026-10-06T15:28:34.173126+00:00",
+   "snippet": "Known as the \"original biotech,\" Genentech is unlocking its archives to shine light on its past, present and future in a new documentary celebrating its 50 year anniversary.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9cade7c8c294",
+   "source": "Fierce Pharma",
+   "title": "Proposed nuclear safety rules threaten to stall Novartis’ Pluvicto expansion",
+   "link": "https://www.fiercepharma.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion",
+   "date": "2026-10-06T15:28:34.173126+00:00",
+   "snippet": "Novartis’ flagship radioligand therapy Pluvicto entered a rapid growth phase recently, driven by FDA approvals in earlier-stage prostate cancer and broader uptake in community settings. But a regulatory overhaul proposed by federal nuclear authorities now threatens to derail ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2e3ca409b78a",
+   "source": "Endpoints News",
+   "title": "ArriVent's lung cancer drug firmonertinib fails key late-stage trial, stock tanks",
+   "link": "https://endpoints.news/arrivents-lung-cancer-drug-firmonertinib-fails-key-late-stage-trial-stock-tanks/",
+   "date": "2026-10-06T14:47:37+00:00",
+   "snippet": "ArriVent BioPharma, an early adopter of the China licensing model, reported that its lead lung cancer drug failed a Phase 3 trial. Firmonertinib, an EGFR inhibitor, was first approved for lung ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6eed510afc15",
+   "source": "Google News: biosimilar",
+   "title": "Two markets after the cliff: Rewriting the post exclusivity playbook for generics and biosimilars - PharmaLive",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjA5eXJFOTBkMFBDSHc2WXNDSTdpMk9WbHpXZDM1SVUwWXBWQjh1b21GMXFFWEt1Qk9LbENfMmZvUkltZnVBd1dwS2s5a1V5djlJeEdhem1TWlZSamxGVDcxaFBTYzhkdmw5UXBmR3A4QTRaWHNsR1NuZHd6YmdYYV80TE1TRkx5em12VXRhRVhFTzRwcWRoUU9MZHBic1ZETEhFYjZUUDNNWXNtUTdJRlVueU9zY0MxbkpnUG4wZHVVQQ?oc=5",
+   "date": "2026-10-06T13:49:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "0282fde187aa",
+   "source": "Endpoints News",
+   "title": "KymaThera, Rouge raise VC funding; Vaxcyte, Spyre do public offerings",
+   "link": "https://endpoints.news/kymathera-rouge-raise-vc-funding-vaxcyte-spyre-do-public-offerings/",
+   "date": "2026-10-06T13:33:07+00:00",
+   "snippet": "KymaThera gets $80M: The San Diego biotech raised the Series B to develop its pan-mutant selective PI3Kα inhibitor called K-1728. The experimental oral medicine is slated to enter Phase 1 this ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1cb3591a0dfd",
+   "source": "Endpoints News",
+   "title": "Forbion gets Lilly's backing in Dutch VC's largest-ever fundraising haul",
+   "link": "https://endpoints.news/forbion-gets-lillys-backing-in-dutch-vcs-largest-ever-fundraising-haul/",
+   "date": "2026-10-06T12:46:45+00:00",
+   "snippet": "Dutch life sciences investor Forbion has collected its largest amount of capital to date, pulling in €2.3 billion ($2.6 billion) across two funds. Forbion will use the capital to back about 30 companies, it",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "99abbe40de5a",
    "source": "Fierce Biotech",
@@ -850,6 +950,30 @@
    "biosimilar": true,
    "watch": [
     "Alvotech"
+   ]
+  },
+  {
+   "id": "dfb33936d824",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves additional U.S. manufacturing capacity for SIMLANDI®, Alvotech’s biosimilar to Humira® - GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV2I1cmdpd09uaHg5Ql9kVzFsakZMRGQteVN5UWZtQ2FoQTEwbFJNWFU3RzlwRnJyeUdpbUNkQnBzM2VfVEJUZlY3N3FpRkZ3WnBMZTRxWVlfTkhVTnJXTTZaNzUzcnItV1pHSDZnRXNiUGMwRlRkZUpvaW1aYm1NYnU0RmZKSS1tR21IRWYzakhGOVVYbHlSd21rNEg0TUJodTAzRTRpd0NhdDM0eFNOeUdsWm92ZG9kd2xPdlJ1eUlCWVU0NDBVZGFZSy16ZnRDc05VY1k3MVEyZjdJdU5MMTE5eFlTNzA2TnNlWHFETlRTRG0zN29WS1FxNFdvNEk?oc=5",
+   "date": "2026-10-05T08:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "ce6173606fb9",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion launches OMLYCLO, the first interchangeable biosimilar to Xolair, in the US - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFk3Yjh6cXZ5TW8zSGRKYTNTUHJ4RUdLd2NTVDBrR3JLclFlbDRzVkFRRlUwT05QbzFkeXFvOE1RZWFhRDE5TEU5R1N3bmlHTGhfNVJFTWFkOE4zTFVNVC12OHRpYkNCZ2RqQUl2TTZSSlN0aU55UkZqS2pSZGRaVTk1d1lNOENOR3hFNG8zN2xLTEFZZXhpYVpHTUNqVVoyRUJKN29fTzlIWTR3b1FMOU1TLU5rWE9n?oc=5",
+   "date": "2026-10-05T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
    ]
   },
   {
@@ -2305,6 +2429,18 @@
    "title": "Waltz Health and Fresenius Kabi Expand Direct Access to Biosimilars Through Waltz Connect Platform - StreetInsider",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMUdHTWdpellmeEF0bWJaU3MxOUtyLUZxakhqcGRBRnBLenNrUE9WSHJpLS1sWGo3OXJhVFpmMU9Ja2R0d0R5bjB0Vzk2TVJRS2d0YlUyQ09Qa3VDSERzdXM0MXVYTTlfNzY0QV81cWcteE1oNFU4eERZQjdST3oyRUFER2JObEM5aTRySnpnZ1dnUC1HU1FnWWxCSm5xakk0RG9tU1FtWmFyTlY5eWxCX0tWOGsyNGdDVFpPT2w0dVRZVzlEM0JGQkY3cG1rUjRJQzNWNmg1MkFaODh0WkxyN0s5SkhjcHpY?oc=5",
    "date": "2026-09-30T04:01:09+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Fresenius Kabi"
+   ]
+  },
+  {
+   "id": "66af2ca06e7a",
+   "source": "Google News: biosimilar",
+   "title": "Waltz Health and Fresenius Kabi Expand Direct Access to Biosimilars Through Waltz Connect Platform - BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOczF0bi1yT2F4dWZwaGhENF9pSXZydVE5YkMyOXhGV20xRUtJRHh0cWlRNjNpZ3hXNGdKOXRoSmtVSER1bGZMUnNpWnN6VUlIX09JV3pYWGc5Y2NEVFg3QXd5S1NJYUQ0QzBfUWR6YmJSNzZRNWVMV1Izclhfd19vMFR6NFdUYTNFZElsM3lNS2VsTjcyRHhKdjlfdWdWaGJiZkVyY0dCY21sekNfX0xLQjV0aWNSZVVGTWliWVV4dkZwQ0ZmcVJQbmVZXzVpbWcta1doVw?oc=5",
+   "date": "2026-09-30T01:35:21+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
