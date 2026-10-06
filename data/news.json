@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T09:30:03.318537+00:00",
+ "updated": "2026-10-06T12:34:11.022185+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,126 @@
   }
  ],
  "items": [
+  {
+   "id": "99abbe40de5a",
+   "source": "Fierce Biotech",
+   "title": "Forbion’s ‘landmark’ €2.3B fundraise to benefit 30 ‘high potential’ biotechs",
+   "link": "https://www.fiercebiotech.com/biotech/forbions-landmark-eur23b-fundraise-benefit-30-high-potential-biotechs",
+   "date": "2026-10-06T12:34:11.022185+00:00",
+   "snippet": "Forbion has touted its “landmark” 2.3 billion euro ($2.6 billion) fundraise across two funds as a new record for the European life sciences-focused VC firm.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d1eff210c1ad",
+   "source": "Fierce Biotech",
+   "title": "UK unveils new policy to constantly monitor AI-based medical devices",
+   "link": "https://www.fiercebiotech.com/medtech/uk-unveils-new-policy-constantly-monitor-ai-based-medical-devices",
+   "date": "2026-10-06T12:34:11.022185+00:00",
+   "snippet": "The U.K.’s drug and medical technology regulatory body the MHRA will continually monitor all artificial intelligence-based devices.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6b4462695498",
+   "source": "Fierce Biotech",
+   "title": "How NIH’s Nicole Kleinstreuer is working to reduce animal testing while avoiding a ‘backlash’",
+   "link": "https://www.fiercebiotech.com/biotech/woman-behind-reducing-animal-testing-curtain-nicole-kleinstreuer",
+   "date": "2026-10-06T12:34:11.022185+00:00",
+   "snippet": "In the past 18 months, the National Institutes of Health has been working overtime to push new policies to reduce animal testing with the help of one woman at the helm: Nicole Kleinstreuer, Ph.D.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4fe1c28599aa",
+   "source": "Fierce Biotech",
+   "title": "AstraZeneca hopes to ‘achieve amazing things’ with new Kendall Square R&D center",
+   "link": "https://www.fiercebiotech.com/biotech/astrazeneca-hopes-achieve-amazing-things-new-kendall-square-rd-center",
+   "date": "2026-10-06T12:34:11.022185+00:00",
+   "snippet": "AstraZeneca executives touted the benefits of further establishing themselves in Massachusetts’ biopharma “ecosystem” as the Big Pharma opened a new R&D center.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "eceae65b8b13",
+   "source": "Fierce Pharma",
+   "title": "BD commits $19B amid US onshoring push, with $3B earmarked for manufacturing growth",
+   "link": "https://www.fiercepharma.com/pharma/bd-commits-19b-amid-us-onshoring-push-3b-earmarked-manufacturing-growth",
+   "date": "2026-10-06T12:34:11.022185+00:00",
+   "snippet": "With a substantial multi-year investment in the offing, BD has joined a wave of healthcare companies upping their commitments to the U.S., this time focusing squarely on medical technology and the essential consumables used daily by doctors and patients.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "def032c739b8",
+   "source": "Endpoints News",
+   "title": "In healthcare, AI investments are paying off faster than expected, survey shows",
+   "link": "https://endpoints.news/in-healthcare-ai-investments-are-paying-off-faster-than-expected-survey-shows/",
+   "date": "2026-10-06T12:00:43+00:00",
+   "snippet": "AI is changing healthcare faster than executives expected, according to a report published Wednesday from Bessemer Venture Partners. But the biggest returns are still in using it to take care of paperwork rather than patient ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4812f1c52a16",
+   "source": "BioPharma Dive",
+   "title": "The top biopharma conferences in 2027",
+   "link": "https://www.biopharmadive.com/news/top-biotech-pharma-medical-conferences-2027/832075/",
+   "date": "2026-10-06T12:00:00+00:00",
+   "snippet": "Medical meetings often feature important clinical trial results, making them barometers of biotech and pharma companies’ research progress. Here’s a list of conferences to watch for in 2027.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "366021884036",
+   "source": "Google News: biosimilar",
+   "title": "Thriving in a Genericized Biosimilar Market: Winning with Cost Efficiency, Differentiated Portfolios and Global Partnerships - geneonline.com",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMFNiTmc3bGtvTnBjSk92QXhZVFphYlNldWlKRnZreU9OdnE2SDV0aUtrRW1YU1h2NUtXVnRzcUZ1R3p2Q1J2c19JSFUyM0M1WVZhNHIxbkQ4a2RDZjZQY0VERGdqV2RsYkpoaklUQ0FEN2lldFFma0QzaUpydng3QUN0WFdETUhFV3NCVW90Nmw0b1JNM3R3R3RxLXZ1cVdyTUVEMmlud3pXd0hiengzNUdyWTFnaFZRSENwekRwVUJTN0xVcDBpamluYzdOZzdFQ0lyMXg1T043NDMzbjV2VzRHUm4?oc=5",
+   "date": "2026-10-06T11:15:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "df0dfaa3ff36",
+   "source": "Endpoints News",
+   "title": "AbbVie, Genmab trot out first-line DLBCL win for Epkinly in challenge to Polivy",
+   "link": "https://endpoints.news/abbvie-genmab-trot-out-first-line-dlbcl-win-for-epkinly-in-challenge-to-polivy/",
+   "date": "2026-10-06T11:05:14+00:00",
+   "snippet": "AbbVie and Genmab said their T-cell engager Epkinly passed a late-stage trial in first-line diffuse large B-cell lymphoma, clearing the way for a potential market showdown with Roche’s antibody-drug conjugate Polivy. The companies tested Epkinly ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dbe43e112aa9",
+   "source": "Google News: biosimilar",
+   "title": "Two drug launches in Israel expand Kamada (KMDA)'s portfolio as it projects sales through 2030. - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcFB6N3BTS3Q2bW14X3UzNElvWk9hSVpreWN3VFpjNW5ySUlzV0pzUm1PU05TT2lCdWQtNUJZS2tiYUNyYTFvY2hwT1hlTGx1clBCaWJzdUNoNG13MVo3YXIzUy13dUZRRC1UbHV1ZndSZDRRMEFYWlVCTVNmejVISFpYSGE2eG9IaUZPaHlzeWpEamJ2Sjh2QjZTU3MwUzFUck1Pc0VtRUFRdw?oc=5",
+   "date": "2026-10-06T11:00:57+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "bd4735b5dcac",
+   "source": "Google News: biosimilar",
+   "title": "About $20 million to $25 million a year is what Kamada expects its medicines to bring in by 2030. - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZmN6WExWYlRoTExYb2J0N2tYZDlMQmtNMzRNaGR1RlVCaXBKVFFqMTVXRUdvZ0JxaEtQVlIwRmxyOFRsX3p4Vk5lNFlJLWtUTzB3Z0FXQlo1cmpnLUhDSlBfWlFoRjA1Umk3SWt0SVlvM1RzZ2dwSThsQ0VadGhXUlNzLWUzeXZCdFFzYjNRRG5HaUVtTkNLSk55UmFpN1RDb3dydFl4R3M4bWtVc2lfeUhZNEk4dG41d3dZeTJCNA?oc=5",
+   "date": "2026-10-06T11:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "1af7bfc491c0",
+   "source": "BioPharma Dive",
+   "title": "GE HealthCare to acquire Sofie Biosciences for $945M",
+   "link": "https://www.biopharmadive.com/news/ge-healthcare-acquire-sofie-biosciences-radiopharmaceuticals/832182/",
+   "date": "2026-10-06T10:38:00+00:00",
+   "snippet": "The purchase expands GE HealthCare’s radiopharmaceutical capabilities, helping manufacture and distribute time-sensitive drugs used in PET imaging.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "486f97769570",
    "source": "Fierce Biotech",
@@ -117,6 +237,16 @@
    "source": "Google News: biosimilar",
    "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Sioux City Journal",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd3pBbDV2b1JybXF0VlNJcjJGNGxJNTVMemlDSkxyaldKZ3hTU1VLdFZQUXlHZ0dsczBFdzY5bXFOMG1lSmNRenp6X2pFOVV3VVk5U0pYNWpiOXU4MGJ1RFdWM3htOEpnV2I1S1ltQTlTd01rdGxjMEdjT05qbHprdGVTMktGMXhZeXNvZVZPRFFMQnBheXBnTVFWZ2oyU0pWX0RMV2V5a0tFVVA5ZFpZVDI3LVA?oc=5",
+   "date": "2026-10-06T05:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "8e0ab8fdeb78",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - chandlernews.com",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVm50eFllbUg4NmJQMHU4STdaV1gtdnpZTG1kQUsyTU5pQVhMZ3p3TEIyZTJVb1NTci02N200eXRDbDhhUVBFSzFCWEhwU240VEpWMDZ0Zlc5cDZWQldOWkpxeV9QYVhYWXdpbnFYa3hfWTlPNGpmeDFybHFJTDJvdXRUUm1tVEZaTmdxNERLZDVMYkRTQ25nQmRoSEgwQzl2V3B4eV8xcXN4dEdqTmhucDR6aTRNNjdmU0hIcmhsa2tabTRMZnVBSEdpNU9rM2UtSy1mZnVKZGJsQ0dHdEVtM2h0X2MxUU1PZnlDUFdpV1JDLWVNd2NVQndMSVdqSkZoY2xkenpyaExVNVBtZWJub0poYw?oc=5",
    "date": "2026-10-06T05:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -1947,6 +2077,31 @@
    "biosimilar": true,
    "watch": [
     "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
+   "id": "5ab0ca5f8be0",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis and Teva Expand Strategic Partnership to Advance Up to Six Potential Biosimilar Candidates - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVE81bklTTkVSUm5yNm5LZWtwZURRWm4zaE44MEVTcnRkN0JaYndWUlhjVDRyQXU1SGtZLXlSQURMdFBmUDd0NzBXcC1sS2FWVUQ5bkIzSFAxTnA5a0VlVTJydWF6cHF6dGFWd0tBZzZ5Wkt3SS01bTduY3Q3WFBPcnBuMEZhX3lndDhpNFBsY25xem9GRUE4ZWZpYVBHcGM?oc=5",
+   "date": "2026-10-01T08:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
+   "id": "327419cb09e4",
+   "source": "Google News: biosimilar",
+   "title": "Two potential medicines similar to existing drugs are in Teva's deal, with an option for four more. - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3lxbW55SjZnWDhibmVpNVZ5Q2dzN0c3a25pZHYxLUh4ajFOeUpDRHFwTWd6QnBBaUlwRnEtaDZBMkRrN1hEb2FteUpFc3M1cVpfVGJEQnZESW93SWM0aFRqQWVPd1Y1UG1OS2RSWXByaHhuRkpmRTMzc25OYWpBdU4zdXZtbEs5VHhFVnJaem1PMWxqWm1JUWgzcTNyUWpuLW8wOGNnUk9QeC1uZ0JHdnB4MVpWcDVqamJDTXhnZw?oc=5",
+   "date": "2026-10-01T08:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
     "Teva"
    ]
   },
