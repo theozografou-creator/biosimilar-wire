@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T12:36:08.623098+00:00",
+ "updated": "2026-10-07T15:39:25.152189+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,126 @@
   }
  ],
  "items": [
+  {
+   "id": "e6033d22e449",
+   "source": "Fierce Biotech",
+   "title": "TCGX launches $600M fund to bankroll Asian biotechs",
+   "link": "https://www.fiercebiotech.com/biotech/tcgx-launches-600m-fund-bankroll-asian-biotechs",
+   "date": "2026-10-07T15:39:25.152189+00:00",
+   "snippet": "Investment firm TCGX is expanding in Asia, raising $600 million to funnel into biotechs emerging from a burgeoning drug discovery hotspot.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "eb36bddaf2de",
+   "source": "Fierce Biotech",
+   "title": "Cerevance rescues its Parkinson's drug with phase 3 win",
+   "link": "https://www.fiercebiotech.com/biotech/cerevance-rescues-its-parkinsons-drug-phase-3-win",
+   "date": "2026-10-07T15:39:25.152189+00:00",
+   "snippet": "Cerevance's oral non-dopaminergic therapy has redeemed itself by improving both motor and non-motor symptoms in a phase 3 Parkinson's disease study. The win came over a year after the candidate failed a phase 2 study in a similar population.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d49f1c967d79",
+   "source": "Fierce Biotech",
+   "title": "Atsena’s Lighthouse gene therapy readout illuminates eye disease efficacy",
+   "link": "https://www.fiercebiotech.com/biotech/atsenas-lighthouse-gene-therapy-readout-illuminates-eye-disease-efficacy",
+   "date": "2026-10-07T15:39:25.152189+00:00",
+   "snippet": "Atsena Therapeutics has reported evidence of efficacy in a clinical trial of an eye disease gene therapy, encouraging the biotech to forge ahead with a study that could support a filing for approval in 2028.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1795501d3615",
+   "source": "Fierce Biotech",
+   "title": "Matchpoint nets $150M series B to take covalent med into clinic",
+   "link": "https://www.fiercebiotech.com/biotech/matchpoint-nets-150m-series-b-take-covalent-med-clinic",
+   "date": "2026-10-07T15:39:25.152189+00:00",
+   "snippet": "Matchpoint Therapeutics has aced its series B round, serving up $150 million to advance the Sanofi-backed biotech’s pipeline of precision covalent medicines.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4d6c9f41f87d",
+   "source": "Fierce Pharma",
+   "title": "Halozyme stymies subcutaneous Keytruda launch in select European countries as Merck vows to fight patent claims",
+   "link": "https://www.fiercepharma.com/pharma/halozyme-stymies-subq-keytruda-launch-select-european-countries-merck-vows-fight-patent",
+   "date": "2026-10-07T15:39:25.152189+00:00",
+   "snippet": "After facing a setback in Germany late last year, Merck & Co.’s European marketing plans for its below-the-skin Keytruda SC are growing more complicated.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a8cb38113e43",
+   "source": "Fierce Pharma",
+   "title": "New API Innovation Center index spotlights supply chain stress points",
+   "link": "https://www.fiercepharma.com/manufacturing/national-fragility-index-spotlights-prescriptions-vulnerable-supply-chain-problems",
+   "date": "2026-10-07T15:39:25.152189+00:00",
+   "snippet": "The National Fragility Index, launched by the API Innovation Center, warned that more than 550 million prescriptions filled in the U.S. in 2023 were categorized as being highly or severely vulnerable to supply chain interruptions.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f9406352900b",
+   "source": "Fierce Pharma",
+   "title": "How drugmakers are tapping into the GLP-1 frenzy's unprecedented 'consumer overlay'",
+   "link": "https://www.fiercepharma.com/pharma/how-drugmakers-are-tapping-glp-1-frenzys-unprecedented-consumer-overlay",
+   "date": "2026-10-07T15:39:25.152189+00:00",
+   "snippet": "With the advent of powerful GLP-1 medications from Novo and Eli Lilly, the conversation about obesity as a chronic disease has begun to shift, along with the understanding of how tackling weight can trigger a multitude of downstream health benefits.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "367d4641c603",
+   "source": "Fierce Pharma",
+   "title": "Scaling psychedelics comes with uncertainty ‘baked into the sauce’",
+   "link": "https://www.fiercepharma.com/pharma/psychedelics-scale-uncertainty-baked-sauce-developers-experts-opine",
+   "date": "2026-10-07T15:39:25.152189+00:00",
+   "snippet": "The possibility of psychedelic therapies for PTSD or treatment-resistant depression in the U.S. has never been greater. But even as the industry inches closer to an FDA go-ahead, the realities of approved psychedelic medicine are far from decided.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ca2f474b5665",
+   "source": "Fierce Pharma",
+   "title": "Catalent wins access to Iro and launches next-gen development platform",
+   "link": "https://www.fiercepharma.com/pharma/catalent-wins-access-iro-and-launches-next-gen-development-platform",
+   "date": "2026-10-07T15:39:25.152189+00:00",
+   "snippet": "Catalent will gain access to Ori's Iro platform, a proprietary automated cell and gene therapy manufacturing system that speeds up development and reduces costs.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8157ed7ed3f6",
+   "source": "Endpoints News",
+   "title": "Bexorg gets $28M ARPA-H award to run longer tests on ‘rebooted’ human brains",
+   "link": "https://endpoints.news/bexorg-gets-28m-arpa-h-award-to-run-longer-tests-on-rebooted-human-brains/",
+   "date": "2026-10-07T15:24:58+00:00",
+   "snippet": "For years, scientists assumed that cells in the brain began decaying immediately after death. But researchers threw ice on that theory seven years ago when they showed it was possible to restore cellular activity in ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e09bf38216e8",
+   "source": "Endpoints News",
+   "title": "Nuvig drops a Phase 2 trial; Cerevance reports Parkinson's progress",
+   "link": "https://endpoints.news/nuvig-drops-a-phase-2-trial-cerevance-reports-parkinsons-progress/",
+   "date": "2026-10-07T15:20:53+00:00",
+   "snippet": "Plus news about RevMed, Tang Capital, GSK and AmyriAD Therapeutics. Nuvig Therapeutics ends one of two trials: The biotech axed a Phase 2 study of its candidate NVG-2089 in patients with chronic inflammatory demyelinating polyneuropathy ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bb5cf8349864",
+   "source": "Endpoints News",
+   "title": "Novartis-partnered biotech gets $150M Series B to move into the clinic",
+   "link": "https://endpoints.news/novartis-partnered-biotech-gets-150m-series-b-to-move-into-the-clinic/",
+   "date": "2026-10-07T14:03:57+00:00",
+   "snippet": "Matchpoint Therapeutics, a biotech partnered with Novartis, has put together its latest financing round. The $150 million Series B will help fund Matchpoint’s efforts to get its lead program into human ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "a5d47e129313",
    "source": "Fierce Biotech",
@@ -110,6 +230,16 @@
    "date": "2026-10-07T09:30:02.695199+00:00",
    "snippet": "The Bay Area biotech is discontinuing all clinical development activities and implementing a \"substantial reduction in workforce.\"",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0dd1fd46dbdf",
+   "source": "Google News: biosimilar",
+   "title": "Games - FOX 2",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wUlFlbkZCYWt5eWFDQnBmY0V2S0tGQ1VLNzFGQXc3QnQtZnJreVFLQ1BvbjhabnVlTExWTUFTbnl2U1NScjZhVVBMSC1TdlU0eDNabTBLclhZdFBudEE?oc=5",
+   "date": "2026-10-07T06:36:31+00:00",
+   "snippet": "Games FOX 2",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -635,6 +765,36 @@
    "source": "Google News: biosimilar",
    "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - cherokeephoenix.org",
    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQWdGSUpCSENDZzhIaUQ1bkFjOWszcmllWlVHc1dnSmZocTdqVkNvY3g1S2tWQlN4bE5xankybWhDTDJuTzJOcG5sdVZTRS1xUVF3UFZfMXhUVDlqWFlTSmRxakk0b1FiNW15WWZpY1FYR2Q0aWlfcE5qblU0bnJhSlppLXJ5ZDhFS2c5S2RQMFBGQnhMVE9MNW9wT0NYTTcwOXRUWW05WEZjOWtlQ0JfT2hoN1NLYWRLc2FFaUFaWms2Q080dnZuQVdJN3dIbkMzNUdPM3FydVZIdURYYnkydFdBcXNpeGlldndSMEs2TzVxWkdjZ2toX0NCMnZ6VExFS3MtZ0VJejhfOXI5ZGdWNXA0TE0zM1k?oc=5",
+   "date": "2026-10-06T05:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "08674c36c323",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - News-Topic",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNa1gyekdtZGRJcEkxM0ZCelIzMFNnSjU3eGx3MklnSzk3WnhpQ2NfcWUwN0d2S2VkU21SMjM0UWtzM3pJTjUxRnhVVTVJbWt5M0dkem42bWZxR3QxWDQ3Y1Boam8weXBPcDdjeVdIMjRsQUlJNm43MDFmSktHZVRYUGh3cmQ2bFBfRS1Kb0xjLUlKZmNNYU01bW9vVWRyc21va3hUSXBhU2dId3lkZEQ3a0otM09xRmg3Xy1GUDExUE1EQ0J5VG0wdnVPbG8wdEtwNFlQVU96b041aXlUa190S2E0UVVhekF0Yi1BOE5nU3I4S0pOT18xdEdLekN5UVozMldieHRzY1BWbHhlVmNjMXNnalM?oc=5",
+   "date": "2026-10-06T05:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "f280038fbe1d",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Williamson Daily News",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQdl9oazhuV0xSaVlUYlNoeWxXMFV6SkFodC0zZDhWTTV3V2kyX3lRY3ZaTGlRYUhDZHJlZ01TMUdyLTM2MUdLZFBzR196SmJ4aUlSUHp1QVJKYmFQTjB6bmc4cnN4REltNU5OWExDS3ozbVdGLXVQN2ZaN3ltZWVnZ3NfNmFfWXEzdUpiOGV3eDZzX2x0LU9zQWxoRDJVcFZVYndacnZzM0xMZndvZkZ2QXpsSEtnOHlVTEp5MnlxYkYxOERnYUNQaHg0NllZZXdrV2xxSDhxdXZUQ2pQbnNVZXpYNGJGNnNhMkduUVdBYkFXTmpnbVdtODFacEVDeUhmWC1mVnk0V04xdlFKaW5lWGg0T0k5TXZlbnZONg?oc=5",
+   "date": "2026-10-06T05:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "3aa8db5ffe3e",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - KTBS 3",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTVczZ2pDTko2Y0dvRGJYY3FrdkYwMk02UTZ5ODlOcnY2TG1uNnB5eDZndXJZRW01Zl9oTmltSU55cnp0R1A2bXRsclRyRHBKRDNmUWpqcjk4QU0zdzJBTUlYdWpCWTdraWxfU3FSZzlQQVc4VEZJamlSZldWUHFPMnN0Uk85eXZ2N1I5Wmo4cF9lSVZVb2ZJZENkcGpOX3Q2SThhN0lLcEx2VkdIQlgzRXlSSXZuMDdDN3NEcC11Y0IyelVNYVlsMFI2eVBvWDQxdDJFdVAtLUlrWFBLVWZmenVtaC1LSFRXWUxtdzBqTGM1RHdDMlM3NjdENjhMbXdQMGZWeVA1UGY?oc=5",
    "date": "2026-10-06T05:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
