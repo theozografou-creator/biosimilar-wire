@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T21:26:52.151902+00:00",
+ "updated": "2026-10-07T00:38:55.261602+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,16 @@
  ],
  "items": [
   {
+   "id": "6bbc0c1556d6",
+   "source": "Google News: biosimilar",
+   "title": "Omlyclo, First Interchangeable Xolair Biosimilar, Launches in the US - Dermatology Times",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkZ3b21jMl80cGp2cjRGSG9fM0pVbXp6dC0xcjdqWXBiTFpiSUJTQ1RFY3labldNdDY2bTlGYTNadmc4VzR1bTJQRzJLd2VxR2ROelIwdzJiR0tJWkF2S1FPeWNPcWl5bnBHMHFXTWcxcmRCME1QaEpsR2gzamtKZzNCV3B0LWV4VXpkRnpLa3lmQng2LXNHbVVZZ1lkSlFDNDhPTkI1SQ?oc=5",
+   "date": "2026-10-06T23:06:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "8a8d63acaf46",
    "source": "Fierce Biotech",
    "title": "Big Pharma-backed Nuvig halts development of lead fusion protein in rare autoimmune disease",
@@ -61,6 +71,18 @@
    "snippet": "Big Pharma-backed Nuvig Therapeutics has halted one of the two trials for its sole clinical asset after determining the program wouldn’t be able to advance quickly enough.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "1ef23c7eebf2",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech taps LOTTE Biologics to support growing biosimilar portfolio - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT3JVXzVMUFBjX01OdDJJOWN0RW1ISTF5cXN4czdfaEFJUTJWaDVheGZ1Vkc3V210TzR2VXB5YmpXU01yR25oaGZ6aWc1Q0VOcUh5aTNkb0dBSTBZWVBRSnpsbGh3a3l2a1ZrTEx0M3B1NWNJd3Bzeld1RXEyODVrVW0yY19JcWF4VkFFOXp1RTlzSTE2YUQxZW53OW96UjhTQUVvMHFEVWZ1Mm1SNW5BT3hWQ1BrdjZ6RjY5TG03TllwdGN0QmdSd21iU3Y?oc=5",
+   "date": "2026-10-06T20:53:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "b9370fbca0ea",
@@ -375,6 +397,16 @@
    "watch": []
   },
   {
+   "id": "1442089da31a",
+   "source": "Google News: biosimilar",
+   "title": "Kamada Announces Expansion of Biosimilars Portfolio with the Launch of Two Additional Products in Israel - GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbWtycVRMUXRsencwd3lCaHBSNUw5aEUzdFFYeXlDTkRibklhM0ZUV1AyVlcwTDMwSlA0MTgtSDdQek54QlppczRNRmxpdU81ZGJkckRlcjFKUTJUTDJGbW95WjlaNF9PSmd1VGVzbWlITlBXOUxocF9nNVJYVW9BeTBzZ0RnaTJKQkpCVlpEa2FOWWttX2NEdnJzWmJEbGw1MUFrQ1NwSmpsZHBiaVlHOWY2bkhmTU5xT3gxczZwU3luNU5GVGw2SzlpeU5WUDhiNmF4UUFrUnpabUZFSm00d0dIVWs1MmgweFVMLUVyUjljTnlRcVVQbXgxZzMxLXZvRVRRV29fUQ?oc=5",
+   "date": "2026-10-06T11:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "1af7bfc491c0",
    "source": "BioPharma Dive",
    "title": "GE HealthCare to acquire Sofie Biosciences for $945M",
@@ -402,6 +434,16 @@
    "date": "2026-10-06T08:21:13+00:00",
    "snippet": "Lycia Therapeutics, a protein degradation startup built around science out of the lab of Nobel laureate Carolyn Bertozzi, has filed for an initial public offering. Two other biotech companies are also advancing their own Nasdaq ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "33b4317b550a",
+   "source": "Google News: biosimilar",
+   "title": "Orion Pharma announces agreement with Qilu Pharma Europe for pembrolizumab biosimilar for European market - GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYjRMN2lmbVdqcTAyMFo4NWdsN3VSOEh4TnZVTmN0dmk4T3RPZURQMVBDUGNrbHRWNUF1MmMzZWpvZzVneTdneVZhZDUyUFJGT0IzRmNvYndfZVFIV0ZJVlR3MkhLRThjaGlZU1FBWk45TWxYZWhUbFNzUzVxLVktVno3UndRNXNIM056WGlldHo5QUdsZF9xLWFodVpfb1RlN05Wdl9VNFFwQ2lHaWUyaWhUNGZUMk53WlYtczRvcGVaeFp5dWoyV3RrbmRJc2ZiaENRMUprOUZoMU5DV0FqMzFOd0VjdXVKVXYzdkh6cGR2WGRiNENQQndMVExjekE5SmU0YVNWQkQ?oc=5",
+   "date": "2026-10-06T06:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
