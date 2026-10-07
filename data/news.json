@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T18:33:09.841737+00:00",
+ "updated": "2026-10-07T21:28:25.899728+00:00",
  "ai": false,
  "feeds": [
   {
@@ -34,24 +34,54 @@
   },
   {
    "name": "GaBI Online",
-   "ok": true,
-   "count": 5,
-   "error": ""
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Center for Biosimilars",
-   "ok": true,
-   "count": 1,
-   "error": ""
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Google News: biosimilar",
-   "ok": true,
-   "count": 60,
-   "error": ""
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   }
  ],
  "items": [
+  {
+   "id": "7c34e2be24d4",
+   "source": "Fierce Pharma",
+   "title": "Sanofi drafts NY Knicks star Karl-Anthony Towns for COVID, Nuvaxovid awareness push",
+   "link": "https://www.fiercepharma.com/marketing/sanofi-drafts-ny-knicks-star-karl-anthony-towns-covid-nuvaxovid-awareness-push",
+   "date": "2026-10-07T21:28:25.899728+00:00",
+   "snippet": "New York Knicks champ Karl-Anthony Towns is sharing his personal experience with COVID to encourage others to talk with their doctors about vaccination options.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "268e45896d8a",
+   "source": "Fierce Pharma",
+   "title": "Novartis' Rhapsido tackles 2 most common forms of chronic hives with swift FDA expansion",
+   "link": "https://www.fiercepharma.com/pharma/novartis-rhapsido-tackles-2-most-common-forms-chronic-swift-fda-expansion",
+   "date": "2026-10-07T21:28:25.899728+00:00",
+   "snippet": "A little over a year after landing its flagship approval in chronic hives, Novartis’ oral BTK inhibitor Rhapsido is expanding its reach with a new FDA nod that comes with a notable ‘first’ for the field.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b33d0314e620",
+   "source": "Endpoints News",
+   "title": "PhRMA sues Trump administration over GLOBE drug pricing demo program",
+   "link": "https://endpoints.news/phrma-sues-trump-administration-over-globe-drug-pricing-demo-program/",
+   "date": "2026-10-07T18:57:21+00:00",
+   "snippet": "The pharma industry is yet again taking the government to court over its latest effort to control US drug prices. Last week, the Trump administration finalized a demonstration program, called GLOBE, that was meant to ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "75e951ce381f",
    "source": "Fierce Biotech",
