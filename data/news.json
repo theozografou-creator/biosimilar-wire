@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T06:33:05.130349+00:00",
+ "updated": "2026-10-07T09:30:02.695199+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "3ee93bc2d6e1",
+   "source": "Fierce Biotech",
+   "title": "CAR-T biotech Caribou makes ‘heartbreaking’ call to shrink headcount, halt pipeline",
+   "link": "https://www.fiercebiotech.com/biotech/caribou-cuts-staff-halts-pipeline-board-explores-potential-paths-car-t-candidates",
+   "date": "2026-10-07T09:30:02.695199+00:00",
+   "snippet": "The Bay Area biotech is discontinuing all clinical development activities and implementing a \"substantial reduction in workforce.\"",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "dfa872022fd2",
    "source": "Fierce Pharma",
