@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T15:39:25.152189+00:00",
+ "updated": "2026-10-07T18:33:09.841737+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,98 @@
   }
  ],
  "items": [
+  {
+   "id": "75e951ce381f",
+   "source": "Fierce Biotech",
+   "title": "Cadrenal launches strategic review for late-stage cardiology pipeline",
+   "link": "https://www.fiercebiotech.com/biotech/cadrenal-launches-strategic-review-late-stage-cardiology-pipeline",
+   "date": "2026-10-07T18:33:09.841737+00:00",
+   "snippet": "Cadrenal Therapeutics, a heart-focused biotech that recently reached an agreement with the FDA on the design of a pivotal trial for its lead candidate, is now instead looking to offload its pipeline or potentially the entire company.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1d3ecded564b",
+   "source": "Fierce Biotech",
+   "title": "ARPA-H unveils Surpass program to accelerate and expand clinical trials",
+   "link": "https://www.fiercebiotech.com/cro/arpa-h-unveils-surpass-program-accelerate-and-expand-clinical-trials",
+   "date": "2026-10-07T18:33:09.841737+00:00",
+   "snippet": "The U.S. Department of Health and Human Services announced the launching of a new program aimed to remove barriers that slow clinical development and transform how clinical trials are designed and conducted.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e41227b48c53",
+   "source": "Fierce Biotech",
+   "title": "Stryker strikes up a new CEO in Spencer Stiles as Kevin Lobo moves upstairs",
+   "link": "https://www.fiercebiotech.com/medtech/stryker-strikes-new-ceo-spencer-stiles-kevin-lobo-moves-upstairs",
+   "date": "2026-10-07T18:33:09.841737+00:00",
+   "snippet": "Stryker veteran Spencer Stiles will take up the chief executive role as its former CEO Kevin Lobo will move into the boardroom.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3e28828eee07",
+   "source": "Endpoints News",
+   "title": "Ultragenyx sells PRV for $210M and still has another to monetize",
+   "link": "https://endpoints.news/ultragenyx-sells-prv-for-210m-and-still-has-another-to-monetize/",
+   "date": "2026-10-07T18:24:16+00:00",
+   "snippet": "Ultragenyx Pharmaceutical is selling a priority review voucher to an undisclosed buyer for $210 million, marking one of the richest sales of the speedy-approval tool so far this year. The California ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "00070d3b9381",
+   "source": "Endpoints News",
+   "title": "Dutch court blocks subcutaneous Keytruda in eight European countries",
+   "link": "https://endpoints.news/dutch-court-blocks-subcutaneous-keytruda-in-eight-european-countries/",
+   "date": "2026-10-07T18:21:47+00:00",
+   "snippet": "A Dutch court has ordered Merck to stop manufacturing and selling its injectable formulation of Keytruda in eight European countries. The court ruled that Merck infringed one of Halozyme's patents and",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d7198b476682",
+   "source": "Endpoints News",
+   "title": "Zuckerberg's Biohub expands virtual cell effort to $1.8B, with Meta, Google",
+   "link": "https://endpoints.news/zuckerbergs-biohub-expands-virtual-cell-effort-to-1-8b-with-meta-google/",
+   "date": "2026-10-07T18:05:41+00:00",
+   "snippet": "Tech giants and US government agencies are funding an ambitious effort to build AI models to predict cellular behavior and broader biology. With $1.8 billion in backing, Mark Zuckerberg and Priscilla Chan's nonprofit Biohub",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ffe9072ecd31",
+   "source": "Endpoints News",
+   "title": "WHO advises against obesity drugs for younger children",
+   "link": "https://endpoints.news/who-advises-against-obesity-drugs-for-younger-children/",
+   "date": "2026-10-07T18:00:31+00:00",
+   "snippet": "The World Health Organization on Wednesday recommended against GLP-1 drugs for children under 10 with obesity and said adolescents ages 10 to 19 should receive them only after a supervised lifestyle program fails, as drugmakers ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "80069008b2a6",
+   "source": "Big Molecule Watch",
+   "title": "Biocon’s Pertuzumab Biosimilar Receives Positive CHMP Opinion Under EMA’s Tailored Clinical Approach",
+   "link": "https://www.bigmoleculewatch.com/2026/10/07/biocons-pertuzumab-biosimilar-receives-positive-chmp-opinion-under-emas-tailored-clinical-approach/",
+   "date": "2026-10-07T16:59:52+00:00",
+   "snippet": "On September 22, 2026, Biocon Biologics Limited (“Biocon”) announced that the European Medicines Agency’s (“EMA”) Committee for Medicinal Products for Human Use (“CHMP”) issued a positive opinion recommending marketing authorization for PEBRILZO® (pertuzumab), its biosimilar to ...",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "10ae2acf320e",
+   "source": "Google News: biosimilar",
+   "title": "Takeda Says Samsung Biosimilar Plans Infringe Entyvio IP - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LaVZMbHZSRTA5cHQ4aTJCZTR6THlHWE9vZVd5T1Blb3VlR183bzRFU1ZNZmg3TFpQNGNuZldFVE1zMmFVSHRRUlN0Vm10U0pOdExZSEtB0gFWQVVfeXFMT0tpVkxsdlJFMDlwdDhpMkJlNHpMeUdYT29lV3lPUGVvdWVHXzdvNEVTVk1maDdMWlA0Y25mV0VUTXMyYVVIdFFSU3RWbXRTSk50TFlIS0E?oc=5",
+   "date": "2026-10-07T16:35:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "e6033d22e449",
    "source": "Fierce Biotech",
@@ -143,12 +235,32 @@
    "watch": []
   },
   {
+   "id": "5668e4d9a4f8",
+   "source": "BioPharma Dive",
+   "title": "Caribou to halt CAR-T work, lay off staff amid ‘challenging’ funding climate",
+   "link": "https://www.biopharmadive.com/news/caribou-layoffs-strategic-alternatives-allogeneic-cell-therapy-vispacel/832343/",
+   "date": "2026-10-07T15:37:00+00:00",
+   "snippet": "Despite having an allogeneic cell therapy prospect that’s ready for late-stage testing in lymphoma, Caribou couldn’t secure funding to support the effort and will now pursue “strategic alternatives” instead.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "8157ed7ed3f6",
    "source": "Endpoints News",
    "title": "Bexorg gets $28M ARPA-H award to run longer tests on ‘rebooted’ human brains",
    "link": "https://endpoints.news/bexorg-gets-28m-arpa-h-award-to-run-longer-tests-on-rebooted-human-brains/",
    "date": "2026-10-07T15:24:58+00:00",
    "snippet": "For years, scientists assumed that cells in the brain began decaying immediately after death. But researchers threw ice on that theory seven years ago when they showed it was possible to restore cellular activity in ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "59ceec38416d",
+   "source": "BioPharma Dive",
+   "title": "Halozyme prevails in patent fight with Merck; Enliven readies anticipated leukemia trial",
+   "link": "https://www.biopharmadive.com/news/halozyme-merck-europe-enliven-insmed-rougetx-kymathera/832282/",
+   "date": "2026-10-07T15:21:00+00:00",
+   "snippet": "A Dutch court barred Merck from selling subcutaneous Keytruda in several European countries. Elsewhere, an Insmed executive ended a seven-year run and two startups secured venture cash.",
    "biosimilar": false,
    "watch": []
   },
