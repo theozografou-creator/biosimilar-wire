@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T03:28:53.116305+00:00",
+ "updated": "2026-10-07T06:33:05.130349+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,70 @@
   }
  ],
  "items": [
+  {
+   "id": "dfa872022fd2",
+   "source": "Fierce Pharma",
+   "title": "Rising Stars: How VML Health’s Molly Kanofsky turns ‘an idea on a page’ into real-world impact",
+   "link": "https://www.fiercepharma.com/marketing/vml-healths-molly-kanofsky-loves-turning-idea-page-real-world-impact",
+   "date": "2026-10-07T06:33:05.130349+00:00",
+   "snippet": "VML Health's Molly Kanofsky ended up in the pharma marketing world after an unexpected career detour, where she's now able to merge her passion for healthcare with her creative side.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f980e68f0d2f",
+   "source": "Fierce Pharma",
+   "title": "Noom puts a spooky voice to the haunting threat of weight regain for GLP-1 users in new spot",
+   "link": "https://www.fiercepharma.com/marketing/noom-puts-spooky-voice-haunting-threat-weight-regain-glp-1-users-new-spot",
+   "date": "2026-10-07T06:33:05.130349+00:00",
+   "snippet": "Noom's horror movie-esque new ad showcases the haunting threat of weight regain on GLP-1s, which the Noom app can help fend off.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fd1beaa4b736",
+   "source": "Google News: biosimilar",
+   "title": "FDA Approves Degevma Denosumab Biosimilar to Xgeva - Specialty Pharmacy Continuum",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVHlLeUJKRml2VkRuMlFSWlJMaDRwX19DWi1QdkxmRldvemc4N2FfRUo3SUlsSXpIZWdGNnNDdlZKMTlrRWwzWDhHRkhPc2g4S09SNW5WVjRJVnF2LW4xYWZPVmlSQloyV2hETk1sTFEweFk3YTBXRGlxZS01bWl6OEg3UjRQYUVSVThONGZxc1djakhpM0JIMDAzakFseElfZjNsTEp0NV9TSmdQY0V3OTNRRmhQZ1RFcjNiZExFSQ?oc=5",
+   "date": "2026-10-07T05:48:15+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "67f1cf27734c",
+   "source": "Google News: biosimilar",
+   "title": "Palindrome Pharma Launches in Canada to Unlock Access to High-Quality Biosimilar Medicines - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOejRGRGVqanVMb0ZlcEZEbjFZWU1tZEFDazhSM3FtaGJXZV9tcFljakxVSnBtY1hjRTRtUmdYTUpLLUQ5bDhJZ3FmWjJENENfZW9XWkpTVUh3bmQxNE92NFB0TmR3YXJoMnc1YVVsZFNmVUxOc05WODFfNG1GcTJuTDlYM2psT214T1lXQUlUUVl4T3JobG9vYklGVWczc3ZZR0hn?oc=5",
+   "date": "2026-10-07T04:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "f4c0ea3e3df6",
+   "source": "Google News: biosimilar",
+   "title": "First Omalizumab Biosimilar Enters US Market with Launch of Celltrion’s Omlyclo® - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVhVYWRBRU1ISGU3U2VsV2Z1cmJUY3cwQVFMODZnbk5qVi1lclVKSVJWcnNRT19lWUNtazZTNHNESDYtUC1hcTJYX3JqTEFCQkZVRjUwbXNOYVVqSHNneDJtR1pxeXlTR2I1X05HTXB0UGRNN1FDdnJnZnNSRlYxdF9iUjdJUGZCczZTV09zN3VPRW5kZTNOQi1CZkd2UFRIdUJ1VzJVRDU2QmItekNCdEMtdkV2dw?oc=5",
+   "date": "2026-10-07T03:30:52+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "7c6a8b1b82bd",
+   "source": "Google News: biosimilar",
+   "title": "Lotte Biologics to manufacture Alvotech antibody biosimilars at Syracuse plant - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iTmM2UmRVb2N4anc3d2E0WE16WmVwY0tja2lsWFBKcW5LZm1mNG02NFNFajdfMXhEemlqQnN1RUVTckpkNUdieU1wRk5fTGtkaWdGYWI1ekdPbndoMFpMaVJzUUZYX0haWlQtRG5n0gFyQVVfeXFMTU00UXE0dFJVNmRwYVR0YklEcXRuY1ZVNmZpV2o0RHVVWW9ybVVCQmI4ZUtMQ2pDYVZldWc3Zy1zLWdBXzQyYWtVUl9PMW5FMENPVldvS1FJUU9XWHBUNXhDVzBlMkJFRXlLTE1JR3RCdVZn?oc=5",
+   "date": "2026-10-07T01:32:46+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
   {
    "id": "6bbc0c1556d6",
    "source": "Google News: biosimilar",
