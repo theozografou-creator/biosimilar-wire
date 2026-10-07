@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T09:30:02.695199+00:00",
+ "updated": "2026-10-07T12:36:08.623098+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": ""
   },
   {
@@ -52,6 +52,56 @@
   }
  ],
  "items": [
+  {
+   "id": "a5d47e129313",
+   "source": "Fierce Biotech",
+   "title": "MimiVax’s cancer vaccine fails phase 2 glioblastoma study, but CEO still sees data as ‘inspiring’",
+   "link": "https://www.fiercebiotech.com/biotech/mimivaxs-ph-2-glioblastoma-vaccine-trial-misses-primary-endpoint-gleams-hope-subset-newly",
+   "date": "2026-10-07T12:36:08.623098+00:00",
+   "snippet": "MimiVax has reports a phase 2b miss in newly diagnosed glioblastoma patients, but remains positive about a significant survival benefit in a subset of patients 65 years and under.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2a0dbfed9057",
+   "source": "BioPharma Dive",
+   "title": "A Takeda spinout builds case for its Parkinson’s drug",
+   "link": "https://www.biopharmadive.com/news/cerevance-solengepras-parkinsons-study-results/832324/",
+   "date": "2026-10-07T12:01:00+00:00",
+   "snippet": "Cerevance plans to meet with the FDA to “determine next steps” for a new kind of medicine known as solengepras, now that it has Phase 3 data in hand.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "efc80a254a42",
+   "source": "Endpoints News",
+   "title": "MimiVax's cancer vaccine for glioblastoma narrowly misses Phase 2b goal",
+   "link": "https://endpoints.news/mimivaxs-cancer-vaccine-for-glioblastoma-narrowly-misses-phase-2b-goal/",
+   "date": "2026-10-07T12:00:43+00:00",
+   "snippet": "A brain cancer effort more than a decade in the making has culminated in a disappointing study result — but researchers behind it are contending there’s enough of a promising signal to give certain patients with ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0128fb6523f3",
+   "source": "Endpoints News",
+   "title": "TCGX doubles down on China with $600M Asia-focused fund",
+   "link": "https://endpoints.news/tcgx-doubles-down-on-china-with-600m-asia-focused-fund/",
+   "date": "2026-10-07T12:00:40+00:00",
+   "snippet": "Chen Yu's TCGX, a private and public biotech investment firm, is going to invest directly in life sciences companies in China and elsewhere in Asia. The Palo Alto, CA-based firm on Wednesday announced a $600 ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "954055fc9fb3",
+   "source": "Endpoints News",
+   "title": "CAR-T biotech Caribou weighs its options after struggling to find funding",
+   "link": "https://endpoints.news/car-t-biotech-caribou-weighs-its-options-after-struggling-to-find-funding/",
+   "date": "2026-10-07T11:17:25+00:00",
+   "snippet": "Caribou Biosciences said Tuesday it is shelving two allogeneic CAR-T cell therapy programs and heading for the exit after failing to secure funding to continue its work. The California biotech is discontinuing vispa-cel for relapsed ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "3ee93bc2d6e1",
    "source": "Fierce Biotech",
@@ -581,6 +631,16 @@
    "watch": []
   },
   {
+   "id": "20d8b8a9b7b3",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - cherokeephoenix.org",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQWdGSUpCSENDZzhIaUQ1bkFjOWszcmllWlVHc1dnSmZocTdqVkNvY3g1S2tWQlN4bE5xankybWhDTDJuTzJOcG5sdVZTRS1xUVF3UFZfMXhUVDlqWFlTSmRxakk0b1FiNW15WWZpY1FYR2Q0aWlfcE5qblU0bnJhSlppLXJ5ZDhFS2c5S2RQMFBGQnhMVE9MNW9wT0NYTTcwOXRUWW05WEZjOWtlQ0JfT2hoN1NLYWRLc2FFaUFaWms2Q080dnZuQVdJN3dIbkMzNUdPM3FydVZIdURYYnkydFdBcXNpeGlldndSMEs2TzVxWkdjZ2toX0NCMnZ6VExFS3MtZ0VJejhfOXI5ZGdWNXA0TE0zM1k?oc=5",
+   "date": "2026-10-06T05:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "d295c175aab7",
    "source": "GaBI Online",
    "title": "GaBi Online | Global - Generics and Biosimilars Initiative",
@@ -672,6 +732,18 @@
    "title": "Alvotech Soars 13% on FDA Nod That “Effectively Doubles” US Humira Biosimilar Capacity - TIKR.com",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmlwcEZpNzRPTmhNNjZocXd1a3oxZkZoclgwRXY0QkdmekJGdjVLRXBDb0pNUXdzc2pXNjllcmNaZE9XazNnbHY1WVgxeThVYXpJeTVFakFmdC1GdFNYdURFbExtdW5OWkVyUlA3eEoxczZkSHVLSTZ0X05TckF1MTRoTUhVdXJZZVdMTGJYZGZxTnU2aFdXVWVqVy1VdUxQY2hPRVZRb1R5NjRDQnc?oc=5",
    "date": "2026-10-05T19:17:24+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "cd1facc2c9ea",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Soars 13% on FDA Nod That “Effectively Doubles” US Humira Biosimilar Capacity - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOEsxVlY2OUhWU1JVSGFWaW5CQXJ3TEtYNy1kVk1rcHJGSXlKS3NPZkI1elR4eXJtYjd6UXctbjBMMHJvdFJ5S194UjRJX3g4RE9sOUY4NnNGQnROYjd5bXlYTTZ5Snc2RFZPc1VIb09nb1JxUV80REp0Ty0xR2RMWHlsN01PWExiRno1ZDU5Zw?oc=5",
+   "date": "2026-10-05T19:14:09+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -3017,6 +3089,16 @@
    "title": "ANVISA and DINAVISA sign MoU to strengthen border surveillance and regulatory cooperation - Generics and Biosimilars Initiative",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNjdTXzJSaUM4Mjd0ckNKUlNVUDVFVk9EeXpMX3hHcV9vYmpaY3BXM3E1a09IQVZBQmIzNTFjbENfLU1aSGJlcXVqOEFsNnVlSTdjLXBTVkphMm1GaWlDMVVuWE94bnJDODZ5TFgza0ExN2I0N1BvRDdEZzNnVzNIenVIbFF3THFCbkg0a05YcmZ4OU45WVZwU3hwUFpTVzFxbTM1bUFGbFV2WDZfTXUwNENmR1VRQldyUlM3MFVkZ1FrZkJFS0Z5bG9EaEdQdw?oc=5",
    "date": "2026-09-25T10:04:58+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "2ec7b2a4883c",
+   "source": "GaBI Online",
+   "title": "FDA approves third interchangeable insulin glargine biosimilar Langlara - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDV2cEh1ZkVfc2RPSXJCajVxaFlncU1rMUlpazlLdWhYMnZ1b3JkOUhBUVZLcG9NWG1TOHhxbEN0OFBOeFpHbTFMZUhsZkJNVGM1ZGlIZFRWTzlnTTd4MWVXb0NHdjFFUllfUTI1SFk0dk1FS0Q5RHpNY0NEeGZ2akZCU0toal8zeVgtXzNFS3Y1elRxM1QwWHZzeGhaUmUxYkhkS2RnQXBUWmxPSnl0ckZDdExCUQ?oc=5",
+   "date": "2026-09-25T01:54:33+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
