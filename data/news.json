@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T09:30:09.335927+00:00",
+ "updated": "2026-10-08T12:36:22.682228+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,56 @@
   }
  ],
  "items": [
+  {
+   "id": "c689255b6f4b",
+   "source": "Fierce Biotech",
+   "title": "‘It’s just survival now’: Why is almost a third of Boston’s life sciences lab space sitting vacant?",
+   "link": "https://www.fiercebiotech.com/biotech/its-just-survival-now-why-third-bostons-lab-space-vacant",
+   "date": "2026-10-08T12:36:22.682228+00:00",
+   "snippet": "Vacancy rates for lab and manufacturing spaces in Massachusetts increased 11-fold to 31% between 2021 and 2026. So what's gone wrong?",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "eff38fd67eba",
+   "source": "Fierce Biotech",
+   "title": "Ono pays $80M for regional rights to trio of Biohaven IgG degraders, including phase 3 Grave’s asset",
+   "link": "https://www.fiercebiotech.com/biotech/ono-pays-80m-regional-rights-trio-biohaven-igg-degraders-including-phase-3-graves-asset",
+   "date": "2026-10-08T12:36:22.682228+00:00",
+   "snippet": "Japan’s Ono Pharmaceutical is paying $80 million upfront for the regional rights to a trio of Biohaven’s IgG degraders led by a phase 3-stage Grave’s disease prospect.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "04b75f59cc96",
+   "source": "Fierce Biotech",
+   "title": "Zealand, Roche’s ‘intriguing’ weight loss for amylin drug soured by blood sugar data",
+   "link": "https://www.fiercebiotech.com/biotech/zealand-roches-intriguing-weight-loss-soured-blood-sugar-data",
+   "date": "2026-10-08T12:36:22.682228+00:00",
+   "snippet": "Zealand Pharma has reported more phase 2 data on its Roche-partnered amylin analog, linking the drug candidate to competitive weight loss but a lackluster effect on blood sugar.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1848c39accea",
+   "source": "Fierce Pharma",
+   "title": "PhRMA launches new legal challenge as CMS brings 'most favored nation' pricing to Medicare Part B",
+   "link": "https://www.fiercepharma.com/pharma/phrma-launches-new-legal-challenge-cms-brings-most-favored-nation-pricing-medicare-part-b",
+   "date": "2026-10-08T12:36:22.682228+00:00",
+   "snippet": "As the Trump administration advances plans to bring its “most favored nation” drug pricing model to Medicare Part B, the pharmaceutical industry’s top lobbying group is pushing back in court.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5cb831dae248",
+   "source": "Endpoints News",
+   "title": "Argenx's study flop in Sjögren's overshadows a win in celiac disease",
+   "link": "https://endpoints.news/argenxs-study-flop-in-sjogrens-overshadows-a-win-in-celiac-disease/",
+   "date": "2026-10-08T11:00:06+00:00",
+   "snippet": "Argenx on Thursday reported one success and one setback in its autoimmune disease pipeline, sending its shares tumbling. The Belgian-Dutch pharma said it is shuttering a Phase 3 trial of its ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "87764a90ed44",
    "source": "Fierce Biotech",
@@ -1461,6 +1511,16 @@
    "source": "Google News: biosimilar",
    "title": "OMLYCLO® (omalizumab-igec), the first and only FDA-approved interchangeable biosimilar to XOLAIR®, now commercially available in the U.S. - PR Newswire",
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPenY1OElnOWJ5YWx4cWFkU2gwWnZSYzBrVmYxdVZUS1M3ckM4Sy1VWjJpMml6OGs0ZFZ1RE9hWHhVMDhONGlWLVNvRkxjZm1zZ3p2clVkQ2RMeDktV1BaMmw4UkxXbHd6ZHF6dWZWM1lsb1Q1MGZzT3JiY3FCdy1SSTNpVjJZSGZQWnlHSExJeF85SFYwQ0dTSGJkRFhYT1JtX25vMldGcWZHVlBpTU5FeWRZMWlrS0Q4Y0RXWU1EV1EwRkU5N2k2cHVlMG92VFkyUXhJa3Y4TlZyc3duY0Naa1dtTHRHTFpLcjUyd1pxV2NnRllZb3lleTJNNUhEM04xSG1UYTVoZXpNWXBjd2ItM0paaw?oc=5",
+   "date": "2026-10-05T12:45:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "284ab0824cef",
+   "source": "Google News: biosimilar",
+   "title": "OMLYCLO® (omalizumab-igec), the first and only FDA-approved interchangeable biosimilar to XOLAIR®, now commercially available in the U.S. - Eastern Progress",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPODVDdG5sSFpjRlFjMzBhcGxzaFJLSXU5S2V3TUYwaXlvZmJ5YjVRVzBIb0hCRnduV0FfRzhXWFd3SFRqb0NZUVd4ZUZtamdJejFZVlZKc3RpTWJidzg3NzNQQnk4ZEJsN0paa2VVS2lBajVQZmwyUUtHMDRGZ1AzNjdERGVCOFZlYTQzWHU5cUIyRXBYLXRBeXoyUk9ObzdBX25Xem5NM194dENwUUNwaFNpdmd1LXJtb1JMbUt0MnBPOGcyZlhsdW5MdExMZzhrY2xFbGkxekZRVDJDWWtWWWNQc0ZFWnV1bkkzMmJqaGNQOFBCU0tpTDV5andLSWpfZHVYa3RPUGZ0ekkybjdIWGJPdFR2V0VRa2dz?oc=5",
    "date": "2026-10-05T12:45:00+00:00",
    "snippet": "",
    "biosimilar": true,
