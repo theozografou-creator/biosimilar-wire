@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T15:31:23.384221+00:00",
+ "updated": "2026-10-08T18:32:17.515164+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,48 @@
   }
  ],
  "items": [
+  {
+   "id": "547c07469992",
+   "source": "Endpoints News",
+   "title": "Viatris to make $1.65B Pacira acquisition, adding to momentum in pain",
+   "link": "https://endpoints.news/viatris-to-make-1-65b-pacira-acquisition-adding-to-momentum-in-pain/",
+   "date": "2026-10-08T18:13:05+00:00",
+   "snippet": "Viatris, a generics and branded medicines maker, is buying into non-opioid pain drugs with a cash acquisition of commercial-stage Pacira BioSciences. The Thursday morning deal, valued at $1.65 billion, follows a ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2416814b63cd",
+   "source": "Endpoints News",
+   "title": "Robotics company Multiply Labs nets $75M; Isotope maker NorthStar gets up to $185M",
+   "link": "https://endpoints.news/robotics-company-multiply-labs-nets-75m-isotope-maker-northstar-gets-up-to-185m/",
+   "date": "2026-10-08T16:27:16+00:00",
+   "snippet": "Plus, news about Roche’s Genentech and Fresenius Kabi. Multiply Labs collects $75M: The robotics biomanufacturing company’s Series B raise will be used to increase its capacity and headcount as it moves ...",
+   "biosimilar": false,
+   "watch": [
+    "Fresenius Kabi"
+   ]
+  },
+  {
+   "id": "f4100b372b08",
+   "source": "BioPharma Dive",
+   "title": "Viatris boosts pain drug portfolio with $1.7B buyout of Pacira",
+   "link": "https://www.biopharmadive.com/news/viatris-pacira-acquire-pain-drug-zilretto-exparel/832481/",
+   "date": "2026-10-08T16:00:00+00:00",
+   "snippet": "The deal hands Viatris two non-opioid pain treatments that booked nearly $700 million in 2025 but could soon lose patent protection. Viatris vowed to use its “intellectual property expertise” to sustain sales.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ec043494245e",
+   "source": "BioPharma Dive",
+   "title": "Argenx falls as Sjögren’s setback offsets celiac drug progress",
+   "link": "https://www.biopharmadive.com/news/argenx-sjogrens-vyvgart-celiac-forte-study-results/832463/",
+   "date": "2026-10-08T15:38:00+00:00",
+   "snippet": "A monitoring board’s recommendation to stop the study for futility took Wall Street by surprise, removing one more ‘blockbuster expansion opportunity’ for Vyvgart.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "206b6174f61c",
    "source": "Fierce Biotech",
@@ -153,6 +195,16 @@
    "watch": []
   },
   {
+   "id": "683c79999b3b",
+   "source": "BioPharma Dive",
+   "title": "In the hunt for reverse merger targets, Caribou could be prized game",
+   "link": "https://www.biopharmadive.com/news/caribou-reverse-merger-prospects-cell-therapy-private-public/832494/",
+   "date": "2026-10-08T15:23:00+00:00",
+   "snippet": "The struggling cell therapy developer is exploring strategic alternatives, which, among other characteristics, make it a likely candidate to receive reverse merger interest.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "762d99328413",
    "source": "Endpoints News",
    "title": "Long ignored by drugmakers, preeclampsia is now a focus for WHO and biopharma",
@@ -181,6 +233,18 @@
    "snippet": "Zealand Pharma and Roche rolled out some mid-stage data for their amylin drug in obesity and diabetes, hoping to compete with Eli Lilly. In a Phase 2 study, petrelintide reduced patients’ ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "8ac101f76c8e",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech, LOTTE Biologics forge U.S.-based manufacturing agreement for biosimilars - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSm5fM3dUbmZXSHA5SWpaSW1kdWNtdFRfdmhpNUw4dmwxRWdHY2NyMGJrM0pSREh1OHBZYkJMMXo2ektYcmR3ZlVTbmVBRmR3UmZCSUVpSHVUcE5zSWdoTTFXc25rallQMzFvRnJIekhIaUgzUTltVjJZMHoxQVlDbHZWZ182VWV6VjNzTDFaSTRkN3FHemw2T2V2VFFnT2lfWUhr?oc=5",
+   "date": "2026-10-08T14:33:12+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "dd2f767a8129",
@@ -726,6 +790,18 @@
    "title": "Lotte Biologics to manufacture Alvotech antibody biosimilars at Syracuse plant - Korea Biomedical Review",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iTmM2UmRVb2N4anc3d2E0WE16WmVwY0tja2lsWFBKcW5LZm1mNG02NFNFajdfMXhEemlqQnN1RUVTckpkNUdieU1wRk5fTGtkaWdGYWI1ekdPbndoMFpMaVJzUUZYX0haWlQtRG5n0gFyQVVfeXFMTU00UXE0dFJVNmRwYVR0YklEcXRuY1ZVNmZpV2o0RHVVWW9ybVVCQmI4ZUtMQ2pDYVZldWc3Zy1zLWdBXzQyYWtVUl9PMW5FMENPVldvS1FJUU9XWHBUNXhDVzBlMkJFRXlLTE1JR3RCdVZn?oc=5",
    "date": "2026-10-07T01:32:46+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "db30eb225f69",
+   "source": "Google News: biosimilar",
+   "title": "Lotte Biologics Wins Contract to Manufacture Alvotech Biosimilar Drug Substance - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2UDhFOUJPcVBidGJaTkdUR2laTlF3bGhSLWsyODhqUUdUMzlIMGkzWEtJM3RhQlkwT0FzcjBvR05HbzltaHNLUGc1SDIxeTM3MFFDa1NBRzZicnZmdEhDZXJ0Z0x0R0w1MUtiNWkwWm9fd3hqNGc?oc=5",
+   "date": "2026-10-07T01:06:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
