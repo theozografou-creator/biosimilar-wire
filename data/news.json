@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T03:29:12.837879+00:00",
+ "updated": "2026-10-08T06:35:54.110549+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "c150ba395365",
+   "source": "Google News: biosimilar",
+   "title": "FDA Approves Degevma, Biosimilar to Xgeva - Pharmacy Practice News",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNDZRWEt4LTUtRzZYNV9CNkNMN2o0cVpWVld1b1VKSXhPRTlSMkkwS3pwRW1razdQTDVseG9DWUN6NXZIRGJfelExdy03T1dESnI0WXlQVkNDRnhtVWc4Z25QV3BtYUJ2Zno1aE9KSXQyVndLVFlQXy1ZNkZ4Ry1tX2dKUERxY3Fkd1d1eHR4ZUlodUlZUGNXWFhVRFVjd2FjbDBsVjBwOUQtZkh5dHQ4NEdxZkhPMVlFLW1GdFZLOHhBWUdOVlZB?oc=5",
+   "date": "2026-10-08T04:58:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "7c34e2be24d4",
    "source": "Fierce Pharma",
@@ -1657,6 +1667,18 @@
    "source": "Google News: biosimilar",
    "title": "FDA approves additional U.S. manufacturing capacity for SIMLANDI®, Alvotech’s biosimilar to Humira® - GlobeNewswire",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV2I1cmdpd09uaHg5Ql9kVzFsakZMRGQteVN5UWZtQ2FoQTEwbFJNWFU3RzlwRnJyeUdpbUNkQnBzM2VfVEJUZlY3N3FpRkZ3WnBMZTRxWVlfTkhVTnJXTTZaNzUzcnItV1pHSDZnRXNiUGMwRlRkZUpvaW1aYm1NYnU0RmZKSS1tR21IRWYzakhGOVVYbHlSd21rNEg0TUJodTAzRTRpd0NhdDM0eFNOeUdsWm92ZG9kd2xPdlJ1eUlCWVU0NDBVZGFZSy16ZnRDc05VY1k3MVEyZjdJdU5MMTE5eFlTNzA2TnNlWHFETlRTRG0zN29WS1FxNFdvNEk?oc=5",
+   "date": "2026-10-05T08:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "30e398ca5809",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves additional U.S. manufacturing capacity for SIMLANDI®, Alvotech’s biosimilar to Humira® - GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNY3RMYkJoMW9DZHF4R1E4czJGNU5TSzRGc3BrT1hxSDhGQjJyVkVpZjlxb2RRSjlRVGl0ai1GVmZrZmlzQU1YSU9lazJWS054b3FZcTVSbkhRclh5d0oyWWFQQXFSUVBmNkpwRGhSVXBuTmZnUE9WMGdObVNvX1BNeG84aTJSLWhqZW8xZWJMVVZvaXBOejlnLVNpNG9Dbjk4WVNIeWlfWkFWWjgyMzNMZl93VEl2eGFhdks1aWdSOUo0ZC1QVXp3N00zQ3JxUlBmdXhHNDVMVUlQdGtWZmpXR3VIS2FpLU9nZ0lJckhjWHRvdHA2cm95Y2g4M1FqVEU?oc=5",
    "date": "2026-10-05T08:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
