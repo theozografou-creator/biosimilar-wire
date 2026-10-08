@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T00:37:42.969532+00:00",
+ "updated": "2026-10-08T03:29:12.837879+00:00",
  "ai": false,
  "feeds": [
   {
@@ -78,6 +78,16 @@
    "title": "The BioPharm Brief: Advancing ADCs, Biosimilars and CAR-T Therapies - BioPharm International",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS1FGa0xjUWl1VW5lYWdfZkI3ZURKeW5iSjNodG1nckRNbUdjQy16TWM2c2YyUXdadWJVN2xwajVZWDU3M1pJMHVSZEFvMjlYOEpOM0kwUzNDblh3blhrV1ppTTE0blNPXzhYMWpyeDRodFpPN2FOeTN0TjR3UHVsZG1xdDNOU2JNREM4Ri0wYVhmT3FkaS1VR19ZOWVILXhYREE?oc=5",
    "date": "2026-10-07T20:38:46+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a78f872ff51a",
+   "source": "Google News: biosimilar",
+   "title": "Omlyclo, First Interchangeable Xolair Biosimilar, Now Available in the U.S. - BioPharm International",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUVoczg5RFZpQmdXbWsyM2tPOGVobEtDZV9YSTFJWjdOZ1d4eUx3dk1yZzlna0VnYVgyTHlQeUcyVWVuLXEyX1c0SFkxbHdHRVBLVEZHY3FnSmFhM3ZsNGpSSEpwVmowbU03RnhIZ1FPRUhQdDYyLV92Y3FrZ1dKRWdORkJwMHhWUWgtQXRCUW4zQlY4alBQWXlDMk51cnVGNHc?oc=5",
+   "date": "2026-10-07T20:17:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
