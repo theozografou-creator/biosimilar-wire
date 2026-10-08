@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T18:32:17.515164+00:00",
+ "updated": "2026-10-08T21:28:48.472220+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 1,
+   "count": 3,
    "error": ""
   },
   {
@@ -53,6 +53,58 @@
  ],
  "items": [
   {
+   "id": "5e3982af61e4",
+   "source": "Fierce Pharma",
+   "title": "BMS fills out Zenbexus picture with post-approval PFS victory in multiple myeloma",
+   "link": "https://www.fiercepharma.com/pharma/bms-fills-out-zenbexus-picture-post-approval-pfs-victory-multiple-myeloma",
+   "date": "2026-10-08T21:28:48.472220+00:00",
+   "snippet": "BMS has put up the progression-free survival numbers on its recently approved Zenbexus regimen, more than doubling the score over a control cocktail of daratumumab, bortezomib and dexamethasone.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "701cf19654df",
+   "source": "Google News: biosimilar",
+   "title": "Thyme Therapeutics Launches To Develop Lower-Cost Oncology Biosimilars - Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeUpZc3g0dkFnRlE5LWdIb3RVaWxqUHNnNVVtT0V3UGl6MVVWQldQRC1abGFCZ21ubkxoTkpmYzhDcnJ2UlVGUTJhdGNDbFRPN0I3MG56UWZXV0liQmxCZXExako1bVlKeXNGbThSVVRScmlvYmJtZWtmaGVVN1NDS3BJdUUtU0plNjgxalM2WlJ1VHI30gGaAUFVX3lxTFBaSVVzUk43WTA4a05YY2p3RVBsTHA2NV9ScDd0c2M3RXZodlBqNXpCWXU3WXRCNHkyYktTZzRHdldsNWpwY1M5cXpNZldMMHlGUXNQTmJIRjEtaUdQb0tsSl9GUS1Da29Za1hkMkdzNEZMRDZGVnAyZ2xKaGpuWHRSbzdnZGhQak8tWDZrQS1hdTBDbVRjZTdnbkE?oc=5",
+   "date": "2026-10-08T19:47:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "260f5078fe72",
+   "source": "Endpoints News",
+   "title": "New PDUFA deal sets aside FDA money to rehire reviewers",
+   "link": "https://endpoints.news/new-pdufa-deal-sets-aside-fda-money-to-rehire-reviewers-lost-to-layoffs/",
+   "date": "2026-10-08T18:55:11+00:00",
+   "snippet": "Top pharmaceutical trade groups say the FDA will have a dedicated pool of money to replenish its stable of reviewers as part of the new Prescription Drug User Fee Act (PDUFA) agreement, after HHS layoffs ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2cb1a060ff00",
+   "source": "Center for Biosimilars",
+   "title": "Inside Teva's Denosumab Biosimilar Strategy: Robert Cook, PhD - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlcxeEtZeThoZnY2WXoydXdMTHNNTC1TTmk5RTFDUk9BMVZmQlNSWko5bE83VGhQcmw2ZUhabWxUbjRYZFBlVG1ENWdhU29VbWVpWTVXenNlZmo0T2VCYU93RmRkLUZQTGcxalhzaGpSQXBzVmtTZmhkME1KbmJnaERFbzZoekNMbnh5cFV6a19GUHN1ckU5MmNrTFA5em12M0E?oc=5",
+   "date": "2026-10-08T18:46:20+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "6a49fd29a8c8",
+   "source": "Center for Biosimilars",
+   "title": "Rob Cook, PhD - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91Z1F4UUpFVXE5M3RvSGpzNzJlbko2SklBcXRjMk02R1RoZGtWX1JXSkZ4aGEtVTdoamwxd1Y1RXFCTlRWekZTd0pIOWt3bGdxU2t5VjUwM3hvMXZxUUhVQkYyMk4tZncz?oc=5",
+   "date": "2026-10-08T18:46:20+00:00",
+   "snippet": "Rob Cook, PhD Center for Biosimilars",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "547c07469992",
    "source": "Endpoints News",
    "title": "Viatris to make $1.65B Pacira acquisition, adding to momentum in pain",
@@ -60,6 +112,16 @@
    "date": "2026-10-08T18:13:05+00:00",
    "snippet": "Viatris, a generics and branded medicines maker, is buying into non-opioid pain drugs with a cash acquisition of commercial-stage Pacira BioSciences. The Thursday morning deal, valued at $1.65 billion, follows a ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9114f1413b21",
+   "source": "Google News: biosimilar",
+   "title": "Acting FDA Commissioner, Kyle Diamantas, to Keynote 2026 Event - Association for Accessible Medicines",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV215T2tMRG1jcjl1TVUzWnRlYUF0Q2wySzM4WERHM2NhUGxLSDNLNU84QWZDTUpNeUpfTElUUUwwUW1UcnFoaDlVLWx2b2Zfb0RzNHZNUTUyZUVFTTR3elJrVlVJc3NpcW9RUkxBNzZyb2ZTdTZTOFdGajIyZ1I0SWNFLVVCbzg?oc=5",
+   "date": "2026-10-08T17:32:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -294,6 +356,26 @@
    "date": "2026-10-08T12:36:22.682228+00:00",
    "snippet": "As the Trump administration advances plans to bring its “most favored nation” drug pricing model to Medicare Part B, the pharmaceutical industry’s top lobbying group is pushing back in court.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0a357e63205b",
+   "source": "Google News: biosimilar",
+   "title": "Will Biosimilar Deal Change Orion Oyj's (HLSE:ORNBV) Narrative - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZlVFNHlPRUx2ZVloaHpROUJmSkpMcEdFNDVFTWdTZ056Wk1iSnR3YUlNRHlGY2h1R19DMUVFRG9tZ2ZXOGE2SGRVTjNLSUUySEc4SGZWRzZUaHRwVEI4bV9PQlU5YXJQb2xMRW5WRU9yOVNQQ0sxajV0dzRZdUo0RlIxQzZES3dXS2IyNW5ucWxoazl0amdRYXFHWmpja21UYklldUVaQ0hGODNLWDRXNEVIN2ZRR1kxdkRYVGhWbHZaeHJvdE4weXFkektaM0VwQ1ZoVUE2RmVHWFhsU0NB0gHkAUFVX3lxTFA2a0t6eEdDd09KZzVqa3VvUlVESlY0cGJ0WkY4NkMwdTlGRXFHckRUNDRHR2h0VzItWkpnMHl4UTFYZWhvZjd4RTZnMXdRRlYySnp5TTJkbkZKUXBxeGdRa21hUlNtX1pwajdtOGdNOTZVUmtLWXFlSVVqckdTNFlUT1k3bl9ycmlqYzRpZFk2WlBkY2t5dnZwREl5UTl6Umo2cmhjbjZBR3VteHpoaW91bm5fTy1Jb1NMNjdxZ3pIS2YyNXVmY2s3NkpRWUpHZlZKdUJ4UWpHOGtwQjRqZ2F5azhFQw?oc=5",
+   "date": "2026-10-08T12:04:21+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "74fe49bc2e16",
+   "source": "Google News: biosimilar",
+   "title": "Thyme Companies Launches First New Venture, Thyme Therapeutics, To Build a More Sustainable, Lower-Cost Oncology Biosimilar Model - PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPdS1RVkNsdG5JdVJjSU9EeUYyMEF4ZEJhSUlHc0ZpYlRhcmdBTnRmclp1R0VseENpTXF0MTdyZ3ZENmUtQkJtYnJURkpFNUlsNFpfV2tkM3VkOVNEVjFZa0NZWEpQRFlzRW5Fd05hNkJWZUl4SE96UElBVnc3R0p5VjIwZ2tuYU14Y0YxdDVPMndHdWg3dTc5OFpOWXcwTWtnTngzLUZBOXNkdi16YXlEM2JmZWUzaWYtSnM1RTFfVlNUdmdMZ3FpSEVCdVFkRjkxaFRySy1Cd3EwVUVBWGNXNWJoOXpLQXpneWxRSWJUVUNtZVhMZWY1OW92azBIVWlCMm95WC02d2tlWTM4ZFBz?oc=5",
+   "date": "2026-10-08T12:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
