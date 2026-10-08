@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T12:36:22.682228+00:00",
+ "updated": "2026-10-08T15:31:23.384221+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,146 @@
   }
  ],
  "items": [
+  {
+   "id": "206b6174f61c",
+   "source": "Fierce Biotech",
+   "title": "Endeavor’s threat to IPF incumbents increases after phase 2 win for Hedgehog inhibitor",
+   "link": "https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor",
+   "date": "2026-10-08T15:31:23.384221+00:00",
+   "snippet": "Endeavor BioMedicines solidified its potential threat to Big Pharma with a phase 2b readout suggesting its Hedgehog inhibitor could become the first drug to reduce lung fibrosis while increasing total lung capacity.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "696eef25f896",
+   "source": "Fierce Biotech",
+   "title": "AI biotech Iambic aims for $135M IPO to push cancer drugs through clinic",
+   "link": "https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic",
+   "date": "2026-10-08T15:31:23.384221+00:00",
+   "snippet": "Iambic Therapeutics is aiming to raise $135 million in net proceeds from an IPO as the AI biotech looks to fund the clinical development of its lead cancer drug.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6b49cc18975e",
+   "source": "Fierce Pharma",
+   "title": "Pfizer's Tukysa snags first-line approval in HER2+ breast cancer maintenance",
+   "link": "https://www.fiercepharma.com/pharma/pfizers-tukysa-snags-first-line-approval-her2-breast-cancer",
+   "date": "2026-10-08T15:31:23.384221+00:00",
+   "snippet": "Pfizer bagged a coveted first-line maintenance approval for Tukysa. In combination with HER2 antibody drugs, the treatment can significantly delay disease progression for patients with advanced breast cancer.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "40af162d8945",
+   "source": "Fierce Pharma",
+   "title": "Viatris to snap up Pacira's non-opioid pain pipeline for $1.65B",
+   "link": "https://www.fiercepharma.com/pharma/viatris-buyout-paciras-pain-pipeline-165b",
+   "date": "2026-10-08T15:31:23.384221+00:00",
+   "snippet": "In a push to up it's investments in patent-protected medicines, Viatris is set to acquire Pacira BioSciences, including two high-margin non-opioid pain therapies.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4887bbbea72e",
+   "source": "Fierce Pharma",
+   "title": "Argenx walks away from Vyvgart Sjögren's disease trial after futility flag",
+   "link": "https://www.fiercepharma.com/pharma/argenx-walks-away-vyvgart-sjogrens-disease-trial-after-futility-flag",
+   "date": "2026-10-08T15:31:23.384221+00:00",
+   "snippet": "Just shy of two months after teeing up its FcRn blocker Vyvgart Hytrulo for entry into another potential immunology niche, argenx has stumbled in a late-stage trial testing the drug against a separate target.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8df7aa9b190e",
+   "source": "Fierce Pharma",
+   "title": "CSL Seqirus blasted for ‘multiple and prolonged deficiencies’",
+   "link": "https://www.fiercepharma.com/marketing/csl-seqirus-blasted-multiple-and-prolonged-deficiencies",
+   "date": "2026-10-08T15:31:23.384221+00:00",
+   "snippet": "A U.K. drug marketing watchdog has slammed CSL Seqirus for “multiple and prolonged deficiencies” in its systems, governance and oversight.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a85217937561",
+   "source": "Fierce Pharma",
+   "title": "Melissa explains it all in menopause team up with Bayer",
+   "link": "https://www.fiercepharma.com/marketing/melissa-explains-it-all-menopause-team-bayer",
+   "date": "2026-10-08T15:31:23.384221+00:00",
+   "snippet": "Bayer is teaming up with American actress and director Melissa Joan Hart to boost awareness about hot flashes treatment Lynkuet by tapping her personal experiences.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d5e53c368476",
+   "source": "Fierce Pharma",
+   "title": "Theramex pays up to $250M for Asieris' novel cervical lesion treatment",
+   "link": "https://www.fiercepharma.com/pharma/theramex-pays-250m-rights-asieris-first-kind-cervical-lesion-treatment",
+   "date": "2026-10-08T15:31:23.384221+00:00",
+   "snippet": "Should an EU approval go through, the deal allows Asieris to piggyback its global expansion on Theramex’s established women’s health infrastructure across Europe.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1dc1147936ab",
+   "source": "Endpoints News",
+   "title": "Ono pays Biohaven $80M for protein degrader; UK pulls Valneva's chikungunya shot",
+   "link": "https://endpoints.news/ono-pays-biohaven-80m-for-protein-degrader-uk-pulls-valnevas-chikungunya-shot/",
+   "date": "2026-10-08T15:30:49+00:00",
+   "snippet": "Plus news about ADC Therapeutics, Atrium Therapeutics, Bristol Myers, Novartis and Pfizer. Biohaven partners with Ono: Tokyo-based Ono Pharmaceutical has agreed to pay Biohaven $80 million upfront to license its pan-IgG ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7909afa9379c",
+   "source": "Endpoints News",
+   "title": "Endeavor notches major mid-stage trial win, says IPF drug can reverse disease",
+   "link": "https://endpoints.news/endeavor-notches-major-mid-stage-trial-win-says-ipf-drug-can-reverse-disease/",
+   "date": "2026-10-08T15:29:56+00:00",
+   "snippet": "Endeavor BioMedicines said its treatment for a chronic lung disease succeeded in a mid-stage test, claiming the drug had the potential to reverse the course of idiopathic pulmonary fibrosis in a ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "762d99328413",
+   "source": "Endpoints News",
+   "title": "Long ignored by drugmakers, preeclampsia is now a focus for WHO and biopharma",
+   "link": "https://endpoints.news/long-ignored-by-drugmakers-preeclampsia-is-now-a-focus-for-who-and-biopharma/",
+   "date": "2026-10-08T15:12:53+00:00",
+   "snippet": "A pregnancy-related hypertension disorder that impacts millions of mothers and newborns each year is getting more attention from the top levels of public health organizations and a few biopharma companies. The World Health Organization on ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fad1436e53c8",
+   "source": "Endpoints News",
+   "title": "Grindr's big bet on telehealth",
+   "link": "https://endpoints.news/grindrs-big-bet-on-telehealth/",
+   "date": "2026-10-08T15:02:27+00:00",
+   "snippet": "Grindr tested the healthcare waters last year when it launched a telehealth partnership that connected users to clinicians for prescription erectile dysfunction and weight loss drugs. The early signals it got from that effort must ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9a203753e8cd",
+   "source": "Endpoints News",
+   "title": "Zealand, Roche topline a Phase 2 study for amylin drug, though Lilly remains an obstacle",
+   "link": "https://endpoints.news/zealand-roche-topline-a-phase-2-study-for-amylin-drug-though-lilly-remains-an-obstacle/",
+   "date": "2026-10-08T14:41:14+00:00",
+   "snippet": "Zealand Pharma and Roche rolled out some mid-stage data for their amylin drug in obesity and diabetes, hoping to compete with Eli Lilly. In a Phase 2 study, petrelintide reduced patients’ ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dd2f767a8129",
+   "source": "Endpoints News",
+   "title": "General Medicine raises $120M to build a healthcare store that offers everything",
+   "link": "https://endpoints.news/general-medicine-raises-120m-to-build-a-healthcare-store-that-offers-everything/",
+   "date": "2026-10-08T13:25:15+00:00",
+   "snippet": "General Medicine wants to be a one-stop shop for healthcare — whether it's AI or a human doing the shopping. The one-stop shop is not a new concept. Many health tech companies, like Hims and Ro ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "c689255b6f4b",
    "source": "Fierce Biotech",
@@ -178,6 +318,16 @@
    "title": "Omlyclo, First Interchangeable Xolair Biosimilar, Now Available in the U.S. - BioPharm International",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUVoczg5RFZpQmdXbWsyM2tPOGVobEtDZV9YSTFJWjdOZ1d4eUx3dk1yZzlna0VnYVgyTHlQeUcyVWVuLXEyX1c0SFkxbHdHRVBLVEZHY3FnSmFhM3ZsNGpSSEpwVmowbU03RnhIZ1FPRUhQdDYyLV92Y3FrZ1dKRWdORkJwMHhWUWgtQXRCUW4zQlY4alBQWXlDMk51cnVGNHc?oc=5",
    "date": "2026-10-07T20:17:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "2dd736d8ad4d",
+   "source": "Google News: biosimilar",
+   "title": "Colony-Stimulating Factors Market Forecast to 2035: Growth Driven by Expanding Cancer Care and Biosimilar Uptake - IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcGZ4UFVtckFPaEk3dWhpX3hwaUNYelFRZGtIUWgzWXBTWWxzejVMR3RzdWlNeWhoMy16OUEyV1ZwOTh6a3J0bGVVRjFTYW1jX3owREZpSEJzV1lhaUpwN19SU2VnTjFhazFmdkU5aXcxZEhjcTIxM2YtTmo0Zm5KbzlZbG4xZFRuY0NGUS1UWEw5UU1XMkxGcWMxOXN3TlBaWC10NFRpaUE2N2g0VWN6M3dybXJ4MTZRZ1R0NWFpYWc3b2hWNUNwQWJvWU43UTJsS01WS2dUVFk?oc=5",
+   "date": "2026-10-07T19:56:04+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -864,6 +1014,16 @@
    "date": "2026-10-06T12:34:11.022185+00:00",
    "snippet": "With a substantial multi-year investment in the offing, BD has joined a wave of healthcare companies upping their commitments to the U.S., this time focusing squarely on medical technology and the essential consumables used daily by doctors and patients.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6e6e2f33de79",
+   "source": "Google News: biosimilar",
+   "title": "Kamada launches two biosimilar products in Israel - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTzVpcHE5aTlZTE9CLXIxaC1WSkhTS1hQRUpHSXo2ZWt4UHZPTG1NMlZBRy1TY1NVZWRCSWlaekNEYTZhOVBMSnNkWlNmOVE1MGpkaFF1M0hlZ2tBM1pNODRzZnkyUXFRc0VZSUZaNGZBOGc4NlRiM0RMZG8tZ3U3d3IxYlZpc3RoZk9vcjlhRzJVVERYZE0xMEtfTVJXUC1ocjFCdTJjeXEtdw?oc=5",
+   "date": "2026-10-06T12:08:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
