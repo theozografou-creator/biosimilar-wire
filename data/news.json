@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T21:28:25.899728+00:00",
+ "updated": "2026-10-08T00:37:42.969532+00:00",
  "ai": false,
  "feeds": [
   {
@@ -34,21 +34,21 @@
   },
   {
    "name": "GaBI Online",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 6,
+   "error": ""
   },
   {
    "name": "Center for Biosimilars",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 1,
+   "error": ""
   },
   {
    "name": "Google News: biosimilar",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 60,
+   "error": ""
   }
  ],
  "items": [
@@ -70,6 +70,16 @@
    "date": "2026-10-07T21:28:25.899728+00:00",
    "snippet": "A little over a year after landing its flagship approval in chronic hives, Novartis’ oral BTK inhibitor Rhapsido is expanding its reach with a new FDA nod that comes with a notable ‘first’ for the field.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bf2e27225636",
+   "source": "Google News: biosimilar",
+   "title": "The BioPharm Brief: Advancing ADCs, Biosimilars and CAR-T Therapies - BioPharm International",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS1FGa0xjUWl1VW5lYWdfZkI3ZURKeW5iSjNodG1nckRNbUdjQy16TWM2c2YyUXdadWJVN2xwajVZWDU3M1pJMHVSZEFvMjlYOEpOM0kwUzNDblh3blhrV1ppTTE0blNPXzhYMWpyeDRodFpPN2FOeTN0TjR3UHVsZG1xdDNOU2JNREM4Ri0wYVhmT3FkaS1VR19ZOWVILXhYREE?oc=5",
+   "date": "2026-10-07T20:38:46+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -162,6 +172,18 @@
    "biosimilar": true,
    "watch": [
     "Biocon"
+   ]
+  },
+  {
+   "id": "ac88346c0a9c",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Selects LOTTE Biologics' Syracuse Plant to Make Biosimilar Antibody Drug Substance - BioPharm International",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZEZqUDZIV2liemE5VXJtU2JrcFVBczZkTzBPZ2ZQTnlacWdkbVpCLWMyWkJMYnE4Q0E4SUFIYnZDT1RnWHQ4Yy1CTjFVaTFLcGg3amZyYjE5cDRaN2EtRWVEYXU4WDIxbkEydkNXRXdyellvMTM5ck5qOVdQME9OaGpHdXdTeTBXaWRJeWFQU1FlZEZqbnF3WGpoRjRsQjhweHhlZ1g4U0lRWExRVExEcw?oc=5",
+   "date": "2026-10-07T16:39:27+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
    ]
   },
   {
@@ -313,6 +335,18 @@
    "snippet": "Matchpoint Therapeutics, a biotech partnered with Novartis, has put together its latest financing round. The $150 million Series B will help fund Matchpoint’s efforts to get its lead program into human ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "68042c188fed",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech, LOTTE Biologics Forge Strategic Biosimilars Manufacturing Pact - Contract Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbkc3VWlzVTZkR29NaEF3a1d2eXRtdjNTMjR0TF9lSGV0RGZxbDVoQ2x4RDFnaGV5dG5yS1pRMFpZWGc4ejlLYzZQSG44UVlQRE84Qkp0TzFQYU95MzdtbEQzcC1rUE9xYUhoSURWOG5mWVROaEItRnFKYlFMaTBGU1JhUFd1ekQ0eV9DWVlBT3NvUzh5aWM5YTZvVGJmbUVGaUNGWGZxSXZySmdZUlQ3WUl2MTVJTGM5?oc=5",
+   "date": "2026-10-07T13:51:59+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "a5d47e129313",
@@ -633,6 +667,16 @@
    "watch": []
   },
   {
+   "id": "779b31eea01e",
+   "source": "Google News: biosimilar",
+   "title": "Stifel reiterates Kamada stock Buy rating on biosimilar expansion - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYXVFTTR6eG1tNjZmNkR2Uks5V25mcFJIRlc2SGJiMVJSUkV6OWJYMXItSHVSSElTNDlWSm1jYm9pMWdwTnJzazFmOVJfVzJtbEpzMjhuZ0I5WnRvcVZobTdFVzRrdEVUa2Q0eVlXLUhSVzR6ck9uVEtJMkZQTnRHRV9ZUzdKU3JheVRLYUxVS0gzclhmYThBUzFGM2EtQzlDMUZJeHVQTTViNkFSSXNBaUx0dDhINlFWZl9zZERMTjNjOUk?oc=5",
+   "date": "2026-10-06T15:06:53+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "2e3ca409b78a",
    "source": "Endpoints News",
    "title": "ArriVent's lung cancer drug firmonertinib fails key late-stage trial, stock tanks",
@@ -943,6 +987,16 @@
    "watch": []
   },
   {
+   "id": "f809bbd9ba7e",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Omak-Okanogan County Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPYXNJaTNtLUljVFdtNG1EcjR2dmlZeWxvc0R3UDViMFNkU3J2eVoxd0V1ZUI3S2dvbW5iZW5Yei0zQnNlRDR1aEZzVlZEOXRtX24yMy02MEs1YWlYS1YtZnBQeko2TzVsdmJaM3FqaXJQRDVQNXh3R0psT2dTcDVGSVMtUFhOWHJEOHc3ZmZrM0hKcjQ1VjZzSEJOTTRTNi1ENlFJSTBpNmhjSWsySXNDVk9LQ3JnMkx1V2lCUnJOUDlaekExcjFiSFlCWkFDWXNDTW92cVdjVl90bFkzMzkxS0dlOXpPR2xKN1ZnTnJmeVdnRHBQY2xqOUNfUkhFeVhuWE9LUk5fNmFtY04waC1tX1NEZVY?oc=5",
+   "date": "2026-10-06T05:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "d295c175aab7",
    "source": "GaBI Online",
    "title": "GaBi Online | Global - Generics and Biosimilars Initiative",
@@ -1143,6 +1197,18 @@
    "snippet": "The acquisition of Texas-based IntraBio adds to a growing rare disease business for Shionogi by handing the company a marketed treatment for two inherited conditions.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "2fc6661823ab",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves additional U.S. manufacturing capacity for Alvotech’s Humira biosimilar - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0pxZW54d2YyaG44elVGelNYcmFfSGpBMHUzMENDYVI4ZkNueGpTMmt2S01ZTURKU0VCSjI5SVdjY2ljMGNOMG0xZldQVE9qMHp2bWEtRzcyRVU4c1NPNmQ3blNtRXVhWmVRbEdhUTNUR2JiWkVsRF9jRGFUVk1CbUxHeWk3eElUZFZFSlZ1N2ItVVc5bUFPNFROMjk1RmxEMlRaSzJR?oc=5",
+   "date": "2026-10-05T15:32:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "0dccdce8e062",
@@ -3391,6 +3457,16 @@
    "title": "ANVISA and DINAVISA sign MoU to strengthen border surveillance and regulatory cooperation - Generics and Biosimilars Initiative",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNjdTXzJSaUM4Mjd0ckNKUlNVUDVFVk9EeXpMX3hHcV9vYmpaY3BXM3E1a09IQVZBQmIzNTFjbENfLU1aSGJlcXVqOEFsNnVlSTdjLXBTVkphMm1GaWlDMVVuWE94bnJDODZ5TFgza0ExN2I0N1BvRDdEZzNnVzNIenVIbFF3THFCbkg0a05YcmZ4OU45WVZwU3hwUFpTVzFxbTM1bUFGbFV2WDZfTXUwNENmR1VRQldyUlM3MFVkZ1FrZkJFS0Z5bG9EaEdQdw?oc=5",
    "date": "2026-09-25T10:04:58+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "4ed89a81609b",
+   "source": "GaBI Online",
+   "title": "Congress pushes biosimilar bills as interchangeability concerns linger - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzJKRDh5WURtUVJYUGZRTWNQWGxOWFRlMWRnY01leEZIYzJrRlp5RUx4QnUtRHp3R2ZsQWExRTk1LVhjZWdrQ1RpTHFnanpVdVBHem1udDVjVlRoaXpxaUxMbWhTelczSmtpQm9iYjRlcmE0NUxUS2FIOFJab1RyVV8yaE5HQ0RvNHdTdnRURm9xd3plREZTbmJEdGMwYVQ4QmlCZFlvdkhPRUxOTlRySDAzNS0?oc=5",
+   "date": "2026-09-25T09:31:17+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
