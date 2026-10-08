@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T06:35:54.110549+00:00",
+ "updated": "2026-10-08T09:30:09.335927+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": ""
   },
   {
@@ -52,6 +52,36 @@
   }
  ],
  "items": [
+  {
+   "id": "87764a90ed44",
+   "source": "Fierce Biotech",
+   "title": "Argenx digests phase 2 celiac win for $2.2B drug, preps pivotal run",
+   "link": "https://www.fiercebiotech.com/biotech/argenx-digests-phase-2-celiac-win-22b-drug-preps-pivotal-run",
+   "date": "2026-10-08T09:30:09.335927+00:00",
+   "snippet": "A phase 2 celiac disease trial of argenx’s FB102 has hit its primary endpoint, delivering a boost to a drug candidate that the biotech acquired in its $2.2 billion takeover of Forte Biosciences.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "87fb34968af2",
+   "source": "Endpoints News",
+   "title": "Roche does fourth China deal since August, teaming with Defand on degraders",
+   "link": "https://endpoints.news/roche-does-fourth-china-deal-since-august-teaming-with-defand-on-degraders/",
+   "date": "2026-10-08T06:44:11+00:00",
+   "snippet": "Roche is teaming up with a relatively unknown Chinese biotech in a deal worth a tad shy of $1 billion, if all milestones are achieved, according to a source familiar with the terms. The Hangzhou ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fd731c183928",
+   "source": "GaBI Online",
+   "title": "HHS push to ‘genericize’ biosimilars sparks backlash - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYlRSXzRmS1dGTVZKRkJHOG9QNzh4bGpOemVPTjdsMmdoSVhIZFhjYkFEbHh3dWxmZXRObS1nWU1feVlyWm9mNk1xbnlzUU8zcERoU1c1RE50TkNNRjBsLVZkZlJkSmZpaExRb2w4cE4zSnBndUtlbW9LUzM4dEpyckJKVVRXNXNES3NJYW1RLTNlNXFtaFFkdG9n?oc=5",
+   "date": "2026-10-08T06:23:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "c150ba395365",
    "source": "Google News: biosimilar",
@@ -2811,6 +2841,19 @@
    "snippet": "Devoted Health, a Medicare Advantage insurer and medical group, announced nearly $1.2 billion in fresh funding after enrolling hundreds of thousands of new senior members this year. The financing includes $555 million in Series G ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "e52a1a212a82",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis and Teva Expand Strategic Partnership to Advance Up to Six Potential Biosimilar Candidates - BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ0ZOalpCZmY2dXlaQkJyVVYyUm1kSkFKQnV6NWw2WlNpX014SDRJdFV1X1ZOdlFDTkJjaGE3VDByY2laYWhpTUhzVjlmeHhLdjNPZGg2dmlNSm5TdExNM1dBSmEwOUwxTWQ0T21BVlhHdUtfd2MxUUYtWUllLWpibXpLeHJ3MmtjTHN5QzdfME5CRV9sWmN2OXpEMG1xa0xqMXVLbVBBbmxIQzNhNTZxQ29OeXRyazJ5VVd0LTBpbHgxM2JsdzlHT0xzTFctMEdYeVpjdE9LSGtLM01NaFAw?oc=5",
+   "date": "2026-10-01T11:52:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
   },
   {
    "id": "cc88c90f5daa",
