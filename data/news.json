@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T12:33:11.441305+00:00",
+ "updated": "2026-10-09T15:29:15.991696+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,130 @@
   }
  ],
  "items": [
+  {
+   "id": "e7e1f9ed6a73",
+   "source": "Fierce Biotech",
+   "title": "GSK drinks in Chai Discovery’s AI models after wet-lab validation",
+   "link": "https://www.fiercebiotech.com/biotech/gsk-drinks-chai-discoverys-ai-models-after-wet-lab-validation",
+   "date": "2026-10-09T15:29:15.991696+00:00",
+   "snippet": "GSK has joined Chai Discovery’s growing roster of Big Pharma clients, signing up to access protein-folding and design models.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a2a8e07c7fbc",
+   "source": "Fierce Biotech",
+   "title": "‘We’re making a lot of progress’: How Nobel-winning optogenetics is being harnessed by biotechs",
+   "link": "https://www.fiercebiotech.com/biotech/how-nobel-winning-optogenetics-went-pond-potential-treatments-vision-loss-and-schizophrenia",
+   "date": "2026-10-09T15:29:15.991696+00:00",
+   "snippet": "As a notorious night owl, it was already very early in the morning of October 5 when Karl Deisseroth, M.D., Ph.D., finally laid down to get some shuteye. Not long after, the phone of the Stanford psychiatrist and bioengineer lit up with an incoming call from Sweden.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "683da01937d8",
+   "source": "Fierce Pharma",
+   "title": "FDA’s Rasonque review documents pressure RevMed as investors jitter over KRAS subgroup data",
+   "link": "https://www.fiercepharma.com/pharma/fda-rasonque-review-documents-pressure-revmed-investors-jitter-over-kras-subgroup-data",
+   "date": "2026-10-09T15:29:15.991696+00:00",
+   "snippet": "Revolution Medicines’ stock slid Thursday after newly released FDA review documents sparked investor unease around Rasonque’s market position in a key KRAS subgroup.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0cf09b834708",
+   "source": "Fierce Pharma",
+   "title": "Quince relaunches as IRuyla, going all in on lung disease after Hail Mary merger",
+   "link": "https://www.fiercepharma.com/pharma/quince-relaunches-iruyla-going-all-lung-disease",
+   "date": "2026-10-09T15:29:15.991696+00:00",
+   "snippet": "To close the book on a tumultuous year, San Francisco's Quince will now operate under the name IRuyla Therapeutics, becoming laser-focused on advancing LAM-001, an investigational inhaled formulation of rapamycin being tested in multiple pulmonary diseases.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8976864cab70",
+   "source": "Fierce Pharma",
+   "title": "Teva debuts Weltruza in schizophrenia as much-hyped FDA nod for long-acting olanzapine arrives",
+   "link": "https://www.fiercepharma.com/pharma/teva-debuts-weltruza-schizophrenia-much-hyped-fda-nod-long-acting-olanzapine-arrives",
+   "date": "2026-10-09T15:29:15.991696+00:00",
+   "snippet": "With a Friday go-ahead from the FDA, another key piece of Teva’s innovation revamp strategy has fallen into place, further bolstering the drugmaker’s footing in schizophrenia.",
+   "biosimilar": false,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "1d170a49dad8",
+   "source": "Fierce Pharma",
+   "title": "Fierce Pharma Asia—Novartis’ $7.8B mRNA deal; Shionogi’s $2B buy; ArriVent’s phase 3 flop",
+   "link": "https://www.fiercepharma.com/pharma/novartis-78b-mrna-deal-shionogi-2b-buy-arrivent-phase-3-flop",
+   "date": "2026-10-09T15:29:15.991696+00:00",
+   "snippet": "Novartis bought an mRNA-coded autoimmune T-cell engager candidate for up to $7.8 billion, as Shionogi offered $2 billion to acquire rare disease drugmaker IntraBio. ArriVent's EGFR inhibitor flunked a first-line phase 3 test in lung cancer. And more.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4dbde197dcf7",
+   "source": "BioPharma Dive",
+   "title": "FDA review docs spark Revolution sell-off; Zealand diabetes data underwhelm analysts",
+   "link": "https://www.biopharmadive.com/news/rasonque-fda-zealand-tukysa-ultragenyx-tcgx-china/832492/",
+   "date": "2026-10-09T15:18:00+00:00",
+   "snippet": "The new disclosure suggested Rasonque might not be as broadly effective as previously thought. Elsewhere, Ultragenyx got a much-needed cash infusion and TCGX started a China-focused fund.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "43d89ca1b941",
+   "source": "Endpoints News",
+   "title": "New data on RevMed’s Rasonque leave potential opening for other treatments",
+   "link": "https://endpoints.news/new-data-on-revmeds-rasonque-leave-potential-opening-for-other-treatments/",
+   "date": "2026-10-09T15:17:24+00:00",
+   "snippet": "Patients with the most common KRAS mutation in pancreatic cancer appeared to have a lower response rate than the overall patient population with Revolution Medicines’ Rasonque, sending the company’s shares {$RVMD} down more than 6% ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cdf64a946ae5",
+   "source": "Google News: biosimilar",
+   "title": "Teva shares climb as biosimilar approval and fresh bullish coverage support momentum - Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamo1elQxVVhqbldacm10QldEaFROOVJoTGEwZEF6eDNadi1FZUctVFlnbjJQSkl4U1F4RmJxRXNjMlpUUDU3VlpLa0tWZVlGTm5xX0pSVnY0aXl1T0lHSGpJSlk5M0hyUFVfTFhxWUlpNDctRzlrczFkd2lsS0MzVG5TZnVlQnJiUFNyeGlqemVjckhSZEFkUW9ndVFDQ3hBdDhtMTh4Tld5cDlfY0dOc0pDNUtQSGYw?oc=5",
+   "date": "2026-10-09T14:48:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "18e30b22b875",
+   "source": "Endpoints News",
+   "title": "Acting general counsel at HHS has left the department",
+   "link": "https://endpoints.news/acting-general-counsel-at-hhs-has-left-the-department/",
+   "date": "2026-10-09T14:43:11+00:00",
+   "snippet": "The acting general counsel at HHS, Bob Foster, is no longer at the agency. When Endpoints News contacted Foster through his government email, it received the following automated message: “I am no longer with the ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4a4369ccbbd0",
+   "source": "BioPharma Dive",
+   "title": "This week in charts: What’s driving biotech’s recent pullback?",
+   "link": "https://www.biopharmadive.com/news/biotech-charts-xbi-private-public-merger-acquisition-deals/832398/",
+   "date": "2026-10-09T14:28:00+00:00",
+   "snippet": "The latest installment in BioPharma Dive’s data visualization series features a look at the factors pressuring biotech stocks of late and the frenetic pace of startup buyouts this year.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "204b8a889ffc",
+   "source": "Endpoints News",
+   "title": "City Therapeutics targets $158M IPO; Iambic seeks $135M Nasdaq debut",
+   "link": "https://endpoints.news/city-therapeutics-targets-158m-ipo-iambic-seeks-135m-nasdaq-debut/",
+   "date": "2026-10-09T14:15:32+00:00",
+   "snippet": "Plus news about Alchemist Capital, Newron Pharmaceuticals, Life Biosciences, Onyx Bio and Tecentriq. City Therapeutics charts $158M IPO: The RNAi startup from former Alnylam executives is looking to sell 9.72 million shares at $17 to ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "3aabe472ab7d",
    "source": "Fierce Biotech",
@@ -159,6 +283,16 @@
    "link": "https://www.fiercepharma.com/pharma/bms-fills-out-zenbexus-picture-post-approval-pfs-victory-multiple-myeloma",
    "date": "2026-10-08T21:28:48.472220+00:00",
    "snippet": "BMS has put up the progression-free survival numbers on its recently approved Zenbexus regimen, more than doubling the score over a control cocktail of daratumumab, bortezomib and dexamethasone.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "726245b75300",
+   "source": "BioPharma Dive",
+   "title": "HHS launches new plan to strengthen vaccine injury research, reporting",
+   "link": "https://www.biopharmadive.com/news/hhs-vaccine-injury-reporting-research-rfk/832532/",
+   "date": "2026-10-08T20:57:00+00:00",
+   "snippet": "Spearheaded by vaccine skeptic Robert F. Kennedy Jr., the initiative will involve a new NIH clinic, an updated monitoring system and reimbursements for doctors who report suspected side effects.",
    "biosimilar": false,
    "watch": []
   },
@@ -915,6 +1049,18 @@
    "watch": []
   },
   {
+   "id": "1e93f31242e1",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion expands Avtozma's US label to Covid-19 patients aged 2 and older - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11bl8zQXNVVFZIR25vOW45dWprWm9JS1dUNkJSTkNrQXdUUVE3YWlIRFpvclRtQTItSWdpaGt3aVI1RDNXZk5sMkF6aGRYVkxhOGFRTVR2V2l0NDhvUlhvdGMtTTFEaDNQZnFoRUhlT3ZYQdIBckFVX3lxTE11bl8zQXNVVFZIR25vOW45dWprWm9JS1dUNkJSTkNrQXdUUVE3YWlIRFpvclRtQTItSWdpaGt3aVI1RDNXZk5sMkF6aGRYVkxhOGFRTVR2V2l0NDhvUlhvdGMtTTFEaDNQZnFoRUhlT3ZYQQ?oc=5",
+   "date": "2026-10-07T08:27:44+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
    "id": "0dd1fd46dbdf",
    "source": "Google News: biosimilar",
    "title": "Games - FOX 2",
@@ -1345,6 +1491,16 @@
    "watch": []
   },
   {
+   "id": "2e09008d38b5",
+   "source": "Google News: biosimilar",
+   "title": "Kamada launches two biosimilars in Israel, eyes $25M revenue by 2030 - StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNjZCWmZyd3BkaUZGZ3JEUUtYT2I0QkdzOWNFd0pMWko0elduTnVmb2RGNEU1ZXV1WWY0SG04eEs0Nk0zUUd2YUZfakhpQjhwYUI3ejFTVElZczJ3dHZWWVA4ZWJ1Q0UwZVpNSi1YOEF6azRDRlJpc0JsX0RZazlUYm1JRVFsc18yQWNsTDhXcjQtdm91d3FsTTk3U3hJQTQ3aVNyS0FBRjBNcVY4N0syOTdybWI3UlFNRjJsZVFCUG5Hd2U2OEE?oc=5",
+   "date": "2026-10-06T11:03:31+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "dbe43e112aa9",
    "source": "Google News: biosimilar",
    "title": "Two drug launches in Israel expand Kamada (KMDA)'s portfolio as it projects sales through 2030. - Stock Titan",
@@ -1402,6 +1558,16 @@
    "date": "2026-10-06T08:21:13+00:00",
    "snippet": "Lycia Therapeutics, a protein degradation startup built around science out of the lab of Nobel laureate Carolyn Bertozzi, has filed for an initial public offering. Two other biotech companies are also advancing their own Nasdaq ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bfe15301738e",
+   "source": "Google News: biosimilar",
+   "title": "OMLYCLO® (omalizumab-igec), the first and only FDA-approved interchangeable biosimilar to XOLAIR®, now commercially available in the U.S. - StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdXJCdXI5RXZ4OUxTRmZMMkFzRGlrRXNMeUkwT2JqaUlwX2R2bHJnSnBKWFFpMWVrWWtyblpJRW9XelBWRDlBMk1YRW9YQ2FCWWVDR3UwWGRqOTFhWHp1UVhOWnpYbDRzR1J4cGlOZFZIejdHSTB1U2Q1VDZ3LTBLQ2RzZHVOaTdReFJ5U1pZUkNyQ1htMU1aS0EzNkNEQVMtRjRHOEZvSzJyVHVoNjZLbmoyUG51Q1FqNUFyeE9yT1lSWUFBSnNWelRaQ1QzRlo4V05QVzM0VDNENDdScE5SSmVHNzBwWWdnMlNqV29PeE1HYm5mM2pQV3A0cVl2ejFJTGwxRGs0cHdtendIVXMwVEltaEhtY3l0TDNGcG5sUXRYVFRTYTdibmVnZGlaRS0ySkNSQlN4WXFQZw?oc=5",
+   "date": "2026-10-06T06:12:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -1519,6 +1685,16 @@
    "source": "Google News: biosimilar",
    "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Omak-Okanogan County Chronicle",
    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPYXNJaTNtLUljVFdtNG1EcjR2dmlZeWxvc0R3UDViMFNkU3J2eVoxd0V1ZUI3S2dvbW5iZW5Yei0zQnNlRDR1aEZzVlZEOXRtX24yMy02MEs1YWlYS1YtZnBQeko2TzVsdmJaM3FqaXJQRDVQNXh3R0psT2dTcDVGSVMtUFhOWHJEOHc3ZmZrM0hKcjQ1VjZzSEJOTTRTNi1ENlFJSTBpNmhjSWsySXNDVk9LQ3JnMkx1V2lCUnJOUDlaekExcjFiSFlCWkFDWXNDTW92cVdjVl90bFkzMzkxS0dlOXpPR2xKN1ZnTnJmeVdnRHBQY2xqOUNfUkhFeVhuWE9LUk5fNmFtY04waC1tX1NEZVY?oc=5",
+   "date": "2026-10-06T05:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "1811351b15a9",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - KITV",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdVM3ZlNEVGxKUlRoVDIwNk4xbldMRG5MbDZfUmhvQm9ISVJ0M2RPZTlfUE51VGdOX0hKVXVlODJ0a0V1Q3BwVXRVUjAxUmh0YnNMalZoOGN3UmR3aFR6SzNEUnk2cC1zdnQ2RVdOLVlqQUlNMnhEYl9uRWhaU2VBdmpvRVJTYm5xV2hKYTYwYkJiXzhWeUVNRUNuNmx3ZGRkbFE0Tk05Z3d3dGY4MmlvT29rNVF4Z1prYklyYktXZldhdzAzX2IwVTFxVEF2bWdDdmxlX2RsMzhYWFdpSEYzUm9xYi1PN0k0QUxOUVZVVzAyNVk3NzRXZVU3TVdKSkJIVnoyZ094Ulg?oc=5",
    "date": "2026-10-06T05:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
