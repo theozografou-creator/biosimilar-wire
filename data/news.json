@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T21:28:48.472220+00:00",
+ "updated": "2026-10-09T00:40:44.755117+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 7,
+   "count": 9,
    "error": ""
   },
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "084b3a5954cf",
+   "source": "Google News: biosimilar",
+   "title": "New Biosimilar Legislation Addresses Inflation Reduction Act Delay Provision - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeDUyYUhkMTl4Tk9xTGktaWNqRVRuVTJiN2YtMXluV0tFX3Q4X2ExWUt3T1V1cldSSkN1WXMzUGM1NkozZms1VG4ya2lRaW1tOGdBMWtuRnZaQjBPOGRGd2M1MmFEcVlWX2RfQ09tQmt5UkNLZUxOQWQzdTQ3SXRDeEJUX1hIcnVRalh6ZlFMLWo5ZTlUM193LUtYRmhLU2R5UUF6TG40NVRMSjhnemlmSU1Da9IBswFBVV95cUxNeDUyYUhkMTl4Tk9xTGktaWNqRVRuVTJiN2YtMXluV0tFX3Q4X2ExWUt3T1V1cldSSkN1WXMzUGM1NkozZms1VG4ya2lRaW1tOGdBMWtuRnZaQjBPOGRGd2M1MmFEcVlWX2RfQ09tQmt5UkNLZUxOQWQzdTQ3SXRDeEJUX1hIcnVRalh6ZlFMLWo5ZTlUM193LUtYRmhLU2R5UUF6TG40NVRMSjhnemlmSU1Daw?oc=5",
+   "date": "2026-10-08T22:35:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "5e3982af61e4",
    "source": "Fierce Pharma",
@@ -356,6 +366,16 @@
    "date": "2026-10-08T12:36:22.682228+00:00",
    "snippet": "As the Trump administration advances plans to bring its “most favored nation” drug pricing model to Medicare Part B, the pharmaceutical industry’s top lobbying group is pushing back in court.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d549c2d3eaa6",
+   "source": "Google News: biosimilar",
+   "title": "Will Biosimilar Deal Change Orion Oyj's (HLSE:ORNBV) Narrative - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNmtLenhHQ3dPSmc1amt1b1JVREpWNHBidFpGODZDMHU5RkVxR3JEVDQ0R0dodFcyLVpKZzB5eFExWGVob2Y3eEU2ZzF3UUZWMkp6eU0yZG5GSlFwcXhnUWttYVJTbV9acGo3bThnTTk2VVJrS1lxZUlVanJHUzRZVE9ZN25fcnJpamM0aWRZNlpQZGNreXZ2cERJeVE5elJqNnJoY242QUd1bXh6aGlvdW5uX08tSW9TTDY3cWd6SEtmMjV1ZmNrNzZKUVlKR2ZWSnVCeFFqRzhrcEI0amdheWs4RUPSAeQBQVVfeXFMUDZrS3p4R0N3T0pnNWprdW9SVURKVjRwYnRaRjg2QzB1OUZFcUdyRFQ0NEdHaHRXMi1aSmcweXhRMVhlaG9mN3hFNmcxd1FGVjJKenlNMmRuRkpRcHF4Z1FrbWFSU21fWnBqN204Z005NlVSa0tZcWVJVWpyR1M0WVRPWTduX3JyaWpjNGlkWTZaUGRja3l2dnBESXlROXpSajZyaGNuNkFHdW14emhpb3Vubl9PLUlvU0w2N3FnekhLZjI1dWZjazc2SlFZSkdmVkp1QnhRakc4a3BCNGpnYXlrOEVD?oc=5",
+   "date": "2026-10-08T12:04:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -3890,6 +3910,26 @@
    "title": "Prestige BioPharma wins Brazil approval for Herceptin biosimilar Tuznue - Korea Biomedical Review",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03NzJmNGQyUld4OUMtTGMxZGJ2ekdLTkVuMzRxX3J1WDJrQjRKZHp3dzRWM1gtcWlwT1VoMU50OWxuOHEyNmRQdFcxaTdCeGVvajg5Wk1yVG0wYUtiUmxoUlQ2MG4zWHlJVzQzSWJn0gFyQVVfeXFMTTlUdVZaTFRHUDNnYzcyUXkwMTJRRHJlWFp4SVBSMXNOUVZfd3BNd3pDdVNXV0lDSG5lRU5DWUJSNWFxZmFxbWx3QmtMX0djSlhfaUVhZVVyQ2JJTjI2blNZaFY3MkYzNEkwUVRTREtucENR?oc=5",
    "date": "2026-09-28T06:14:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "97915e3aa5e1",
+   "source": "GaBI Online",
+   "title": "FDA approves first interchangeable ranibizumab biosimilar Ranluspec - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUE0Sk1LYVpzUG1mSUszSGkzY04wSWMtSHpKZUtOZk42bFFSeFFrOEtJWHRaQ3ZHOHp1OVJ1TU5hZE1nZVRYMlZRSFhUeURvNG56WUI3NmNYU0RtUzdRQ1Vkc3AzY0dXamJEdEJnVU1BWW1zX25oUEJ3bFpyTTN1NTU4NU1mNlVoSHJaeEJURGlVY25xZFZqZzlQb21PZ2FxMTZyWElzUDJqZlNGR3ozQQ?oc=5",
+   "date": "2026-09-26T09:51:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "54479f1950b4",
+   "source": "GaBI Online",
+   "title": "Biosimilar interchangeability: a necessary fix, but not a silver bullet - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlBkYzZUQi11LWdBcHpZN0lINy1tb3k0N2VlYjl4aWc1VjZxNzhWS1lmZHhsQTdCZ0FpQW8wTnNCS2l5b2t0a3N5b2tGZjBPMnNlY1FUNV94SnFuVnF2c05MdXJ4bC1QMm5uMlE0WDdsakRQSUxfVmhFX0ViajI0OUdVaHIxNW1Sc2VteHJVZDUxdnZOMjNpTnhRcmN2N0U2X1oxZEFDNGNOSFNvMEl6OEJVaw?oc=5",
+   "date": "2026-09-26T02:51:44+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
