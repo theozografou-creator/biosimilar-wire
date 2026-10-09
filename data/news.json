@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T09:30:34.427078+00:00",
+ "updated": "2026-10-09T12:33:11.441305+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 10,
+   "count": 9,
    "error": ""
   },
   {
@@ -52,6 +52,66 @@
   }
  ],
  "items": [
+  {
+   "id": "3aabe472ab7d",
+   "source": "Fierce Biotech",
+   "title": "Chutes & Ladders—Vir looks to Liu to lead late-stage push",
+   "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-vir-looks-liu-lead-late-stage-push",
+   "date": "2026-10-09T12:33:11.441305+00:00",
+   "snippet": "As Vir pushes its lead hepatitis D combo through phase 3 development, the biotech has tapped an experienced medical expert to light the way. David Liu, M.D., Ph.D., is now Vir’s chief medical officer, after most recently serving in the same role at Nuvation Bio.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b8119d85dfdd",
+   "source": "Fierce Biotech",
+   "title": "How we picked the Fierce 15",
+   "link": "https://www.fiercebiotech.com/biotech/how-we-picked-fierce-15",
+   "date": "2026-10-09T12:33:11.441305+00:00",
+   "snippet": "What does it mean to be a Fierce 15 biotech in 2026? With this year’s list unveiled, the Fierce Biotech team gets together to discuss what the winners tell us about the state of the sector.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "87ad4068ab92",
+   "source": "Fierce Pharma",
+   "title": "Pharma’s free lunches for clinicians bloat prescription bills: Cochrane review",
+   "link": "https://www.fiercepharma.com/marketing/pharmas-free-lunches-clinicians-bloat-prescription-bills-cochrane-review",
+   "date": "2026-10-09T12:33:11.441305+00:00",
+   "snippet": "Promotional interactions between clinicians and pharmaceutical companies are probably associated with harmful outcomes, according to a Cochrane review that assessed free meals, ads and other dealings.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f2914855cd63",
+   "source": "Endpoints News",
+   "title": "Chai Discovery signs GSK deal to make biologics with AI",
+   "link": "https://endpoints.news/chai-discovery-signs-gsk-deal-to-make-biologics-with-ai/",
+   "date": "2026-10-09T11:00:53+00:00",
+   "snippet": "At the start of 2026, Joshua Meier pitched his startup's collaboration with Eli Lilly as just the beginning. Meier's vision of a \"year of deployment\" has been more than an aspiration, as ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "207800f32084",
+   "source": "Endpoints News",
+   "title": "Viking commercial chief is out in a hurry; Gilead looks to BeOne exec for China expansion",
+   "link": "https://endpoints.news/viking-commercial-chief-is-out-in-a-hurry-gilead-looks-to-beone-exec-for-china-expansion/",
+   "date": "2026-10-09T11:00:33+00:00",
+   "snippet": "→ Neil Aubuchon only lasted nine months as chief commercial officer of Viking Therapeutics, leaving Peer Review to wonder what’s going on with the strategy for its obesity drug. Is it really just",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b7abba98f028",
+   "source": "BioPharma Dive",
+   "title": "TRex Bio prices $117M IPO to support immune drug work",
+   "link": "https://www.biopharmadive.com/news/trex-bio-ipo-pricing-autoimmune-tregs/832297/",
+   "date": "2026-10-09T10:59:00+00:00",
+   "snippet": "Eli Lilly is the largest equity holder in TRex, which is developing drugs that treat immunological conditions by activating “Treg” cells.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "77455f02ea99",
    "source": "Fierce Biotech",
