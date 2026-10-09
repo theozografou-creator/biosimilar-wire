@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T15:29:15.991696+00:00",
+ "updated": "2026-10-09T18:30:35.909997+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,13 +35,13 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": ""
   },
   {
@@ -52,6 +52,58 @@
   }
  ],
  "items": [
+  {
+   "id": "08373ac688b3",
+   "source": "Fierce Pharma",
+   "title": "Hospital industry sues to block HHS' 340B rebate pilot (again)",
+   "link": "https://www.fiercepharma.com/providers/hospital-industry-files-lawsuit-block-hhs-340b-rebate-pilot-again",
+   "date": "2026-10-09T18:30:35.909997+00:00",
+   "snippet": "The American Hospital Association and others have launched a legal rematch with the federal government over the second iteration of a pilot program swapping out safety-net hospitals’ upfront drug discounts for after-the-fact rebates.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d8edc0b0f4ba",
+   "source": "Fierce Pharma",
+   "title": "Quince relaunches as IRulya, going all in on lung disease after Hail Mary merger",
+   "link": "https://www.fiercepharma.com/pharma/quince-relaunches-irulya-going-all-lung-disease-after-hail-mary-merger",
+   "date": "2026-10-09T18:30:35.909997+00:00",
+   "snippet": "To close the book on a tumultuous year, San Francisco's Quince will now operate under the name IRulya Therapeutics, becoming laser-focused on advancing LAM-001, an investigational inhaled formulation of rapamycin being tested in multiple pulmonary diseases.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ead21c2b42c5",
+   "source": "Fierce Pharma",
+   "title": "HHS launches 4 new vaccine injury research, reporting initiatives",
+   "link": "https://www.fiercepharma.com/regulatory/hhs-launches-4-new-vaccine-injury-research-reporting-initiatives",
+   "date": "2026-10-09T18:30:35.909997+00:00",
+   "snippet": "The U.S. Department of Health and Human Services (HHS) on Thursday announced a series of actions aimed at strengthening the federal government's response to vaccine-related health concerns.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0a2423e21e2c",
+   "source": "Endpoints News",
+   "title": "Curium prices generic radioligand at 5% discount to Novartis' Lutathera",
+   "link": "https://endpoints.news/curium-prices-generic-radioligand-at-5-discount-to-novartis-lutathera/",
+   "date": "2026-10-09T18:28:05+00:00",
+   "snippet": "Curium has set the list price for Bexlutry, its radiosimilar to Novartis’ Lutathera, at $63,524 per infusion — about a 5% discount to the cost of the pharma giant’s drug. Challenging Novartis in the tricky field ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4d65e36a07c6",
+   "source": "Center for Biosimilars",
+   "title": "How FDA's PK Guidance Shapes Teva's Next Biosimilar Program - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkVWNjBKQWFUX2dTV3otNVpLZ1JhOWlvSEREUjRuTXFCNTlMc0NSU3F2LVNTbi11dXB1ajZVTWpTTWhBd0tPRG9oQkJZSUgzWFh6Nk1famJGdWctMDJILWFkMlNGUjh6QlAySWxCTGRCOGJlZGpqZ01VWlphV24ycEdTUUR0WnlVYmhVSF9xblpiejFRNzRzUE4zVm5nUl9v?oc=5",
+   "date": "2026-10-09T16:54:57+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
+  },
   {
    "id": "e7e1f9ed6a73",
    "source": "Fierce Biotech",
@@ -989,6 +1041,18 @@
    ]
   },
   {
+   "id": "b51ce978caa8",
+   "source": "Google News: biosimilar",
+   "title": "Teva Pharmaceutical Industries (TEVA) Is Back In Focus, What Has Investors Looking Closer? - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ3N5N2RXb3l1czI3ZnY0cFg0TTY0TGtUUml6M1dwMjQ2TUt1dFZPYUtvQWhUQ3RqSVVRdURTODViSFIxY1BnUHRDU1d3TmtTNDJVd0hRbWNNTG1JdFBDTjJUVHc3RmhkRGVPWVgwRlBYaHVlUFpENDktQW1faG01UmZzZHVIT1RHNTBOVlFBczZEeUVld09JVGhYcjJ5YThHQU5MY1hvN2xsYWxMLVNUTGNHRldnU3BfZV9Wd3lkT19HSDVmeGRWeHpkc1pHU2p3ZVVuLXdlS2hZbFRvN3N2Sm56VXdzR25rcjFDdlhyTmRTRkFOS25XWmdR0gH6AUFVX3lxTE9Dc3k3ZFdveXVzMjdmdjRwWDRNNjRMa1RSaXozV3AyNDZNS3V0Vk9hS29BaFRDdGpJVVF1RFM4NWJIUjFjUGdQdENTV3dOa1M0MlV3SFFtY01MbUl0UENOMlRUdzdGaGREZU9ZWDBGUFhodWVQWkQ0OS1BbV9obTVSZnNkdUhPVEc1ME5WUUFzNkR5RWV3T0lUaFhyMnlhOEdBTkxjWG83bGxhbEwtU1RMY0dGV2dTcF9lX1Z3eWRPX0dINWZ4ZFZ4emRzWkdTandlVW4td2VLaFlsVG83c3ZKbnpVd3NHbmtyMUN2WHJOZFNGQU5LbldaZ1E?oc=5",
+   "date": "2026-10-07T12:54:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
    "id": "a5d47e129313",
    "source": "Fierce Biotech",
    "title": "MimiVax’s cancer vaccine fails phase 2 glioblastoma study, but CEO still sees data as ‘inspiring’",
@@ -1695,6 +1759,16 @@
    "source": "Google News: biosimilar",
    "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - KITV",
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdVM3ZlNEVGxKUlRoVDIwNk4xbldMRG5MbDZfUmhvQm9ISVJ0M2RPZTlfUE51VGdOX0hKVXVlODJ0a0V1Q3BwVXRVUjAxUmh0YnNMalZoOGN3UmR3aFR6SzNEUnk2cC1zdnQ2RVdOLVlqQUlNMnhEYl9uRWhaU2VBdmpvRVJTYm5xV2hKYTYwYkJiXzhWeUVNRUNuNmx3ZGRkbFE0Tk05Z3d3dGY4MmlvT29rNVF4Z1prYklyYktXZldhdzAzX2IwVTFxVEF2bWdDdmxlX2RsMzhYWFdpSEYzUm9xYi1PN0k0QUxOUVZVVzAyNVk3NzRXZVU3TVdKSkJIVnoyZ094Ulg?oc=5",
+   "date": "2026-10-06T05:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "9bc855ff2730",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - WKOW",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeEVpVkF5eHI5STVPNVZtR3RieUJKUFZORF9IWUVxNDRwVFBDSFNvbU94b0hqc1o3RHgtV3EtSDRicXlqdGlPUEdvOGhLVWI5c1ZtMGdONExOSDFROHhvTzQ3RE1BOGJlTzAzaFd0ZnhtZmljVUJSTkp6NG50dU0zNF9ZT2pkb1RKd3lQNUVraXA1bUtTN09ZYkg1engzNUFlb1BibmtGM0xWQzVfTmZZcVFaSWZuX2djT3pQVDBTdE9xMTZ0S3Rxa2dtZTd0NWIxeUpGY0V0c0NxLTZETGFaVVBqN1Rkd0hJaFlOSTFzMkd4aUtKeUIzN01vMVl5aTRxR3VBOXdhNkg?oc=5",
    "date": "2026-10-06T05:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
