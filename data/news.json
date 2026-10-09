@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T00:40:44.755117+00:00",
+ "updated": "2026-10-09T03:29:19.863402+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": ""
   },
   {
@@ -58,6 +58,16 @@
    "title": "New Biosimilar Legislation Addresses Inflation Reduction Act Delay Provision - The National Law Review",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeDUyYUhkMTl4Tk9xTGktaWNqRVRuVTJiN2YtMXluV0tFX3Q4X2ExWUt3T1V1cldSSkN1WXMzUGM1NkozZms1VG4ya2lRaW1tOGdBMWtuRnZaQjBPOGRGd2M1MmFEcVlWX2RfQ09tQmt5UkNLZUxOQWQzdTQ3SXRDeEJUX1hIcnVRalh6ZlFMLWo5ZTlUM193LUtYRmhLU2R5UUF6TG40NVRMSjhnemlmSU1Da9IBswFBVV95cUxNeDUyYUhkMTl4Tk9xTGktaWNqRVRuVTJiN2YtMXluV0tFX3Q4X2ExWUt3T1V1cldSSkN1WXMzUGM1NkozZms1VG4ya2lRaW1tOGdBMWtuRnZaQjBPOGRGd2M1MmFEcVlWX2RfQ09tQmt5UkNLZUxOQWQzdTQ3SXRDeEJUX1hIcnVRalh6ZlFMLWo5ZTlUM193LUtYRmhLU2R5UUF6TG40NVRMSjhnemlmSU1Daw?oc=5",
    "date": "2026-10-08T22:35:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "1c879948a0f9",
+   "source": "Google News: biosimilar",
+   "title": "New Biosimilar Legislation Addresses Inflation Reduction Act Delay Provision - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFhTYVk2bk9ZYzFHUkJsZURIWll3RE9raG5vUTBrUGI3QlpmcVRCbjZVTVpENjhVbjlIcmR4Qk5QVFUxUXVfb2dBOXZKWkVqbWIwT0FTUEdwMllzdjByWUNseUE5MFRIQ0c4WE9NdnZsQXdJeHduaGJadHYwbnRydVY1RmZRTTVjV1pSa2FIclRpMWNMWl8wekZkdGpUU3cwa0phYjdab29iLTk3WEHSAbMBQVVfeXFMTXg1MmFIZDE5eE5PcUxpLWljakVUblUyYjdmLTF5bldLRV90OF9hMVlLd09VdXJXUkpDdVlzM1BjNTZKM2ZrNVRuMmtpUWltbThnQTFrbkZ2WkIwTzhkRndjNTJhRHFZVl9kX0NPbUJreVJDS2VMTkFkM3U0N0l0Q3hCVF9YSHJ1UWpYemZRTC1qOWU5VDNfdy1LWEZoS1NkeVFBekxuNDVUTEo4Z3ppZklNQ2s?oc=5",
+   "date": "2026-10-08T22:26:50+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
