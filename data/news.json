@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T06:35:30.037250+00:00",
+ "updated": "2026-10-09T09:30:34.427078+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "77455f02ea99",
+   "source": "Fierce Biotech",
+   "title": "Lilly-backed TRex rakes in $117M IPO, while hypertension biotech Retension reveals $45M listing",
+   "link": "https://www.fiercebiotech.com/biotech/lilly-backed-trex-rakes-117m-ipo-while-retension-reveals-45m-listing",
+   "date": "2026-10-09T09:30:34.427078+00:00",
+   "snippet": "Eli Lilly-backed TRex Bio and hypertension-focused Retension Pharmaceuticals brought in $116.7 million and $45 million from their respective IPOs, continuing a bumper year for biotech listings.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "09d9faee2c08",
+   "source": "Endpoints News",
+   "title": "TRexBio prices $117M IPO for Tregs as Retension lands $45M Nasdaq debut for hypertension",
+   "link": "https://endpoints.news/trexbio-prices-117m-ipo-for-tregs-as-retension-lands-45m-nasdaq-debut-for-hypertension/",
+   "date": "2026-10-09T07:54:45+00:00",
+   "snippet": "The appetite for biotech IPOs remains strong, especially when Eli Lilly and Nobel Prize-winning science are involved. TRexBio priced its initial stock sale Thursday, raising $116.7 million in ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "084b3a5954cf",
    "source": "Google News: biosimilar",
@@ -3920,6 +3940,16 @@
    "title": "Prestige BioPharma wins Brazil approval for Herceptin biosimilar Tuznue - Korea Biomedical Review",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03NzJmNGQyUld4OUMtTGMxZGJ2ekdLTkVuMzRxX3J1WDJrQjRKZHp3dzRWM1gtcWlwT1VoMU50OWxuOHEyNmRQdFcxaTdCeGVvajg5Wk1yVG0wYUtiUmxoUlQ2MG4zWHlJVzQzSWJn0gFyQVVfeXFMTTlUdVZaTFRHUDNnYzcyUXkwMTJRRHJlWFp4SVBSMXNOUVZfd3BNd3pDdVNXV0lDSG5lRU5DWUJSNWFxZmFxbWx3QmtMX0djSlhfaUVhZVVyQ2JJTjI2blNZaFY3MkYzNEkwUVRTREtucENR?oc=5",
    "date": "2026-09-28T06:14:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a186b0a44cb5",
+   "source": "GaBI Online",
+   "title": "Medicines for Europe calls for Biotech Act reforms to address ‘biosimilar void’ - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3FQQ0p0N19CRENUMzBCZDkwRlNWOUdPMDhOdU9xOHdxdUEzVmItbDNtdEU0eGd1VHltNGRkTEc0YkdyR3RlS25TQ2FmbVJfWEFrQ0NfeWM4VkhLWHpmOW1XRWd5Nm02bkdoYjBTbTZEZmIxeV9LOGVNNGN3TUZ0My1xejI5OU14TWh6ZHFJcmFLQldKcU5qdmtTQVFvSVZtUFZYZE9ZdmtKa1VQUFIzMlFaVVdVMnY3MHZ2eXhQZmxxZw?oc=5",
+   "date": "2026-09-27T14:12:31+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
