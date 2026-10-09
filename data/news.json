@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T18:30:35.909997+00:00",
+ "updated": "2026-10-09T21:27:55.698056+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "d9a99739a60c",
+   "source": "Fierce Biotech",
+   "title": "Ferass Abuzaina named Worldwide President of Surgery at BD",
+   "link": "https://www.fiercebiotech.com/medtech/ferass-abuzaina-named-worldwide-president-surgery-bd",
+   "date": "2026-10-09T21:27:55.698056+00:00",
+   "snippet": "Becton, Dickinson and Company has named Ferass Abuzaina as its new Worldwide President of its Surgery business unit.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fb4189d58bf6",
+   "source": "Fierce Pharma",
+   "title": "GSK commits $800M to R&D, manufacturing hub, as Pennsylvania bonds deepen",
+   "link": "https://www.fiercepharma.com/pharma/gsk-commits-800m-rd-manufacturing-hub-pennsylvania-bonds-deepen",
+   "date": "2026-10-09T21:27:55.698056+00:00",
+   "snippet": "As GSK works on a nearly-$1-billion expansion at one wing of its Pennsylvania operations, the U.K.-headquartered Big Pharma is unveiling a similarly sized outlay to soup up another site across the state.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "08373ac688b3",
    "source": "Fierce Pharma",
@@ -1783,6 +1803,18 @@
    "snippet": "GaBi Online | Global Generics and Biosimilars Initiative",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "b70721c3dbf1",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion prices Omlyclo 15% below Xolair in US launch - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fdE5ZRjFJdC1FSFlzWHRjTkgxSWxJNG1BaV9xNjZVMkY2TzNIcUwzNGhNMGx3OXRUX0t6dGRYa3Z2Q21ydFV2NjFTXzdQZFJ5QUtzS0ZwQnhYbFFaRGV0OXhSRTZxR3VVS0hMUFF30gFyQVVfeXFMUFh3b0lRRmtwOVg3VXRKajRDb0Rhck9hTm5BV2hzcFdRb3VkZW80RGVIYXBzNWViN3NzX3dyOEF4b1JBbC1mN0pLbzVaSFhWLTVJRkY0anNRT1FwMy1VMndXSlNKRDJnaDN6Rkg4WW1MX3BR?oc=5",
+   "date": "2026-10-06T01:30:51+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
   },
   {
    "id": "bd2d4ec26201",
