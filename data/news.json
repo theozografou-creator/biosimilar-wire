@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T12:31:45.076492+00:00",
+ "updated": "2026-10-10T15:26:17.224413+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "error": ""
   },
   {
@@ -775,6 +775,18 @@
    "watch": []
   },
   {
+   "id": "81906169ef47",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz Group (SWX:SDZ) Opens Lendava Biosimilar Facility, Is The 7% Undervaluation Still There? - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNjBuZ3VvVEpRdG9pMXlnRkNKWXlfR1pHNzZLR3poWHdUNWoxTDdUNHFmVlVHNk43MzAwMW50TFF0NzEwU3VHRTc2QUR3X2lXNG1NUmFDNV9rWjBCY2xvV2kzZ2UwSXRWTkN0WGNKQktpdUdCcE1uaG50NVZ1dzZodFlvTkZlZll3WjgzUlZjVnNzSGc4dGlfMUdpMnJBb0Z5Zy1ZcFE4VlhVVHRmWU1aX1k0ZVVJYS1iVkRkXzBzczJ5bk1RY00xX2sxTjRaT3I4Z1N0OWhPWUtFVzFrWlR2UWdkRdIB6AFBVV95cUxPc01uSVBNdU1NNjR5SGtfWEkxRS1sTjFRcEZPNVJ0OTI1dGNqWGtYYjhWVUEwaWQ1c0lNcXFQbTZBa01PTDVMRHZ0cXlRMUMwN2pSTVhoNUVielVzVEM0U2UzSmVsSklhYktNTk9fN2swLUpmMXJ0MndTMm5ubTMxcXRMdC03dU1GaWE3ZHFvVHptTmp3Q051M0ZTb1h5ZTZVRmlLbkVDZlp0bjNfLWNPYWxQaktNTnVYeERuS1NSRGU0YkxKUF9uS2JlTGw4YnJZZ3c5ejE3WVhESkVRTnJLamZyQzhlak5F?oc=5",
+   "date": "2026-10-08T05:27:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
    "id": "c150ba395365",
    "source": "Google News: biosimilar",
    "title": "FDA Approves Degevma, Biosimilar to Xgeva - Pharmacy Practice News",
@@ -937,6 +949,16 @@
    "watch": [
     "Alvotech"
    ]
+  },
+  {
+   "id": "676c498b8446",
+   "source": "Google News: biosimilar",
+   "title": "Takeda Says Samsung Biosimilar Plans Infringe Entyvio IP - Law360",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc29ONmtXUUFkdnZKWkFCTlNoaGwzNXFraFFROUEtMENWOUE1M3ZaVDExZ0RxS0NMRHhjTjBTS1hQQThVNDZwcUhZQkw4eThVVy1pVXVwMXJ4TjZ4M1U3cm1XaHpwZnZDOUN2aTJGUV9BdjFjdWVLMS0zTXZEUXRNU1dzRF8ySHgxTUNLSnhSUnJHbnFrckxWUmtpOGnSAVZBVV95cUxPS2lWTGx2UkUwOXB0OGkyQmU0ekx5R1hPb2VXeU9QZW91ZUdfN280RVNWTWZoN0xaUDRjbmZXRVRNczJhVUh0UVJTdFZtdFNKTnRMWUhLQQ?oc=5",
+   "date": "2026-10-07T16:35:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "10ae2acf320e",
@@ -1295,6 +1317,18 @@
    ]
   },
   {
+   "id": "cb0c9d9cb703",
+   "source": "Google News: biosimilar",
+   "title": "Lotte Biologics Wins Alvotech Biosimilar Order, Expands U.S. Syracuse Output - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUDFCcnRVdmRqOHV5UEpISk95QjlwX3BZZmU3R1NIZ19xMUZYZDh5ZWg4T05vRzJlVzJ2ZTRTbmRTYURHZWpSTEE4LXowc200YklGVFpKWERVRTliUzZHMWxqckI4eVRmc000ZmZSU0Ezc1ppaHh5eklRR25zYzF0dXZmMlBCUjhidXRoRHJHUFVxc09EY01RcWM3QVV6RnVQ?oc=5",
+   "date": "2026-10-06T23:53:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "6bbc0c1556d6",
    "source": "Google News: biosimilar",
    "title": "Omlyclo, First Interchangeable Xolair Biosimilar, Launches in the US - Dermatology Times",
@@ -1518,6 +1552,16 @@
    "date": "2026-10-06T14:47:37+00:00",
    "snippet": "ArriVent BioPharma, an early adopter of the China licensing model, reported that its lead lung cancer drug failed a Phase 3 trial. Firmonertinib, an EGFR inhibitor, was first approved for lung ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2e8bbda68b92",
+   "source": "Google News: biosimilar",
+   "title": "Kamada launches two biosimilar products in Israel By Investing.com - Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUxLYTBNLS1zVms4c0U5VXdicXRaRVh2NG1YcHBZazE4blJXRUhiTTZDYVR1bFdnLVRWdmpLazJ1QWM2ekZqR3lwdGhtM3hsZnZBekVrZml2M1VkV3hscThsOXRDOXFOMk1nWUJXbk9JaWJMUHgwMElYRGJJbGVhWmlTODJlempfUG1kdXo2U2l2TGxMc284czdqUVF5czB2d2JOZUx6MFprOUZ5d0JV?oc=5",
+   "date": "2026-10-06T13:50:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -1749,6 +1793,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "1f161eec0300",
+   "source": "Google News: biosimilar",
+   "title": "Germany's Formycon Adopts AI Technologies to Optimize Biosimilar Development - www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNW8wQl81eU5kZldKNzA3ZDR5VGVKMGZ1bk9jNlcweFUwUXNwYjVoeHZVREJpZnhhQjdRcnh3MjJ1QU9FOGJaWlBIdWlZRVZjZXRGWXo1bERLR2plSGpjWnpPRUFnUVhITUNnTHMtNmpuT3lsaGlWZlBSbTVRZVROUFpnMGgwQWlIRV92SGNlWHZwVGgzUVpZU0hOTDQ1ZkpMWXIyazZMZHB4UG5NSTNhTmU1QzV1QTMtVjQ3bzJYdVg1Q1FJR3RWVQ?oc=5",
+   "date": "2026-10-06T05:24:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
   },
   {
    "id": "cf26a56fd8f0",
