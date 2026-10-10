@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T21:27:55.698056+00:00",
+ "updated": "2026-10-10T00:38:58.388757+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "0b854b90c849",
+   "source": "Google News: biosimilar",
+   "title": "New Biosimilar Legislation Addresses Inflation Reduction Act Delay Provision - JDSupra",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORlNpb3dhSnVScFFod3kycTJfQ2RwTERtaU1qX3ExQW5tcTcwTHdhXzRDN0RTRHhjX3g1ejJLZzRnOUM2VFZuN3AydFZUeGcxR0w3NW90aGNQTnFKeXJHbXJLaHppZVNsOWUzbG5SbGlJWFRYWXhKSU15bF9ad3o3MFI5UHV3QQ?oc=5",
+   "date": "2026-10-09T23:18:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "23e115173833",
+   "source": "Endpoints News",
+   "title": "Parkinson's cell therapy biotech Aspen and I&I startup Bambusa file for IPOs",
+   "link": "https://endpoints.news/parkinsons-cell-therapy-biotech-aspen-and-ii-startup-bambusa-file-for-ipos/",
+   "date": "2026-10-09T22:48:48+00:00",
+   "snippet": "A Gilead-backed cell therapy maker and an I&I biotech from BioNTech vets are looking to ride the biotech industry's IPO momentum. Aspen Neuroscience and Bambusa Therapeutics are the latest drug developers to ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "d9a99739a60c",
    "source": "Fierce Biotech",
@@ -2479,6 +2499,18 @@
    "source": "Google News: biosimilar",
    "title": "FDA approves additional U.S. manufacturing capacity for SIMLANDI®, Alvotech’s biosimilar to Humira® - GlobeNewswire",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNY3RMYkJoMW9DZHF4R1E4czJGNU5TSzRGc3BrT1hxSDhGQjJyVkVpZjlxb2RRSjlRVGl0ai1GVmZrZmlzQU1YSU9lazJWS054b3FZcTVSbkhRclh5d0oyWWFQQXFSUVBmNkpwRGhSVXBuTmZnUE9WMGdObVNvX1BNeG84aTJSLWhqZW8xZWJMVVZvaXBOejlnLVNpNG9Dbjk4WVNIeWlfWkFWWjgyMzNMZl93VEl2eGFhdks1aWdSOUo0ZC1QVXp3N00zQ3JxUlBmdXhHNDVMVUlQdGtWZmpXR3VIS2FpLU9nZ0lJckhjWHRvdHA2cm95Y2g4M1FqVEU?oc=5",
+   "date": "2026-10-05T08:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "0f4b6f2f6d15",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves additional U.S. manufacturing capacity for SIMLANDI®, Alvotech’s biosimilar to Humira® - GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRGVHUHIyaHZMbVdDM3czTmpZX29mSWh0NWhxS3BGQWdkVjFtdlNrcWRmTG1CQWxoR0V4N25IdXlGZFNsaURLUFN1UTF3WjRtYVZyaWxVTlY3LUVtSklyWDNHd19wZmNDS1piSWkyVVBRQThsaDRaZ3lFdmxvU0xsdkpqbzhuOXNVWWhwQzNvTl9SNlo0WW5wbm4yc3pHb1E0X1dwVjhqb1JMTkVkUDFicDVCcWgzWDhFT0d2dGlkUHhkTGM0MVdEVFFaamY3UF9MNlBaWklpdk1jX1NCSVo0M1h3MFdxRjhNVGhKS1NCMWowX0FkbWwxSDc5MA?oc=5",
    "date": "2026-10-05T08:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
