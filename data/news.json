@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T09:27:09.779324+00:00",
+ "updated": "2026-10-10T12:31:45.076492+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": ""
   },
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "598de0c7c88f",
+   "source": "Endpoints News",
+   "title": "Women in Biopharma 2026; A secretive new thorn in pharma’s side; and more",
+   "link": "https://endpoints.news/women-in-biopharma-2026-a-secretive-new-thorn-in-pharmas-side-and-more/",
+   "date": "2026-10-10T10:00:12+00:00",
+   "snippet": "Welcome back to Endpoints Weekly! We unveiled our 2026 Women in Biopharma special project on Monday. Our team pored through nearly 200 nominations to reach this year’s list of 20 honorees. You can check out ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "0b854b90c849",
    "source": "Google News: biosimilar",
@@ -735,6 +745,16 @@
    "watch": []
   },
   {
+   "id": "023c2d85ad20",
+   "source": "Google News: biosimilar",
+   "title": "The landscape of the biosimilar (bio-pharmaceutical generic drug whose patent has expired) developme.. - 매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ycG0tMjhIdWJ1RlhMSDNXWGZiSl9YcGFFc2tKRkQ4UXhGM3pNcjFRX3ZjZUNOV2hSd2swYnlfMjFLM1RocHMzNE94bw?oc=5",
+   "date": "2026-10-08T08:39:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "87fb34968af2",
    "source": "Endpoints News",
    "title": "Roche does fourth China deal since August, teaming with Defand on degraders",
@@ -1093,6 +1113,18 @@
    ]
   },
   {
+   "id": "5577eff51d04",
+   "source": "Google News: biosimilar",
+   "title": "Teva Pharmaceutical Industries (TEVA) Is Back In Focus, What Has Investors Looking Closer? - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOV9GVUdVUGdsWk0zY3dMWkZpaUhsNnM2WGxKakNRNGg5WUVYMXVpSmdSemgzckRqUDRCa2VOQU55UENsTWVCM1BpZUR2Z3JvRWw0TGhiVXRvWEhrSXlObktPbU5aMEdlTzB6bzFCMXVuVzMyTmF3OXQ2YlBBcDhpYmZrU0QyWHNMcnNTeGdiNlVoN2ZJZlZlLVA4bmhfckRuSkl3WDNUNWVZQmJaS1Nob2NKbTR1aHlzZUJXUThmS2M4MWx2UmxfYkhwVm54MVkxVlpSVnNMRkJQckVCLVdvNlp2SzVnUHRfMllseWR3RzRrTTdl0gH6AUFVX3lxTE9Dc3k3ZFdveXVzMjdmdjRwWDRNNjRMa1RSaXozV3AyNDZNS3V0Vk9hS29BaFRDdGpJVVF1RFM4NWJIUjFjUGdQdENTV3dOa1M0MlV3SFFtY01MbUl0UENOMlRUdzdGaGREZU9ZWDBGUFhodWVQWkQ0OS1BbV9obTVSZnNkdUhPVEc1ME5WUUFzNkR5RWV3T0lUaFhyMnlhOEdBTkxjWG83bGxhbEwtU1RMY0dGV2dTcF9lX1Z3eWRPX0dINWZ4ZFZ4emRzWkdTandlVW4td2VLaFlsVG83c3ZKbnpVd3NHbmtyMUN2WHJOZFNGQU5LbldaZ1E?oc=5",
+   "date": "2026-10-07T12:54:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
    "id": "a5d47e129313",
    "source": "Fierce Biotech",
    "title": "MimiVax’s cancer vaccine fails phase 2 glioblastoma study, but CEO still sees data as ‘inspiring’",
@@ -1273,6 +1305,18 @@
    "watch": []
   },
   {
+   "id": "34166ea71849",
+   "source": "Google News: biosimilar",
+   "title": "Lotte Biologics partners with Alvotech to make biosimilars in New York - CHOSUNBIZ - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZndvNEpnR2tETUk1TlBzYXVuMVhiLTJNV3FuRkhlLWtLbU5UWW54TDN2ZjJfRFJJYjhIZGJyNm5ENTBFQ01LQW9taUtLeUJ3WC1uWEJJZWtEV2w3enQtc2haWGppajViZnhhbWpmR05PSzNMVXJneE43Rk96a3hmatIBlAFBVV95cUxNNzh0QUdYdnhCM0Y1Ql9SNFVHMnhZQjRENkhpd0ozdl9HNmQwaE05SU5DTGpCYjdHeDQxVl9lUUNmVWhVeFcwTTFKTHQtblp1VEF4Qm1qQWotWmRJUmYxcC1NSE1kaHpQanAwdWtCWG0xTVQ3LTd3VGM1Q1ZGTkRMTHI4MW94ZDV0SWtzOFdTcjJfLVo2?oc=5",
+   "date": "2026-10-06T22:56:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "8a8d63acaf46",
    "source": "Fierce Biotech",
    "title": "Big Pharma-backed Nuvig halts development of lead fusion protein in rare autoimmune disease",
@@ -1444,6 +1488,16 @@
    "date": "2026-10-06T15:28:00+00:00",
    "snippet": "AstraZeneca prides itself on investing roughly a quarter of its annual revenue into research and development. On Monday, the company inaugurated a 570,000-square-foot building in Cambridge, MA, that it says will soon employ 2,000 workers ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2942faf29135",
+   "source": "Google News: biosimilar",
+   "title": "Stifel reiterates Kamada stock Buy rating on biosimilar expansion By Investing.com - Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGdEVFdSYVd4LXJ6N0J2Qm5LX1FSLTZtVExlMWZyRzRTYWRueVE4SXd6RFJuem03Wm95VmFORlRvbm4yVklDeGtwZFdWakZOVVFYZnZrbzY5TnFWc3VCYWIydjVqTDk3OWZOSTBMQ1FsMDRPTWhUNEZGTWJhOHIxUDJucVRVaFU3Tm14bGt6VmEyX084WFo0Q2pSMmphMlBZbGM0OWp4ckxhcHRPb05jWDQ0cGFaeks1ZHhvTUZsWndIekZt?oc=5",
+   "date": "2026-10-06T15:17:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
