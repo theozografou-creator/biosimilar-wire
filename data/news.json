@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T03:28:03.655742+00:00",
+ "updated": "2026-10-10T06:32:40.615096+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": ""
   },
   {
@@ -1158,6 +1158,18 @@
    "title": "Celltrion expands Avtozma's US label to Covid-19 patients aged 2 and older - Korea Biomedical Review",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11bl8zQXNVVFZIR25vOW45dWprWm9JS1dUNkJSTkNrQXdUUVE3YWlIRFpvclRtQTItSWdpaGt3aVI1RDNXZk5sMkF6aGRYVkxhOGFRTVR2V2l0NDhvUlhvdGMtTTFEaDNQZnFoRUhlT3ZYQdIBckFVX3lxTE11bl8zQXNVVFZIR25vOW45dWprWm9JS1dUNkJSTkNrQXdUUVE3YWlIRFpvclRtQTItSWdpaGt3aVI1RDNXZk5sMkF6aGRYVkxhOGFRTVR2V2l0NDhvUlhvdGMtTTFEaDNQZnFoRUhlT3ZYQQ?oc=5",
    "date": "2026-10-07T08:27:44+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "9d6ee4d9d6d2",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion expands Avtozma's US label to Covid-19 patients aged 2 and older - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QUG5COGFFN01scldvQlF6SUNjS0M2WTM3SWcxNURjanMwYTFLeUE2NnFka1FfN2ZQS1pRdXZLQ1pZZXZOMU5tRlk5N0d6Vk5CVlVEdTBtOE9rMzREZ2NCdDk0a0NJb2E3Q0tsdTB30gFyQVVfeXFMTXVuXzNBc1VUVkhHbm85bjl1amtab0lLV1Q2QlJOQ2tBd1RRUTdhaUhEWm9yVG1BMi1JZ2loa3dpUjVEM1dmTmwyQXpoZFhWTGE4YVFNVHZXaXQ0OG9SWG90Yy1NMURoM1BmcWhFSGVPdlhB?oc=5",
+   "date": "2026-10-07T07:37:46+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -3108,6 +3120,16 @@
    "watch": []
   },
   {
+   "id": "0b6cf62166db",
+   "source": "Google News: biosimilar",
+   "title": "Langworthy introduces bipartisan bill to lower drug costs - WGRZ",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcF9mYkNjUzZHSW94OTF0eHEwbmxKUi1Ld0E1SHZ5Rlp6TXRPNHNpS3J2Y2tXTDRUTVpkMlJ5NTdhVUxKdS1HVXRnVjFIeEZwMmVDUElPZFBHSXZWQkt6d1IzZko0ZmhYa3FaMHA5ZzNLd3I1VUg4ME1JTEY1UEtBYVJjUjUzTUlwMGdSUmliY3huSUN0MER4eUZ2QVhIT211cEJjQnJ0NHZzcW9kYVBDSWRZMTdQeWl6Uy02dU5teUIxUk41eEE?oc=5",
+   "date": "2026-10-03T11:53:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "29be7c64a30d",
    "source": "Google News: biosimilar",
    "title": "Sandoz creates new global biosimilar development, manufacturing and supply unit, appoints industry veteran Armin Metzger to lead next phase of growth - Sandoz",
@@ -4394,6 +4416,16 @@
    "title": "Generic, Biosimilar Medicines Saved US Health Care $496B in 2025 - Center for Biosimilars",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ2JBbzNsbHhtNjNUY3lhX0k0X0ZkTWRXT09JWVJxQUxaTGhwQ1BYR1MwVHNndXZYcjFSazRnTUtaY3BuNmFkQlNibFpnQmRvc1hxcHBacXBzMmc5Q1UyeXpKT0pqa2paYkNFNmJqNnZ0WGJaTWhqcWVnOFNkcEpQMGJka1Rzb2lTZFRMem1fb09nQTNYVXhUQmp6ZFNHQV80cVczajJYTQ?oc=5",
    "date": "2026-09-24T23:17:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "fb41e246ceaf",
+   "source": "GaBI Online",
+   "title": "FDA approves Zimrixby (rituximab) and Garzulys (insulin aspart) biosimilars - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWEZYU05vSkJlR1B6d3ZzVHZhekVmUldkeXo4Ty1jQ1J2Y0JMYTRFXzVJU3ZWS1ZzZUc3TlRoaTRUODBCRXZ0NThENGRTQVJNVlZDc193QnRjd0ltZ0NOTmJVS2lXMTVyT0dCaXRzTE5YSXBQY1RLOGFfelY5WHBmajJPbUk4Y3FDdkFWMzJuclB3amgwYkk2ZFV5Y0pqODFacndoQkI3MHk1QVhIZF95ZA?oc=5",
+   "date": "2026-09-24T22:51:57+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
