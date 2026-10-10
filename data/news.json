@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T15:26:17.224413+00:00",
+ "updated": "2026-10-10T18:29:25.747593+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "52c7a7e7c64f",
+   "source": "Fierce Biotech",
+   "title": "Parkinson’s-focused Aspen and bispecific biotech Bambusa plan IPOs",
+   "link": "https://www.fiercebiotech.com/biotech/parkinsons-focused-aspen-and-bispecific-biotech-aspen-plan-ipos",
+   "date": "2026-10-10T18:29:25.747593+00:00",
+   "snippet": "Parkinson’s disease cell therapy-focused Aspen Neuroscience and bispecific biotech Bambusa Therapeutics are the latest drug developers to eye up a public listing.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "98e02a1602ab",
+   "source": "Fierce Pharma",
+   "title": "Arcutis' Zoryve sticks the landing with gymnast Simone Biles in new awareness campaign",
+   "link": "https://www.fiercepharma.com/pharma/arcutis-zoryve-sticks-landing-gymnast-simone-biles-joining-new-awareness-campaign",
+   "date": "2026-10-10T18:29:25.747593+00:00",
+   "snippet": "World Champion gymnast Simone Biles is a Zoryve user herself, advocating for long-term treatment for conditions such as seborrheic dermatitis and atopic dermatitis.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "598de0c7c88f",
    "source": "Endpoints News",
@@ -1952,6 +1972,18 @@
    "title": "Celltrion prices Omlyclo 15% below Xolair in US launch - Korea Biomedical Review",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fdE5ZRjFJdC1FSFlzWHRjTkgxSWxJNG1BaV9xNjZVMkY2TzNIcUwzNGhNMGx3OXRUX0t6dGRYa3Z2Q21ydFV2NjFTXzdQZFJ5QUtzS0ZwQnhYbFFaRGV0OXhSRTZxR3VVS0hMUFF30gFyQVVfeXFMUFh3b0lRRmtwOVg3VXRKajRDb0Rhck9hTm5BV2hzcFdRb3VkZW80RGVIYXBzNWViN3NzX3dyOEF4b1JBbC1mN0pLbzVaSFhWLTVJRkY0anNRT1FwMy1VMndXSlNKRDJnaDN6Rkg4WW1MX3BR?oc=5",
    "date": "2026-10-06T01:30:51+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "d6926555b8cb",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion Launches Omlyclo in U.S., Targeting Early Lead in Omalizumab Biosimilar Market - Korea IT Times",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4waUtBSHdweVh1QnB5VG9HaUdnUkhRZjNILWR5R05kQjdBcXRDZ1BaUFV1TGswSThzYWNyc3NLeTAzTmlvUl9BM3dQakwtVGpVMDlKdWRkQlRnQVZ1WVBLMzdTSXpGbWlEWVNpZ3Fmc2c?oc=5",
+   "date": "2026-10-06T01:27:14+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
