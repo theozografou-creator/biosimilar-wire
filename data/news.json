@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T21:26:10.515316+00:00",
+ "updated": "2026-10-11T00:37:47.730959+00:00",
  "ai": false,
  "feeds": [
   {
@@ -1735,6 +1735,16 @@
    "watch": []
   },
   {
+   "id": "14390e84252d",
+   "source": "Google News: biosimilar",
+   "title": "Kamada Announces Expansion of Biosimilars Portfolio with the Launch of Two Additional Products in Israel - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQm02dUtWU0xrWlZhODJzVEZZSjN3bUt1d3I2V1NuQm4zOE1fSWpGLXVpYkp0RUZGdEZ5bFNCX2NiTlphYUNLaVl0R01wTlR4YzZyYXdITGhydlhoSlZVS2kzNUhNRVc5Wk54cHJRa1hvLXBhQlJaSVFsWXpuYjdQMWRudnhGdndHeXdyZ19uX29SVncxRUo1dV9haVFFcjVmQmJkQW1UQ0tsZ0tGTkRCcFAycUV3cTZFeXJVam9YT3FwN09iRC1xaFVQZ0dMTG5vYVFvYUlnZ2VwaWozOUREamw1ZnBjb2l1VEdZWVd1MGVQUGZacm9yMlU4cHQ3MFl4VmQxV0dkY0Znd9IBjwJBVV95cUxPOWs0Q0tpNVAxazF1ZUo1UzdHYjBOcHFEMWZhUTYwdDZxb29lcHJsQzBQeGxwT3N5S2pvTGZ3MDFvc2xiTHZDY2g4YjlHaXRmb3JTcTVEQnJINGdCOXlqZWZrVkl2dHJSVElRUUFjQ0NkQnpkR1B3cnNnWHhpcDN2TUJybDQ5RDRwR0JBNElyOTdBQjBYOTdmOHRGMEdGXzgyWTFCbkE0dXVoM0ZJOTEwSkFXejlHazQ4bGJ3ZnA4c2RQWlFxUjVkT1RKNzNteVhFWjNtMmkxY01QUmptdGZQZ3lpV1NzMVNOTjd1UnpoT1VIUHhycVhaM0VGUkpISzNEUlVTaG1vQzQteGV5U1R3?oc=5",
+   "date": "2026-10-06T11:02:53+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "dbe43e112aa9",
    "source": "Google News: biosimilar",
    "title": "Two drug launches in Israel expand Kamada (KMDA)'s portfolio as it projects sales through 2030. - Stock Titan",
@@ -3260,6 +3270,19 @@
    "snippet": "Alnylam Pharmaceuticals has teamed up with Pete Shaw, making the retired professional football player the star of its “Play by Play” educational heart disease initiative.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "c386961aaab5",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis and Teva strike global deal six biosimilars - Indian Pharma Post",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckVNMTBQU0JQanFuT09kY0I5U3MzTkk4cTMwZVlhZUhlV252ek5IbGZNZzdMT1FFLWFLdUZUeDRJOUVlUERPSFNrcEdHVmVZUGVTRmgxWlNGTnNJckhfcktSX3RMVkJRUVgwb0Z0ckJ0NzhPS19aQUc5S3l4eTctV3dxWkRVWHVsZGRfemEyUWlyc0RsMGFTb0FoeDZsZ2E3SkZOLVRB0gGsAUFVX3lxTFBLeEtGMHRYX3RodlByZHl2NjhfUmM1TkxyYm9uYW1TT3NwSlQzdWF6b2g1TFJfdGxRWGYycGJ4X1lXbmZyV2RiMDdkbEZTQkM4TExHamRNUVNUQXNVODFwaGVHYXNhVE9xM1lPUFk2WEpWc05BNE4wZXUtNjhYWC1memh5V1dveVdCd25Pa1pQMjhrWndPQ3NpM3hLemN3OXhPaWZ1RV9PcDlpSTU?oc=5",
+   "date": "2026-10-04T04:19:09+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
   },
   {
    "id": "0b6cf62166db",
