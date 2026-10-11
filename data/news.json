@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T09:27:47.252990+00:00",
+ "updated": "2026-10-11T12:33:06.165413+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "error": ""
   },
   {
@@ -2719,6 +2719,18 @@
    "source": "Google News: biosimilar",
    "title": "FDA approves additional U.S. manufacturing capacity for SIMLANDI®, Alvotech’s biosimilar to Humira® - GlobeNewswire",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRGVHUHIyaHZMbVdDM3czTmpZX29mSWh0NWhxS3BGQWdkVjFtdlNrcWRmTG1CQWxoR0V4N25IdXlGZFNsaURLUFN1UTF3WjRtYVZyaWxVTlY3LUVtSklyWDNHd19wZmNDS1piSWkyVVBRQThsaDRaZ3lFdmxvU0xsdkpqbzhuOXNVWWhwQzNvTl9SNlo0WW5wbm4yc3pHb1E0X1dwVjhqb1JMTkVkUDFicDVCcWgzWDhFT0d2dGlkUHhkTGM0MVdEVFFaamY3UF9MNlBaWklpdk1jX1NCSVo0M1h3MFdxRjhNVGhKS1NCMWowX0FkbWwxSDc5MA?oc=5",
+   "date": "2026-10-05T08:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "8badc75c17ba",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves additional U.S. manufacturing capacity for SIMLANDI®, Alvotech’s biosimilar to Humira® - Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2lWaDFTMDliQi1faDg2S19mUVoyZjZ3ZDBoYkYxc3VLZHlaUEhybV9udE9rMW1SYjc0NTRlUzJBZ1hmNllzWHY5b1UxaW9iczRncDVLYW5UUXpHYnFxRkJvcGFndllfTFdkSXNYaW9ZbGYxQXY5YVlYNGRYdEVLQmpmcTRmQ1ZYQmp2LXloN3JXZw?oc=5",
    "date": "2026-10-05T08:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
