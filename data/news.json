@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T06:33:17.970401+00:00",
+ "updated": "2026-10-11T09:27:47.252990+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": ""
   },
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "fbe27718e2e0",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilars race amid $400 billion patent cliff - 조선일보",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYXJucF9SMDhhb05kZEJaeHgtV0tNTTBNa21taVQ2VERjTjVQRC04Z3BJOUx0Vlh4Z1VaWVFjd0dzeTBRLXlnSjVPOGJ5eWkyU0dwOVQ0SnFtM2dWakk4a21XQl90aDdhLWhuM0JmN3lJZG9BM0k3OTJaaDJHV2t1YnpxOE5IdGwz?oc=5",
+   "date": "2026-10-11T07:18:33+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "52c7a7e7c64f",
    "source": "Fierce Biotech",
