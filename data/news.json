@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T03:28:40.908965+00:00",
+ "updated": "2026-10-11T06:33:17.970401+00:00",
  "ai": false,
  "feeds": [
   {
@@ -1371,6 +1371,18 @@
    ]
   },
   {
+   "id": "914460146b6d",
+   "source": "Google News: biosimilar",
+   "title": "Lotte Biologics signs long-term biosimilar drug substance supply deal with Alvotech - 헤럴드경제",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VV3Mya3dyNWFUQ3M4bXdUVHZSdVZjNExQaUFRNENLeXgwZXBXbUJ0amlNSUt4NVRzdndKaHd4V1BKUlFWN2F2bVBrejFjSVRaX2VleGlEZw?oc=5",
+   "date": "2026-10-06T22:53:08+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "8a8d63acaf46",
    "source": "Fierce Biotech",
    "title": "Big Pharma-backed Nuvig halts development of lead fusion protein in rare autoimmune disease",
@@ -1550,6 +1562,16 @@
    "title": "Stifel reiterates Kamada stock Buy rating on biosimilar expansion By Investing.com - Investing.com Canada",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZGdEVFdSYVd4LXJ6N0J2Qm5LX1FSLTZtVExlMWZyRzRTYWRueVE4SXd6RFJuem03Wm95VmFORlRvbm4yVklDeGtwZFdWakZOVVFYZnZrbzY5TnFWc3VCYWIydjVqTDk3OWZOSTBMQ1FsMDRPTWhUNEZGTWJhOHIxUDJucVRVaFU3Tm14bGt6VmEyX084WFo0Q2pSMmphMlBZbGM0OWp4ckxhcHRPb05jWDQ0cGFaeks1ZHhvTUZsWndIekZt?oc=5",
    "date": "2026-10-06T15:17:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "b53f3c65e71c",
+   "source": "Google News: biosimilar",
+   "title": "Stifel reiterates Kamada stock Buy rating on biosimilar expansion By Investing.com - Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYmhYYnNVbWIxSkU3YmNmY000MndqdXhuOEpoOWRqSFJFQTN4MWhrRG03YS1kdXo3dmpyMkhhSVY1bUZiMi1rcmZsYmNIZHVGWm5VQ3A2VmJsSG1rTlY4R1dKeWd0RnJPTFhRRTRFeXdNZXdHMS1HMkx2SUY2TnJmV25CdE9yN05aTDFDNEFIZk5fZk5sWUN3X1R0eGIxRXJuZ0NfV2RtWGs1elYzVGRyTUFlbjVVb3pQbE5PLXB0a1RqaXlu?oc=5",
+   "date": "2026-10-06T15:14:32+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
