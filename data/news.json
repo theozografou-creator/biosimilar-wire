@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T18:30:19.702195+00:00",
+ "updated": "2026-10-11T21:27:14.567281+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "76a2359b139f",
+   "source": "Endpoints News",
+   "title": "AstraZeneca blames trial design for Phase 3 failure of bone disease drug",
+   "link": "https://endpoints.news/astrazeneca-blames-trial-design-for-phase-3-failure-of-bone-disease-drug/",
+   "date": "2026-10-11T21:00:05+00:00",
+   "snippet": "New details from AstraZeneca's failed Phase 3 trial of its enzyme replacement therapy for a genetic bone disease suggest the test missed its goals because of how the trial was composed, as the drugmaker seeks ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "25f9a19889c4",
    "source": "Google News: biosimilar",
