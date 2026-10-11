@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T15:27:02.358256+00:00",
+ "updated": "2026-10-11T18:30:19.702195+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "25f9a19889c4",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Firms Race for $400 Billion Patent Cliff - 조선일보",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEJsZU1fc1l6TTZPWDNiRTZUNnQ2TGlIWnhTT2JncU9ldzY3MjF2MnNNeFRoOGtnM0hoRVNXanBrNzMyYnV5SGNQR1l1b2VuTlZlcUNDSXhfU0wxdVNpUlhXWFZaT3ctb1NGY010Q3MwVHA1V1RmenBabmdQVUhzYVBoSGhOYjhQ?oc=5",
+   "date": "2026-10-11T15:37:38+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "fbe27718e2e0",
    "source": "Google News: biosimilar",
@@ -2212,6 +2222,16 @@
    "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Index-Journal",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIa1FaalNCWE9RREM3SUZvcUI3OXJaU1NRR0VPb3g3Nndyc0JlVXFaUVpDY2p5UWhfLWw0TlZaUGxBSHIzNVZJQlZJa2dsUVVXQ05ua3NVVTYtNXIxWnB3a1dxZll1QkV3YUlGdk1wcFd6ZTNXVm1kZw?oc=5",
    "date": "2026-10-05T16:44:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "523809c475a3",
+   "source": "Google News: biosimilar",
+   "title": "Policymakers need better incentives to keep biosimilar development on track - Managed Healthcare Executive",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVHZkaVFfWmJLZC1IYlVDb053cmlhb1FMam9XbzRKSzZDUUdvMlFoQk4ydktVU2M1cnlUMzV5YVhWWTBmeVFONFdZT05Oblp6cHpUNFVqal9RZzNnV1ZhdnUxS1JEM1pvNlFVQVlXTlNvc3pTYkRFM0Z1OV9pQjBaYXhSdWIxQnlNUno3dmZNZWFINXp3MXUzMHpqOFZTd1BRYzJMSUVkVXNIOHF5aWFmcjJOM2t6RU9QSXFfQVFROUdUaFE?oc=5",
+   "date": "2026-10-05T16:30:46+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
