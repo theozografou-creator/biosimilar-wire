@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T09:33:37.486115+00:00",
+ "updated": "2026-10-12T12:49:52.657524+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,226 @@
  ],
  "items": [
   {
+   "id": "54ce300c7cfa",
+   "source": "Fierce Biotech",
+   "title": "BMS doubles up with pivotal wins in lung disease, solid tumor that offer hope for post-patent cliff growth",
+   "link": "https://www.fiercebiotech.com/biotech/bristol-myers-doubles-pivotal-wins-lung-disease-and-solid-tumor",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "Bristol Myers Squibb has reported phase 3 wins in a lung disease and a solid tumor, taking two steps on its path toward post-patent cliff growth.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "14f48c3126ff",
+   "source": "Fierce Biotech",
+   "title": "iRegene Therapeutics’s NouvSight001 Cleared for Clinical Trials in the U.S. and China for Retinitis Pigmentosa",
+   "link": "https://www.fiercebiotech.com/sponsored/iregene-therapeuticss-nouvsight001-cleared-clinical-trials-us-and-china-retinitis",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "Following its Parkinson’s disease program, iRegene advances another off-the-shelf cell therapy into clinical development in the U.S. and China.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "69f18af30353",
+   "source": "Fierce Pharma",
+   "title": "Data Precision Is Healthcare Marketing’s Growth Engine",
+   "link": "https://www.fiercepharma.com/sponsored/data-precision-healthcare-marketings-growth-engine",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "Butler/Till’s Michael Deichmiller explains why precision, not scale, will define healthcare marketing success.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1350f2e61b29",
+   "source": "Fierce Pharma",
+   "title": "How Ohio Is Building a Biopharma Growth Engine",
+   "link": "https://www.fiercepharma.com/sponsored/how-ohio-building-biopharma-growth-engine",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "Discover how Ohio is investing in talent, manufacturing and research to attract the next wave of biopharma growth.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2654fa33db76",
+   "source": "Fierce Pharma",
+   "title": "How Predictive Modeling Uncovers Blind Spots in the Patient Journey",
+   "link": "https://www.fiercepharma.com/sponsored/how-predictive-modeling-uncovers-blind-spots-patient-journey",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "Predictive modeling helps pharma marketers reach patients before diagnosis and measure impact beyond traditional audience metrics.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "306ccca7b6a2",
+   "source": "Fierce Pharma",
+   "title": "Beyond Data: Understanding the “Why” Behind HCP Decisions",
+   "link": "https://www.fiercepharma.com/sponsored/beyond-data-understanding-why-behind-hcp-decisions",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "AI delivers information. Peer validation delivers confidence. Learn how HCP conversations reveal the “why” behind clinical decisions.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f4054dc0fa1f",
+   "source": "Fierce Pharma",
+   "title": "Why Medical Teams Must Lead DOL Strategy",
+   "link": "https://www.fiercepharma.com/sponsored/why-medical-teams-must-lead-dol-strategy",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "Medical, marketing and commercial teams must unite to make digital opinion leader engagement effective in the AI era.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "64e2ba3ce0cc",
+   "source": "Fierce Pharma",
+   "title": "Fullspan Health on Winning the AI Search Revolution",
+   "link": "https://www.fiercepharma.com/sponsored/fullspan-health-winning-ai-search-revolution",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "Learn how Fullspan Health is helping brands improve AI visibility, build trust and engage patients across the healthcare journey.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "474f04b1a0fc",
+   "source": "Fierce Pharma",
+   "title": "Why AI’s Biggest Value in Pharma Is Confidence",
+   "link": "https://www.fiercepharma.com/sponsored/why-ais-biggest-value-pharma-confidence",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "/prompt CEO Paul Dyer explains why AI drives confidence, not just efficiency, and what that means for pharma marketing.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5f03e14819dd",
+   "source": "Fierce Pharma",
+   "title": "Executive Interviews at Fierce Pharma Week 2026",
+   "link": "https://www.fiercepharma.com/sponsored/fierce-pharma-week-2026-executive-interviews",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "Join Fierce Pharma as we sit down with industry innovators to explore the most impactful strategies, cutting-edge insights, and collaborative approaches shaping the future of pharma engagement.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f5ee5ef21cbc",
+   "source": "Fierce Pharma",
+   "title": "Why MRC Accreditation Is Just the First Step",
+   "link": "https://www.fiercepharma.com/sponsored/why-mrc-accreditation-just-first-step",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "CheckedUp's COO explains how MRC accreditation strengthens trust, scalability and accountability in healthcare media.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "728c7946df94",
+   "source": "Fierce Pharma",
+   "title": "AI, Data and the New Rules of HCP Marketing",
+   "link": "https://www.fiercepharma.com/sponsored/ai-data-and-new-rules-hcp-marketing",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "Doceree's Kamya Elawadhi explores AI, measurement, data recency and why point of care is becoming central to pharma marketing.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "aabb61f5c21b",
+   "source": "Fierce Pharma",
+   "title": "Why AI and Precision Matter in Pharma Commercialization",
+   "link": "https://www.fiercepharma.com/sponsored/why-ai-and-precision-matter-pharma-commercialization",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "DeepIntent CMO Ian Colley explains why AI, data and transparency are reshaping pharma commercialization.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e11bceef9ee2",
+   "source": "Fierce Pharma",
+   "title": "Beyond the Pharmacy Counter: Inmar's Data Advantage",
+   "link": "https://www.fiercepharma.com/sponsored/beyond-pharmacy-counter-inmars-data-advantage",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "Emily Welker explains how retail and healthcare data reveal new opportunities to engage GLP-1 consumers more effectively.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c07063be44b4",
+   "source": "Fierce Pharma",
+   "title": "Why Patient Voice Must Shape Pharma Strategy",
+   "link": "https://www.fiercepharma.com/sponsored/why-patient-voice-must-shape-pharma-strategy",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "Data alone isn't enough. Connecting patient voice, measurement and AI can improve commercial decision-making.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e0127b331db1",
+   "source": "Fierce Pharma",
+   "title": "How advanced AI can improve clinical trial decision-making",
+   "link": "https://www.fiercepharma.com/sponsored/how-advanced-ai-can-improve-clinical-trial-decision-making",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "Life science foundation models can help teams anticipate patient outcomes and pressure-test trial designs.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7fe42810a098",
+   "source": "Fierce Pharma",
+   "title": "Why Timing Has Become HCP Marketing's Biggest Challenge",
+   "link": "https://www.fiercepharma.com/sponsored/why-timing-has-become-hcp-marketings-biggest-challenge",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "Phreesia's ProviderConnect lets teams reach the right clinicians at the right time based on cases they are likely to see in upcoming practice.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "11a216635e4c",
+   "source": "Fierce Pharma",
+   "title": "RevHealth’s Chris Cullmann on AI and Human-Centered Pharma",
+   "link": "https://www.fiercepharma.com/sponsored/revhealths-chris-cullmann-ai-and-human-centered-pharma",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "AI can accelerate commercialization, but human creativity, judgment and trust will define success.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "49f80f270e59",
+   "source": "Fierce Pharma",
+   "title": "Why Medical Affairs Is Becoming Biopharma’s Third Pillar",
+   "link": "https://www.fiercepharma.com/sponsored/why-medical-affairs-becoming-biopharmas-third-pillar",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "CMI Media Group’s Eugene Lee discusses medical affairs, omnichannel scientific engagement and the role of AI in compliant communications.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6057242da218",
+   "source": "Fierce Pharma",
+   "title": "Media OS is designed to tackle healthcare advertising's identity challenge",
+   "link": "https://www.fiercepharma.com/sponsored/mediaos-tackles-healthcare-advertisings-identity-challenge",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "IQVIA Digital's Jerrad Rickard explains identity, transparency and AI's evolving role in healthcare advertising.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "66b718309a2c",
+   "source": "Fierce Pharma",
+   "title": "AI-Powered Brand Sites Are Changing Patient Engagement",
+   "link": "https://www.fiercepharma.com/sponsored/ai-powered-brand-sites-are-changing-patient-engagement",
+   "date": "2026-10-12T12:49:52.657524+00:00",
+   "snippet": "Compliant AI helps brands answer patient questions in real time and turn conversations into actionable insights.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a1e4726bdcca",
+   "source": "Endpoints News",
+   "title": "Undecimal Bio launches with $18M to take siRNA beyond liver disease",
+   "link": "https://endpoints.news/undecimal-bio-launches-with-18m-to-advance-sirna-beyond-liver-disease/",
+   "date": "2026-10-12T11:00:35+00:00",
+   "snippet": "After spinning out one half of its business this summer, Eleven Therapeutics is carving out the other half with $18 million to join companies like Arrowhead and Alnylam that ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "35839ef418f3",
    "source": "Fierce Biotech",
    "title": "Merck’s deeper dive into efficacy, safety of $1.3B eye disease drug raises fears of ‘limited’ potential",
@@ -93,6 +313,18 @@
    "watch": []
   },
   {
+   "id": "9dd10bd30199",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion posts first W500b quarterly operating profit - The Korea Herald",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QVEZEYWY0X0NjX1hHbnBlc0dsTjJ2U0lFT2luaUtqbUxOZ0F1RmFOS3pMR2xMeERHZ25BMGhnd1JqelhhNXZsSTNuZHFuWXFvVkV4WVFrdw?oc=5",
+   "date": "2026-10-12T02:27:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
    "id": "e392a397fbfb",
    "source": "Google News: biosimilar",
    "title": "Dong-A ST takes anemia biosimilar beyond Japan with UAE launch - Korea Biomedical Review",
@@ -120,6 +352,18 @@
    "title": "Celltrion's profit outpaces sales growth as newer biosimilars gain ground - Korea Biomedical Review",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sZ3VQcTlFNk1iUE8xT2h0UUxhUlozZGIzalhjREg4ZE0ySm5nQVNVX0Z3N0tjZ1g5MzlmNzNiTEd0RlpBc2MwYm9WTnVoZUZSajJDR0h3Y3F5aS0xZHpOWXlqZjF0c3VKR190ZlJ30gFyQVVfeXFMT05sbE1fdGNMMlh1RUNldVFYZEpzUm9HeDVicFdWN2lwbHJNSkgtNVA3RUFiVjEwV1hjZXZHZ2MwWUxEVnNtQ2JsWUFJNTN6ZWJEbXVTY011RElwcUIyWmhZal9HSXgzMXhTVWU3cE5vTWx3?oc=5",
    "date": "2026-10-12T00:35:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "8651e9d0c31c",
+   "source": "Google News: biosimilar",
+   "title": "Celltrions Q3 profit hits record on newer biosimilars - Aju Press",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiZ0RVRnR1Q0lsZjgxV29RZFlFc0ZfYXA2bk1tVkxwaWREOEMzQ3RCSW5HRjVaYUNfXzBadUl0REdseTdUU0dCa0hXXzRJUTZlYmJ1YWp1UdIBV0FVX3lxTFBiZ0RVRnR1Q0lsZjgxV29RZFlFc0ZfYXA2bk1tVkxwaWREOEMzQ3RCSW5HRjVaYUNfXzBadUl0REdseTdUU0dCa0hXXzRJUTZlYmJ1YWp1UQ?oc=5",
+   "date": "2026-10-11T23:36:25+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -2144,6 +2388,18 @@
    "title": "Celltrion launches first US biosimilar to Xolair - Aju Press",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnU0FYXzY5YUpma1VmLUR6bHBTbHI3V2RmMThXa3ZGZ254eEY5d2FQMWxGdS03Z3NfR25hQXR2MzlpaE5fM2JsQ1dSaDNrd1NzUUJMUTJLUdIBV0FVX3lxTFBnU0FYXzY5YUpma1VmLUR6bHBTbHI3V2RmMThXa3ZGZ254eEY5d2FQMWxGdS03Z3NfR25hQXR2MzlpaE5fM2JsQ1dSaDNrd1NzUUJMUTJLUQ?oc=5",
    "date": "2026-10-06T00:30:58+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "e077b078c12a",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion launches first US biosimilar to Xolair - Aju Press",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xOTZhemtVSXdDdVIzVWRQWko5SFVObl9KLUNBMlZ2WklEWjZUZmVJSlBjbmxGcE03bzcweEpqMGUxTVpJWDhBeFVFSkNvTmFXbFZPWUprSmliMWfSAVdBVV95cUxQZ1NBWF82OWFKZmtVZi1EemxwU2xyN1dkZjE4V2t2RmdueHhGOXdhUDFsRnUtN2dzX0duYUF0djM5aWhOXzNibENXUmgza3dTc1FCTFEyS1E?oc=5",
+   "date": "2026-10-06T00:01:22+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
