@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T00:40:48.701124+00:00",
+ "updated": "2026-10-12T03:32:03.964237+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,18 @@
   }
  ],
  "items": [
+  {
+   "id": "2e6105ae29c6",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion posts record quarterly profit in Q3, sees growth holding firm - KED Global",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iclFvQ21taHhSTWowNENTMEJ5QnNaZTVmY0ZDaEVMZ3dDbF9JY0Z2c1o4X1lkb1pTWkFFR0V1MzNZYTdHN0lfMlBBNTZOc2tHME1sZlFZVThxQnNiNlZnaF9GUjlTZkV2QmNB?oc=5",
+   "date": "2026-10-12T01:32:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
   {
    "id": "76a2359b139f",
    "source": "Endpoints News",
