@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T06:39:38.742044+00:00",
+ "updated": "2026-10-12T09:33:37.486115+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "35839ef418f3",
+   "source": "Fierce Biotech",
+   "title": "Merck’s deeper dive into efficacy, safety of $1.3B eye disease drug raises fears of ‘limited’ potential",
+   "link": "https://www.fiercebiotech.com/biotech/merck-co-data-raise-fears-eye-disease-drug-has-limited-potential",
+   "date": "2026-10-12T09:33:37.486115+00:00",
+   "snippet": "Merck & Co. has poured out its Brunello data, revealing a mix of undifferentiated efficacy and concerning safety that led analysts to predict “limited competitive potential” in diabetic macular edema. The company paid $1.3 billion upfront in 2024 to buy the asset and the rest of ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3b9b8663102b",
+   "source": "Google News: biosimilar",
+   "title": "Perfusion for next generation biosimilars - European Biotechnology Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFhjZVJtODJsZUl5dDVXRS1OQXpoREtqZko4U2N4UVRtbldvSTBidGRqOFYxb085U213SElqNUdlcUw5QVZKR1VmRWN6Z1JQeGZXTVdoSlJjUlZCMDBEalM3V0JMSU1wdUE4bDFBTm1mRjZWWU5sYXphejFmZFluekFBYVpfdW84cURxLTJ2X01obkRyOWRBQWJkWHBLelJXOUE?oc=5",
+   "date": "2026-10-12T07:33:58+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "45aa8b2ebfba",
    "source": "Fierce Pharma",
@@ -68,6 +88,16 @@
    "title": "Dong-A ST takes anemia biosimilar beyond Japan with UAE launch - Korea Biomedical Review",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iNlEzNk91Z1lPVkNUNVNkRkplZllaZ2oxYXVjMTJwelVZR0w4dDh2dkxTRFpQVERabE1fMXptNjhSNDNNMzdUeVZtWDlJZ0t3UGgxMGsyaVczRTVURkJOYTE1NjhVNjZBU3JDNXF4aV9tZ9IBckFVX3lxTE5iNlEzNk91Z1lPVkNUNVNkRkplZllaZ2oxYXVjMTJwelVZR0w4dDh2dkxTRFpQVERabE1fMXptNjhSNDNNMzdUeVZtWDlJZ0t3UGgxMGsyaVczRTVURkJOYTE1NjhVNjZBU3JDNXF4aV9tZw?oc=5",
    "date": "2026-10-12T03:48:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "e392a397fbfb",
+   "source": "Google News: biosimilar",
+   "title": "Dong-A ST takes anemia biosimilar beyond Japan with UAE launch - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZRDdPekE0R2doTkJEaGp0bGJZRjRYaHh2eHlEUGotOUM3akJNQ2lFNkpIT1JuYWxiSVZ2X1dYbVdvRmJiM05GMFd1Mzd2QjhQZWJaZ0d3Z1V1dmhqWURNWHNwckhScG9BMkRMa1N30gFyQVVfeXFMTmI2UTM2T3VnWU9WQ1Q1U2RGSmVmWVpnajFhdWMxMnB6VVlHTDh0OHZ2TFNEWlBURFpsTV8xem02OFI0M00zN1R5Vm1YOUlnS3dQaDEwazJpVzNFNVRGQk5hMTU2OFU2NkFTckM1cXhpX21n?oc=5",
+   "date": "2026-10-12T02:01:35+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
