@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T15:31:36.461089+00:00",
+ "updated": "2026-10-12T18:33:26.250186+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": ""
   },
   {
@@ -52,6 +52,68 @@
   }
  ],
  "items": [
+  {
+   "id": "0c200049d64a",
+   "source": "Endpoints News",
+   "title": "Merck reports mixed data for Lucentis competitor in diabetic macular edema",
+   "link": "https://endpoints.news/merck-reports-mixed-data-for-lucentis-competitor-in-diabetic-macular-edema/",
+   "date": "2026-10-12T18:18:36+00:00",
+   "snippet": "Merck’s ophthalmology candidate, remigromig, met the primary endpoint in a pivotal study, but the full results raise questions about the drug’s commercial prospects. Merck said last month that remigromig was non-inferior to ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ea5a37aafc76",
+   "source": "Center for Biosimilars",
+   "title": "Biosimilar Bills Would Automate Medicare Negotiation Delays - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRVM0RHFiNDlocHFrb0tYbzdpSHJ2d0p3VlY1YUplUXY0enEwckROTVREX2c4aThkNkV1dkdLWEIwa1dfMlRhRHpLNHhVYTlLZnZiaWV0NDhmZXBnSmNjd3JwenVTbG1TdGZINjV4elg0ak85OTU2SjFSbGRWTVBZX2E3VmdzWF82V1hMYjdCVHhnaEo3VENOV1lvVFRKNHdidzc4?oc=5",
+   "date": "2026-10-12T17:25:15+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "024a85dc54b0",
+   "source": "Endpoints News",
+   "title": "Asahi Kasei lands approval for new HSV treatment",
+   "link": "https://endpoints.news/asahi-kasei-lands-approval-for-new-hsv-treatment/",
+   "date": "2026-10-12T17:08:13+00:00",
+   "snippet": "Japanese pharma Asahi Kasei Therapeutics has snagged FDA approval for a herpes treatment that it acquired early this year in an almost $1 billion deal. The late Friday approval of Hovilpri ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "710b8d06be99",
+   "source": "BioPharma Dive",
+   "title": "Parkinson’s cell therapy developer files to go public",
+   "link": "https://www.biopharmadive.com/news/aspen-neuroscience-ipo-plans-s-1-parkinsons-cell-therapy/832732/",
+   "date": "2026-10-12T15:58:00+00:00",
+   "snippet": "Aspen Neuroscience is looking to join the Nasdaq and raise more money to support its lead program, which aims to turn a patient's own cells into dopamine-producing neurons.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a1fe3cfff472",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion Surpasses 500 Billion Won Operating Profit on Biosimilar Sales - 조선일보",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcnlSVHBjMnhPYTh2aEYxdUV3RTgtc1N3OG02QXBRcEREdXk0Qi1TaWZ1RVFzOVlTU2hZS3dwcndUZG5Jd3JuLWJEQVdzSFFPeWgyT0VuaXRzMFY5cmlMLUxXOEZ1OFIzcXB5QU1ra3RsLWc0cVJGc2VPMnhsZzNvY1BzYlBiNUZS?oc=5",
+   "date": "2026-10-12T15:38:33+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "61dc89df98c0",
+   "source": "BioPharma Dive",
+   "title": "Bristol Myers dips on ‘confounding’ lung drug results",
+   "link": "https://www.biopharmadive.com/news/bristol-myers-admilparant-lpa1-ipf-aloft-results-contineum/832715/",
+   "date": "2026-10-12T15:35:00+00:00",
+   "snippet": "Only the lower of two tested doses of the idiopathic pulmonary fibrosis drug admilparant met the trial’s main objective, adding to analyst questions about the therapy’s prospects.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "d8fe57126e7e",
    "source": "Fierce Biotech",
@@ -393,6 +455,16 @@
    "watch": []
   },
   {
+   "id": "a41aff4ac59f",
+   "source": "BioPharma Dive",
+   "title": "Bausch + Lomb swaps CEOs; Merck reveals anticipated eye drug data",
+   "link": "https://www.biopharmadive.com/news/bausch-lomb-saunders-remigromig-tezpire-eoe-hovilpri/832495/",
+   "date": "2026-10-12T12:09:00+00:00",
+   "snippet": "Bausch and Brent Saunders “mutually agreed” on his exit from the company, according to a statement. Elsewhere, Tezspire could have a new edge on Dupixent and a recent buyout deal paid dividends.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "a1e4726bdcca",
    "source": "Endpoints News",
    "title": "Undecimal Bio launches with $18M to take siRNA beyond liver disease",
@@ -485,6 +557,16 @@
    "watch": []
   },
   {
+   "id": "06cf54ffef1c",
+   "source": "Google News: biosimilar",
+   "title": "Dong-A ST Launches Anemia Treatment Biosimilar \"Dabecron\" in UAE - 아시아경제",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wbjBKOUUtVktabHpQckNaYmU0WFQwYXhPbUhPd2dlbEFzUC1TRXFZUXk4akJkUWZPQlZtMk05UXdLbi1QYk1hWWx1blYtV3NhMmxhVnpIbXo4U1A3NkNVbzJXdWI?oc=5",
+   "date": "2026-10-12T01:33:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "2e6105ae29c6",
    "source": "Google News: biosimilar",
    "title": "Celltrion posts record quarterly profit in Q3, sees growth holding firm - KED Global",
@@ -495,6 +577,16 @@
    "watch": [
     "Celltrion"
    ]
+  },
+  {
+   "id": "9f95ceaac197",
+   "source": "Google News: biosimilar",
+   "title": "Dong-A ST’s Anemia Biosimilar Darbecron Launches in the UAE - Korea IT Times",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lU0JQZ0VuQTZlTDJENjZ5X0pHS1JrcjFOTWU3cEdtbTJVSTdqUzJIMDhLZ2F3R253cWk1SE5DU2k2RmxJTXZRaS1jVjFjQk9tV0NEYmM2YUJCaVM0ZEVoTGhoYmdkX25mOHhQOGJBRTM?oc=5",
+   "date": "2026-10-12T01:26:18+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "bd7ef180a786",
@@ -517,6 +609,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "2b88c8adef9d",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion Posts Record 510 Billion Won Operating Profit - 조선일보",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWHNjeTA4b2x5WjkxaVdVb0pDX0RvUU90cFVjNlUtMFNlUHp1aHFGWmltdXVOX3NSVnpjZGlsUmhVX0ZlS0RreFpqTEF0ZnRtenU4eE5TdVpVNVVxM0ZabDNDMEpTZVkzTE9NOGs1b1hSd3pXVWhGMmtweXBsOGRwNmpFSnBJa19P?oc=5",
+   "date": "2026-10-11T23:56:32+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
   },
   {
    "id": "8651e9d0c31c",
@@ -2349,6 +2453,16 @@
    "source": "Google News: biosimilar",
    "title": "Orion Pharma announces agreement with Qilu Pharma Europe for pembrolizumab biosimilar for European market - GlobeNewswire",
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYjRMN2lmbVdqcTAyMFo4NWdsN3VSOEh4TnZVTmN0dmk4T3RPZURQMVBDUGNrbHRWNUF1MmMzZWpvZzVneTdneVZhZDUyUFJGT0IzRmNvYndfZVFIV0ZJVlR3MkhLRThjaGlZU1FBWk45TWxYZWhUbFNzUzVxLVktVno3UndRNXNIM056WGlldHo5QUdsZF9xLWFodVpfb1RlN05Wdl9VNFFwQ2lHaWUyaWhUNGZUMk53WlYtczRvcGVaeFp5dWoyV3RrbmRJc2ZiaENRMUprOUZoMU5DV0FqMzFOd0VjdXVKVXYzdkh6cGR2WGRiNENQQndMVExjekE5SmU0YVNWQkQ?oc=5",
+   "date": "2026-10-06T06:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "8465e7507d36",
+   "source": "Google News: biosimilar",
+   "title": "Orion Pharma announces agreement with Qilu Pharma Europe for pembrolizumab biosimilar for European market - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVRCMnNHX2VYZ1puMmJPVGVrcmNZbWt3VGRHV1JEYkJnUlEtaXBFakQ5WlN6UW1PNzU1akRtZXI2dklyTWU3X0Jjd2Q0bkNMWnFQMkxsanpfVmhnZVRvV2RpdGNFLWVueEVaLWxhRHZkZmNlZUtMSWZHeDRJeWNzRUNaajV5MUk3bFJSS0xtcDlnQ3pGcUh2TzhDVUFfRTQ?oc=5",
    "date": "2026-10-06T06:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -4927,6 +5041,18 @@
    "title": "Teva Receives U.S. FDA Approval for Denosumab Biosimilar for Oncology Indications - Oncodaily",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfUm42a0kxTVhVZ1IxeTduYlpRWjh1UmN6YzJRd1VkbG41VHZmZThUSVJKTmptVmtWZ0F0UUk3akVPeWxFNXRSaDBlbFJpdlloS0QwelpzckRWRzBCUXpINVlELTZ3SDh2YjRJcXhR?oc=5",
    "date": "2026-09-29T10:36:17+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "facfd4849894",
+   "source": "Center for Biosimilars",
+   "title": "Teva Completes Denosumab Biosimilar Pair With FDA Nod for Degevma - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXRJNHBVNUIzdkZydjMwckpRSGFmYklGN3JiVGNBaF9YYU16Z2ZYRmhjd25rdnQzbkMwVmVDQmw2TnR5MGVINUR3TTBkR1ZOUVc5TWNOa2RQeVZnT2VpeDlDN2l1eFI2VW9pZ2hXMVpwd3VnS3oyRURhODRsZkRVUGZ1eHdLMmgyYVpKYXQ5ZGpwQTVna0RqN0c2RWZ2eldfWlRkMXRXUUdOSWc?oc=5",
+   "date": "2026-09-29T07:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
