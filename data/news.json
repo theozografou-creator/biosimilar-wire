@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T18:33:26.250186+00:00",
+ "updated": "2026-10-12T21:27:46.175063+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": ""
   },
   {
@@ -599,6 +599,16 @@
    "watch": [
     "Celltrion"
    ]
+  },
+  {
+   "id": "5845026de9b5",
+   "source": "Google News: biosimilar",
+   "title": "Dong-A ST Launches Anemia Biosimilar Darbecron in UAE - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeFNoeWZSY0RXalVOcHcybUlSVG53M3NRNElFd0didVN5MDFuVy1ZSWJZNGZkSHphNUx3c0hVSXhfQTlZSGRWeGVJSkFGa0VrWVYyeFRfMHJLaGlqUXlZa2RaZDRhc0lmMnBITVJBNmJhUWo5QjlCOFhUM0MyQzNXVTRGTlh0ZkxSSF9NV1dDYzU4TmlwVjVydEN5Ny16VkU?oc=5",
+   "date": "2026-10-12T00:31:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "e1969ffa9411",
