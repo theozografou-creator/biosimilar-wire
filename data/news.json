@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T12:49:52.657524+00:00",
+ "updated": "2026-10-12T15:31:36.461089+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,136 @@
   }
  ],
  "items": [
+  {
+   "id": "d8fe57126e7e",
+   "source": "Fierce Biotech",
+   "title": "Roche sets sights on FDA approval decision of July 2027 with updated eye drug data",
+   "link": "https://www.fiercebiotech.com/biotech/roche-sets-sights-july-fda-ruling-updated-eye-drug-data",
+   "date": "2026-10-12T15:31:36.461089+00:00",
+   "snippet": "One year on from a mixed phase 3 readout, Roche has shared updated data from eye disease trials that could support FDA approval by July.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ae0c57a593cc",
+   "source": "Fierce Biotech",
+   "title": "Tortugas’ schizophrenia drug proves worth in phase 2 Hansoh trial in China",
+   "link": "https://www.fiercebiotech.com/biotech/tortugas-schizophrenia-drug-proves-worth-phase-2-hansoh-trial-china",
+   "date": "2026-10-12T15:31:36.461089+00:00",
+   "snippet": "Tortugas Neuroscience’s schizophrenia drug from Hansoh Pharma has proven its worth in a phase 2b study, validating the fledgling biotech’s neurology strategy.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7626b511e570",
+   "source": "Fierce Pharma",
+   "title": "Mirum on its way to 3rd rare liver indication for Livmarli",
+   "link": "https://www.fiercepharma.com/pharma/mirums-its-way-3rd-rare-liver-indication-livmarli",
+   "date": "2026-10-12T15:31:36.461089+00:00",
+   "snippet": "Livmarli significantly improved severe itching caused by rare liver diseases. With the phase 3 win in hand, Mirum is looking for a third indication from the FDA early next year.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "70ba991e3566",
+   "source": "Fierce Pharma",
+   "title": "Bausch + Lomb names Appio interim CEO as Saunders hits the exit again",
+   "link": "https://www.fiercepharma.com/pharma/bausch-lomb-names-appio-interim-ceo-saunders-hits-exit-again",
+   "date": "2026-10-12T15:31:36.461089+00:00",
+   "snippet": "Less than four years after returning to Bausch + Lomb to lead the eye health company following its split from Bausch Health, Brent Saunders is hitting the exit once again, as analysts call the transition a surprise.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6dd6c2c36069",
+   "source": "Fierce Pharma",
+   "title": "Invenra deals patient perspectives into the ADC game with custom card deck",
+   "link": "https://www.fiercepharma.com/marketing/invenra-deals-patient-perspectives-adc-game-custom-card-deck",
+   "date": "2026-10-12T15:31:36.461089+00:00",
+   "snippet": "Invenra has created playing cards featuring artwork by people affected by cancer as it seeks biopharma buy-in for its antibody-drug conjugate service.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "27c3a20af8ef",
+   "source": "Fierce Pharma",
+   "title": "Asahi Kasei buyout yields novel FDA herpes nod in immunocompromised patients",
+   "link": "https://www.fiercepharma.com/pharma/asahi-kasei-buyout-yields-novel-fda-herpes-nod-immunocompromised-patients",
+   "date": "2026-10-12T15:31:36.461089+00:00",
+   "snippet": "Roughly half a year after the close of its deal to acquire Bayer spinout AiCurus, Asahi Kasei’s $920 million bet has paid off with an FDA green light.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "709b08510c7e",
+   "source": "Fierce Pharma",
+   "title": "Par Health recalls more IV bags on cellulose risk weeks after similar action",
+   "link": "https://www.fiercepharma.com/manufacturing/par-health-recalls-more-iv-bags-presence-cellulose-weeks-after-similar-action",
+   "date": "2026-10-12T15:31:36.461089+00:00",
+   "snippet": "Par Health issued a voluntary recall of two lots of the IV barbiturate Brevital sodium that may be tainted with cellulose.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f223fd25187b",
+   "source": "Fierce Pharma",
+   "title": "UCB’s Bimzelx takes top drug ad spending spot as streaming data come to the fore",
+   "link": "https://www.fiercepharma.com/marketing/ucbs-bimzelx-take-drug-ad-spending-top-spot-streaming-data-comes-fore",
+   "date": "2026-10-12T15:31:36.461089+00:00",
+   "snippet": "UCB’s immunology drug Bimzelx has once again become the highest ranked drug in iSpot.TV’s pharma ad spending league, topping the charts for September.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a7242dab7528",
+   "source": "Endpoints News",
+   "title": "Mirum succeeds in rare liver disease trial; First Tracks delivers in celiac",
+   "link": "https://endpoints.news/mirum-succeeds-in-rare-liver-disease-trial-first-tracks-delivers-in-celiac/",
+   "date": "2026-10-12T15:12:41+00:00",
+   "snippet": "Mirum Pharmaceuticals’ late-stage win in ultra-rare liver diseases: The company’s ileal bile acid transporter inhibitor Livmarli significantly reduced cholestatic pruritus versus placebo in patients with cholestatic liver diseases, including biliary atresia ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "09a0aedc1795",
+   "source": "Endpoints News",
+   "title": "Bristol Myers reveals a pair of Phase 3 wins for fibrosis, RayzeBio drugs",
+   "link": "https://endpoints.news/bristol-myers-reveals-a-pair-of-phase-3-wins-for-fibrosis-rayzebio-drugs/",
+   "date": "2026-10-12T15:04:37+00:00",
+   "snippet": "Bristol Myers Squibb reported two Phase 3 successes on Monday morning, including for an experimental drug that recently ran into safety issues. A trial testing the lung disease program admilparant succeeded ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d9be12ec0355",
+   "source": "Endpoints News",
+   "title": "Brent Saunders out as Bausch + Lomb CEO, abrupt end to three-year run",
+   "link": "https://endpoints.news/brent-saunders-out-as-bausch-lomb-ceo-abrupt-end-to-three-year-run/",
+   "date": "2026-10-12T14:52:00+00:00",
+   "snippet": "Brent Saunders, one of biopharma’s most prominent dealmakers and highest-paid leaders, is out as CEO of Bausch + Lomb, failing to add another multibillion-dollar company sale to his resume. In a",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "15749600c9fe",
+   "source": "Endpoints News",
+   "title": "GSK to invest $800M for new R&D, manufacturing hub in Pennsylvania",
+   "link": "https://endpoints.news/gsk-to-invest-800m-for-new-rd-manufacturing-hub-in-pennsylvania/",
+   "date": "2026-10-12T14:48:57+00:00",
+   "snippet": "GSK has budgeted more than $800 million to grow its Pennsylvania footprint, its second expansion in the state in two years. The company will begin construction in 2027 at its current site ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2116faae8696",
+   "source": "BioPharma Dive",
+   "title": "Pharma’s $500B patent problem will come in waves — not as a cliff",
+   "link": "https://www.biopharmadive.com/news/pharma-patent-cliff-merck-abbvie-dealmaking/832700/",
+   "date": "2026-10-12T13:16:00+00:00",
+   "snippet": "Merck is the most vulnerable to generic competition in the short term, but AbbVie, Johnson & Johnson, Sanofi and others will also grapple with patent losses in the years to come.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "54ce300c7cfa",
    "source": "Fierce Biotech",
@@ -283,6 +413,16 @@
    "watch": []
   },
   {
+   "id": "828b08b5a7ff",
+   "source": "Google News: biosimilar",
+   "title": "UAE Becomes First MENA Market to Launch Darbepoetin Alfa Biosimilar - NAVLIN DAILY",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUdRdmtHRF9TTDBha2RpU1NsYW9kaWtWYVRiYmxPZzlhc2ZUc2ROZkM4bjB4ek4xcXdEU0RMcnpjLS1QWXdzSmplS3NSTUpoSFFNb2hrS2FLUmd4WUc2aFZ5WjU1MUo0UEc3cFc5aTJIMnptZzNVUGIta0djTktBREo1c1FuQ3hwMl9VOFlWU0xCSkVNTkRuNnRHT2lyRjBUWTBSMHE2MWFTQXpOWXc?oc=5",
+   "date": "2026-10-12T08:56:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "3b9b8663102b",
    "source": "Google News: biosimilar",
    "title": "Perfusion for next generation biosimilars - European Biotechnology Magazine",
@@ -300,6 +440,16 @@
    "date": "2026-10-12T06:39:38.742044+00:00",
    "snippet": "Within3 leaders discuss why ownership, insight sharing and human judgment are critical to faster decisions.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "68006dc5b004",
+   "source": "Google News: biosimilar",
+   "title": "Dong-A ST Launches Darbecron in UAE - Businesskorea",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hZzR5VHdQSTlaeFZzdUloMlZBb0I0Nmp6cEZJekJlVG9EdmYyaDB1blNlUXFwcDVxdFhFaUM2YVlMYzVURkwzMjczcUQyNmNpT2hweHU0NWZlSEI4cW00YkFUa0U0Z0xLdDI3WDA1dTNjcGtp?oc=5",
+   "date": "2026-10-12T03:56:16+00:00",
+   "snippet": "Dong-A ST Launches Darbecron in UAE Businesskorea",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -357,6 +507,16 @@
    "watch": [
     "Celltrion"
    ]
+  },
+  {
+   "id": "e1969ffa9411",
+   "source": "Google News: biosimilar",
+   "title": "Dong-A ST debuts anemia biosimilar Davecron in UAE, targets MENA growth - CHOSUNBIZ - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM19ocGY2Y0JhdTZ5amczVkhuM1RqazN4V2hXclRuMGh4RFJaNW5KZVhKekJGRkhiZGZUYzRkVHhNcG1VbE9XOFNTWGhvSmM2YUxsZWwzRmFFeURvTmxQeUxkS3phVm1LT3FvNk0tSk9Rek9PanJ3SHRnWnFfdWxzR2F5endDYzc1Q1VmU3ZWTVliMy1O0gGUAUFVX3lxTE4zX2hwZjZjQmF1NnlqZzNWSG4zVGprM3hXaFdyVG4waHhEUlo1bkplWEp6QkZGSGJkZlRjNGRUeE1wbVVsT1c4U1NYaG9KYzZhTGxlbDNGYUV5RG9ObFB5TGRLemFWbUtPcW82TS1KT1F6T09qcndIdGdacV91bHNHYXl6d0NjNzVDVWZTdlZNWWIzLU4?oc=5",
+   "date": "2026-10-12T00:17:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "8651e9d0c31c",
@@ -2412,6 +2572,18 @@
    "title": "Celltrion launches first Omalizumab biosimilar in US, targets PBM access - CHOSUNBIZ - Chosunbiz",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaWJlWnhHdGh0WjVWaThNTFlxekh4WUQ4VV92TXhfU0FHNDJFeTFSUjJUa3pFOEItQVVuQ1NMTGlRNkUtSlB3a3Njc2lPNmpkZno2anZ3WGF4dnpGV3BwUFpBM0hfMzJHdDBvWEFEWWowclVFRS1QamJtb3QwczU2WNIBlAFBVV95cUxQREhQZ2VnTTcybUhkSUpxZjdtMnhCdldnN1dZVmJiQlFQT3ZsNEwyaVhMc3lMLWNoQlNPTmNDelZmRHotbFlaTGQyS2V3STVEQk5YSGNGMmtCaEhBQ3NycnFyRWxZYWxBLWx1Q0I1N0RXRnpYMzFHaDBmRGtuYi1abTBMVGY0cjNqTW9mc2hSUzNjSjhq?oc=5",
    "date": "2026-10-05T23:55:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "ed87ffd13acc",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion Launches First Omalizumab Biosimilar in U.S. - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVlF6Y2pTQnotQmh2WFdRaE9yMENQZEpVT0podW9WNk5QQnhOSGhvQk5VZkkweEhGMjNfelZJT0FjRmh4TXYtaVNNMDh2dnJxYVg0SkxMb0RieEJ6eDhPcHR3SGsyM2NLTG5TVUN6TGc3VjB1aTNTMG1MMmY5N1haTVNMaWk4Uk8ySVpyTUJ2Vkl4TnM5Y2JSZzZn?oc=5",
+   "date": "2026-10-05T23:25:13+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
