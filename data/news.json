@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T03:31:00.954529+00:00",
+ "updated": "2026-10-13T06:38:18.337240+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 10,
+   "count": 9,
    "error": ""
   },
   {
@@ -52,6 +52,40 @@
   }
  ],
  "items": [
+  {
+   "id": "9fdb5dd192d0",
+   "source": "Google News: biosimilar",
+   "title": "Zydus Lifesciences Keytruda Biosimilar FYB206 Accepted For USFDA Review - Sahi",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQTFFQXdQcnRXYmRPZmZ1N2NtSzlxU3l5Tl92eXFUUzJMYzNFU1lCNlI2WHhvVVRacnlDckdlTHdESlpWaHgyRThSSTNaRUw0YXctMDdNcm1VV1FZWWUyZXlxS1VWTnJsTDNFdjNXdXlueDMwaHUtZkRxb19lUjFmY1lVM2cyYm9jZ0xGUGhDN0d5WkZqb1YtaWlnZVM1QQ?oc=5",
+   "date": "2026-10-13T04:41:35+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "5bba541148ab",
+   "source": "Google News: biosimilar",
+   "title": "Formycon And Zydus Say FYB206 Becomes First Publicly Announced Keytruda Biosimilar Accepted For Review By FDA - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUFNxQXhpMnh6TjRZeklhWDAxRmpJQVFyQnBzWUxwek83N0pfS3RMYVVsQ0gxbmNLRGNWM3JfREdWRmZpeTl0cURDVGRLUmRrRXQyWDdodTVoQkNELU9sbGxuQXZyTE83R1drS2liaC10a1A0dFJDc083Qld6M0dvR2ZiU3QyaHpHdFRqX3c4Z0pCclNjUkpXdmZvNFlUc3AyWjY0LXZNMnhNbEFNU2VfS3p4YldpVlliT0U0VmkwNFBxdk5pMmZyN2l3RXRKck96WngwbzlnZUkxMHh4dU1PNkpKYnpMdDZsZ3hXNjBpeHlSLTlLUEg0UWVUU2JBcUdPQlpRcWxPYV9PS2c?oc=5",
+   "date": "2026-10-13T04:10:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "36d96c46b693",
+   "source": "Google News: biosimilar",
+   "title": "Formycon AG (FYB) FDA Accepts Review of Keytruda Biosimilar FYB206 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdFFlM2dLc3R3UkhlTS1lZnQ0M21oeG1ucWR5NUUyZVZIMmJoN2JLSVhiNzFvejlDazBiQ0N5MVlSeS1mWjVteW9IaVp0VjVCLUZ6dThaRGYtSEhpMW9MWERacnVOUlJBTW5LMVpuX19sT2RKRVl6NHVZN1dLaWNuX0tnR0tLS1ppZEQwNzluVm1uLUNUYVpWa3VoOW9tWmZOZ3dReTYySE1wSDdTb3gzLW5Pak5YNmhKLUFUUEFOMFduT1NN?oc=5",
+   "date": "2026-10-13T04:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
   {
    "id": "2b4fb9996572",
    "source": "Google News: biosimilar",
@@ -1319,6 +1353,18 @@
    "watch": []
   },
   {
+   "id": "3dfca5da201e",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Strikes Long-Term U.S. Manufacturing Pact With LOTTE Biologics to Boost Biosimilar Supply - The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWlhLWllHWE1DUFdyTm5tZno0d0pNNXFlUlR0VThDcURpc1cxTWl0YkRUVEp2Y2RMSXBfQ3FCaGNQSkJ5ZjVHcFd1b2lKVG8tNENvZG5VRlhtbWlzWHJ3a3Y1TXBORjd4OVplVFNrZjBqN25qN09CMWJ6RFR0MmhEbDR3d2N2MWk0WGJGYml0VUFGSU9kdHRtejdjeDF1aUczTW5DazZvVzZKV0IyWmx4TFh3N2NRdF9JbDZ4cXFhTktBTVRXeHRtdnNkSnNMWFg5ZnFKQUxHYkQ2dUw3WE9rU1N3R05PdGZ0YU85Q0tvd2JxejhfVnFfbWJpVWlZTlUwejZhbnVaV2h5Z0JUMkpzbEZ3?oc=5",
+   "date": "2026-10-08T14:48:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "9a203753e8cd",
    "source": "Endpoints News",
    "title": "Zealand, Roche topline a Phase 2 study for amylin drug, though Lilly remains an obstacle",
@@ -2405,6 +2451,18 @@
    "watch": []
   },
   {
+   "id": "0309fe1d61c0",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Wins FDA Nod to Double U.S. Manufacturing Capacity for Humira Biosimilar SIMLANDI - The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRGhESWxpTkg0MW5jOXJDR3FPLTV2M3Raa0x3R2tjQ25GWGwxNjhyZE9BQjBCOXphVnBhZmFWdVZVRDJPWjdaMU80cGJCRjA2VjdDX0RDelRvQjltT0pjSXVzVDE0S2k4aHc0YWg1X3JJcE92VmxrdDM1c0NWYTNHTUxlMGVPdEdqSFQydnM1QWl2SEFZbm9MVm9jNS1pSzlxekNlMlJURnFYZE9fdDY5dXlkV1NZVlJ6ZVk2bkhwUjdabEdweHJZUkh4SkhTclNneFpBRUdVZWNvcE9NbGVVUm82ZFVRTmpYMFpkbFlROWxwdzluOURkT2dhaEZNaHJ2TVNV?oc=5",
+   "date": "2026-10-06T12:24:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "6e6e2f33de79",
    "source": "Google News: biosimilar",
    "title": "Kamada launches two biosimilar products in Israel - Investing.com",
@@ -2569,6 +2627,16 @@
    "source": "Google News: biosimilar",
    "title": "Orion and Qilu Partner on Biosimilar Pembrolizumab in EU - Pearce IP",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1JwNF84TXRPUTExbERNRVRaZkNfblNJanQ3ck1MbmFTUHFDYUJ0NEQtSFZ6d2dzQzg3YWZtTFJaanM3d2RQZ2tqSkNBVnh4aHBVMUNQNGR3WFNxMDdWdFc4VjN3Z1M0ZnZRSF93Z0Q3RWJNMlNtMTZjNmNuQUttS2ZFUXY3MVNjb09mZ2N4Mk4xWlh3NjBHcg?oc=5",
+   "date": "2026-10-06T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "3431989e8bcd",
+   "source": "Google News: biosimilar",
+   "title": "Orion Pharma announces agreement with Qilu Pharma Europe for pembrolizumab biosimilar for European market - StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV3JET0VFRFVONWROcEpEYWhMWHhocUNJME5qMWRZdHp6ZkNPMUluU2M1QnVYRlhScGowWWF4UE1IMl9NZ0JaUFVSM293cjdkZHdoMlhHSHNwZUlzdFhaOHVfakpmWVVYQmlwMXh2VkQtczZnSWJPODkydjJHZTFmdnVxdzdSNjRPMHdzTEF4Q0I5RXFSVUxzUk5wMDdHdjN2MGJoNG5Ebk9PeEZkMlRaSWZsZ01NdVlOUFY4XzFiSDVuSVpCMi01VERTRHJSMDAtU3otTi03czNTN0JaYzZOVzJ1eWY0VG5fanJacV9EZVhYLWliTmFJ?oc=5",
    "date": "2026-10-06T07:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
