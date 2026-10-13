@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T09:32:33.013735+00:00",
+ "updated": "2026-10-13T12:38:58.217570+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 10,
+   "count": 9,
    "error": ""
   },
   {
@@ -52,6 +52,86 @@
   }
  ],
  "items": [
+  {
+   "id": "1b9f62183a15",
+   "source": "Fierce Biotech",
+   "title": "Roche inks $1.2B deal with China's Rona to enter emerging ALK7 obesity race",
+   "link": "https://www.fiercebiotech.com/biotech/roche-inks-116b-rona-deal-enter-emerging-obesity-race",
+   "date": "2026-10-13T12:38:58.217570+00:00",
+   "snippet": "Roche has committed $100 million in upfront and near-term payments to license Rona Therapeutics’ ALK7 drug candidate, joining Alnylam, Arrowhead, GSK and Novo Nordisk in an emerging obesity niche.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "292b6decd4a9",
+   "source": "Fierce Biotech",
+   "title": "Pfizer inks $500M Enodia pact to join Lilly in emerging protein degrader field",
+   "link": "https://www.fiercebiotech.com/biotech/pfizer-inks-500m-enodia-pact-join-lilly-emerging-protein-degrader-field",
+   "date": "2026-10-13T12:38:58.217570+00:00",
+   "snippet": "Pfizer has followed Eli Lilly into the Sec61 space, inking a $500 million deal with Enodia Therapeutics days after its Big Pharma peer formed an $870 million pact with Gate Bioscience.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b35c5b126abc",
+   "source": "Fierce Pharma",
+   "title": "ARPA-H program manager talks 'first-shoring' philosophy behind $125M RNA manufacturing network challenge",
+   "link": "https://www.fiercepharma.com/pharma/arpa-h-program-manager-talks-first-shoring-philosophy-behind-125m-rna-manufacturing-network",
+   "date": "2026-10-13T12:38:58.217570+00:00",
+   "snippet": "Rather than another instance of on-shoring enthusiasm, ARPA-H’s personalized RNA drug production network project should be viewed as more akin to a “first-shoring program,” said John Schiel, Ph.D., program manager for GIVE at ARPA-H.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "03916dd1ad95",
+   "source": "Google News: biosimilar",
+   "title": "Zydus unveils first publicly announced acceptance by USFDA of Keytruda® biosimilar application - BioSpectrum India",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX2tBVVJyNXliTG1qSExsT3B5bHhJRTVkY3JNWnhrX0xZbmpvakt5M2dJWWdhVDJ3bTE5eXV6WDBZeUFtYnpyME1xZnhnQllCeUlZcmNib2d4cTVRc3lfbzNPclBVdEk2ZWlVekwyQ0c2U1hMaU1ZQlpyckM0a1hrcW5GaExDOF9JU3h4SkI2Smk2VGVQMUVfcE9ud3NnVUN6WU52UG9VZnE3M3EyUU9rT2pOOUw4eWJPdTUtWTlXM2s5SjZZUFI1dnBOVWlUOWZWY3k2Ty11aXpzY084SXc?oc=5",
+   "date": "2026-10-13T11:33:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "2e98f58c120d",
+   "source": "Endpoints News",
+   "title": "Paragon spins out ninth biotech, sending cardiopulmonary drugs to Alaunos",
+   "link": "https://endpoints.news/paragon-spins-out-ninth-biotech-sending-cardiopulmonary-drugs-to-alaunos/",
+   "date": "2026-10-13T11:00:48+00:00",
+   "snippet": "Paragon Labs has created a ninth company, using a reverse merger model that it’s honed over the past four years to send Velaris Therapeutics straight onto the public markets. Velaris completed a transaction on Tuesday ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "62bb0469611f",
+   "source": "Endpoints News",
+   "title": "Apogee execs join Paragon to scale its R&D, company creation engine",
+   "link": "https://endpoints.news/apogee-execs-join-paragon-to-scale-its-rd-company-creation-engine/",
+   "date": "2026-10-13T11:00:35+00:00",
+   "snippet": "Some people would think about taking a break for several quarters after selling a biotech for $10.9 billion. Michael Henderson and five of his fellow executives from Apogee Therapeutics are not fading ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e0314d93356b",
+   "source": "Endpoints News",
+   "title": "Syndax's lung disease ambitions for Niktimvo end with a Phase 2 failure",
+   "link": "https://endpoints.news/syndaxs-lung-disease-ambitions-for-niktimvo-end-with-a-phase-2-failure/",
+   "date": "2026-10-13T10:25:02+00:00",
+   "snippet": "Syndax is ending development of Niktimvo in a rare lung disease called idiopathic pulmonary fibrosis (IPF) after the treatment flunked a mid-stage trial. The company was evaluating Niktimvo in a placebo-controlled Phase 2 study. The ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8b81d0aa4931",
+   "source": "Endpoints News",
+   "title": "Roche's seventh China deal this year is a $1.2B obesity pact with Rona Therapeutics",
+   "link": "https://endpoints.news/roches-seventh-china-deal-this-year-is-a-1-2b-obesity-pact-with-rona-therapeutics/",
+   "date": "2026-10-13T10:19:03+00:00",
+   "snippet": "Roche is set to fork over up to $100 million in upfront and near-term milestone payments to license an asset in a red-hot field for obesity: ALK7 inhibition. The deal with RNA interference specialist Rona ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "84739a50a5ab",
    "source": "Fierce Biotech",
@@ -70,6 +150,16 @@
    "date": "2026-10-13T09:32:33.013735+00:00",
    "snippet": "One in two women is unaware that hormonal fluctuations during perimenopause and menopause can affect their skin, a Galderma survey found.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "abfc7f776884",
+   "source": "Google News: biosimilar",
+   "title": "Zydus moves closer to US market for Keytruda biosimilar as FDA accepts application - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMWdBaklTeVVvLU9heXViaHlVWFFGay1pRnNkZENsY0F1ZkhrZ1BWYktDdGRXZkgxOFNaLWUzLS1rZS05eUtQOTRWb28wcWNrc2JRc21TWXcxV3lKY3YwSnVzZWNFcnZaenYyN0thQjc3cE84Z3p4ZjFIa214TGpLMUhaaTlVQnB3SXZaUzJJSlB4Sm5tbHNUWV9HamxXaEZqZDNHWmJMRVJvQkVTd2dtNGhERnp0dnhtWEpWWXpnbjRncmU0TVJPcEFtRFFfOWhnZGU2V2NsYjhCc1htQl9HWW4tekFzYk1UTm5aSXhQQl9wZnRqeXM3azI4M19VUzRZYzV0dmZR0gGLAkFVX3lxTE9MajdGMzMzQUFTbTFXd3NQT2p4X1YxaVFTdmZtV0FxSDhrblRZcy1UdTRUYTAyN05XXzhSSUhocHhTWTBmckQtZElPVklSWUpLTmh5emJyQTBKUFp3Z0dtRVE4cllCeS1XZ2doVE1pV2V3elRkaG9aSEp4UzZMYnRUazZieWE4UnpVYURGcVRVTDR2eGdnMkxSeXlJdm5wWFdyamN2eFhQdF93bXItUkpyRW4xOTA3UHZWMUVoVXhkYzRKeEN0azdSdURYaFhTYzE3WDdGaURucXBrRHowTzlGMXJ4Z3ZoNmF1dnpCTXU4QXRadU5uVmI0UE9wNlBEdW5tN0NjeFhLdjVVcw?oc=5",
+   "date": "2026-10-13T09:30:33+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -739,6 +829,16 @@
    "watch": []
   },
   {
+   "id": "67b724b272a0",
+   "source": "Google News: biosimilar",
+   "title": "Dong-A ST debuts anemia biosimilar Davecron in UAE, targets MENA growth - CHOSUNBIZ - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdEFKR3NHSkpMNnp6a1MxdGt5R3hLVF9jWmdiYnVNWE04UkcxWWxxSlZQRVF1aUlycGFJZ1l1Ui1McjBpeTdLc3J0ZW9FSV9rMWlwc2xEeDNoSExPeDZoQlNiT25CTDZzUG1pNkgzV2VNR05hcElaLTZEcUNkN1cwSNIBlAFBVV95cUxOM19ocGY2Y0JhdTZ5amczVkhuM1RqazN4V2hXclRuMGh4RFJaNW5KZVhKekJGRkhiZGZUYzRkVHhNcG1VbE9XOFNTWGhvSmM2YUxsZWwzRmFFeURvTmxQeUxkS3phVm1LT3FvNk0tSk9Rek9PanJ3SHRnWnFfdWxzR2F5endDYzc1Q1VmU3ZWTVliMy1O?oc=5",
+   "date": "2026-10-12T00:17:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "2b88c8adef9d",
    "source": "Google News: biosimilar",
    "title": "Celltrion Posts Record 510 Billion Won Operating Profit - 조선일보",
@@ -822,6 +922,16 @@
    "date": "2026-10-10T18:29:25.747593+00:00",
    "snippet": "World Champion gymnast Simone Biles is a Zoryve user herself, advocating for long-term treatment for conditions such as seborrheic dermatitis and atopic dermatitis.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "276f2cffb739",
+   "source": "Google News: biosimilar",
+   "title": "Novartis Braces for Biosimilar Pressure in Radiopharma While Advancing a 46-Abstract MS Offensive - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNUZqNEptSDBubFd2TjhVQlpGa0E4b2drMmJfckp5T3lMOGhMR05CNzg3YWNZQy1Kc21jT2lGbEtmZzIzZktGZ0pqMmJlRjZuRUhvdnRyNXpxM3lvQVJWSEJkY2JaaHpKdVFPTlJUaElzSm5nVVFrcGF4QWRxVUlzUmVoWE5sQ3pfTHlIOWphZUNNSUVhRDMwOXY1bmRqX1o1WFh5Xy1TakVkTUxKSnZiNkVNU1pXeExPUEhKemo1RHpWZ1dMMlhHcERDY09jMDNqMk9QdjFka3BwbmlsUnp4ZnBYVEdZOWJ1SUlHRDVza1ZzOVoxbUZxblZ2cEluUQ?oc=5",
+   "date": "2026-10-10T14:21:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -1439,6 +1549,16 @@
    "watch": [
     "Alvotech"
    ]
+  },
+  {
+   "id": "32a329954d2e",
+   "source": "Google News: biosimilar",
+   "title": "FDA Accepts sBLA for the Biosimilar Hyrimoz - Managed Healthcare Executive",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3BDRUVBd2JDVVh5YlRLQUhvN21tNktSLWJLQnFlMnZ5WkZVV2pDV2l1Z3NLUW4ybkNGRC1VTlBGeVpXalZFOHlLNkt0TFRsVXNYSmdzdE5pN182Vmg0MXlsZ0dkWndQMUdwc3duWXZ6bkZsUDZWUFZxU0k1S19hcjEyZ21HczFVZXRiTm96Rm9kNUFVQXc?oc=5",
+   "date": "2026-10-08T13:32:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "dd2f767a8129",
