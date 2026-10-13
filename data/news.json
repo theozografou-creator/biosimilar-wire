@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T00:42:22.038558+00:00",
+ "updated": "2026-10-13T03:31:00.954529+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "2b4fb9996572",
+   "source": "Google News: biosimilar",
+   "title": "EirGenix Advances Global Biosimilar Partnerships and CDMO Strategy at BioJapan 2026 - GeneOnline",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSE9uQ3BjRXN2OGNtQmg0dnlIOE1nRjFQZmo3MGFEN2FWUjlzQWdoZXpRTlhmV3VUdE14MGhVZW55WUxHNkV2NDVSVnpuOTdCLWZnZkRfTm9vWVBCdjZTNHJKcGtkd3pudUNTZUlPX2VCQnNLVlRFUE5fX1hNOGd5MWZUM2V0TG9sV2htVkk5ZFlkZHJJejAzalFRanVCMDJwckJkSnJyYnM5TFgzZFBPNg?oc=5",
+   "date": "2026-10-13T02:12:32+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "2e58573b2ac1",
    "source": "Fierce Pharma",
@@ -1441,6 +1451,16 @@
    "watch": []
   },
   {
+   "id": "3731d37d3346",
+   "source": "Google News: biosimilar",
+   "title": "Lupin Strives for First to Market Opportunity for Biosimilars to Novartis’ Lucentis® (Ranibizumab) in Australia - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHUxNlM4YmdNeGFMU0p0TzZVWVdxMlpscnI1Yk03NE16R3E4QUVLdjB0LWRWbEViZkMyMkNZTXQ0ZlBIR1BLSmZGQ1l3Mzg3emF0aXQzYXFVS3Y0UktCZWFDZ2NPT09reTl1TmZ3aTBzd1ROZVdHRklfcFRMa2Vfang0VVVNUXlwVXF3TjctbzhucGFkY2VBUHNvZFNpM3NmYnRpNVlsNEpjaTZMTUVDQU5HNzZZZjRNZWZRU1ZRXzBIMERhLUg4ckpRMTBDX0V0YUVmZDFJNHYwRWZG?oc=5",
+   "date": "2026-10-08T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "87fb34968af2",
    "source": "Endpoints News",
    "title": "Roche does fourth China deal since August, teaming with Defand on degraders",
@@ -1917,6 +1937,18 @@
    ]
   },
   {
+   "id": "99776045cf52",
+   "source": "Google News: biosimilar",
+   "title": "New Indication Alert: Celltrion's Biosimilar Tocilizumab FDA-Approved for COVID-19 Treatment in Paediatric Patients - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcUlBZ1ZyM1dtRDVGWlZmV2N0b3ExbU8yeFZVUTV6TVROMDkta1phM01PR3g3N3pqSFZ2NnUyZ3VxeDBCMHJKRlpWYWtDOWNtOWt6RGU3S1lEVlpEVnJGR2NMSUhLb3o4QVlFaHdhTlo5ZG1UWU5WeVlZTVQ2bkRXRG91NjFBbjN5emtQUklTbk84ODdkRGI1R3hFZ0tiajl0Zk1rRl83UWlsbjk3aVkza2Fvamd4V1BiOWozMXZrN2RkeTJjQ0M3TllTTV9mTGhtMlVfSTc4bU1IQXhad0FZRjRQRVQ?oc=5",
+   "date": "2026-10-07T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
    "id": "0dd1fd46dbdf",
    "source": "Google News: biosimilar",
    "title": "Games - FOX 2",
@@ -1987,6 +2019,16 @@
    "watch": [
     "Celltrion"
    ]
+  },
+  {
+   "id": "1961e7d62997",
+   "source": "Google News: biosimilar",
+   "title": "Sino Biopharm expands biosimilar ties: what it means for Sino Biopharm stock - AD HOC NEWS",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWlFVEI0RVNmX1JaVkdlYlYwUEFoZUFrc09jcUJpSmhUODVaMzVjTUhPVHhoUy1iRzFWdHVMaFc0MU9SR2ljREp5VWl3QWtseWRwNk1LbzMxdHlZYWlkS0xmT1Fza19MQjV1QWctQ1oxaE01dmtDOVIyR0R3LWVJWnBoRld4M09uSmRFYlU4ckR2TFVKdzVnd2Q4WkNnc3hVVE4tTmcxaWxNME1BOUs5ZUt2LWcyS1oweHpENE5WZ1ZwSFlqanA2U1BZXzNTM00?oc=5",
+   "date": "2026-10-07T02:20:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "7c6a8b1b82bd",
@@ -2510,6 +2552,26 @@
    "date": "2026-10-06T08:21:13+00:00",
    "snippet": "Lycia Therapeutics, a protein degradation startup built around science out of the lab of Nobel laureate Carolyn Bertozzi, has filed for an initial public offering. Two other biotech companies are also advancing their own Nasdaq ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5503e73c3e9a",
+   "source": "Google News: biosimilar",
+   "title": "Kamada Launches Ustekinumab and Enoxaparin Biosimilars in Israel, Doubling its Biosimilar Portfolio - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc1dwWXJQdmJDM3hTNy1TTHFhS1A4QzBRbHhXZmdleDdMZkJ0b2ZESzlwWHI5eDQ0WDA5N0Z1WnpKYlkzaE13UjlfZFBmQk1NeS1LQjFiUWxJMllJaVY1ZlNkcUdMMDI4RW5XcXdDMWU5MjNqSUIxODVzdTNrc0U1bk5LSUY5VmF0TEEtVlRlcjI0UW5LWkdCMVlsNGRCRkdJcVNiQnd2UVkxcUROQ2FzRXk2ckNTNEpic1NBVFR2ck43LTR6cGtaTG9DLW9qLVQy?oc=5",
+   "date": "2026-10-06T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "6d39dcf294e3",
+   "source": "Google News: biosimilar",
+   "title": "Orion and Qilu Partner on Biosimilar Pembrolizumab in EU - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1JwNF84TXRPUTExbERNRVRaZkNfblNJanQ3ck1MbmFTUHFDYUJ0NEQtSFZ6d2dzQzg3YWZtTFJaanM3d2RQZ2tqSkNBVnh4aHBVMUNQNGR3WFNxMDdWdFc4VjN3Z1M0ZnZRSF93Z0Q3RWJNMlNtMTZjNmNuQUttS2ZFUXY3MVNjb09mZ2N4Mk4xWlh3NjBHcg?oc=5",
+   "date": "2026-10-06T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
