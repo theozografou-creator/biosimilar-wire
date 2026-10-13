@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T21:27:46.175063+00:00",
+ "updated": "2026-10-13T00:42:22.038558+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,38 @@
   }
  ],
  "items": [
+  {
+   "id": "2e58573b2ac1",
+   "source": "Fierce Pharma",
+   "title": "How data is reshaping rare disease media strategy",
+   "link": "https://www.fiercepharma.com/sponsored/how-data-reshaping-rare-disease-media-strategy",
+   "date": "2026-10-13T00:42:22.038558+00:00",
+   "snippet": "Addressable Health's Steve Kimm explains how data-driven omnichannel planning is helping rare disease brands maximize media impact.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f523093ffaca",
+   "source": "Big Molecule Watch",
+   "title": "Sandoz and mABxience Announce Collaboration for Proposed Emicizumab Biosimilar",
+   "link": "https://www.bigmoleculewatch.com/2026/10/12/sandoz-and-mabxience-announce-collaboration-for-proposed-emicizumab-biosimilar/",
+   "date": "2026-10-13T00:36:20+00:00",
+   "snippet": "On September 18, 2026, Sandoz announced a licensing, development, manufacturing, and commercialization agreement with mAbxience for a proposed biosimilar to Genentech’s HEMLIBRA® (emicizumab). HEMLIBRA® is approved for the treatment of hemophilia A. According to Sandoz, the ...",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "ae335bd7c36b",
+   "source": "BioPharma Dive",
+   "title": "First Tracks climbs on ‘impressive’ celiac study data",
+   "link": "https://www.biopharmadive.com/news/first-tracks-celiac-study-results-cd122/832726/",
+   "date": "2026-10-12T21:26:00+00:00",
+   "snippet": "Initial study findings strengthened some analysts’ belief that First Tracks’ drug, one of a few in development aimed at the protein CD122, might have “pipeline-in-a-product” potential.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "0c200049d64a",
    "source": "Endpoints News",
@@ -673,6 +705,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "bd5b94dc20cd",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion’s Actemra biosimilar ‘Avtozma’ wins U.S. approval for added pediatric COVID-19 indication - 더바이오",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Cdkt2dEhtM1FjVXRrTjFkUHNBeVRyWlZaTXdwUkZpdHdqTnlNc1dQVmRHWW1seDRwRndhbF83NDloLTJtMTBMVTVGcWNPTFczeFpsODZ0WTRUVVZCa0NxX3pUV2R4X1ZXcENUbm81NWrSAXBBVV95cUxOQnZLdnRIbTNRY1V0a04xZFBzQXlUclpWWk13cFJGaXR3ak55TXNXUFZkR1ltbHg0cEZ3YWxfNzQ5aC0ybTEwTFU1RnFjT0xXM3habDg2dFk0VFVWQmtDcV96VFdkeF9WV3BDVG5vNTVq?oc=5",
+   "date": "2026-10-11T00:59:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
   },
   {
    "id": "52c7a7e7c64f",
@@ -1913,6 +1957,16 @@
    "watch": []
   },
   {
+   "id": "4d2297629412",
+   "source": "Google News: biosimilar",
+   "title": "Palindrome Pharma launches in Canada to expand ... - Pluang",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcU1GVGlIcnBhSTdqWEMwanppQVJfamo2WHBiWUgtT21DamZlR1hKZFdBSUMxVGhXdVZiaUJNVzh3U3JqU0hnT3AxRDdPUG94X0tET1lQc09hYWZtRzBwY1VYLUNjSWo0SWFFZmdWZ3o3VUF3WVBKYjhta0h1dkxRSFctUHI2Z3hvaXBFTEF1bHZhdjJJRThvSE5Zamh2R3hEdjFBalQwMTl3Unl6d180?oc=5",
+   "date": "2026-10-07T05:35:09+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "67f1cf27734c",
    "source": "Google News: biosimilar",
    "title": "Palindrome Pharma Launches in Canada to Unlock Access to High-Quality Biosimilar Medicines - Yahoo Finance",
@@ -2346,6 +2400,16 @@
    "date": "2026-10-06T12:00:00+00:00",
    "snippet": "This podcast explores how leading Alzheimer’s experts are working to bridge the gap between clinical trial design and frontline care.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ab6b9a6e075e",
+   "source": "Google News: biosimilar",
+   "title": "Kamada launches two biosimilar products in Israel By Investing.com - Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcGxNVy04emc2d01yY0M4ZHdLN3lfSkxBamlKWTIwQ1hhcmF0OWVrekF3UEs4dDBmZkFKWWZzSjU4cUtHejRYaVRaQWVuTXNTU181ajVHeWd4RVhEVkdFNlpCN2FRNzZrT1BxSE5BUk84U1pJVC1BV3hOcmxGcmlPTjNCZFRfWG9yV0dvZmNRd3d2VDJWQjB4Ujh0Q2dOX0ZyY24xUlBjYWtCdXkxcHVB?oc=5",
+   "date": "2026-10-06T11:34:23+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
