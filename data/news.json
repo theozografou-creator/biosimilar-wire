@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T18:36:35.865953+00:00",
+ "updated": "2026-10-13T21:38:39.630128+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,46 @@
  ],
  "items": [
   {
+   "id": "af71bcb88c13",
+   "source": "BioPharma Dive",
+   "title": "Decreasing process variability in fluid management systems",
+   "link": "https://www.biopharmadive.com/spons/decreasing-process-variability-in-fluid-management-systems/832888/",
+   "date": "2026-10-13T21:00:00+00:00",
+   "snippet": "Discover why flow paths, tubing and connectors may limit your bioprocess performance",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "99c1bd2fa9bc",
+   "source": "BioPharma Dive",
+   "title": "Another Paragon spinout goes public through reverse merger",
+   "link": "https://www.biopharmadive.com/news/velaris-alaunos-paragon-reverse-merger-acquisition-fairmount/832869/",
+   "date": "2026-10-13T20:35:00+00:00",
+   "snippet": "One lawyer involved noted how it's yet another example of Paragon and key investor Fairmount — which have helped transform the reputation for reverse mergers — quickly executing on a complicated deal.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f1a5ae845c59",
+   "source": "Endpoints News",
+   "title": "FTC accuses Martin Shkreli of violating lifetime pharma ban",
+   "link": "https://endpoints.news/ftc-accuses-martin-shkreli-of-violating-lifetime-pharma-ban/",
+   "date": "2026-10-13T19:04:39+00:00",
+   "snippet": "Martin Shkreli is under FTC scrutiny once again. The agency and seven states asked a New York federal court on Tuesday to hold Shkreli in contempt for allegedly violating a court-ordered lifetime ban from the ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d1f740478676",
+   "source": "Endpoints News",
+   "title": "Novartis quietly returns a key antibiotic to US market",
+   "link": "https://endpoints.news/novartis-quietly-returns-a-key-antibiotic-to-us-market/",
+   "date": "2026-10-13T18:51:04+00:00",
+   "snippet": "There is some good news in the world of antibiotics. Novartis quietly snagged supplemental FDA approval for its drug Lamprene over the summer, transitioning a decades-old leprosy drug to the commercial market, which may boost ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "609e8af2d1cd",
    "source": "Fierce Biotech",
    "title": "Insulet’s Omnipod Discover platform sees full market release in US",
@@ -71,6 +111,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "28a41857a30a",
+   "source": "Google News: biosimilar",
+   "title": "FDA Accepts BLA for Formycon and Zydus’ FYB206, the First Publicly Announced Keytruda Biosimilar Under Review - BioPharm International",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRy1aTFd3Qno3STVjSWVjb2dWamdic2RKUjJuQ0RwVWlMMmtxbDZjdGVLSk9VZkd4TFRwMllzZExuOUYwM29jS2xOWTVDX3hNMXRnWFVUTlR6SFJDcVBfTXFvNjE1MEwyRGI3bXJ2akdaSEVXOWN3cVctWl9WNkdZNnJlc3ZZNDRvX1R1bmd1ZGhaZFU4aFp1NnBfdUxRbHJZUTMxMnkxdGN0SkJMZnY4cVhUZGhnWWRYNjJGTTIwamV4S0NhVDZ0cmZ5cFkyYjJlR0tXb3E4UDJZTE55Rm0xamwxLVc?oc=5",
+   "date": "2026-10-13T17:50:02+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
   },
   {
    "id": "d8de933274c1",
@@ -259,6 +311,18 @@
    "source": "Google News: biosimilar",
    "title": "FDA accepts Zydus and Formycon’s first-of-its-kind Keytruda Biosimilar for review - Indian Pharma Post",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbkNFZW1FeXc0N2lDc3dDYmd1Snc4MXFPZjlDeEJVOTcyV0hyMGp2eWFFQmZmNjJLUy1VQzk1YjdkLUVjZlZzOUJNSGFfeXhBN21mTTROaVNNNjlsSzNEODhZc3pyM0dMbU5saER3ejI0NnItWVpLQjhoUHEyUlRmZVdzLUZOdFZhYUpUZWFyWDZlUWVGby1jaWJXZFRVQWVSNWRqLWIyanBRaWdFbElhZnE2eENiNHY4UDBSS2NJVWxCY012YlJ3T2Zn0gHQAUFVX3lxTE9SRUhOMnJqRGZoYUF4dGp1TWF4X0tjYWxmLXNNaWZ1cEw5V0FKalAxTl8yX0VMLWhFVUcwdkx2SktJVzhpMEhDYkV3Z3JWRlczRnNnLTRkVkloeG5YTkQtdzljdVMzcmZEV3ZQUHpFSFpoUzZlRzhRdTBhQjN2TEJiRFBVSEZZdTRHcHdTTjY2V3IzU1hHTXVXZ0lXNTBoMWlhX3ZQN1QtWks5SmdONTB6d2ZELV9DcU1JMHdIbzFQSGhLYlBNTE5kcUVHSjhrYjk?oc=5",
+   "date": "2026-10-13T13:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "40800e293780",
+   "source": "Google News: biosimilar",
+   "title": "Zydus and Formycon: FYB206 Becomes First Publicly Announced Keytruda® Biosimilar Accepted for Review by USFDA - PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa1o1ZEd0NVlsQ2cwVGRObWR0LWtJZVNJZnNzaWxjdFZ6Q19ZdU1ZM08tZE94UmNXUDhTU05kT05DM0pMZWR3X2NYV2V5SXV0X2FJTnBkTEVlbU15NnpvdUJiSGgzaU4tQ3VWcDJXWG1UN1JxS3VpR2VUcTlRdWlNcl9wWDJ2N0xaRXM5WFNxQjFzd3pKdElDUHFURjNGT29ac3VQVVV1Sm5FYjk4d3VHQUM0MFdHcXBLYmlXQXVPY0g1VTdXSFBETTVFdUh4WDJ5aF91aWxlYzd4cGg5aTBsMW9jWGpkZ1ZnRGMwakVkQ1RLZ0dwR1E?oc=5",
    "date": "2026-10-13T13:30:00+00:00",
    "snippet": "",
    "biosimilar": true,
