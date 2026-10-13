@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T06:38:18.337240+00:00",
+ "updated": "2026-10-13T09:32:33.013735+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": ""
   },
   {
@@ -52,6 +52,48 @@
   }
  ],
  "items": [
+  {
+   "id": "84739a50a5ab",
+   "source": "Fierce Biotech",
+   "title": "Nurix drops one BTK degrader as momentum builds behind Roche-partnered option",
+   "link": "https://www.fiercebiotech.com/biotech/nurix-drops-one-btk-inhibitor-momentum-builds-behind-roche-partnered-option",
+   "date": "2026-10-13T09:32:33.013735+00:00",
+   "snippet": "Nurix’s BTK degrader zelebrudomide may have survived a clinical hold in recent years, but that hasn’t stopped the California biotech from dropping the cancer drug.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e6cb36c03566",
+   "source": "Fierce Pharma",
+   "title": "Galderma sculpts new narrative around menopausal skin changes to fill awareness gap",
+   "link": "https://www.fiercepharma.com/marketing/galderma-sculpts-new-narrative-around-menopausal-skin-changes-fill-awareness-gap",
+   "date": "2026-10-13T09:32:33.013735+00:00",
+   "snippet": "One in two women is unaware that hormonal fluctuations during perimenopause and menopause can affect their skin, a Galderma survey found.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "72475311ed01",
+   "source": "Google News: biosimilar",
+   "title": "Zydus unveils first publicly announced acceptance by USFDA of Keytruda® biosimilar application - BioSpectrum India",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR2d0YVBFczdiLWt6ZmF6ZktuVHVMODQxLWNUblZEeTE0SEZUc0hET2VKUEhjUWJJcWdhcFVkZGFGcEVwR08zUGxpWWlfMFpINEtjbFZMQTcxZngzWHFzYzFHNS0wbng5bnpxVk02SHNWblhKZ2trMHV0OWp2LU1ZdmZMSGIza3UySDRSU1NxVVpHR2VVZnRmRjZMTHp3aDRyR3lwN3YyRWdiLTBLY3ZaalNxc2VWTjFFSndINTN1c1FLZDRIazZYeFFCaEFubWtyQWRLcFJPcEUzV2FMT3c?oc=5",
+   "date": "2026-10-13T08:13:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "98f62c0cd214",
+   "source": "Google News: biosimilar",
+   "title": "Zydus, Formycon’s Keytruda biosimilar FYB206 accepted for USFDA review - Express Pharma",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGs0MjNua1pJamxrR3FHSjBCeDk1WUFCbVp5MUIzY3Zkdk5UZHBWZ0RjbDRtWlZwOC1rdFhBYUlHU0hHcmg1R3hUUmtFMWJ3QnlKUnpmdUZLQXpRNko0ZzQtbUxEbGJVcVkzMERMQUZSZngyT0NNX1h2bG1zWDZKNmFjbjJVaEN4M29rOW9TTmxLQURiZzM5d21PZGpydktMa1NIbg?oc=5",
+   "date": "2026-10-13T07:35:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
   {
    "id": "9fdb5dd192d0",
    "source": "Google News: biosimilar",
@@ -1357,6 +1399,18 @@
    "source": "Google News: biosimilar",
    "title": "Alvotech Strikes Long-Term U.S. Manufacturing Pact With LOTTE Biologics to Boost Biosimilar Supply - The Globe and Mail",
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWlhLWllHWE1DUFdyTm5tZno0d0pNNXFlUlR0VThDcURpc1cxTWl0YkRUVEp2Y2RMSXBfQ3FCaGNQSkJ5ZjVHcFd1b2lKVG8tNENvZG5VRlhtbWlzWHJ3a3Y1TXBORjd4OVplVFNrZjBqN25qN09CMWJ6RFR0MmhEbDR3d2N2MWk0WGJGYml0VUFGSU9kdHRtejdjeDF1aUczTW5DazZvVzZKV0IyWmx4TFh3N2NRdF9JbDZ4cXFhTktBTVRXeHRtdnNkSnNMWFg5ZnFKQUxHYkQ2dUw3WE9rU1N3R05PdGZ0YU85Q0tvd2JxejhfVnFfbWJpVWlZTlUwejZhbnVaV2h5Z0JUMkpzbEZ3?oc=5",
+   "date": "2026-10-08T14:48:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "88002455e67a",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Strikes Long-Term U.S. Manufacturing Pact With LOTTE Biologics to Boost Biosimilar Supply - The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeFpudm1DV0VpTlpfbHIwdXZyNUVoLVM3bjFzQ251b19SWm12VjM1bkhCTm9qLTRPOVp0TTNZRWlxajZUX0NmMjBVVndsS0t5eW1Qel9lbzlVSnBFMEJmak1Bbzh3UmhmNWNfNEZkeGVneTAzYlFaaUR5elFyOW1RZnNLU2ZWVHpzRW1QeVU5OGNjT21QUTNCbXd5MGtMa0VESHJKTV9DeXNGTlJpSktzakdrbnVCc0RtajhoX0U4LTJCVlg5Z2NYUmp4OTVYMFBMN2JRejJTRXI1eEo0OUpRMk9nbzdlaElSQ3ppR2RRMFVLbDM3ZFpIQXp3ZEVhSE1ZczVZVGVURUN5R3h3S1E?oc=5",
    "date": "2026-10-08T14:48:00+00:00",
    "snippet": "",
    "biosimilar": true,
