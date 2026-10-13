@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T12:38:58.217570+00:00",
+ "updated": "2026-10-13T15:32:54.828772+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": ""
   },
   {
@@ -52,6 +52,152 @@
   }
  ],
  "items": [
+  {
+   "id": "38e0359c51e8",
+   "source": "Fierce Biotech",
+   "title": "BioNTech’s mRNA cancer vaccine fails phase 3 test, significantly denting analysts’ confidence",
+   "link": "https://www.fiercebiotech.com/biotech/biontechs-mrna-cancer-vaccine-fails-phase-3-test-significantly-denting-analysts-confidence",
+   "date": "2026-10-13T15:32:54.828772+00:00",
+   "snippet": "A phase 2/3 clinical trial of BioNTech’s mRNA cancer immunotherapy BNT113 has missed one of its dual primary endpoints. But with immature overall survival data offering a path to redemption, the German biotech is continuing to track patients in the metastatic head and neck ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "32be57dc65e4",
+   "source": "Fierce Biotech",
+   "title": "Biotech builder Paragon imports Apogee's top brass after AbbVie buyout",
+   "link": "https://www.fiercebiotech.com/biotech/biotech-builder-paragon-imports-apogees-leadership-wholesale-wake-abbvie-buyout",
+   "date": "2026-10-13T15:32:54.828772+00:00",
+   "snippet": "It’s been a busy morning for Paragon Labs. In addition to bringing over much of the leadership team from AbbVie-acquired Apogee Therapeutics, Paragon has overseen a reverse merger to take its hypertension-focused spinout Velaris Therapeutics public.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "21d16a1c93e7",
+   "source": "Fierce Pharma",
+   "title": "Syndax shares fall 17% after calling it quits on Niktimvo fibrosis program",
+   "link": "https://www.fiercepharma.com/pharma/syndax-shares-fall-17-after-calling-it-quits-niktimvo-fibrosis-program",
+   "date": "2026-10-13T15:32:54.828772+00:00",
+   "snippet": "Syndax and Incyte are cutting their idiopathic pulmonary fibrosis program short after a phase 2 trial failed to meet its primary endpoint. The drugmakers plan to refocus on expanding the study drug Niktimvo's label in its original indication, graft-versus-host disease.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a96801cde8bf",
+   "source": "Fierce Pharma",
+   "title": "J&J’s new pharma chief expects Icotyde’s psoriasis launch momentum to repeat across indications",
+   "link": "https://www.fiercepharma.com/pharma/jjs-new-innovative-medicines-chief-thinks-icotydes-swift-psoriasis-uptake-will-play-out",
+   "date": "2026-10-13T15:32:54.828772+00:00",
+   "snippet": "As Johnson & Johnson rode out 2026’s third quarter, leveraging its pharmaceutical segment to navigate medtech headwinds, much of the company’s near-term excitement has turned to IL-23 pill Icotyde.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0c90e5e55afd",
+   "source": "Fierce Pharma",
+   "title": "BARDA awards Kaléo $96M contract to deploy auto-injector for chemical threat preparedness",
+   "link": "https://www.fiercepharma.com/pharma/barda-awards-kaleo-96m-contract-deploy-auto-injector-chemical-threat-preparedness",
+   "date": "2026-10-13T15:32:54.828772+00:00",
+   "snippet": "Drug-device maker Kaléo has secured a federal contract worth $96.1 million to bolster U.S. biodefense.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "87ea4ce38e99",
+   "source": "Fierce Pharma",
+   "title": "UCB fashions ‘Wear It Out’ project with empowering t-shirts, community for inflammatory disease patients",
+   "link": "https://www.fiercepharma.com/marketing/ucb-fashions-wear-it-out-project-empowering-t-shirts-community-inflammatory-disease",
+   "date": "2026-10-13T15:32:54.828772+00:00",
+   "snippet": "The t-shirts let those with hidradenitis suppurativa (HS), plaque psoriasis and psoriatic arthritis (PsA) reclaim clothes they may avoid due to their disease.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "554be082132c",
+   "source": "Endpoints News",
+   "title": "Rudy Tanzi has long wanted to prevent Alzheimer's. He may be close",
+   "link": "https://endpoints.news/rudy-tanzi-has-long-wanted-to-prevent-alzheimers-he-may-be-close/",
+   "date": "2026-10-13T15:00:01+00:00",
+   "snippet": "For decades, Rudolph Tanzi has dreamt of a “little white pill” to prevent Alzheimer’s disease that would be so cheap and so safe, it could practically be added to tap water. Now, Tanzi is finally ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ef1c50d822ec",
+   "source": "Endpoints News",
+   "title": "BioNTech’s head and neck cancer vaccine misses first of two goals",
+   "link": "https://endpoints.news/biontechs-head-and-neck-cancer-vaccine-misses-first-of-two-goals/",
+   "date": "2026-10-13T14:59:28+00:00",
+   "snippet": "An experimental mRNA cancer vaccine from BioNTech failed to meet one of two primary endpoints in a pivotal trial, adding to the obstacles faced by the company’s pipeline for such treatemts. The therapy, known as ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "73ee3c35eb0f",
+   "source": "Endpoints News",
+   "title": "Why an AI scribe wants to prescribe",
+   "link": "https://endpoints.news/why-an-ai-scribe-wants-to-prescribe/",
+   "date": "2026-10-13T14:56:16+00:00",
+   "snippet": "Health tech companies have been racing to grow AI scribing tools into software that health systems can use more broadly. Some are leaning into medical billing. Others are serving specific ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a8b512eb4e55",
+   "source": "Google News: biosimilar",
+   "title": "USFDA accepts Zydus-backed Keytruda biosimilar for review - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc21QdzVwcVBOU1YxUjVYOElieEN0ekZRWDJXUlVhRUNSeXdOTEZUVkF5TEJhcTd6cjN1bFEyTVl6QWF5RWxBNEozWW1DeEtrUzJEZU4wczRkRlROSVdGSmV2dkNwNlNUa19OTzhCQlBrNVhmVlBEeG1vSU1sdkdEdE1MSWxNdEE4RV8yQXY0TUF5RmVlUHdPNlh4Wm5iNW1qaG1tR2dabXZnQVl3cVhHNUF1aE50RmFIMXBaRFp6MDFYcUtzUkxDcXNRSjM1RGfSAdQBQVVfeXFMUEZyRnNtSlBDcVJDVlRxV096TXlKWlp4ZXNtZWdwX0htc1FUWTktWnZiUHhpd2dRYXhvUFBHMmFLLU1qOVh3ZUg1eW55TEp0aXNpSUpHU0dvV0JvRmVQME9QTkk0eXVSTnFJRUVtN2RrR0ItS09tdTQwNG5seENwY2VDOGJ5V0h3WUphYmVJNkdlOE1KZkQtNGJsRHEyZ3FoUFN2bDB0dnY0SDF6Vmdsa3A0cWM4UTliUmRkanhTeldWWXd4bFZxQ3dGQUJGdHFFTDRLbEg?oc=5",
+   "date": "2026-10-13T13:40:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "fb06a8839e6a",
+   "source": "Google News: biosimilar",
+   "title": "Zydus and Formycon: FYB206 Becomes First Publicly Announced Keytruda® Biosimilar Accepted for Review by USFDA - PR Newswire Canada",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWGd1RW02RUN0R3JrVlpsQklQZVFVck1odHMzc19uX0lRR1NCZlJUXzBTVFFad25xelFQS1dDVjZrVEplbGl3WE04ck40Wmx6YjBULUlhN245Q0ZJSy1LY0pobzZNOUo1MV82SnZMb3Vqd3pOYjdyRDBqTV9HbTNzMWdqdEVmR1JuQ1NsczJXYjQxUHE5X3dVR1lTdHduNk9KTC0yeXJEY2VTYlFCc24tRVBjRXBGU2RHOEg1NjE2elk2ckZET3BhaWc5a3VOR1JONExJZVVHTWdLSnJmUEZNVDdOODJyTnA4WWhMdFlldlpWOU52?oc=5",
+   "date": "2026-10-13T13:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "0fb67fc2eb6f",
+   "source": "Google News: biosimilar",
+   "title": "FDA accepts Zydus and Formycon’s first-of-its-kind Keytruda Biosimilar for review - Indian Pharma Post",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbkNFZW1FeXc0N2lDc3dDYmd1Snc4MXFPZjlDeEJVOTcyV0hyMGp2eWFFQmZmNjJLUy1VQzk1YjdkLUVjZlZzOUJNSGFfeXhBN21mTTROaVNNNjlsSzNEODhZc3pyM0dMbU5saER3ejI0NnItWVpLQjhoUHEyUlRmZVdzLUZOdFZhYUpUZWFyWDZlUWVGby1jaWJXZFRVQWVSNWRqLWIyanBRaWdFbElhZnE2eENiNHY4UDBSS2NJVWxCY012YlJ3T2Zn0gHQAUFVX3lxTE9SRUhOMnJqRGZoYUF4dGp1TWF4X0tjYWxmLXNNaWZ1cEw5V0FKalAxTl8yX0VMLWhFVUcwdkx2SktJVzhpMEhDYkV3Z3JWRlczRnNnLTRkVkloeG5YTkQtdzljdVMzcmZEV3ZQUHpFSFpoUzZlRzhRdTBhQjN2TEJiRFBVSEZZdTRHcHdTTjY2V3IzU1hHTXVXZ0lXNTBoMWlhX3ZQN1QtWks5SmdONTB6d2ZELV9DcU1JMHdIbzFQSGhLYlBNTE5kcUVHSjhrYjk?oc=5",
+   "date": "2026-10-13T13:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "8ea98510fc58",
+   "source": "Google News: biosimilar",
+   "title": "Zydus, Formycon Hit Major USFDA Milestone for First USD 31 Billion Keytruda Biosimilar - Medical Dialogues",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY1ZJZHlDMzFCYzJYeGJMVFAtZndiV1BBblRaRGdoQUYxWlZ2QV9BeWNDU0JYZmUtMGZmNUFGQWpFb2s1Yld5dTE3b2dtdTV6TGRCYnF3ekVhS2VObTdKRmpydHlMZ2NTbndsMi1ZLXVXNHBMTm1tYzE3OENCMU4tUFdWbWxRVjJleHBHT196ZnQ2RmlkX1JzTWtPeHpNRVlhYzhSWEI1bWIyOHBVNTZhS2dvVGlmU3lyNWhWQWl4eVBXcU9ieGh2VWpHRmhDV1BRcVY5RXNnN3fSAd4BQVVfeXFMUEkyLUREdlBNQU41WEpfWGh5Y2dpSEVjYmd0WTVXVTJlMV94UkU3a0VxT2lraGZfd0U5QUhxY0ZxenplUGRSMm9iVXk3WkFEMGo0SUxYdTE0VEhKVW02SUJMMmhnemJZT1pqOVJ0M1NwNHNLZlR3WVFOM3lFWjZvUkp5dWt1WUktSmkxQmpDS002MEdHVjA2T0hkOVJ5YW16VUpyWWFBZXBiejMzYVNpbUFJS0dTZThqS1Uyb19lSDk2dHpXYUlydUJyWGdJbFJoWk9NeUdCYWROOVZyem5n?oc=5",
+   "date": "2026-10-13T13:03:19+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "35173ba8ed85",
+   "source": "Endpoints News",
+   "title": "Readily raises $11M to help insurers stay compliant",
+   "link": "https://endpoints.news/readily-raises-11m-to-help-insurers-stay-compliant/",
+   "date": "2026-10-13T13:00:59+00:00",
+   "snippet": "A startup that uses AI to help insurers keep track of changing rules and stay compliant just raised $11 million, Endpoints News learned exclusively. San Francisco-based Readily tracks and flags changes in government regulations for ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "1b9f62183a15",
    "source": "Fierce Biotech",
@@ -93,6 +239,16 @@
    "watch": []
   },
   {
+   "id": "bed0c0ffdce0",
+   "source": "Google News: biosimilar",
+   "title": "FDA accepts first biosimilar filing for Keytruda - Новости GxP",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3dDSl9ZRVZrd1hoVVZZYS0waTA2dlpsY1lvcFhyNV9rano0dzZRRHVJcGd3Z0c0SnozS3luSk9xeVNWOFJwNHhfQjNBaS0xY053RlhSVEs4S3ltRUllNmxBYmc5WEg1dkY2ZnRPbThSZFM5ZTR4X1lIVmhxaVFjcEJ3dWRrT03SAYcBQVVfeXFMTnd3Q0pfWUVWa3dYaFVWWWEtMGkwNnZabGNZb3BYcjVfa2p6NHc2UUR1SXBnd2dHNEp6M0t5bkpPcXlTVjhScDR4X0IzQWktMWNOd0ZYUlRLOEt5bUVJZTZsQWJnOVhINXZGNmZ0T204UmRTOWU0eF9ZSFZocWlRY3BCd3Vka09N?oc=5",
+   "date": "2026-10-13T11:08:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "2e98f58c120d",
    "source": "Endpoints News",
    "title": "Paragon spins out ninth biotech, sending cardiopulmonary drugs to Alaunos",
@@ -110,6 +266,28 @@
    "date": "2026-10-13T11:00:35+00:00",
    "snippet": "Some people would think about taking a break for several quarters after selling a biotech for $10.9 billion. Michael Henderson and five of his fellow executives from Apogee Therapeutics are not fading ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6b9fdf12a837",
+   "source": "Google News: biosimilar",
+   "title": "Formycon Breaks New Ground In More Ways Than One With US Keytruda Biosimilar Filing - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYmxWSV83UUlxcVhvRGFQT1JfcUp0d1RPYW5la19ORXlsOWgySVpFdmU1Ym5EOTV5Z0Y1R2lydklWMHl4NFUxei14VUNFQ2RwR1V0b2g0RWZaRlF6U0p5WVZoV190eXRGY1RscEJrYV83WDJ5YnVEMnBlZ1R5RkFXZG45OVhVcDZ6SkdQWDVMUk5xNmYyaEUzSUxXb09CRU1uMjhJakkwV3dGQ19RVVNpcWZ2Yk9rRFdydThabUZzQmRKT0tscmVtbklIUE44UzlYd3htMk5HTE5QcC1NQzU0RWJXN05UMHl4T19LZDB6VGZZVERkaW01VWlBZW9yT2RkS0FTNms2TEl4VjF0?oc=5",
+   "date": "2026-10-13T10:44:32+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "31cacecc3e62",
+   "source": "Google News: biosimilar",
+   "title": "Zydus’ Keytruda biosimilar application accepted for review by FDA - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0dQNktTRWdSQ3BTd0gtVUd1LTVEMXFwUXVqQzdkWXdPRzgzbFhFYk9BZ1JrdkpiSHBFYVFWRmxRamNhSnV2bzRyLUtkWWVNb0E4cjdrekp3ZE0xQ3preFF6OTFtRTdRV3c2cld1Q1o2OFpwekZxZ0JleVJwY2dZdjR2QUQ4aEtJVHUwMmh2YlVVS2FLOUpscS1GUk9MQTBMVXd1c2FDR3ltY291X3R2cWVIRHBlREp6Z0hCdVJHQkFsMXFhVE5RVUNIOUE2UHJUQmFCZ09Zcko3aDjSAdsBQVVfeXFMTV9HUDZLU0VnUkNwU3dILVVHdS01RDFxcFF1akM3ZFl3T0c4M2xYRWJPQWdSa3ZKYkhwRWFRVkZsUWpjYUp1dm80ci1LZFllTW9BOHI3a3pKd2RNMUN6a3hRejkxbUU3UVd3NnJXdUNaNjhacHpGcWdCZXlScGNnWXY0dkFEOGhLSVR1MDJodmJVVUthSzlKbHEtRlJPTEEwTFV3dXNhQ0d5bWNvdV90dnFlSERwZURKemdIQnVSR0JBbDFxYVROUVVDSDlBNlByVEJhQmdPWXJKN2g4?oc=5",
+   "date": "2026-10-13T10:42:23+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -2272,6 +2450,18 @@
    "biosimilar": true,
    "watch": [
     "Alvotech"
+   ]
+  },
+  {
+   "id": "7382e3a3c2fa",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion wins US nod to prescribe Aptozma to kids 2 and older for COVID - CHOSUNBIZ - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWhwR1NrZjVDVW5pRkxWWnB4MktNaGozYnlZOXJDbWxyNzJmRWtFZXBUMHFPSE4td1UzNnZlOXpVX2xsTVBnVlZKRmozS2tlOWl0TC1pN2diQl9GaTdYMm03U0h3NXh1LXpjWWp0VWdJOWF5VkZKNGxnQ3Rtc1g4a9IBlAFBVV95cUxQejhEa2F2VDh4N2pSZ3NwVWN2bXFpMlpJQ2tDZ1YxVFlaNXpMVk5Zek1JdE5NRTlxV2szbktzWVhvOVVKajNtQjdNRm1GU1MtdDNwU09ZQ25RWkphZU9KdjdfLVdRSmJ0cklQMEtfT09SODZYcUtjZ2psYll2N0RvN3dlNEYwUG5xOFRNM3U2S2lPQ0Z1?oc=5",
+   "date": "2026-10-07T00:35:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
    ]
   },
   {
