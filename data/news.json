@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T15:32:54.828772+00:00",
+ "updated": "2026-10-13T18:36:35.865953+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 10,
+   "count": 9,
    "error": ""
   },
   {
@@ -52,6 +52,86 @@
   }
  ],
  "items": [
+  {
+   "id": "609e8af2d1cd",
+   "source": "Fierce Biotech",
+   "title": "Insulet’s Omnipod Discover platform sees full market release in US",
+   "link": "https://www.fiercebiotech.com/medtech/insulets-omnipod-discover-platform-sees-full-market-release-us",
+   "date": "2026-10-13T18:36:35.865953+00:00",
+   "snippet": "Insulet Corporation has announced the U.S. full market release of Omnipod Discover, a web-based data platform designed for Omnipod 5.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "76588fdfa844",
+   "source": "Google News: biosimilar",
+   "title": "Short-Acting Cancer Biosimilars: Accord BioPharma Launches FILKRI for Cancer Supportive… - Trend Hunter",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yTTIxcDNwZU16d1lEcjBPUTc4OEJxWkxtVjRBVFNPeXJYQ2JCZGlWZnBvZ0V3Q2pTN25OWUFWZG9ybENHM1RFZVJXNkZQamtCRXJFWWVKdFV5VnBYY3ZMWFNCRDJPT2ZLcUk0a0ZYRXVweE4z?oc=5",
+   "date": "2026-10-13T17:55:12+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "d8de933274c1",
+   "source": "Endpoints News",
+   "title": "Verdiva cans mid-stage obesity trial of GLP-1 pill, citing 'market evolution'",
+   "link": "https://endpoints.news/verdiva-cans-mid-stage-obesity-trial-of-glp-1-pill-citing-market-evolution/",
+   "date": "2026-10-13T17:42:27+00:00",
+   "snippet": "Verdiva Bio, one of the best-funded private biotechs seeking to get into the lucrative obesity drug market, has terminated one of the Phase 2 trials of its lead asset, a spokesperson ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cf00858d65a5",
+   "source": "Endpoints News",
+   "title": "Soufflé gets $135M for three RNA medicines",
+   "link": "https://endpoints.news/souffle-gets-135m-for-three-rna-medicines/",
+   "date": "2026-10-13T16:54:10+00:00",
+   "snippet": "A Bob Langer-affiliated startup has collected a megaround to advance at least three experimental oligonucleotide medicines. Soufflé Therapeutics uncorked a fresh $135 million in VC backing on Tuesday. The capital will ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7e3abfe15113",
+   "source": "Google News: biosimilar",
+   "title": "USFDA accepts biosimilar application of Zydus and German firm for Keytruda - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVXhjOS16c0stNmdKNkxiZTQ3bUgzaDdNZGJDMVpCMUh6bTg2Nl9BYTNyamRRQ0hFVTEyWVRRNGQwNjBVdWVNQ0c3VjdqT0d1RjlKbGVxel9fVDNic3BrMjRTWm1qa1R1cnI2WmtkVkZVbVo0TGhNTnlLT0xNbzNUbVlfdGRESFZGcm9uX29ZeHdIVnBDYzJmcnFId25Xam5pM1ItRVN3eVY2ZWRTcGxPRUg3TnZHR0JqSXVTRlV0eDV5NXVKTHJMRmdmbjBhUzJtS0ExZDBjTXrSAd4BQVVfeXFMT2hEWlJMZHZFdXFOUmdBWXlHWHNzUG9pTkhQalAwLWVibWdpdHBvMERTQ2NQcUFXMDFzWjVFZWs5R3h2RE1ZTE9uamtneXhmemMtc3RERUZIbjJrTEVfLXh0ZlFuakIzZmo0MjZOaUFUTXd2Qm93ZFEwZVc3TnlYdXJjdGw3Q2ZIT1Y1THBiQ0dwRUM2d3R3bTdBY29qZE12aTg2cEMxeXQxWHVISG9ZcmVWNm0ydmY0YXR5OHVtdU93aThMeWd3SS02X29NRWhOUENuY1BzTnI4b1BUcXpB?oc=5",
+   "date": "2026-10-13T16:43:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "481f5599862e",
+   "source": "BioPharma Dive",
+   "title": "BioNTech mRNA cancer immunotherapy misses first objective in key study",
+   "link": "https://www.biopharmadive.com/news/biontech-mrna-immunotherapy-hpv16-head-neck-cancer/832854/",
+   "date": "2026-10-13T16:24:00+00:00",
+   "snippet": "An early data check showed the shot didn’t delay tumor progression in a form of head and neck cancer, though BioNTech is holding out hope it might eventually extend survival.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "498fad576de1",
+   "source": "BioPharma Dive",
+   "title": "Roche extends China deal streak with $1B pact for RNAi obesity drug",
+   "link": "https://www.biopharmadive.com/news/roche-rona-china-deal-rnai-obesity-drug-alk7/832845/",
+   "date": "2026-10-13T15:49:00+00:00",
+   "snippet": "An alliance with Rona Therapeutics adds to a particularly active stretch for Roche and makes the company the latest to bet on medicines that can lower levels of “visceral” fat.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "de670b9a6d2b",
+   "source": "Endpoints News",
+   "title": "Beam suggests it can correct mutation; Pfizer to collaborate with Enodia",
+   "link": "https://endpoints.news/beam-proves-it-can-correct-mutation-pfizer-to-collaborate-with-enodia/",
+   "date": "2026-10-13T15:37:36+00:00",
+   "snippet": "Beam's first data on a rare disease gene editing therapy: Beam Therapeutics shared initial data from a Phase 1/2 trial of a base editing therapy for glycogen storage disease type Ia ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "38e0359c51e8",
    "source": "Fierce Biotech",
@@ -148,6 +228,16 @@
    "title": "USFDA accepts Zydus-backed Keytruda biosimilar for review - The Times of India",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc21QdzVwcVBOU1YxUjVYOElieEN0ekZRWDJXUlVhRUNSeXdOTEZUVkF5TEJhcTd6cjN1bFEyTVl6QWF5RWxBNEozWW1DeEtrUzJEZU4wczRkRlROSVdGSmV2dkNwNlNUa19OTzhCQlBrNVhmVlBEeG1vSU1sdkdEdE1MSWxNdEE4RV8yQXY0TUF5RmVlUHdPNlh4Wm5iNW1qaG1tR2dabXZnQVl3cVhHNUF1aE50RmFIMXBaRFp6MDFYcUtzUkxDcXNRSjM1RGfSAdQBQVVfeXFMUEZyRnNtSlBDcVJDVlRxV096TXlKWlp4ZXNtZWdwX0htc1FUWTktWnZiUHhpd2dRYXhvUFBHMmFLLU1qOVh3ZUg1eW55TEp0aXNpSUpHU0dvV0JvRmVQME9QTkk0eXVSTnFJRUVtN2RrR0ItS09tdTQwNG5seENwY2VDOGJ5V0h3WUphYmVJNkdlOE1KZkQtNGJsRHEyZ3FoUFN2bDB0dnY0SDF6Vmdsa3A0cWM4UTliUmRkanhTeldWWXd4bFZxQ3dGQUJGdHFFTDRLbEg?oc=5",
    "date": "2026-10-13T13:40:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "9492ed360874",
+   "source": "Google News: biosimilar",
+   "title": "'Maximising off patent medicines and why the PBS needs a biosimilar strategy' - PharmaDispatch",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWGZjSFg0TFZJd2NmRGJabEp4b0dTTHNDUVdSWUZGa0V5MjJoc2E3U0xlaWN0MkFOVVR4emIyTElaMUw2RGZUWjhrUWFVZ3pPQjg5d05abjZyNWRadU5zSTlZa1JBazFocHB6YXl2Qk1zNjNmVm95Q093aGI0b2tGeUpQVnR6SUszWTM5dGU3YXFXLXhoOFNYUGhWLU1ZZFZZbTM3V0tn?oc=5",
+   "date": "2026-10-13T13:33:47+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -285,6 +375,16 @@
    "source": "Google News: biosimilar",
    "title": "Zydus’ Keytruda biosimilar application accepted for review by FDA - pharma.economictimes.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0dQNktTRWdSQ3BTd0gtVUd1LTVEMXFwUXVqQzdkWXdPRzgzbFhFYk9BZ1JrdkpiSHBFYVFWRmxRamNhSnV2bzRyLUtkWWVNb0E4cjdrekp3ZE0xQ3preFF6OTFtRTdRV3c2cld1Q1o2OFpwekZxZ0JleVJwY2dZdjR2QUQ4aEtJVHUwMmh2YlVVS2FLOUpscS1GUk9MQTBMVXd1c2FDR3ltY291X3R2cWVIRHBlREp6Z0hCdVJHQkFsMXFhVE5RVUNIOUE2UHJUQmFCZ09Zcko3aDjSAdsBQVVfeXFMTV9HUDZLU0VnUkNwU3dILVVHdS01RDFxcFF1akM3ZFl3T0c4M2xYRWJPQWdSa3ZKYkhwRWFRVkZsUWpjYUp1dm80ci1LZFllTW9BOHI3a3pKd2RNMUN6a3hRejkxbUU3UVd3NnJXdUNaNjhacHpGcWdCZXlScGNnWXY0dkFEOGhLSVR1MDJodmJVVUthSzlKbHEtRlJPTEEwTFV3dXNhQ0d5bWNvdV90dnFlSERwZURKemdIQnVSR0JBbDFxYVROUVVDSDlBNlByVEJhQmdPWXJKN2g4?oc=5",
+   "date": "2026-10-13T10:42:23+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "3b3636904280",
+   "source": "Google News: biosimilar",
+   "title": "Zydus’ Keytruda biosimilar application accepted for review by FDA - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPczZCNnBXdU5nb2pmeHRpUHZrcGlBeC1ia0k3VkY4djZ5QkdtVEZTVVBxa292VEppV2dmLU9nSFl6SkZoUEtpMDFGenBFSUZXNUlwbmtBeWwtMUtDbHZnYnJ4WFN2N1F4R0JBQTJ4NzBoOXZ2VndwM0xQWnVQSWpJQWxqYmxkdzk3VzV1NkhRaUk3YzBfS1JpdnI4SW5PY1Q1UkVUTFQyb2JXalpkOTJDM0x6S3Jxd2xhaHhQT1RyZmdlYWpRNUNMeUJaamlNRFhkbHBjbFZn0gHbAUFVX3lxTE1fR1A2S1NFZ1JDcFN3SC1VR3UtNUQxcXBRdWpDN2RZd09HODNsWEViT0FnUmt2SmJIcEVhUVZGbFFqY2FKdXZvNHItS2RZZU1vQThyN2t6SndkTTFDemt4UXo5MW1FN1FXdzZyV3VDWjY4WnB6RnFnQmV5UnBjZ1l2NHZBRDhoS0lUdTAyaHZiVVVLYUs5SmxxLUZST0xBMExVd3VzYUNHeW1jb3VfdHZxZUhEcGVESnpnSEJ1UkdCQWwxcWFUTlFVQ0g5QTZQclRCYUJnT1lySjdoOA?oc=5",
    "date": "2026-10-13T10:42:23+00:00",
    "snippet": "",
    "biosimilar": true,
