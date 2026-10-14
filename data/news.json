@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T21:38:39.630128+00:00",
+ "updated": "2026-10-14T00:51:13.864145+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "a5dd6b361291",
+   "source": "Google News: biosimilar",
+   "title": "Keytruda Biosimilar Enters U.S. FDA Review for First Time, Sparking Race for KRW 40 Trillion Market - 아시아경제",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaQ1E0dzR6aFFlWTFrRnYtSUhCWkRZQXRCYmFUOUxMeWZ0ajFGUjdUbEZkejh0ZFZ3c0hTNHdXZk5uZ2hON3VoaVVGcHdZYW4wb3pONHdpNXBKY1FGZGRJU09BVm4?oc=5",
+   "date": "2026-10-13T23:21:49+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "c07c92661d38",
+   "source": "Google News: biosimilar",
+   "title": "The BioPharm Brief: Biosimilars, Obesity Deals, and Crohn Disease Data - BioPharm International",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2luMklrdm9oRzdEd1AyMzZMd0tFR0xZbEVQOW5CVGZUZUhTbjdjRzY1Tl9FUEpnelF2SFQ3VEd3MnNWZFFTTFlpby16Tk5qaGo3cDVsWmdubTFIUk1uQUhjVndXc29pR1ZQR1hJaEd3YnJ5X1BiTlAwa3dhMHZhSWFVVFFGRUQtOU9kUVEzb2o0ZUYzaTRaOXZGSWlXNGh6QUZhcmhDVjMxUEswZ05R?oc=5",
+   "date": "2026-10-13T21:12:19+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "af71bcb88c13",
    "source": "BioPharma Dive",
@@ -1111,6 +1131,16 @@
    "source": "Google News: biosimilar",
    "title": "Dong-A ST Launches Anemia Treatment Biosimilar \"Dabecron\" in UAE - 아시아경제",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wbjBKOUUtVktabHpQckNaYmU0WFQwYXhPbUhPd2dlbEFzUC1TRXFZUXk4akJkUWZPQlZtMk05UXdLbi1QYk1hWWx1blYtV3NhMmxhVnpIbXo4U1A3NkNVbzJXdWI?oc=5",
+   "date": "2026-10-12T01:33:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "0516096ad8a8",
+   "source": "Google News: biosimilar",
+   "title": "Dong-A ST Launches Anemia Treatment Biosimilar \"Dabecron\" in UAE - 아시아경제",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zNHg3cnJMNmpCNWQtNGdsMWNzdkRTNGVGSTk5UmhkWGU3aTdMOF93dWczMFFzRmx0cmJ6Q21WNmdrVm1yMWdBN055dVlXQzhUZnQ0QV9XMnVFU2JtazZ1SVlBc0RHQnhzSHRtN0g4NXFfTTA?oc=5",
    "date": "2026-10-12T01:33:47+00:00",
    "snippet": "",
    "biosimilar": true,
