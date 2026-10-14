@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T06:50:24.829470+00:00",
+ "updated": "2026-10-14T09:41:09.013520+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,86 @@
   }
  ],
  "items": [
+  {
+   "id": "60caafd0aa90",
+   "source": "Fierce Biotech",
+   "title": "Zealand inks $1.2B Generate pact to add multispecific proteins to obesity pipeline",
+   "link": "https://www.fiercebiotech.com/biotech/zealand-inks-12b-generate-pact-add-multispecific-proteins-obesity-pipeline",
+   "date": "2026-10-14T09:41:09.013520+00:00",
+   "snippet": "Zealand Pharma is paying Generate Biomedicines $30 million upfront to collaborate on multispecific drug candidates for metabolic diseases. Milestones could bring the total value of the deal above $1 billion.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9907fc4741d7",
+   "source": "Fierce Biotech",
+   "title": "Agilent spends $240M upfront to buy digital pathology specialist Proscia",
+   "link": "https://www.fiercebiotech.com/medtech/agilent-spends-240m-upfront-buy-digital-pathology-specialist-proscia",
+   "date": "2026-10-14T09:41:09.013520+00:00",
+   "snippet": "Agilent Technologies is buying up the digital pathology software company Proscia in an all-cash transaction valued at $240 million with an additional $30 million on the cards for future performance milestones.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "504915f6a4a3",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech and Advanz Pharma submit first biosimi... - Pluang",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYlQ2cUZYcDRkcTdYaXZrRldSU1lmcHhzbHhDMi1lS21iblBhOEN6ZEtTMlIyTXRCeFNzYTd0NTRldl9CRUtqTmd1c256UE5qMEZEYktUc2ZLUlV5cHhyckFBYUNiYjJYWDJoWUJOOW9zZjBKbDlkcXRRcXpwUkFNNTZSTE9Vc1ZvQ3BET0NueGJ6akNmbFZVYzdRZUVtUWU0S0VscmZn?oc=5",
+   "date": "2026-10-14T08:42:39+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "5825e9e69b64",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech and Advanz Pharma Submit AVT29 to EMA as Potential Biosimilar to Eylea HD® - Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUjNWdEFsdXVFQkN6aVFpR1pGQ09Cdm1oY2RMbER0dUk3Z3QzWjNCZGllYnVFUG9IeFp6UXQtZXFVMVhISjFWWVNKekRJRi1yQUxkdlcxWTc3Q1RZQnBMeG9QTGx5ZEhXbkZVUDVjT0NkSnZiN3JyNzI5bFNsNDIwWHAyV2tjVHJPWko1Mmp1QlRFQ2NDX3RTNGNiV3BwQThoUGZ1eDRHNHU0UE0wYno2a1B2MkhmWjYzVGRFSUF3?oc=5",
+   "date": "2026-10-14T08:40:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "90286d0f7eba",
+   "source": "Google News: biosimilar",
+   "title": "Germany's Formycon First to Enter FDA Review for Biosimilar of $31.5 Billion Keytruda - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GVmJaeGZHRVFpWFVEN3p5Z0hpc094cFdPcE95TE9uOHlYc3FKcDhWdEdMT2phOHFQVUdUZDNlVkJHa1R4Sllod0lCcEI2MC1hRHJqVnMtM25LUDBISUFXWDdfS19uc2U5SnN5anRKWjlrUmw0cWc?oc=5",
+   "date": "2026-10-14T08:25:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "ba6ff9365897",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Settles Patent Dispute for Breast Cancer Drug Pebrilzo - Rediff MoneyWiz",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3dNWFB4V3BFazJzeVR3V09fS2hVZnZLU2dUZVlHMzRZbHdhLUs5LU9fWFotRU81NkdKMVk1R0VzSDBQdWVobWxBTmY3NVNNdzQ3NW8xakdkdVBsN19yQmV3NzRRcVR4Yy1fbGVCcjNYc2hDNG5Cd3hoTUtiNkpJbGRXMnJJeHZQWUZUMVNCZjBWaEFXLVBNVkpvcHRLZUw5dEhEYWVBYURlYXh0ZFhvWHdzVdIBuAFBVV95cUxOdHBBdkUtYVJnT0dqZTFCU1M4NXYzU0c5a1I5b0hhUTI1cmZtWVpPQ2pLVzhWdjZzcXI1ZU9RRV9BSXF5UDN3WEV1WEp3T3RkYWtfSHlmY2pMY3oyTFlBeXBXcmRQV1E5blp2QTBrSUdWYVo2eGdWZFNIbWdKRXRKaHZlak5sQkZFaWlfZEZJYWJKd2dpSzlqSDZOTU5QdWkyVHJKSVgxMHpEZzdteXRmTGszdTBKelpm?oc=5",
+   "date": "2026-10-14T07:48:31+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "8a8367532607",
+   "source": "Google News: biosimilar",
+   "title": "Zydus and Formycon Advance FYB206 Keytruda Biosimilar in the US - SMEStreet",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSENFYWcxTTdTTFdlNXdfYWpmRWpLX3NDSDh3eGlPQ25nQmZDeGZFYkc3YThYbGRfeTlibnJycXJVOU5zTmU3blg1eDdnUlRTcWZ0MG5xekVEYmZiY0VPOFlja3NpM2VYUW5lZTlWR09FTER6UXRuR2U2X0paMzlMUnRoaFBhTXhycjg2Z3AxdEtMdWtyMzZkdWdYMGh5SVJ1VDBv0gGjAUFVX3lxTE5IQ0VhZzFNN1NMV2U1d19hamZFaktfc0NIOHd4aU9DbmdCZkN4ZkViRzdhOFhsZF95OWJucnJxclU5TnNOZTduWDV4N2dSVFNxZnQwbnF6RURiZmJjRU84WWNrc2kzZVhRbmVlOVZHT0VMRHpRdG5HZTZfSlozOUxSdGhoUGFNeHJyODZncDF0S0x1a3IzNmR1Z1gwaHlJUnVUMG8?oc=5",
+   "date": "2026-10-14T06:50:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
   {
    "id": "d6133f132cb7",
    "source": "Google News: biosimilar",
@@ -1088,6 +1168,16 @@
    "date": "2026-10-12T12:09:00+00:00",
    "snippet": "Bausch and Brent Saunders “mutually agreed” on his exit from the company, according to a statement. Elsewhere, Tezspire could have a new edge on Dupixent and a recent buyout deal paid dividends.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d40f13c22ad4",
+   "source": "Google News: biosimilar",
+   "title": "Proportionate evidence in biosimilar development: when a comparative efficacy study can still change the regulatory conclusion - Nature",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QSDVDdndlcDdsV0hMb3dQUGY2dXBkcUZ2eEhodkpUS3BFSzhFVHdpTWtxVnZYY3VxVVFEZmRiblJvWHU4UmlrVi1ESVZ0SEFXR3FNQ2x1enhXZVk1ZGxN?oc=5",
+   "date": "2026-10-12T11:55:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
