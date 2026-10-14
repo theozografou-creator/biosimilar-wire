@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T15:46:21.962410+00:00",
+ "updated": "2026-10-14T18:48:31.326141+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,78 @@
   }
  ],
  "items": [
+  {
+   "id": "5491076087d9",
+   "source": "Fierce Biotech",
+   "title": "IQVIA, Veeva expand on existing partnership for speedier clinical trials",
+   "link": "https://www.fiercebiotech.com/cro/iqvia-veeva-expand-partnership-speedy-clinical-trials",
+   "date": "2026-10-14T18:48:31.326141+00:00",
+   "snippet": "Clinical research giant IQVIA and cloud system provider Veeva Systems have expanded their partnership to further increase trial speed and efficiency.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "15b65869cc3f",
+   "source": "Fierce Biotech",
+   "title": "Merck KGaA spinout iOnctura touts PI3K delta inhibitor in metastatic eye cancer",
+   "link": "https://www.fiercebiotech.com/research/merck-backed-ionctura-touts-pi3k-delta-inhibitor-metastatic-eye-cancer",
+   "date": "2026-10-14T18:48:31.326141+00:00",
+   "snippet": "iOnctura’s PI3K delta inhibitor shows promise in phase 1 study in patients with mostly pre-treated metastatic melanoma.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "938bfd3e8f5b",
+   "source": "Fierce Biotech",
+   "title": "WCG unveils AI-powered solution to accelerate clinical trial kickoffs",
+   "link": "https://www.fiercebiotech.com/cro/wcg-announces-ai-powered-solution-accelerate-clinical-trial-start",
+   "date": "2026-10-14T18:48:31.326141+00:00",
+   "snippet": "WCG, a clinical trials solutions provider, is launching an AI-powered program dubbed Activation Intelligence to help study sites accelerate clinical trial start-up.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "285edde87e21",
+   "source": "Endpoints News",
+   "title": "New FDA framework tilts toward consistency over flexibility",
+   "link": "https://endpoints.news/new-fda-framework-tilts-toward-consistency-over-flexibility/",
+   "date": "2026-10-14T18:20:47+00:00",
+   "snippet": "Then-acting FDA leaders said over the summer that regulatory flexibility wasn't the standard they were striving for when the agency gauges rare disease drugs. Now, a more consistent system for assessing",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4c8ed48f3d47",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets launch clarity for breast cancer biosimilar after Genentech deal - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORHFfdFpYSUZwZHM3OU9PcjBvTEZ4V3c0eXk4Y2IwZ09DVjhOX1dVaWVrcDhFUkV4NDhrWWd2MHdXNEh1dFFwcmU1VkdkRzBUNEpPdmJiNHVYR3lfQ29qYjJma1BzcXNPYVpsV0hYZ0NYVVluOE9kMkpjaEFSaTBDVC1rYnFzTG94a0otTjcyRE1BSE1qS0VDVk5DWVo5akxBTXVhVE4wcWM2WlpQcTdvU01oTWFIU0ZZOU9aTG1Qc3ZZU2JfMmhwaDBCaDJ6Yk4wMno1UXFzM0VXVVXSAeIBQVVfeXFMT1R3QXUwZTJ3aWV5YXBubVVRdDdrWFhhRkc2WEloZElvcVdyd293RktwSEgzWWQ3ZHEyNXVpQlNaMC1YMFljOUhTaGJmYjdTMmZqR3doWGV5My0ybUJ2OTdXOHdHM1JRSm9jVlNSdk9kYkIyNWxwN3AzbHVLVVlsaU5RdXhvak1TN2JrNG16eGI3NEZMMHRSbGxQMUR0N1FRLVo3NEdsbFZXMTJrVFdBLXdZdFFieDYwRHhzRDRBYVIyN0d5SWJSVHR5MWoxQ2NudjhvejNpOUhlbWtqNG9PenZyZw?oc=5",
+   "date": "2026-10-14T16:03:24+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "d66e6bc1a341",
+   "source": "BioPharma Dive",
+   "title": "Experimental Arrowhead RNAi drug hints at Alzheimer’s benefit",
+   "link": "https://www.biopharmadive.com/news/arrowhead-rnai-alzheimers-tau-aro-mapt-study-results/832950/",
+   "date": "2026-10-14T15:54:00+00:00",
+   "snippet": "In a first, a subcutaneously administered RNA interference medicine crossed into the brain and plummeted levels of a protein implicated in the disease.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dbb92f0c406c",
+   "source": "Endpoints News",
+   "title": "Verastem makes its stand as a RevMed competitor in pancreatic cancer",
+   "link": "https://endpoints.news/verastem-makes-its-stand-as-a-revmed-competitor-in-pancreatic-cancer/",
+   "date": "2026-10-14T15:52:24+00:00",
+   "snippet": "Verastem Oncology had a big Wednesday morning: It announced new data amid a tense competition for the next-wave KRAS agents, as well as a $250 million raise and the departure of its CEO. The Massachusetts ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "56e3c1eb5f1e",
    "source": "Fierce Biotech",
@@ -347,6 +419,18 @@
    "source": "Google News: biosimilar",
    "title": "Biocon settles Perjeta biosimilar dispute with Roche; rollout to start from Q1 CY27 - pharma.economictimes.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMWxMdDB4TUkwcWhMbGdKVEtXWTVhbkJYSktjS1FWNGNsOGROaUVuaUJRUEd0X21NejhHNV92WGtMR0QtakpFVkc4VVdxMkp4TTNhWTZhVVdmVG5QbTI2ajVEQWRRbFVCLW0xdDhMTVlZUFNlRU14ajFSaWFROWsydDA3ZEVJUFFoTVRpd3ZmdHE2Y1RyNkpXT3JGdktsWmwxMFNnYXBpTWgxdW1fd3cxNmpCN1lMaVpJbW1zRUxYT0NQNHFjc3pwNk1UNG4yV25RVjJxMUpuSk1yQ3dOTFFBUFlMWDI3SGF0aktFSUY1cWVsVHPSAfMBQVVfeXFMUDFsTHQweE1JMHFoTGxnSlRLV1k1YW5CWEpLY0tRVjRjbDhkTmlFbmlCUVBHdF9tTXo4RzVfdlhrTEdELWpKRVZHOFVXcTJKeE0zYVk2YVVXZlRuUG0yNmo1REFkUWxVQi1tMXQ4TE1ZWVBTZUVNeGoxUmlhUTlrMnQwN2RFSVBRaE1UaXd2ZnRxNmNUcjZKV09yRnZLbFpsMTBTZ2FwaU1oMXVtX3d3MTZqQjdZTGlaSW1tc0VMWE9DUDRxY3N6cDZNVDRuMlduUVYycTFKbkpNckN3TkxRQVBZTFgyN0hhdGpLRUlGNXFlbFRz?oc=5",
+   "date": "2026-10-14T08:46:29+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "6e56175f8815",
+   "source": "Google News: biosimilar",
+   "title": "Biocon settles Perjeta biosimilar dispute with Roche; rollout to start from Q1 CY27 - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQlh3anFjSzZ1S0NLWEFQaEFvN21OVzdFUkpKTXdsVnprTTZlRUxpUExtXzFQZGhaRTlPdEU0WUpjbWRQR201VFhkNGk1Z1ZKWkhOM19TYkRjWGt2QlBQZVdzZXZlc0ZLVkFEbDlLMTVRczFjOVRiUHBpNTc3TXNKTzVhaHc3ZFZWaVAwTVRiR0VGV2I0X29MamRfeG9BQVQ4OEUxczJZR1c1M0tuYkZ5dksxRklvbG9vVmZUSGZSUHZGZ1lFWEd2Qk0yaDNoeDBBdjFRMzI0ZXphY2YyaHZndTA1VjRWU3ZfZ2NPTXdR0gHzAUFVX3lxTFAxbEx0MHhNSTBxaExsZ0pUS1dZNWFuQlhKS2NLUVY0Y2w4ZE5pRW5pQlFQR3RfbU16OEc1X3ZYa0xHRC1qSkVWRzhVV3EySnhNM2FZNmFVV2ZUblBtMjZqNURBZFFsVUItbTF0OExNWVlQU2VFTXhqMVJpYVE5azJ0MDdkRUlQUWhNVGl3dmZ0cTZjVHI2SldPckZ2S2xabDEwU2dhcGlNaDF1bV93dzE2akI3WUxpWkltbXNFTFhPQ1A0cWNzenA2TVQ0bjJXblFWMnExSm5KTXJDd05MUUFQWUxYMjdIYXRqS0VJRjVxZWxUcw?oc=5",
    "date": "2026-10-14T08:46:29+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -1038,6 +1122,16 @@
    "date": "2026-10-12T21:26:00+00:00",
    "snippet": "Initial study findings strengthened some analysts’ belief that First Tracks’ drug, one of a few in development aimed at the protein CD122, might have “pipeline-in-a-product” potential.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5a4b1a4fe816",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilars: FDA finalizes guidance on postapproval manufacturing changes - RAPS",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjc2azk4SXE4TmNON0t3SXB5bFozUVVQR2ZxajVqZnJsT2tSZzZoUjI2bmFRU18xaVkwajNNdnY3TW1sWGdfNDBOVXRTd0llS0lfNlRtSkRyUWhWOUxWR2F0dHM0bkE0TXlOc2p6Q0ZQaVg1Mk1YQnJyVFkxTzVuM05FZEpocGtoRHVER3E2NDhHSlVvZTBJOXNnX015WHlybnR1LWJmZ3REMTg?oc=5",
+   "date": "2026-10-12T20:57:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -2063,6 +2157,16 @@
    "date": "2026-10-09T07:54:45+00:00",
    "snippet": "The appetite for biotech IPOs remains strong, especially when Eli Lilly and Nobel Prize-winning science are involved. TRexBio priced its initial stock sale Thursday, raising $116.7 million in ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4124516c5b4f",
+   "source": "Google News: biosimilar",
+   "title": "500124: Branded Growth Supports The Case, Regulatory Timing Still Shapes The Upside - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOODhBSDVGeUdRY25hWkJYak9GUFVtZzYxOUtCUkR5d3NpcjczREtuVFQ3ZVI4VUU3YjFIYTI0X1I0QWRZMEg2MUlxbk5ndmZTV1h3VFFWY3o4dEFIM2p6Y0JyVHZGa2EwalU1SXpNTk9sZk8xRjFJQkJKQ3FudDVUWnZ0cS1NY0ptc2oyQm1fRktUMW81NW9YSVBOUXZPVTV4QXIxNWhKTXNBWm9MYXUxUWV2U0oxUzVDNDhUdGI2VkNORHhOdzFJTy1EOC1fcFZDUUtVdENJekZOU2stMHR0SEVFQVlocTFPakdjSnVPSHRaaTFMbUMxOE1ra0xXTFR3d0hvblVIT0pzZl9Sb0JzbC1zR1lTSHNPM2lWQVJ0UFZkVEpEUW9SY0hROS1XMTB0UUdPWHd6dnU0RDdYdUJvTjJ5d3p6cVEzYldsQW84T1pLbzAtcXVoSnlSQ2FKRlEyZFZmY0ZMbHR3YmJRa1hHQno3QnlZRUtVdktpS19oQ1hvU3gy?oc=5",
+   "date": "2026-10-09T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
