@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T03:40:11.702939+00:00",
+ "updated": "2026-10-14T06:50:24.829470+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,13 +35,13 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 10,
+   "count": 9,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": ""
   },
   {
@@ -52,6 +52,40 @@
   }
  ],
  "items": [
+  {
+   "id": "d6133f132cb7",
+   "source": "Google News: biosimilar",
+   "title": "Biocon clears patent hurdle for breast cancer biosimilar Pebrilzo - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY3ZpYVVlbzVqNGVDVjlZOXRBRU1ZNW1xNjlhN29YVHpxX2tCUVlycUVmNTFBaEMxRUNlZ0hLbUtjTEk5QkZGbERjakVMVGZaajJ3eklyOGFDNFkzQ3BIOUxzaDJfazVfRmZSTEg1bUZzeFVHNnBCNVRUc2hJVHlJUnpRLUNpaEVhY1RlanFrd3ZMcXNUY2RSSHVKMUpfRnVPSFFCMnptb25ldFY2SHRkQ01rOXRsSnFWWjFJWkttbkxUaEtOZy1LSzdQN1o4RWfSAdQBQVVfeXFMTmx0eXUxZ1Z3amV3SmdQdHpLRFgtRUpIMGtvcS1mNlpISjVlTk1acEZUcVdJWWF0azVVSkZQUWxvN2xZNV85WWdiTlF5V3YwRWhHbW5ieXJMVWVwVktNYW4tdlZZN3BGQVBhUTJTMjFTcDl6Tzlfa3I5bERCd1FmZUpUemFtLTRjblRFLTl6Y0t4S1FtWVowODlFNGtSck9wVkVMRlgtYWR4eEhpYkdFU3dSaVdMcC13Tkg5UFNyZmNVTk5jMXp4bVJSeDJocktIdVJsNFM?oc=5",
+   "date": "2026-10-14T05:08:33+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "2410d0257372",
+   "source": "Google News: biosimilar",
+   "title": "Zydus-Formycon Keytruda Biosimilar FYB206 Accepted For USFDA Review - BW Healthcare World",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORFZmYzl3Z3RBc3ZMRGhKRHFjck8zRGtNNElxbVZpdVk4dDRYYWl3Nzk2bE11Wm5ueFJKRGdOeVV6YzdPbEVOUktlaXRCd19ZSklBRC1KSXZ5aU9PMUFSRm56b0Fta3BGSlN3cDRCZjF5TURMOExCaXNZSE9QNWpLQmt1RnA1UWg1SEU4eXBpRmQwZWU1UENQSUJfSlpDREp4UEF1WmV0Z0p3dkpMMXVOTTVMZmJ3ZDQ?oc=5",
+   "date": "2026-10-14T04:48:46+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "c2bd2edbda00",
+   "source": "Google News: biosimilar",
+   "title": "News by CNBC TV18 on TradingView, 2026-10-14 — cnbctv:73e547106094b:0 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LeklnWmZKSlYxcXdheWJOMV95NmNYRzUwOXB6QlkxTF9BUlJEZ0VSYlUwUDh2Q0RsdlVzdHRDU0FaOTNrV2JlMWlWT3dMYm16ejQ5d2pTemtNTWdGUzk2M0JVb1ZtSzg?oc=5",
+   "date": "2026-10-14T03:20:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "a5dd6b361291",
    "source": "Google News: biosimilar",
