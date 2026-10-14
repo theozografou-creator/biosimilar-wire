@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T12:49:17.516601+00:00",
+ "updated": "2026-10-14T15:46:21.962410+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,138 @@
   }
  ],
  "items": [
+  {
+   "id": "56e3c1eb5f1e",
+   "source": "Fierce Biotech",
+   "title": "Verastem CEO claims RAS drug has 'set a new benchmark' for tricky cancer in early readout",
+   "link": "https://www.fiercebiotech.com/biotech/verastem-challenging-daraxonrasib-its-kras-drug-multiple-solid-cancers",
+   "date": "2026-10-14T15:46:21.962410+00:00",
+   "snippet": "Verastem Oncology's decision to refocus its R&D efforts on its KRAS inhibitor appears to be paying off, at least based on initial data from a phase 1/2 trial.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "55cb807e242a",
+   "source": "Fierce Biotech",
+   "title": "Deep-pocketed Verdiva axes GLP-1 switching trial over ‘market evolution’",
+   "link": "https://www.fiercebiotech.com/biotech/deep-pocketed-verdiva-axes-glp-1-switching-trial-over-market-evolution",
+   "date": "2026-10-14T15:46:21.962410+00:00",
+   "snippet": "Verdiva Bio has scrapped a phase 2 trial of its once-weekly oral GLP-1 drug candidate VRB-101, pulling the plug the year after launching with $410 million.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b51acd33ce9f",
+   "source": "Fierce Biotech",
+   "title": "Biomea posts phase 1 data to pitch oral GLP-1 to potential partners, but investors appear unconvinced",
+   "link": "https://www.fiercebiotech.com/biotech/biomea-posts-phase-1-data-pitch-oral-glp-1-potential-partners",
+   "date": "2026-10-14T15:46:21.962410+00:00",
+   "snippet": "Biomea Fusion has shared phase 1 data on its oral GLP-1 prospect, shedding light on a small molecule designed to balance efficacy and gastrointestinal tolerability. Management hailed the data as a launchpad for talks with potential partners, but investors drove down the share ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "796c925167d1",
+   "source": "Fierce Biotech",
+   "title": "Stryker pens deal with CMR Surgical to advance robotic-assisted surgery",
+   "link": "https://www.fiercebiotech.com/medtech/stryker-pens-deal-cmr-surgical-advance-robotic-assisted-surgery",
+   "date": "2026-10-14T15:46:21.962410+00:00",
+   "snippet": "Stryker will funnel around $400 million (£300 million) in a “strategic” investment in CMR Surgical and its robot surgery tech.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6fbf7ac1ae17",
+   "source": "Fierce Pharma",
+   "title": "United lands 'clearcut win' as Liquidia agrees to $380M settlement in Tyvaso patent infringement saga",
+   "link": "https://www.fiercepharma.com/pharma/united-lands-clearcut-win-liquidia-agrees-380m-settlement-tyvaso-patent-infringement-saga",
+   "date": "2026-10-14T15:46:21.962410+00:00",
+   "snippet": "With a yearslong patent dispute between the two drugmakers finally put to bed—complete with a hefty settlement payout—United Therapeutics has clinched what one analyst calls a “clearcut win” over lung disease rival Liquidia Technologies.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fc836b267528",
+   "source": "Fierce Pharma",
+   "title": "Galderma bulks up dermatology portfolio with $1.5B acquisition of Zo Skin Health",
+   "link": "https://www.fiercepharma.com/pharma/galderma-bulks-dermatology-portfolio-15b-acquisition-zo-skin-health",
+   "date": "2026-10-14T15:46:21.962410+00:00",
+   "snippet": "Expanding its presence in dermatology, Cetaphil maker Galderma has agreed to acquire professional skincare shop Zo Skin Health for $1.5 billion.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "231966798e27",
+   "source": "Fierce Pharma",
+   "title": "AbbVie marks calendar for ‘Time For Treks’ in National Parks Foundation, CLL Society partnership",
+   "link": "https://www.fiercepharma.com/marketing/abbvie-marks-calendar-time-treks-national-parks-foundation-cll-society-partnership",
+   "date": "2026-10-14T15:46:21.962410+00:00",
+   "snippet": "AbbVie's “Time For Treks” brings the chronic lymphocytic leukemia (CLL) community together for an outdoor gathering in Cabrillo National Monument, San Diego on Oct. 17.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "604170e1da29",
+   "source": "Fierce Pharma",
+   "title": "FTC seeks sanctions against Martin Shkreli over alleged pharma ban violations",
+   "link": "https://www.fiercepharma.com/pharma/martin-shkreli-defied-lifetime-pharma-ban-ftc-calls-sanctions",
+   "date": "2026-10-14T15:46:21.962410+00:00",
+   "snippet": "The FTC alleges that “Pharma Bro” Martin Shkreli flagrantly traded pharmaceutical stocks on social media for three years, violating his lifetime ban from the industry.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "096ed81032e5",
+   "source": "BioPharma Dive",
+   "title": "Verastem cancer drug shows early promise in small study",
+   "link": "https://www.biopharmadive.com/news/verastem-g12d-pancreatic-cancer-results-genfleet/832952/",
+   "date": "2026-10-14T15:00:00+00:00",
+   "snippet": "Wall Street analysts believe Verastem’s drug to now be “competitive” in what’s quickly become one of the most active and crowded areas of oncology research.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "588cfc5a1b40",
+   "source": "Big Molecule Watch",
+   "title": "Celltrion Launches Omalizumab Biosimilar in the United States",
+   "link": "https://www.bigmoleculewatch.com/2026/10/14/celltrion-launches-omalizumab-biosimilar-in-the-united-states/",
+   "date": "2026-10-14T14:47:27+00:00",
+   "snippet": "On October 5, 2026, Celltrion USA announced that OMLYCLO® (omalizumab-igec) is commercially available in the United States. OMLYCLO® is the first and only FDA-approved interchangeable biosimilar to Genentech and Novartis’s XOLAIR® (omalizumab). As we previously reported, the FDA ...",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "b10554dfec28",
+   "source": "Endpoints News",
+   "title": "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump",
+   "link": "https://endpoints.news/ultragenyxs-second-prv-sale-biomeas-oral-glp-1-data-leads-to-stock-slump/",
+   "date": "2026-10-14T14:24:20+00:00",
+   "snippet": "Plus news about United Therapeutics, Liquidia, Sanofi, Pharming, Skyhook Bio and Altay Therapeutics. Ultragenyx Pharmaceutical sells second PRV this month: The commercial-stage rare disease drugmaker sold its second priority review voucher for",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0781b32034b0",
+   "source": "BioPharma Dive",
+   "title": "J&J earnings set ‘negative tone’; Shkreli vs. the FTC",
+   "link": "https://www.biopharmadive.com/news/jnj-earnings-gilead-vir-shkreli-ftc-syndax-pfizer/832879/",
+   "date": "2026-10-14T13:31:00+00:00",
+   "snippet": "A 6% sell-off in J&J shares was viewed by one analyst as emblematic of broader market volatility. Elsewhere, Gilead is collaborating with Vir and a biotech’s bid for a product expansion fell short.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a6437b2f000e",
+   "source": "Google News: biosimilar",
+   "title": "Why biosimilars keep losing ground to brand-name rivals: A Q&A with Christine Johnston - Managed Healthcare Executive",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTEwSHlrSi0zN2ZsVDNldXdOYzc3MVhFRmpFanE1NVdpZlhON2pTdVVDZkdNSVZMT0l0c0w2MWFqak05dTY0NFh0a0phZXMxblNBQ1ZVSXFNODVuTy05YlJzUXZvaldNUXVuVVMyaWJqOG9SLVFZYk04b25NQzNnUWtaVFRkVy14U0h3eXJzN1dhTWxzMEhDT0V0ZWlRZkRWeVd4N1EyNDRvU2JPZDRKM0xaOGUwdkxkVndKb1JB?oc=5",
+   "date": "2026-10-14T13:16:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "650a4b4e96cb",
    "source": "Fierce Biotech",
@@ -123,6 +255,18 @@
    "watch": []
   },
   {
+   "id": "9c6e22ea10ae",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Claims Earliest Pertuzumab Launch Dates With Perjeta Settlement - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNVhtT0hWbUczZ2c0azBUTm41NUE0dTlucHFkSW9pak5XUlZjamkzX3Y3S1c4T3ZYTDRrcE9jVnJpa28zT2FIaWpSd2E0MTZUWFAyWVpsX1QzWnozYl9FbmpTck12dXR5R1FwdU91dUN3UUQ5TDNvOC1UY3dlbzRHZ3lYZ19xVE1YSGhwRWhtc0hsY0QwejRFS2luY0xmUk1Wak9qdXdkemd4cFBFbXFZOW84Y3o0SW5mU1pHWUY4bjZESXhiWmhJZlhPMGtXSzFIbThQZ0FBMHdYQzhKVkNMYUJpaW1iVWhJUGxoNjRGRXpWVmc?oc=5",
+   "date": "2026-10-14T11:23:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "b79f1b4b67a3",
    "source": "Endpoints News",
    "title": "Zealand inks up to $1.3B deal for AI-designed obesity treatments",
@@ -141,6 +285,18 @@
    "snippet": "GSK will make up to 1,217 workers redundant from its sites in Belgium as part of the cost-cutting initiative CEO Luke Miels announced in July. “The proposed changes announced in Belgium today ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "f1860a5a192c",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech, Advanz seek EU nod for high-dose Eylea biosimilar - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTHJWV1FBaGl2b2FuTXdSVG5DWHRqR0VwVWJGOUZXZkJmejAxb04tRUg4b2M2dDVsTEFhR3g1VmF6ckRtZ3RRQ2FwUFY2bTNrWFM5VU1JWEdxUHBvTFd5LTJTTWxHbkx5QXRmZC1hT1FQbDBnWGRJQmt4cEtPSGZCek1HUE1PblIxRUdnemhfam1BQQ?oc=5",
+   "date": "2026-10-14T10:16:39+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "be9446559403",
@@ -291,6 +447,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "6ee003b53268",
+   "source": "Google News: biosimilar",
+   "title": "New Biosimilar Plant Could Be A Big Moment For Sandoz Stock (SWX:SDZ) - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY3gxaktwSktCQm9JTGxfM0FTNWdaV19pY2lZbGltLVpPcHR2b2haWUF2bFI5N1poVWllTTBQLXFEanhXNWZhTzdyaF9ZYXI2QTJWSFAzUFJfV18yZGhCOXA2cGpVSC1iWmZvWTZncWRiRXlhclJ4TWdwU0djbUFVeE90UDIzWno2Nlc1TFVpMktRWlE5cHNHTVY0SHA5eFItWG1MQl9icEZkVEpobWRhd19aS0kwQVNoWmJ5YWoxaXpfU2dLeWVpSHM1d0l0c3o5X2RlcmdSVy1PTEhzTVEwV2dSMDl0TjTSAecBQVVfeXFMUGN4MWpLcEpLQkJvSUxsXzNBUzVnWldfaWNpWWxpbS1aT3B0dm9oWllBdmxSOTdaaFVpZU0wUC1xRGp4VzVmYU83cmhfWWFyNkEyVkhQM1BSX1dfMmRoQjlwNnBqVUgtYlpmb1k2Z3FkYkV5YXJSeE1ncFNHY21BVXhPdFAyM1p6NjZXNUxVaTJLUVpROXBzR01WNEhwOXhSLVhtTEJfYnBGZFRKaG1kYXdfWktJMEFTaFpieWFqMWl6X1NnS3llaUhzNXdJdHN6OV9kZXJnUlctT0xIc01RMFdnUjA5dE40?oc=5",
+   "date": "2026-10-14T01:21:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
   },
   {
    "id": "a5dd6b361291",
