@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T00:51:13.864145+00:00",
+ "updated": "2026-10-14T03:40:11.702939+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": ""
   },
   {
@@ -423,6 +423,16 @@
    "watch": []
   },
   {
+   "id": "17bb2ea271e8",
+   "source": "Google News: biosimilar",
+   "title": "健友股份(603707)：生物类似药商业化元年 将驱动公司更大成长 - Futubull - 富途牛牛",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMGd5WWl6WXJHYUZaNDF1YWdUVV9ldzlsSWhwanZucFFPZmZlZWJHX0JVSjNubXc0d3RQOGNaWjU5akdjNVpIZGM2MjFnTDBiU1hBaENsa2Y0NlVzMFMyc0FINl9mV3ROVU53R0JBbnlONElDTjBLVm9RWXhWdU43ZXhyV0tGcHVMRnFhUDV4S3VHazV3OWFjdXpuMi1ka0l2bV9MOURPQ1E5cjNveXJ6em02d1F5Wk53Wnc?oc=5",
+   "date": "2026-10-13T11:03:17+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "2e98f58c120d",
    "source": "Endpoints News",
    "title": "Paragon spins out ninth biotech, sending cardiopulmonary drugs to Alaunos",
@@ -621,6 +631,18 @@
    "snippet": "Initial study findings strengthened some analysts’ belief that First Tracks’ drug, one of a few in development aimed at the protein CD122, might have “pipeline-in-a-product” potential.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "9a15f6d10c3a",
+   "source": "Google News: biosimilar",
+   "title": "LOTTE Biologics and Alvotech Forge Long-Term Partnership to Expand Global Biosimilar Manufacturing Capacity - BioPharma APAC",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaFNxRkp4V0t1Q1Z1VzRiQy1DUmJYQUNrelVqaWRmaGtTR0J2VS1YZ3ZLZnVhbWhPazd5WEtXWkIzbFFKQ2t6RVlzeHp2RUZwTm5NNVlrcVptSHBMRmo4MEdtZTQ3UkpYbGZ2ZDlHQkxLeVJ0d2VNTnRrX3BDVWxpOE1QMTdQSXpCTTVKQTdPX2NjVlZtbEJSOFladlhNMFhwSEJLb1diZWlmTGxKYWowUnEwMEg2b2QtMlVZX3V0elc2MXBmOURhSk5EZUtJc2NBeS1qMHp3bThVdHIwS2RBLWRPbVIyQQ?oc=5",
+   "date": "2026-10-12T18:30:48+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "0c200049d64a",
@@ -1063,6 +1085,19 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "b2994c6e7705",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis and Teva Pharmaceuticals to develop and commercialize two biosimilars - 더바이오",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rUG9QblQ5ZEkyMWJFYk1jOExCaG8xT2pOSGhYRUp0OU55UnZZSEJIRmx2QzFpbC1CVDFOekJ3SGQyTnlqMGN5NlY5RS05VFBlTWxYU0VPZWlodGxxeFFTT3RHYW93N2UySHBSZGl0enjSAXBBVV95cUxPa1BvUG5UOWRJMjFiRWJNYzhMQmhvMU9qTkhoWEVKdDlOeVJ2WUhCSEZsdkMxaWwtQlQxTnpCd0hkMk55ajBjeTZWOUUtOVRQZU1sWFNFT2VpaHRscXhRU090R2FvdzdlMkhwUmRpdHp4?oc=5",
+   "date": "2026-10-12T08:41:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
   },
   {
    "id": "3b9b8663102b",
