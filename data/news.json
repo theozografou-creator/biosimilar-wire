@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T09:41:09.013520+00:00",
+ "updated": "2026-10-14T12:49:17.516601+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,108 @@
  ],
  "items": [
   {
+   "id": "650a4b4e96cb",
+   "source": "Fierce Biotech",
+   "title": "Vir CEO sees ‘opportunity to do more deals’ after striking $1.9B Gilead pact for dual-masked TCEs",
+   "link": "https://www.fiercebiotech.com/biotech/gilead-strikes-19b-oncology-deal-vir-dual-masked-t-cell-engager-technology",
+   "date": "2026-10-14T12:49:17.516601+00:00",
+   "snippet": "Looking to expand its oncology portfolio, Gilead has tapped Vir Biotechnology’s masked T-cell engager tech in a potential $1.9 billion biobucks deal.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9c0b13512431",
+   "source": "Fierce Biotech",
+   "title": "GSK to lay off over 1,200 roles in Belgium as cost-saving program picks up steam",
+   "link": "https://www.fiercebiotech.com/biotech/gsk-lay-over-12k-roles-belgium-cost-saving-program-picks-steam",
+   "date": "2026-10-14T12:49:17.516601+00:00",
+   "snippet": "Up to 1,217 GSK employees in Belgium are at risk of losing their jobs as the Big Pharma rolls out it its global cost-saving plans.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4524f787e6eb",
+   "source": "Fierce Pharma",
+   "title": "NantWorks' Soon-Shiong puts chips behind manufacturing disruptors in new rounds for Prolific Machines, Multiply Labs",
+   "link": "https://www.fiercepharma.com/pharma/nantworks-soon-shiong-puts-chips-behind-manufacturing-disruptors-new-rounds-prolific",
+   "date": "2026-10-14T12:49:17.516601+00:00",
+   "snippet": "With demand for advanced manufacturing solutions mounting across the industry, the moment is ripe to capitalize on investor interest and build out toward a potential production paradigm shift.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5c55edfc25a0",
+   "source": "Fierce Pharma",
+   "title": "Sanofi dodges EU fine over alleged disparagement of CSL flu vaccine",
+   "link": "https://www.fiercepharma.com/marketing/sanofi-dodges-eu-fine-over-alleged-disparagement-csl-flu-vaccine",
+   "date": "2026-10-14T12:49:17.516601+00:00",
+   "snippet": "Sanofi has avoided a European Union fine after antitrust regulators accepted its commitments to address the alleged disparagement of CSL Seqirus’ rival flu vaccine.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cccc0f674e9a",
+   "source": "Fierce Pharma",
+   "title": "GSK to lay off over 1,200 roles in Belgium as cost-saving program picks up steam",
+   "link": "https://www.fiercepharma.com/biotech/gsk-lay-over-12k-roles-belgium-cost-saving-program-picks-steam",
+   "date": "2026-10-14T12:49:17.516601+00:00",
+   "snippet": "Up to 1,217 GSK employees in Belgium are at risk of losing their jobs as the Big Pharma rolls out it its global cost-saving plans.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "02cee0ff2022",
+   "source": "Endpoints News",
+   "title": "Vir makes solid tumor T cell engager deal with Gilead",
+   "link": "https://endpoints.news/vir-makes-solid-tumor-t-cell-engager-deal-with-gilead/",
+   "date": "2026-10-14T12:30:21+00:00",
+   "snippet": "Vir Biotechnology and its CEO Marianne De Backer have notched yet another deal, this time with Gilead. Gilead will pay Vir $65 million upfront, with another $45 million in near-term milestones. Gilead's also paying a ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "13f75f02cb19",
+   "source": "Endpoints News",
+   "title": "Arrowhead’s brain-targeting RNA drug lowers Alzheimer’s protein in early study",
+   "link": "https://endpoints.news/arrowheads-brain-targeting-rna-drug-lowers-alzheimers-protein-in-early-study/",
+   "date": "2026-10-14T11:30:27+00:00",
+   "snippet": "Arrowhead Pharmaceuticals has shown that a genetic medicine administered as a subcutaneous injection can seemingly travel into the brain and lower levels of tau, a protein implicated in Alzheimer’s disease. The company found that the ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b79f1b4b67a3",
+   "source": "Endpoints News",
+   "title": "Zealand inks up to $1.3B deal for AI-designed obesity treatments",
+   "link": "https://endpoints.news/zealand-inks-up-to-1-3b-deal-for-ai-designed-obesity-treatments/",
+   "date": "2026-10-14T11:21:47+00:00",
+   "snippet": "Zealand Pharma said Tuesday it will develop new protein-based treatments for obesity and other metabolic diseases with the help of Generate Biomedicines’ AI technology. The Danish drugmaker is spending $30 million upfront for two initial ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fcc173b26a51",
+   "source": "Endpoints News",
+   "title": "GSK could cut more than 1,200 jobs in Belgium",
+   "link": "https://endpoints.news/gsk-could-cut-more-than-1200-jobs-in-belgium/",
+   "date": "2026-10-14T10:41:26+00:00",
+   "snippet": "GSK will make up to 1,217 workers redundant from its sites in Belgium as part of the cost-cutting initiative CEO Luke Miels announced in July. “The proposed changes announced in Belgium today ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "be9446559403",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech files first known biosimilar application for Eylea 8 mg - StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbEo2c0NWbkhISnYyV3BoTUVqb2tVV3piMnNCWDFxcVg5bEI3WGhlbWwtd2FMeXQ3ZXdnbDBYUEdic3pIUktJcHlTV0VaQjdnMlIyZ0NKY3ZweFJOWTEyalBkUVlwbjk4dzhnejk5ZnY4ZnVqeXYxTEV4ZlhlbExoWFNqUTNMT05xMC1mS3d4UHZhQ1BsNnJhZzZHS21JVEcwQVV4ZkFYOU5LNFVFRVNvbnVYaTl5SlVTbkE0WWxIMmc?oc=5",
+   "date": "2026-10-14T10:05:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "60caafd0aa90",
    "source": "Fierce Biotech",
    "title": "Zealand inks $1.2B Generate pact to add multispecific proteins to obesity pipeline",
@@ -71,6 +173,30 @@
    "snippet": "Agilent Technologies is buying up the digital pathology software company Proscia in an all-cash transaction valued at $240 million with an additional $30 million on the cards for future performance milestones.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "fe0ec0b01fa1",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech and Advanz Pharma announce first known regulatory submission worldwide for proposed biosimilar to Eylea® 8 mg - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNXJsOHdDaUZoNXpUczVRV0plb0VaNVh4UEE4M2hRVVVCYmZiWFU2WWk3YjhqNW1VZ3lGR2gwWGkzcjg3OVpjUU9CdU9nTUIybXJETlNqNHJxYVVUNVA3WEpKcXVGWWJSbnQ1S0t2TnlLaFdMWGlaQzdXd3ZsQldJUFVDRjExaXlTR2N3cVQxVWhJa3FGLUxaLUtYaFdPZ1UyT0lHWGVYcDIzTkVIbDQ5S3p0azlzR3RhUHlZYzBCTXdyajVCdFE1cEx3cHZESnR2a2JFZU5RVDYyN3RKcjFLdmxmUk8xdWFBWWZEQ21CWG5WTFFDcGdrTlAwc29ZVTFUNmU4WmFoU0dfcHRkZml5Zml3V1dralFUSFpaNUR5ZEzSAaACQVVfeXFMTzVybDh3Q2lGaDV6VHM1UVdKZW9FWjVYeFBBODNoUVVVQmJmYlhVNllpN2I4ajVtVWd5RkdoMFhpM3I4NzlaY1FPQnVPZ01CMm1yRE5TajRycWFVVDVQN1hKSnF1RlliUm50NUtLdk55S2hXTFhpWkM3V3d2bEJXSVBVQ0YxMWl5U0djd3FUMVVoSWtxRi1MWi1LWGhXT2dVMk9JR1hlWHAyM05FSGw0OUt6dGs5c0d0YVB5WWMwQk13cmo1QnRRNXBMd3B2REp0dmtiRWVOUVQ2Mjd0SnIxS3ZsZlJPMXVhQVlmRENtQlhuVkxRQ3Bna05QMHNvWVUxVDZlOFphaFNHX3B0ZGZpeWZpd1dXa2pRVEhaWjVEeWRM?oc=5",
+   "date": "2026-10-14T08:51:17+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "7aae84ba2cd4",
+   "source": "Google News: biosimilar",
+   "title": "Biocon settles Perjeta biosimilar dispute with Roche; rollout to start from Q1 CY27 - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMWxMdDB4TUkwcWhMbGdKVEtXWTVhbkJYSktjS1FWNGNsOGROaUVuaUJRUEd0X21NejhHNV92WGtMR0QtakpFVkc4VVdxMkp4TTNhWTZhVVdmVG5QbTI2ajVEQWRRbFVCLW0xdDhMTVlZUFNlRU14ajFSaWFROWsydDA3ZEVJUFFoTVRpd3ZmdHE2Y1RyNkpXT3JGdktsWmwxMFNnYXBpTWgxdW1fd3cxNmpCN1lMaVpJbW1zRUxYT0NQNHFjc3pwNk1UNG4yV25RVjJxMUpuSk1yQ3dOTFFBUFlMWDI3SGF0aktFSUY1cWVsVHPSAfMBQVVfeXFMUDFsTHQweE1JMHFoTGxnSlRLV1k1YW5CWEpLY0tRVjRjbDhkTmlFbmlCUVBHdF9tTXo4RzVfdlhrTEdELWpKRVZHOFVXcTJKeE0zYVk2YVVXZlRuUG0yNmo1REFkUWxVQi1tMXQ4TE1ZWVBTZUVNeGoxUmlhUTlrMnQwN2RFSVBRaE1UaXd2ZnRxNmNUcjZKV09yRnZLbFpsMTBTZ2FwaU1oMXVtX3d3MTZqQjdZTGlaSW1tc0VMWE9DUDRxY3N6cDZNVDRuMlduUVYycTFKbkpNckN3TkxRQVBZTFgyN0hhdGpLRUlGNXFlbFRz?oc=5",
+   "date": "2026-10-14T08:46:29+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
   },
   {
    "id": "504915f6a4a3",
