@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T18:48:31.326141+00:00",
+ "updated": "2026-10-14T21:39:32.827433+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,58 @@
   }
  ],
  "items": [
+  {
+   "id": "ff26572e99f6",
+   "source": "Fierce Pharma",
+   "title": "FDA clears ImmunityBio’s Anktiva expansion in bladder cancer after regulatory whiplash",
+   "link": "https://www.fiercepharma.com/pharma/fda-clears-immunitybio-anktiva-expansion-bladder-cancer-after-regulatory-whiplash",
+   "date": "2026-10-14T21:39:32.827433+00:00",
+   "snippet": "To expand Anktiva’s label, the FDA adopted a new approach to how it evaluates treatments for BCG-unresponsive NMIBC. The new regulatory path essentially allowed ImmunityBio to bypass an expensive phase 3 trial that competitor Johnson & Johnson is currently forced to grind ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3efcab701e25",
+   "source": "Fierce Pharma",
+   "title": "Ultragenyx makes swift $413M return on FDA review vouchers after summer of gene therapy nods",
+   "link": "https://www.fiercepharma.com/pharma/ultragenyx-makes-swift-413m-return-fda-review-vouchers-after-summer-gene-therapy-nods",
+   "date": "2026-10-14T21:39:32.827433+00:00",
+   "snippet": "Hot off a pair of key FDA approvals this summer, rare disease specialist Ultragenyx has wasted little time cashing in on the priority review vouchers it earned from the green lights.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b19236510551",
+   "source": "Big Molecule Watch",
+   "title": "Sanofi and Regeneron Expand Immunology Collaboration in Deal Worth Up to $8 Billion",
+   "link": "https://www.bigmoleculewatch.com/2026/10/14/sanofi-and-regeneron-expand-immunology-collaboration-in-deal-worth-up-to-8-billion/",
+   "date": "2026-10-14T19:16:25+00:00",
+   "snippet": "On October 1, 2026, Sanofi and Regeneron Pharmaceuticals, Inc. (“Regeneron”) announced an expansion of their existing immunology collaboration to develop and commercialize four long-acting antibodies. Sanofi will pay Regeneron $1 billion upfront, with up to an additional $7 ...",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "d191b7f0ac1f",
+   "source": "Google News: biosimilar",
+   "title": "Genentech Drops Lawsuit Against Biocon Over Perjeta Biosimilar - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDl6cXhEdkRCMGFvSnBtZmpESHl6UHo2cnlCclEzZ1JERDhoTDd3X3JpaWk4OXlaajZXbERlT0ViSXJhVDlfZm5pSWFhUnJ3RWEwZXZ4UFo5dkdITnVyWkVqdGU4ZUVXYnNHT1FGLWdhUTd1Q1hMSEtQczRaSW82QlJwclFqN192TC1NLUE1RnZtT29HcVNxaGREbHFEc19I?oc=5",
+   "date": "2026-10-14T19:13:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "f72cf45e952d",
+   "source": "Endpoints News",
+   "title": "Sanofi's new R&D chief: Western pharma should rethink China's drug pipeline role",
+   "link": "https://endpoints.news/sanofis-new-rd-chief-western-pharma-should-rethink-chinas-drug-pipeline-role/",
+   "date": "2026-10-14T19:06:14+00:00",
+   "snippet": "Sanofi's new R&D chief said on Wednesday that Western drugmakers cannot ignore China's accelerating innovation and need to consider how the country’s emergence as a global biopharma powerhouse should change their approach to sourcing new ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "5491076087d9",
    "source": "Fierce Biotech",
@@ -227,6 +279,16 @@
    ]
   },
   {
+   "id": "30176730417e",
+   "source": "BioPharma Dive",
+   "title": "CVS to pay $315M to settle opioid prescribing allegations",
+   "link": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
+   "date": "2026-10-14T14:45:52+00:00",
+   "snippet": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and “strongly disagreed” with the case’s claims.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "b10554dfec28",
    "source": "Endpoints News",
    "title": "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump",
@@ -234,6 +296,16 @@
    "date": "2026-10-14T14:24:20+00:00",
    "snippet": "Plus news about United Therapeutics, Liquidia, Sanofi, Pharming, Skyhook Bio and Altay Therapeutics. Ultragenyx Pharmaceutical sells second PRV this month: The commercial-stage rare disease drugmaker sold its second priority review voucher for",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fbf5ba2ed38d",
+   "source": "Google News: biosimilar",
+   "title": "Russia registers first domestic ocrelizumab biosimilar from Biocad - Новости GxP",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNjRrWXltMllETlE5YXFRVUxST285YTd5VENIM2xRd0hIMG9qam5MSTBCZml1c1dwSUx1N0xMeVZVb3dMYS0tNXJQWUZSNHFERDdRem5rcHdITGtBNkptYmxJaVJUMTItTTRIY2FYY1d5OFZVVVF4SE9SVXBKLUtCUGtpOVhKUHRoNTVwUzNoTHRDQUtsaDNsZUR4Zm1TVkXSAZ8BQVVfeXFMTzY0a1l5bTJZRE5ROWFxUVVMUk9vOWE3eVRDSDNsUXdISDBvampuTEkwQmZpdXNXcElMdTdMTHlWVW93TGEtLTVyUFlGUjRxREQ3UXpua3B3SExrQTZKbWJsSWlSVDEyLU00SGNhWGNXeThWVVVReEhPUlVwSi1LQlBraTlYSlB0aDU1cFMzaEx0Q0FLbGgzbGVEeGZtU1ZF?oc=5",
+   "date": "2026-10-14T14:00:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
