@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T09:42:03.872953+00:00",
+ "updated": "2026-10-15T12:52:00.095866+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,76 @@
  ],
  "items": [
   {
+   "id": "8a2ef150862a",
+   "source": "Fierce Biotech",
+   "title": "Osivax focuses on combo strategy for flu vaccine after phase 2 fail",
+   "link": "https://www.fiercebiotech.com/biotech/osivax-focuses-combo-strategy-flu-vaccine-after-phase-2-fail",
+   "date": "2026-10-15T12:52:00.095866+00:00",
+   "snippet": "Osivax has been forced to narrow the strategy for its influenza vaccine after the shot failed a phase 2b study.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "af0ce02f44a8",
+   "source": "Fierce Biotech",
+   "title": "AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs",
+   "link": "https://www.fiercebiotech.com/biotech/astrazeneca-inks-15b-insitro-deal-ai-enabled-target-discovery",
+   "date": "2026-10-15T12:52:00.095866+00:00",
+   "snippet": "AstraZeneca is paying insitro $40 million upfront to find novel drug targets for liver and heart diseases using artificial intelligence.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5eaa2f8a51d0",
+   "source": "Fierce Pharma",
+   "title": "Gilead puts a timely spotlight on HIV prevention in Latino communities with 'Ahorita Mismo' campaign",
+   "link": "https://www.fiercepharma.com/marketing/gilead-puts-timely-spotlight-hiv-prevention-latino-communities-ahorita-mismo-campaign",
+   "date": "2026-10-15T12:52:00.095866+00:00",
+   "snippet": "Gilead's “Ahorita Mismo (Right Now!)” stars two popular Latino creators in a call-in podcast themed spot looking to spark conversations around HIV prevention.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "29ab1f46ccda",
+   "source": "Fierce Pharma",
+   "title": "Isotope supplier NorthStar continues rise with partnership to tee up China radiopharmaceutical filings",
+   "link": "https://www.fiercepharma.com/pharma/isotope-supplier-northstar-continues-rise-partnership-tee-china-radiopharmaceutical-filings",
+   "date": "2026-10-15T12:52:00.095866+00:00",
+   "snippet": "As the momentum continues to pick up at NorthStar Medical Technologies, the radioisotope producer is strengthening ties in China, in a move that helps put its actinium-225 supplies on the map for local radiopharmaceutical filings.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d011df7b9dc7",
+   "source": "Fierce Pharma",
+   "title": "Compass puts treatment-resistant depression on the map with first awareness day",
+   "link": "https://www.fiercepharma.com/marketing/compass-puts-treatment-resistant-depression-map-first-awareness-day",
+   "date": "2026-10-15T12:52:00.095866+00:00",
+   "snippet": "Compass Pathways has partnered with mental health organizations on the first-ever awareness day for treatment-resistant depression.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d4c9830e767b",
+   "source": "Endpoints News",
+   "title": "Vanda’s social anxiety drug flunks Phase 3 trial in female patients",
+   "link": "https://endpoints.news/vandas-social-anxiety-drug-flunks-phase-3-trial-in-female-patients/",
+   "date": "2026-10-15T11:00:53+00:00",
+   "snippet": "Vanda Pharmaceuticals said Wednesday it is putting its social anxiety disorder program on hold following a late-stage trial failure. The biotech’s drug, called VQW-765, missed the primary endpoint in a Phase ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9b03ef2f646e",
+   "source": "Endpoints News",
+   "title": "Paul Stoffels to bring Galapagos’ cell therapies back to life",
+   "link": "https://endpoints.news/paul-stoffels-to-bring-galapagos-cell-therapies-back-to-life/",
+   "date": "2026-10-15T10:33:24+00:00",
+   "snippet": "Paul Stoffels isn’t giving up on the cell therapy plans he had at Galapagos, the Belgian drug developer that he tried turning around as CEO before abruptly departing last year. Stoffels is behind a new ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "52b487eb45f2",
    "source": "Fierce Biotech",
    "title": "Rebranded Galapagos finally finds buyer for unwanted cell therapy pipeline",
@@ -70,6 +140,16 @@
    "date": "2026-10-15T08:01:53+00:00",
    "snippet": "Nvidia-backed Iambic Therapeutics will begin trading Thursday after pricing its $150 million initial public offering Wednesday night. The cancer-focused biotech sold 9.38 million shares {$IAM} at $16 apiece. The float adds ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "870662fad7f8",
+   "source": "Google News: biosimilar",
+   "title": "Beyond the Base Case: Why Biosimilar Companies Need Two Forecasting Engines, Not One - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY1poNWFWYnE3UjBpdU4zTGRVWnEzbENzdmw0X0Y5V21FbDEwbFI3M0RYVVhBNXhLY1JYVmJEZlBCTk1tVWdjXzVUbGM0Vmg4WTN1bXhuYnFKSmsydXFoWmc4VUQ5OXhjZTUxWmRDRl9tUDFYb1kxRkJoM3BuTjlIZFRPN1k3cUFjc3Y1aWt1TkJyeHlfNU9qcDNQSkMzTGlRM1A4bjFYNW1peXdNVFYwZFFobWNiWkF0ckN2NXE0ZXBOSWZDNE5rSXVZSW5yc0JYSU41ZlNGWlZVeGx4YkdsV3JUbkRmUGFqYU91cUZ6QVFINDB1Z1Vrdmtn?oc=5",
+   "date": "2026-10-15T07:10:34+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
