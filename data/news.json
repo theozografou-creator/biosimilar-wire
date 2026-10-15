@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T06:50:37.334789+00:00",
+ "updated": "2026-10-15T09:42:03.872953+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 9,
+   "count": 7,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "52b487eb45f2",
+   "source": "Fierce Biotech",
+   "title": "Rebranded Galapagos finally finds buyer for unwanted cell therapy pipeline",
+   "link": "https://www.fiercebiotech.com/biotech/rebranded-galapagos-finally-finds-buyer-unwanted-cell-therapy-pipeline",
+   "date": "2026-10-15T09:42:03.872953+00:00",
+   "snippet": "Lakefront Biotherapeutics—the new name for Belgium’s Galapagos Therapeutics—has found a buyer for its unwanted cell therapy pipeline.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "727264d0cf73",
+   "source": "Endpoints News",
+   "title": "Iambic snags $150M IPO for AI-driven cancer pipeline",
+   "link": "https://endpoints.news/iambic-snags-150m-ipo-for-ai-driven-cancer-pipeline/",
+   "date": "2026-10-15T08:01:53+00:00",
+   "snippet": "Nvidia-backed Iambic Therapeutics will begin trading Thursday after pricing its $150 million initial public offering Wednesday night. The cancer-focused biotech sold 9.38 million shares {$IAM} at $16 apiece. The float adds ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "028390ba025b",
    "source": "Fierce Biotech",
@@ -91,6 +111,18 @@
    "snippet": "An Oxford-based drug developer has raised one of the largest private financings for a UK biotech in recent years as it seeks to follow in the footsteps of Neurocrine and Vertex-acquired Crinetics in an endocrinology ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "b139633510e0",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech files first known aflibercept 8 mg biosimilar with EMA - Ophthalmology Times",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRURKRks4RE91SUNmWDg3and6Rk8xWnF1bjM4SVhaOFZQdDhhOWZYU2p6SjdLbU8tTE5MaUF0T3pZTEl2WEJVczRQdkxvU0ZKSlZoMkVWdThDZ3Z3dWFfSUJIQnJXS2NyV1ktelFSenB3cGJpWHRQVF9DWmxxdDhwZjZ2WFlxZGw3d2ZMNDA3eFNDZXZTVmhtdzBmTlZIRWhyUmZCWFdB?oc=5",
+   "date": "2026-10-15T04:09:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "b96053b31e45",
