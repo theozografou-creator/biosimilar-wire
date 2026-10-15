@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T03:39:57.125571+00:00",
+ "updated": "2026-10-15T06:50:37.334789+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,46 @@
   }
  ],
  "items": [
+  {
+   "id": "028390ba025b",
+   "source": "Fierce Biotech",
+   "title": "Iambic goes public with $150M IPO to accelerate clinical development of oncology pipeline",
+   "link": "https://www.fiercebiotech.com/biotech/iambic-goes-public-150m-ipo-accelerate-clinical-development-oncology-pipeline",
+   "date": "2026-10-15T06:50:37.334789+00:00",
+   "snippet": "Iambic Therapeutics’ IPO came in dead on target, bringing in $150 million for the AI biotech to fuel the clinical development of its oncology pipeline.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "070ab2b9bac1",
+   "source": "Fierce Biotech",
+   "title": "Vanda pauses social anxiety program after ex-Novartis asset flunks phase 3 study",
+   "link": "https://www.fiercebiotech.com/biotech/vanda-pauses-social-anxiety-program-after-ex-novartis-asset-flunks-phase-3",
+   "date": "2026-10-15T06:50:37.334789+00:00",
+   "snippet": "A phase 3 trial of Vanda Pharmaceuticals’ social anxiety disorder drug candidate has missed its primary endpoint, prompting the company to put the program on hold.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0d8650fec87a",
+   "source": "Fierce Biotech",
+   "title": "Why OMass’ $310M series C marks ‘fantastic milestone’ on journey to become ‘Britain’s Big Biotech’",
+   "link": "https://www.fiercebiotech.com/biotech/why-omass-310m-series-c-fantastic-milestone-journey-become-britains-big-biotech",
+   "date": "2026-10-15T06:50:37.334789+00:00",
+   "snippet": "When Fierce last caught up with OMass Therapeutics’ CEO Ros Deegan, it was hard not to be impressed by the company’s ambition.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "afb11489ee6a",
+   "source": "Endpoints News",
+   "title": "OMass Therapeutics collects $310M to chase Neurocrine, Vertex in genetic adrenal disorder",
+   "link": "https://endpoints.news/omass-therapeutics-collects-310m-to-chase-neurocrine-vertex-in-genetic-adrenal-disorder/",
+   "date": "2026-10-15T06:00:59+00:00",
+   "snippet": "An Oxford-based drug developer has raised one of the largest private financings for a UK biotech in recent years as it seeks to follow in the footsteps of Neurocrine and Vertex-acquired Crinetics in an endocrinology ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "b96053b31e45",
    "source": "Google News: biosimilar",
