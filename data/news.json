@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T12:52:00.095866+00:00",
+ "updated": "2026-10-15T15:43:53.757081+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,116 @@
   }
  ],
  "items": [
+  {
+   "id": "656255a5f356",
+   "source": "Fierce Biotech",
+   "title": "OrbiMed’s largest-ever Asian fund contributes to $3B war chest",
+   "link": "https://www.fiercebiotech.com/biotech/orbimeds-largest-ever-asian-fund-contributes-3b-war-chest",
+   "date": "2026-10-15T15:43:53.757081+00:00",
+   "snippet": "OrbiMed has raised $3 billion to place a fresh round of bets on biotechs and life sciences companies in the U.S., Europe and Asia.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5f0f5f80291e",
+   "source": "Fierce Pharma",
+   "title": "Par Health recalls 22 lots of IV blood thinner, its 3rd US product pull in a month",
+   "link": "https://www.fiercepharma.com/pharma/par-health-recalls-22-lots-iv-blood-thinner-its-3rd-recall-month",
+   "date": "2026-10-15T15:43:53.757081+00:00",
+   "snippet": "Par Health issued a recall of 22 lots of the intravenous anticoagulant argatroban, the latest in a string of recent recalls related to IV-bag contamination risk.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "124d841baa16",
+   "source": "Fierce Pharma",
+   "title": "With new Omvoh analyses, Lilly argues 'higher bar' for IBD treatment is within reach",
+   "link": "https://www.fiercepharma.com/pharma/new-omvoh-analyses-lilly-argues-higher-bar-ibd-treatment-within-reach",
+   "date": "2026-10-15T15:43:53.757081+00:00",
+   "snippet": "In the fiercely competitive inflammatory bowel disease (IBD) market, Eli Lilly is making the case for its antibody Omvoh as a holistic solution for patients living with ulcerative colitis or Crohn’s disease—and one that could offer relief after other biologic drugs have failed, ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ba5980ad7bec",
+   "source": "Endpoints News",
+   "title": "AstraZeneca does AI deal with insitro; inVIOs' Phase 1 success in solid tumors",
+   "link": "https://endpoints.news/astrazeneca-does-ai-deal-with-insitro-invios-phase-1-success-in-solid-tumors/",
+   "date": "2026-10-15T15:30:42+00:00",
+   "snippet": "Plus news about ImmunityBio, Modus Therapeutics and Hyperway Pharmaceutical. AstraZeneca strikes AI drug discovery deal with insitro: The pharma giant will pay the California-based company $40 million upfront. In return, insitro's ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4c921710bf10",
+   "source": "BioPharma Dive",
+   "title": "FDA ‘reset’ continues with new plan for reviewing rare disease drugs",
+   "link": "https://www.biopharmadive.com/news/fda-rare-disease-framework-initiative-drug-development/833080/",
+   "date": "2026-10-15T15:23:00+00:00",
+   "snippet": "A revamped regulatory framework may give investors less of a “guessing game” as they weigh chances for drug approvals, one analyst said.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c8cbc33a0dc2",
+   "source": "Endpoints News",
+   "title": "NorthStar's China CRO deal; Lonza details midterm guidance",
+   "link": "https://endpoints.news/northstars-china-cro-deal-lonza-details-midterm-guidance/",
+   "date": "2026-10-15T15:21:38+00:00",
+   "snippet": "Plus more about Triastek, Scinai and HydRegen. NorthStar inks deal with Chinese CRO: Radioisotope maker NorthStar Medical Technologies has secured a partnership with Beijing-based contract research organization Quarkmed. Quarkmed will act ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1a33812ba6c4",
+   "source": "Google News: biosimilar",
+   "title": "FDA Accepts BLA for Pembrolizumab Biosimilar Candidate FYB206 - Targeted Oncology",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd3ZtcFROYjRfWVNxSmZ1S0lzYndScDRGMndfRDhNMUxWaXNOSk9XRHhvLTRuUXh2Z0s0YTZ0UFRqMWh0dHhHZGFKNHJUd1VTai01V1BHcXhaOW9zTS1RWGlSOHZ1SktGZFVDUEQ5UmpPZ0V6TzVMcDRlRjEtSTl4TnJmdVF2Wmc?oc=5",
+   "date": "2026-10-15T15:04:35+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "e96635987ae3",
+   "source": "Endpoints News",
+   "title": "Osivax pivots to combo approach after flu jab fails in Phase 2b",
+   "link": "https://endpoints.news/osivax-pivots-to-combo-approach-after-flu-jab-fails-in-phase-2b/",
+   "date": "2026-10-15T14:33:55+00:00",
+   "snippet": "Osivax’s lead flu vaccine has flopped in a mid-stage trial. But the French biotech still holds out hope for the program, and plans to combine it with existing flu shots. The Phase 2b trial aimed ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e666809d6db2",
+   "source": "Endpoints News",
+   "title": "San Francisco's pulse on health AI",
+   "link": "https://endpoints.news/san-franciscos-pulse-on-health-ai/",
+   "date": "2026-10-15T14:21:39+00:00",
+   "snippet": "I flew to San Francisco yesterday to take part in Rock Health’s annual summit. It’s been about half a year since I last visited, so the event served as a good gut check of where ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "112e36d3c66e",
+   "source": "Endpoints News",
+   "title": "OrbiMed raises $3B in new life sciences funds, including $1B+ for Asia",
+   "link": "https://endpoints.news/orbimed-raises-3b-in-new-life-sciences-funds-including-1b-for-asia/",
+   "date": "2026-10-15T13:55:06+00:00",
+   "snippet": "OrbiMed, one of the biggest life science investors in the world, has raised $3 billion across two new funds. OrbiMed’s 10th private equity fund in its flagship series put together “over $1.9 billion” to invest ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "aafc0c094bad",
+   "source": "Endpoints News",
+   "title": "AI will force doctors to focus on clinical reasoning, experts say",
+   "link": "https://endpoints.news/ai-will-force-doctors-to-focus-on-clinical-reasoning-experts-say/",
+   "date": "2026-10-15T13:00:35+00:00",
+   "snippet": "The growing use of AI tools is changing the skills doctors need to practice medicine, experts said during a panel at an Endpoints News event on Wednesday. Doctors no longer need to memorize as many ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "8a2ef150862a",
    "source": "Fierce Biotech",
@@ -203,6 +313,16 @@
    "watch": [
     "Alvotech"
    ]
+  },
+  {
+   "id": "8bb4a4bebea6",
+   "source": "Google News: biosimilar",
+   "title": "A Keytruda biosimilar will herald a new wave of opportunities for pharma industry - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ3VkWGtGUmxpdEhtU094Y3N5RFJVVEtSb1M2aVZuekRyZUNPUFhDQTN6RXNzSldreTNBaEJGNGFxa3NZVG9WQ2Foa3FCOHllZDlXQlMxY0VnbFVFUG9kUktpazRyaEJvS0FzdUd6V1lCeHNpMkN5Z3l3em9EdUNIUnpvb0lvVUt0UDM3cW91TllHbEdwUWtJT1ZTZHU2SmI2UnZzQzgwQlBYeXU5aTE1UzdhZGhkcXBjSXItZjJBS0VzenItTzZvWjhpZl9DVmNxMlFJ0gHYAUFVX3lxTE4tODQ3SEVjZ1N2a2pPc2JMZmVXT0NpOXFPTXJZY2RtMW0zU3VQQXRSZ0tUX3BmQjNfdmprNDJ5d0s1N0FRUlp3UlpiVGI3bDJEenNta3BjT3JtZVQyczBjTEtRMmU2SlA2ZTc5MmxZbXB5VWdGZXU4UV95RE15aW1YaFc0SnJHQXpkZVBzM3pVc19hZmFSUmI0VGdJdTFnYmpmVkpYOUExMjFNbV9KM1pCX3BiOEZPRU41SjRuMFBtSTExNDhVTFB1dHhyMVhpVy1GWjVXOFI5YQ?oc=5",
+   "date": "2026-10-15T03:44:12+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "b96053b31e45",
@@ -1419,6 +1539,18 @@
    "source": "Google News: biosimilar",
    "title": "LOTTE Biologics and Alvotech Forge Long-Term Partnership to Expand Global Biosimilar Manufacturing Capacity - BioPharma APAC",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaFNxRkp4V0t1Q1Z1VzRiQy1DUmJYQUNrelVqaWRmaGtTR0J2VS1YZ3ZLZnVhbWhPazd5WEtXWkIzbFFKQ2t6RVlzeHp2RUZwTm5NNVlrcVptSHBMRmo4MEdtZTQ3UkpYbGZ2ZDlHQkxLeVJ0d2VNTnRrX3BDVWxpOE1QMTdQSXpCTTVKQTdPX2NjVlZtbEJSOFladlhNMFhwSEJLb1diZWlmTGxKYWowUnEwMEg2b2QtMlVZX3V0elc2MXBmOURhSk5EZUtJc2NBeS1qMHp3bThVdHIwS2RBLWRPbVIyQQ?oc=5",
+   "date": "2026-10-12T18:30:48+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "045058476ce3",
+   "source": "Google News: biosimilar",
+   "title": "LOTTE Biologics and Alvotech Forge Long-Term Partnership to Expand Global Biosimilar Manufacturing Capacity - BioPharma APAC",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNFFVZUg3STN2eGpZTExOakNkbVVjQWJ5RXQzRjNTNDZfZnV5bVhzVTR6dFhydWRGYkJ2ZDVQSTRZal9aWG5NZXNZZDczUVhpcmZYdGV2ZlZsMHdLS2ZvdkM2VUpNUTlzcWZGdGVaVnJEQWowX3o2ODZlcGJ4VzNycXhwazVUZHpuM1l6LThERy0wcU8xNHgtNmo5dzMxaUpDYkxGNnhKQXdHSlVJMzdycnlsSFBiUTUtbnljREJtLXJ0ZXA1NDhBNW02WEtKYk44WUdEZHhwcFNKTm5DY2lBYXQyZFdyWTg?oc=5",
    "date": "2026-10-12T18:30:48+00:00",
    "snippet": "",
    "biosimilar": true,
