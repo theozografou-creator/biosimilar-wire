@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T00:49:04.933202+00:00",
+ "updated": "2026-10-15T03:39:57.125571+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,30 @@
   }
  ],
  "items": [
+  {
+   "id": "b96053b31e45",
+   "source": "Google News: biosimilar",
+   "title": "Formycon First to Enter FDA Review in $42 Billion Keytruda Biosimilar Race - Businesskorea",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OYkNTYzd4cFhqMGVDM25Pek1lS1JnYno3OU1xenFKNTZkV2J6SmhDbExHSDhkZ2tqeVFKakxSOWR5aHFRVFFVVFZnNnJOQVp4MlMwWmk4ZjVRX0VVRG5sR3NIV0V3bUxEb05aUnFzUi1iaVdG?oc=5",
+   "date": "2026-10-15T02:27:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "4f54eea31832",
+   "source": "Google News: biosimilar",
+   "title": "Biocon settles US patent dispute with Roche's Genentech, eyes 2027 Perjeta biosimilar launch - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOYUU1Uk9keW9lRG83VkxRQVB6RF96b09RZkdBVG5kYVJ5S3YwMmpjS19tZ0h2X2RXbHNMV3FjbFFxMUNNbFdJbWVhVy14LVFORE9YOWxKMW5GMkxyR3dKOXRsMGRZSTJ4TnpHYzIzVmtiRU9GdmQ2cUQtdWR2MTZDNGdLQWEtMHBEcXRGaFc2Sjk2RnNHXzdaa1ExSEo0OU1IRHBsWVhjdG1fZHZuTW8xcXdDV3FkV0dVMDBDNUlZdDdJOE1hUXVMaEV1OTJybWE4dkl2a0hOZ3pXOEFSWjBfX0hncW1nRU5SdDBtVTZaQmplVHk2N0VYV01tV2hKVTBKU0JJeVhFZHlrS2xLUVRUSllwTHZ2cWpZZ1M1ctIBlgJBVV95cUxPLXVMV3JKTFRSZEdJcVBYdDBsWHJoRUl6bnhmQ2JLY3VwNWVTR2lWblY0dUdMODlUV1VabU91dGtlZGVvNmhhTmp2Vl84UEllbFJUc2R1bzJ2clA3WTZoVzRKWkxnUGdoQUxTWVI3S1FpVnF4Qi1ubzVTY2g0a21UN1A1cTJ4czk4TDI3YXktamFmQlhLX0VYX01YMkhyYVlxM3poUWF2Vjdnd05rOXJJUWFQcjdpdko2eURCY3dtSF9nWko2QVg4b1N6Zkg0TEEyT3pjekNRQWJmemIyVWhQWndjSHpTNDRGM083YzRQU1d4TnZhTnhhZW9ZQ0RPOWFjM3p5ZmZJNFFiQU85WDRfemphN3U0UQ?oc=5",
+   "date": "2026-10-15T01:51:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
   {
    "id": "eb7ec9dad5ef",
    "source": "BioPharma Dive",
