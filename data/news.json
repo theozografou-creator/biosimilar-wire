@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T18:47:45.061961+00:00",
+ "updated": "2026-10-15T21:41:13.786552+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,28 @@
   }
  ],
  "items": [
+  {
+   "id": "2198a55e0389",
+   "source": "Google News: biosimilar",
+   "title": "Zydus, Formycon move to front of Keytruda biosimilar race - BioWorld News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1JKTFFMQXZHdzlVSURycGJ1MkVjVm11ODJsMTU4RFpaLUVzLXdKN1AyNzhXYlR6a0d2YnFKbjZobVNfWUJpbkpSQ1UyZF9zNk5MbHU4YnZwbzV2ZEI2bG50cmZWOEpVQnhOcElhWE00ZEtIV3N3UE9oSkFJVUJJSzFoSy1IRjZySVBsblpHOExuSDJPa1dOWlRJQ0ZMZw?oc=5",
+   "date": "2026-10-15T20:42:31+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "262e315fbbc0",
+   "source": "Endpoints News",
+   "title": "CDC page supporting Covid vaccines for pregnancy went dark",
+   "link": "https://endpoints.news/cdc-page-supporting-covid-vaccines-for-pregnancy-went-dark/",
+   "date": "2026-10-15T19:05:35+00:00",
+   "snippet": "The CDC briefly published a webpage that maintained unequivocal support for Covid-19 vaccines in people preparing to have a baby, but it now redirects elsewhere on the CDC's website, following online backlash from some vaccine ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "93dc141425b8",
    "source": "Fierce Pharma",
@@ -202,6 +224,16 @@
    "date": "2026-10-15T13:55:06+00:00",
    "snippet": "OrbiMed, one of the biggest life science investors in the world, has raised $3 billion across two new funds. OrbiMed’s 10th private equity fund in its flagship series put together “over $1.9 billion” to invest ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7444c40cf129",
+   "source": "Google News: biosimilar",
+   "title": "Will Biosimilar Deal Change Orion Oyj's (HLSE:ORNBV) Narrative - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSW9TMEJnazJHUkJOUGNmN2FJd1FKdmQtUU9FLWZnS2tGdUk1Y3lieUprUmhseXA2ZFRIc3dWUkJtMkd1eFpsZEFsQk9rVnQwS2hmUml5NWU2UllFdUxYYlNVbFZjcDlGOEx4S3R6dzMwLXVEQS1hN1ZKZmd2T3oyZHV6d1RnTFNRZU0xSVBQZkNXaVJuXzU3QThaMHJBNUhscmVGSFNnYW5wZTJrVkt0SkFyNnJBZHAyQ1FGLXNlcEtMQTRFOUlHcDNfaDZzWGNlRkhHQmpNVEgxdVRpeHVUYVl6dU9keWvSAecBQVVfeXFMTUlvUzBCZ2syR1JCTlBjZjdhSXdRSnZkLVFPRS1mZ0trRnVJNWN5YnlKa1JobHlwNmRUSHN3VlJCbTJHdXhabGRBbEJPa1Z0MEtoZlJpeTVlNlJZRXVMWGJTVWxWY3A5RjhMeEt0enczMC11REEtYTdWSmZndk96MmR1endUZ0xTUWVNMUlQUGZDV2lSbl81N0E4WjByQTVIbHJlRkhTZ2FucGUya1ZLdEpBcjZyQWRwMkNRRi1zZXBLTEE0RTlJR3AzX2g2c1hjZUZIR0JqTVRIMXVUaXh1VGFZenVPZHlr?oc=5",
+   "date": "2026-10-15T13:36:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -481,6 +513,18 @@
    "snippet": "Sanofi's new R&D chief said on Wednesday that Western drugmakers cannot ignore China's accelerating innovation and need to consider how the country’s emergence as a global biopharma powerhouse should change their approach to sourcing new ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "5ec9576b0a84",
+   "source": "Google News: biosimilar",
+   "title": "Biocon settles Roche's US patent lawsuit over proposed breast-cancer drug copy - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNakdfLU5JOGdUeGJxZlJYWF8xWk9GMGlHeUcwNkNVcVFZYlNaWmZmeTViUDJDQnZQc09uOG9GV2NnRDNqNnNheTR1OGl2UnFkM1pFUmhZd05EaHF0WTF4aER5dGxRMnd5TEFqUWxjcWgwcjRqT0NVTWgzZmx1WVdQVjh4dmItcGZBUWNFcDFuemVRNmZOZS03ZU9WNzJNVW94UUlhTkE1Ui1KX1pSaTQ0Y1VCWlZxQW9fMmNrLVdsSWZ5T09OR0YyY0loLWtZQQ?oc=5",
+   "date": "2026-10-14T18:59:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
   },
   {
    "id": "5491076087d9",
