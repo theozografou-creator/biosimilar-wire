@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T21:39:32.827433+00:00",
+ "updated": "2026-10-15T00:49:04.933202+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "eb7ec9dad5ef",
+   "source": "BioPharma Dive",
+   "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
+   "link": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
+   "date": "2026-10-15T00:08:00+00:00",
+   "snippet": "Part of a wave of young biotechs employing AI to accelerate research, the company claimed in regulatory filings that its approach has the potential to “disrupt legacy drug discovery paradigms.”",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c3550de1d3cd",
+   "source": "Google News: biosimilar",
+   "title": "Next in Biologics: FDA Reviews First Keytruda Biosimilar Without Phase 3 Trial - BioPharm International",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHU5Zzlqa2ZXQ2hiME1haDd4Z0g0VEtyZThseWUzLTNyUmZUWWJJZGR6c3pkakRHUjZidzhiQ0RmUDJoUXozRk9MUld6UlFBamktRlJvSkdZVW1IYzhyQThJVW5MODhiNG1fZ1FUUGNRdHJ3aHJtcE5sbG1oVk05WEdMc1R4dUdQa0JxTjZWTE1qWGoxdUNHZGJFV2hTMHRZTzRXV01DdXNqcFRfTE42VHQyZjhWOVBXXzJjMjlJdw?oc=5",
+   "date": "2026-10-14T22:59:19+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "ff26572e99f6",
    "source": "Fierce Pharma",
@@ -143,6 +163,18 @@
    "snippet": "Then-acting FDA leaders said over the summer that regulatory flexibility wasn't the standard they were striving for when the agency gauges rare disease drugs. Now, a more consistent system for assessing",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "8ea69566628a",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets launch clarity for breast cancer biosimilar after Genentech deal - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTXprekV3UENXR0VGVUEzZlRrSG5tYjlvaS1rbzVXaWN0VXVCS21yRTRMemd3ZGRFTnh5NlpZLUdGVmdYQV9QcHZLN2FySnJwMmdfMHBRWHhrdFA2UVRYOXJDYy1qRlhHek1QSFJ1NVFINUNCN3p0YlJKRWg5d2ZLWnNMa25lWDZCMTBEWkV0Z2tfbXdFVTNxSnNkWmEtdTFqTU5Ec0ZMWklzWF9pNE80dElXR0s3TGpJbHRMNkFDS3JHUE5FaGE0Wm5QTUhmUQ?oc=5",
+   "date": "2026-10-14T16:22:35+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
   },
   {
    "id": "4c8ed48f3d47",
@@ -2236,6 +2268,16 @@
    "source": "Google News: biosimilar",
    "title": "500124: Branded Growth Supports The Case, Regulatory Timing Still Shapes The Upside - Simply Wall Street",
    "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOODhBSDVGeUdRY25hWkJYak9GUFVtZzYxOUtCUkR5d3NpcjczREtuVFQ3ZVI4VUU3YjFIYTI0X1I0QWRZMEg2MUlxbk5ndmZTV1h3VFFWY3o4dEFIM2p6Y0JyVHZGa2EwalU1SXpNTk9sZk8xRjFJQkJKQ3FudDVUWnZ0cS1NY0ptc2oyQm1fRktUMW81NW9YSVBOUXZPVTV4QXIxNWhKTXNBWm9MYXUxUWV2U0oxUzVDNDhUdGI2VkNORHhOdzFJTy1EOC1fcFZDUUtVdENJekZOU2stMHR0SEVFQVlocTFPakdjSnVPSHRaaTFMbUMxOE1ra0xXTFR3d0hvblVIT0pzZl9Sb0JzbC1zR1lTSHNPM2lWQVJ0UFZkVEpEUW9SY0hROS1XMTB0UUdPWHd6dnU0RDdYdUJvTjJ5d3p6cVEzYldsQW84T1pLbzAtcXVoSnlSQ2FKRlEyZFZmY0ZMbHR3YmJRa1hHQno3QnlZRUtVdktpS19oQ1hvU3gy?oc=5",
+   "date": "2026-10-09T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "87d345fb1d44",
+   "source": "Google News: biosimilar",
+   "title": "Entering The GGB Awards: One Week To Go! - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOURUUzZORjVVN1R5UHBubEhQRmtPSHR0YUh4UV9jZnE5MHNsSllzYUFPaW5oQkVsdlpYWnJ0N2czVVZKamtDdU8wTm9xcTBmN19nelk4LWtITFlBX2VYbnJjZV9HUzBXOTlBUkNqdXYxbVJOTGh3dTRFemV6dTBkRFdBS1g?oc=5",
    "date": "2026-10-09T07:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
