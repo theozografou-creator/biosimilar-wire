@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T15:40:05.317758+00:00",
+ "updated": "2026-10-16T18:45:02.401605+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": ""
   },
   {
@@ -52,6 +52,76 @@
   }
  ],
  "items": [
+  {
+   "id": "9048d887d683",
+   "source": "Fierce Biotech",
+   "title": "Labcorp, Thrive Global launch latest Thrive 5 health test",
+   "link": "https://www.fiercebiotech.com/medtech/labcorp-thrive-global-launch-latest-thrive-5-health-test",
+   "date": "2026-10-16T18:45:02.401605+00:00",
+   "snippet": "Labcorp has launched the Thrive 5 Health Test that is now offered through a collaboration with Arianna Huffington's behavior change technology company, Thrive Global.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "adf2317f5092",
+   "source": "Fierce Pharma",
+   "title": "Sanofi cycles deeper into sports marketing niche as Tour de France partner",
+   "link": "https://www.fiercepharma.com/marketing/sanofi-cycles-deeper-athletic-marketing-niche-tour-de-france-partner",
+   "date": "2026-10-16T18:45:02.401605+00:00",
+   "snippet": "The French pharma will sponsor the prestigious white jersey, awarded to the best rider under 25, at both the Tour de France and the Tour de France Femmes in 2027.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "21070a46f6e1",
+   "source": "Big Molecule Watch",
+   "title": "Fresenius Acquires Remaining 45% Stake in mAbxience for Up to €750 Million",
+   "link": "https://www.bigmoleculewatch.com/2026/10/16/fresenius-acquires-remaining-45-stake-in-mabxience-for-up-to-e750-million/",
+   "date": "2026-10-16T17:41:49+00:00",
+   "snippet": "On October 1, 2026, Fresenius SE & Co. KGaA (“Fresenius”) announced that it acquired the remaining 45% of mAbxience Holding S.L. (“mAbxience”) from Insud Pharma S.L. and Invim Corporativo, S.L. for up to €750 million, including a contingent payment of €50 million upon certain ...",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "89751a758db5",
+   "source": "BioPharma Dive",
+   "title": "Iambic CEO on taking an AI drug company public",
+   "link": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
+   "date": "2026-10-16T16:10:00+00:00",
+   "snippet": "Fresh off a $150 million IPO, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI’s role in drug development evolving.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "575f127f4a8f",
+   "source": "Endpoints News",
+   "title": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking",
+   "link": "https://endpoints.news/qa-sanofis-new-research-chief-on-ai-rd-failure-rates-and-dealmaking/",
+   "date": "2026-10-16T16:02:00+00:00",
+   "snippet": "Paulo Fontoura took over as Sanofi’s global head of R&D in September after 16 years at Roche and a recent stint at AI drug discovery startup Xaira Therapeutics. Ahead of Sanofi’s Oct. 30 earnings, Endpoints ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b8a19d2634f9",
+   "source": "Google News: biosimilar",
+   "title": "Keytruda Biosimilar Advances; Oncologist Turned Patient; Will AI Cure Cancer? - MedPage Today",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iNFE4alNqZkpDX0Qwd0sxRW1NM3hub2NRbWtfckZleF9tZW10ZVJPeTU3dGtEVmV2ZVNfLXhGYkx4TXBpdVpnYUo0c0VtdXRxVzFvZGo1N3R5RFVVeDNtcmJrejZweERyV1pQQVlOdnpMcElzaXc?oc=5",
+   "date": "2026-10-16T15:42:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a2db404cf68c",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Regulation Has Not Kept Up with the Science - RealClearHealth",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjdZd3FWczJGREk3ZmZIb3cxNFNidElnUDRjNExRREs4Q3huMWpGanVJMVdKXzVLZjYzZXZwR1M4djBYZmN2ajQ2Q2JnT3hSZnB6WnRpU0NyMDBfbXkwZS1uTWk3SmMtb3hCeERCY3FqMERwSGl1Q1BEWFFLTU5LZEZPR1JxLVZSdDluTlNudnhOc0JaTDZ6d3IwZXA0Z2wxUS1hYlVaT3hEdDhKaVpN?oc=5",
+   "date": "2026-10-16T15:42:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "1cfd4cbe8d6d",
    "source": "Fierce Biotech",
@@ -152,6 +222,16 @@
    "date": "2026-10-16T15:23:34+00:00",
    "snippet": "Plus news about Microbiotica, Cyrano Therapeutics and Opus Genetics. HHS and FDA submit peptide policy for review: An “interim access policy for compounding using certain peptides” is awaiting regulatory review at the White House Office ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f472c167ab84",
+   "source": "Google News: biosimilar",
+   "title": "Crossword - www.the-messenger.com",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNTV0T1ZJUGZWOXRTWHJUV2Zfb3ZfaEJyX0dDek5tbnRGVG5icnZDZlBHYXM2SjB2NWJlbEZtQi1UU1hXcHpicUt5RXRXS3ozLWlKZnZhcldkcjV4M1k5MTdibGktV1JDcUVmODJ4WGxYd1R6OVgyMjJiY0ZjWG8yUmNGOVg5Zw?oc=5",
+   "date": "2026-10-16T15:12:08+00:00",
+   "snippet": "Crossword www.the-messenger.com",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -1840,6 +1920,16 @@
    "title": "Zydus moves closer to US market for Keytruda biosimilar as FDA accepts application - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMWdBaklTeVVvLU9heXViaHlVWFFGay1pRnNkZENsY0F1ZkhrZ1BWYktDdGRXZkgxOFNaLWUzLS1rZS05eUtQOTRWb28wcWNrc2JRc21TWXcxV3lKY3YwSnVzZWNFcnZaenYyN0thQjc3cE84Z3p4ZjFIa214TGpLMUhaaTlVQnB3SXZaUzJJSlB4Sm5tbHNUWV9HamxXaEZqZDNHWmJMRVJvQkVTd2dtNGhERnp0dnhtWEpWWXpnbjRncmU0TVJPcEFtRFFfOWhnZGU2V2NsYjhCc1htQl9HWW4tekFzYk1UTm5aSXhQQl9wZnRqeXM3azI4M19VUzRZYzV0dmZR0gGLAkFVX3lxTE9MajdGMzMzQUFTbTFXd3NQT2p4X1YxaVFTdmZtV0FxSDhrblRZcy1UdTRUYTAyN05XXzhSSUhocHhTWTBmckQtZElPVklSWUpLTmh5emJyQTBKUFp3Z0dtRVE4cllCeS1XZ2doVE1pV2V3elRkaG9aSEp4UzZMYnRUazZieWE4UnpVYURGcVRVTDR2eGdnMkxSeXlJdm5wWFdyamN2eFhQdF93bXItUkpyRW4xOTA3UHZWMUVoVXhkYzRKeEN0azdSdURYaFhTYzE3WDdGaURucXBrRHowTzlGMXJ4Z3ZoNmF1dnpCTXU4QXRadU5uVmI0UE9wNlBEdW5tN0NjeFhLdjVVcw?oc=5",
    "date": "2026-10-13T09:30:33+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "6ddd6db61a01",
+   "source": "Google News: biosimilar",
+   "title": "Zydus Lifesciences Says FYB206 Becomes First Publicly Announced Keytruda Biosimilar Accepted For Review By USFDA - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQX2NMRjU2SzYwN2FjZU5ZQV9DZG9Dd0o1MkdaWktQREl6bGJEYmhwZ28zckpGbnBzSFBnVFBOVWlvYlFtMmR2WjJqem5pSE53Y2FHSVZDR0U3UkJXZFNnZnpQdWhhbVF2WVd4NWNrVkl5XzJhM0pKem5sMWItV0M3WDdWQnRObjcxcXdUMkNNRWpycFIyUHVPT2dzcXMyVVMyck9LUC0ydks1VUxlX012WEk1Zm40Z0xIMERrY3gtSTg0NkY3VEg3aUxDWm9XZnlFcW03bWhJTmZBTDZnRHNSbmlGOHhpQmtCODZRcXBHeDFNdjJyenI2OGZkR3JsVTZKZXpSdnlMX2RacGk1d2tn?oc=5",
+   "date": "2026-10-13T08:37:13+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
