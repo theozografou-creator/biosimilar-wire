@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T18:45:02.401605+00:00",
+ "updated": "2026-10-16T21:38:24.381691+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "6556bb8c67bc",
+   "source": "Fierce Pharma",
+   "title": "Trump's pharma holdings surged as drugmakers benefited from Medicare price negotiation carveouts, Democrats allege",
+   "link": "https://www.fiercepharma.com/pharma/trumps-pharma-holdings-boomed-medicare-price-negotiation-carveouts-democrats-allege",
+   "date": "2026-10-16T21:38:24.381691+00:00",
+   "snippet": "As midterms loom, Democrats on Congress’ Joint Economic Committee (JEC) are reviving concerns about the orphan drug carveout tucked into Republicans’ One Big Beautiful Bill Act, alleging that President Donald Trump accumulated millions of dollars in pharma stocks before and ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "9048d887d683",
    "source": "Fierce Biotech",
