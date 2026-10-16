@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T06:50:14.373085+00:00",
+ "updated": "2026-10-16T09:40:16.956891+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "9cd46821025e",
+   "source": "Fierce Biotech",
+   "title": "City goes public with $200M IPO, while Frazier Life Sciences takes biotech-focused SPAC to Nasdaq",
+   "link": "https://www.fiercebiotech.com/biotech/city-goes-public-200m-ipo-while-frazier-takes-biotech-focused-spac-nasdaq",
+   "date": "2026-10-16T09:40:16.956891+00:00",
+   "snippet": "City Therapeutics has gone public with an upsized $200 million IPO, on the same day that Frazier Life Sciences listed its second biotech-focused shell company.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "b78767e42b19",
    "source": "Google News: biosimilar",
