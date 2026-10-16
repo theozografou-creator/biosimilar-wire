@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T21:41:13.786552+00:00",
+ "updated": "2026-10-16T00:49:09.780490+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "b78767e42b19",
+   "source": "Google News: biosimilar",
+   "title": "The BioPharm Brief: New Approvals, Biosimilar Competition, and Deeper Remission - BioPharm International",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0FwbkluTDY1T1hUbDZHUW9PVFFlMDQ0cjZYTmxyZlFqTmM2RzctY0tCTEJMQVZSVlVHWjM1anREaTFyYkJQSS1WUHZWd25sQnZsOWhOX0ZKQUNBc1hLSzUtSmF2aEZnM1JNZE5OZlQwZ09yQmNaMDY3b3hnLTdtZW5zc1B4dGp0TzFsVGVnVXYwMmhsQk5uelEtZlp6YUtZcF9UNXZXLXVMVkJyVkd0UjRmd29pbDA2TWQw?oc=5",
+   "date": "2026-10-15T23:06:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "706579acd2e9",
+   "source": "Google News: biosimilar",
+   "title": "Tumor Necrosis Factor TNF Inhibitor Drugs Market Forecast to 2035, Driven by Rising Autoimmune Disease Prevalence - IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMWhuZ0dxaVZVaWx6RWhwRUUwOWNKbjRXXzVKWTg0M0xZLVV3VElpU2lwX3psLUpxb21qd0thc0E3bHhleUUxVUNvbF9WRVVldm1Ca0RvQ1ByUEljN20tSUNObGpWYXRGYjRUT1FiNXdqTTUtWV9VdUJoUUh0ZW02Z01JWkxVUjRjTUU3Ym1RNzdoa3NXekNxSXRVS21EaVVVVGNzZ1pCbDdiTlpDNExraDlGU3pPUjZPX3dFdEtQWGU5QVg3Q1Q3RDJ0Q2Y4ZWVmMk1Yc0ljY3hJdw?oc=5",
+   "date": "2026-10-15T21:41:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "2198a55e0389",
    "source": "Google News: biosimilar",
