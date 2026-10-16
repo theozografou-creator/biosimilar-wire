@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T12:50:40.101838+00:00",
+ "updated": "2026-10-16T15:40:05.317758+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,148 @@
   }
  ],
  "items": [
+  {
+   "id": "1cfd4cbe8d6d",
+   "source": "Fierce Biotech",
+   "title": "China looks to ban foreign acquisitions of critical biopharma platforms",
+   "link": "https://www.fiercebiotech.com/biotech/china-looks-ban-foreign-acquisitions-critical-biopharma-platforms",
+   "date": "2026-10-16T15:40:05.317758+00:00",
+   "snippet": "As Washington ramps up efforts to tighten cross-border life sciences deals involving Chinese assets, Beijing is moving to tighten its own grip on biomedical innovation, rolling out a draft policy that would ban or restrict the export of key biopharmaceutical technologies.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "607adec16ea7",
+   "source": "Fierce Biotech",
+   "title": "SimBioSys nabs FDA clearance for Nvidia-powered, MRI-derived breast cancer recurrence tool",
+   "link": "https://www.fiercebiotech.com/medtech/simbiosys-nabs-fda-clearance-nvidia-powered-mri-derived-breast-cancer-recurrence-tool",
+   "date": "2026-10-16T15:40:05.317758+00:00",
+   "snippet": "SimBioSys has been given FDA clearance of the Nvidia-powered TumorSight Risk, an AI and MRI-derived prognostic tool for assessing the risk of a breast cancer coming back.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0d10f3d9258e",
+   "source": "Fierce Biotech",
+   "title": "FDA issues early alert for Edwards Lifesciences’ mitral valve delivery system after reported death, injury",
+   "link": "https://www.fiercebiotech.com/medtech/fda-calls-early-alert-edwards-lifesciences-mitral-valve-replacement-after-injury-death",
+   "date": "2026-10-16T15:40:05.317758+00:00",
+   "snippet": "The FDA has issued an early alert for certain delivery systems used with Edwards Lifesciences’ SAPIEN M3 transcatheter mitral valve replacement system amid serious safety concerns.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dc21a4f16bcc",
+   "source": "Fierce Pharma",
+   "title": "Lilly's obesity pill, RevMed's pancreatic cancer breakthrough among slew of CHMP endorsements in Europe",
+   "link": "https://www.fiercepharma.com/pharma/lillys-obesity-pill-revmeds-pancreatic-cancer-breakthrough-among-slew-chmp-endorsements",
+   "date": "2026-10-16T15:40:05.317758+00:00",
+   "snippet": "Across the pond, European regulators handed down a pair of pivotal approval recommendations this week, making way for a new front in Novo and Eli Lilly’s oral GLP-1 showdown and endorsing Revolution Medicines’ potential pancreatic cancer gamechanger.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d80d47d2ae22",
+   "source": "Fierce Pharma",
+   "title": "China looks to ban foreign acquisitions of critical biopharma platforms",
+   "link": "https://www.fiercepharma.com/biotech/china-looks-ban-foreign-acquisitions-critical-biopharma-platforms",
+   "date": "2026-10-16T15:40:05.317758+00:00",
+   "snippet": "As Washington ramps up efforts to tighten cross-border life sciences deals involving Chinese assets, Beijing is moving to tighten its own grip on biomedical innovation, rolling out a draft policy that would ban or restrict the export of key biopharmaceutical technologies.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b0e31c34ad2e",
+   "source": "Fierce Pharma",
+   "title": "Inside Teva's Weltruza launch and Novo's GLP-1 strategy",
+   "link": "https://www.fiercepharma.com/pharma/inside-tevas-weltruza-launch-and-novos-glp-1-strategy",
+   "date": "2026-10-16T15:40:05.317758+00:00",
+   "snippet": "This week on \"The Top Line,\" we catch up with leaders from Teva and Novo to discuss new drug launches, growth opportunities and what's ahead for both companies.",
+   "biosimilar": false,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "1c31a780800c",
+   "source": "Fierce Pharma",
+   "title": "Roche makes class-first push into thyroid eye disease with new FDA nod for Enspryng",
+   "link": "https://www.fiercepharma.com/pharma/roche-makes-class-first-push-thyroid-eye-disease-new-fda-nod-enspryng",
+   "date": "2026-10-16T15:40:05.317758+00:00",
+   "snippet": "Some six years after scoring an initial FDA nod, Roche’s IL-6 receptor agonist Enspryng is muscling up to Roche's Tepezza in a key eye disease arena.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7083775f0163",
+   "source": "Endpoints News",
+   "title": "Novartis scraps Fabhalta study in lupus nephritis",
+   "link": "https://endpoints.news/novartis-scraps-fabhalta-study-in-lupus-nephritis/",
+   "date": "2026-10-16T15:32:24+00:00",
+   "snippet": "Novartis terminated a mid-stage trial of Fabhalta in lupus nephritis, citing “strategic considerations,” according to a federal clinical trials database. Fabhalta, also known as iptacopan, is a key part of Novartis' portfolio. It delivered $505 ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "38a9e4925bb4",
+   "source": "Endpoints News",
+   "title": "China pursues export ban on some biotech platforms",
+   "link": "https://endpoints.news/china-pursues-export-ban-on-some-biotech-platforms/",
+   "date": "2026-10-16T15:28:01+00:00",
+   "snippet": "The Chinese Ministry of Commerce is clamping down on the kinds of deals domestic companies can make, but the free-flowing licensing of drugs appears to be intact. Government officials are looking at",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "253b07584997",
+   "source": "Endpoints News",
+   "title": "FDA considers interim access for compounded peptides; Enspryng's label expansion",
+   "link": "https://endpoints.news/fda-considers-interim-access-for-compounded-peptides-enspryngs-label-expansion/",
+   "date": "2026-10-16T15:23:34+00:00",
+   "snippet": "Plus news about Microbiotica, Cyrano Therapeutics and Opus Genetics. HHS and FDA submit peptide policy for review: An “interim access policy for compounding using certain peptides” is awaiting regulatory review at the White House Office ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5b53a813b61f",
+   "source": "Endpoints News",
+   "title": "CHMP endorses Eli Lilly’s GLP-1 pill and three other new drugs",
+   "link": "https://endpoints.news/chmp-endorses-eli-lillys-glp-1-pill-and-three-other-new-drugs/",
+   "date": "2026-10-16T14:55:55+00:00",
+   "snippet": "Eli Lilly secured EU regulatory backing for its oral GLP-1 pill orforglipron on Friday as it looks to catch up with competitor Novo’s Wegovy pill. The European Medicines Agency’s human medicines committee (CHMP)",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b1aa473abd9d",
+   "source": "Endpoints News",
+   "title": "Lilly interested in ibogaine investments, its neuro leader says",
+   "link": "https://endpoints.news/lilly-interested-in-ibogaine-investments-its-neuro-leader-says/",
+   "date": "2026-10-16T14:04:29+00:00",
+   "snippet": "Eli Lilly is interested in R&D efforts to “improve the profile of ibogaine,” the pharma giant’s neuroscience president said at a psychedelics conference Thursday. Carole Ho, who joined the company last year from Denali Therapeutics ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "49cac111c812",
+   "source": "BioPharma Dive",
+   "title": "This week in charts: Moderna’s massive stock run",
+   "link": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
+   "date": "2026-10-16T13:15:00+00:00",
+   "snippet": "The latest installment in BioPharma Dive’s data visualization-focused series includes a look at Moderna’s meteoric rise in 2026 and a sudden deal surge from Roche.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9eca2145e736",
+   "source": "Endpoints News",
+   "title": "Here's how many clinicians are using AI to answer their medical questions",
+   "link": "https://endpoints.news/heres-how-many-clinicians-are-using-ai-to-answer-their-medical-questions/",
+   "date": "2026-10-16T13:00:31+00:00",
+   "snippet": "New research illustrates the rapid rise of clinicians’ use of AI to answer medical questions despite little evidence of how it affects decision-making or patient outcomes. Researchers studied usage data from OpenEvidence, an AI search ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "238cb9530333",
    "source": "Fierce Biotech",
@@ -170,6 +312,16 @@
    "date": "2026-10-16T09:40:16.956891+00:00",
    "snippet": "City Therapeutics has gone public with an upsized $200 million IPO, on the same day that Frazier Life Sciences listed its second biotech-focused shell company.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ab766ddcea15",
+   "source": "Google News: biosimilar",
+   "title": "Better analytics leads to fewer regulator questions - pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMm9qOFZyYV9QUkI0TDVQTTlHbWtEVU1kazlzMHRHMl9CN3BPeVdCY2tmYXFXcTBFaTRpMzduWUNUa0hLVG1aNU5JV0pDYXBKMzFlOFZKcjhyeVhyT0swMzVjeGZXdGpubTl4OGYzeXhkTUp6MzNOUVBMYzgyeXpxYWZ3QVI0dHNq?oc=5",
+   "date": "2026-10-16T08:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
