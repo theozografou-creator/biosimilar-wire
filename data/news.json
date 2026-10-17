@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T09:37:52.096614+00:00",
+ "updated": "2026-10-17T12:42:45.055371+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "300a5fafb022",
+   "source": "Endpoints News",
+   "title": "A search for ‘the statin of Alzheimer’s’; Arrowhead injectable lowers tau; and more",
+   "link": "https://endpoints.news/a-search-for-the-statin-of-alzheimers-arrowhead-injectable-lowers-tau-and-more/",
+   "date": "2026-10-17T10:00:16+00:00",
+   "snippet": "Welcome back to another edition of Endpoints Weekly. Thanks to everyone who came out to our AI Day event this week in New York City! Hosted by senior biopharma correspondent Andrew Dunn, AI Day was ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "6556bb8c67bc",
    "source": "Fierce Pharma",
