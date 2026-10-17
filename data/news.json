@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T21:38:24.381691+00:00",
+ "updated": "2026-10-17T00:50:43.449138+00:00",
  "ai": false,
  "feeds": [
   {
@@ -499,6 +499,18 @@
    "watch": []
   },
   {
+   "id": "1d5ad66d0e82",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Secures Licensed Launch Dates For Pebrilzo Following Genentech Patent Settlement - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZEkwYXYwd2VEbGRCWlRxSFJmSGhOczV0bE5ld0hmN1FKU0JyMFJlZlAzYkI0NFpUUmRaT3JTczRXRmNOWW9Ec1R0MGV0bEVUZGMwLUV5OXNEOS0zUDJoeHJfOWw1dVJlOWd0aktCUlhfVUc5c19Cb2Faai14SFpzWk1GUWQtVW5aREFld0IyTUk5TzBHUmY3bnZVcEtveFh6b1plZkkyY1VhRnlORHVsd1RlZlZldEsxR2VTS1pBbmhGUndBUmU0WlR2SVh2dksyQmJlMC1rN2JmOHR2?oc=5",
+   "date": "2026-10-15T16:04:45+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "6581f3d68ec6",
    "source": "BioPharma Dive",
    "title": "Belgian startup revives Galapagos CAR-T research",
@@ -825,6 +837,18 @@
    ]
   },
   {
+   "id": "42063cac9dac",
+   "source": "Google News: biosimilar",
+   "title": "Biocon settles US patent dispute with Roche's Genentech, eyes 2027 Perjeta biosimilar launch - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPWEZHenNhMnVGTU1fODZ1V0l0Qm43d1lwNDlNYTRPbFIwbEVQNlJqV3BzTTY0OHRUWnVPQi1IZjBVTnpUNklJcUhTbDZYb1BfaUNKcGNGcHFNMndVRENFSzZldnVDOVBCVUJodFgzUkxkYnZMNV96b2FQTmxYdmpQZ01xYWJoVU5RaTZRWFpzYng0MW9qMks2UDd1WjZZcjhZWERGMndOYUdUN190YnpiLXFFQTJYamFVZ0tLemp5THlDVjBJVFNVclZDbG8wY2FOc19GZ2dOOVVUVHQwZVFpTUxqdUdLV1IxMTdGMUs4QWtYT0RIS0JRbXllOHh4dGh4ejg4LTBmRUkxZXJuX2t0VtIBlgJBVV95cUxPLXVMV3JKTFRSZEdJcVBYdDBsWHJoRUl6bnhmQ2JLY3VwNWVTR2lWblY0dUdMODlUV1VabU91dGtlZGVvNmhhTmp2Vl84UEllbFJUc2R1bzJ2clA3WTZoVzRKWkxnUGdoQUxTWVI3S1FpVnF4Qi1ubzVTY2g0a21UN1A1cTJ4czk4TDI3YXktamFmQlhLX0VYX01YMkhyYVlxM3poUWF2Vjdnd05rOXJJUWFQcjdpdko2eURCY3dtSF9nWko2QVg4b1N6Zkg0TEEyT3pjekNRQWJmemIyVWhQWndjSHpTNDRGM083YzRQU1d4TnZhTnhhZW9ZQ0RPOWFjM3p5ZmZJNFFiQU85WDRfemphN3U0UQ?oc=5",
+   "date": "2026-10-15T01:51:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "eb7ec9dad5ef",
    "source": "BioPharma Dive",
    "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
@@ -1129,6 +1153,16 @@
    "source": "Google News: biosimilar",
    "title": "Russia registers first domestic ocrelizumab biosimilar from Biocad - Новости GxP",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNjRrWXltMllETlE5YXFRVUxST285YTd5VENIM2xRd0hIMG9qam5MSTBCZml1c1dwSUx1N0xMeVZVb3dMYS0tNXJQWUZSNHFERDdRem5rcHdITGtBNkptYmxJaVJUMTItTTRIY2FYY1d5OFZVVVF4SE9SVXBKLUtCUGtpOVhKUHRoNTVwUzNoTHRDQUtsaDNsZUR4Zm1TVkXSAZ8BQVVfeXFMTzY0a1l5bTJZRE5ROWFxUVVMUk9vOWE3eVRDSDNsUXdISDBvampuTEkwQmZpdXNXcElMdTdMTHlWVW93TGEtLTVyUFlGUjRxREQ3UXpua3B3SExrQTZKbWJsSWlSVDEyLU00SGNhWGNXeThWVVVReEhPUlVwSi1LQlBraTlYSlB0aDU1cFMzaEx0Q0FLbGgzbGVEeGZtU1ZF?oc=5",
+   "date": "2026-10-14T14:00:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "b7b90d28f9d2",
+   "source": "Google News: biosimilar",
+   "title": "Russia registers first domestic ocrelizumab biosimilar from Biocad - Новости GxP",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3k4emJqRkFjbTRfODBOUm5Bdk1hQzZwSU5CQ2FYVjlrekp2WFRBMFUtY084cUZrZXRrd25kVWJhaWNfbXZCOUxDN3E4eWVxYVMycHl5WkZLWDJydXlTNVhUM1BrVHNaVWZfeTRWSlpHZDlyOFBlTVdBekRWM1FweEx5NDlqWkZydC14VVQwZVFUTFVmVDIzWTlPSXhfSVRCQUo4VHdLRdIBpwFBVV95cUxNR3k4emJqRkFjbTRfODBOUm5Bdk1hQzZwSU5CQ2FYVjlrekp2WFRBMFUtY084cUZrZXRrd25kVWJhaWNfbXZCOUxDN3E4eWVxYVMycHl5WkZLWDJydXlTNVhUM1BrVHNaVWZfeTRWSlpHZDlyOFBlTVdBekRWM1FweEx5NDlqWkZydC14VVQwZVFUTFVmVDIzWTlPSXhfSVRCQUo4VHdLRQ?oc=5",
    "date": "2026-10-14T14:00:13+00:00",
    "snippet": "",
    "biosimilar": true,
