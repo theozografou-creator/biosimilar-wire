@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:35:58.789269+00:00",
+ "updated": "2026-10-17T18:38:19.297695+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "166a70e3d2e1",
+   "source": "Google News: biosimilar",
+   "title": "Cuba Prepares Workshop on Biosimilars, Innovation, and Access in Healthcare - teleSUR English",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbUYxYnp0ZzVOdHZBWUFjZEN6WTRDVy1uUWtpUmU2ejl4blE1ZXM1NGlFNFRYUGFXMmNCOTFTODNFMkJtVzN3bV9aY18xSU0ySmJleHZCWVpTdVRlWndNdi1Odk0zd3VHS21EZkVWX25NTlk5ZHgwRWNxTWN6UGY5RVhTeU15aUgxOXZPUTlfQ2hLakxzeG9aQ252VFQyeEx0eDNBNXZKeEk?oc=5",
+   "date": "2026-10-17T16:59:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "300a5fafb022",
    "source": "Endpoints News",
