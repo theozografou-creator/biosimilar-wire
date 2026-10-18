@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T09:37:43.933390+00:00",
+ "updated": "2026-10-18T12:43:11.375412+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,13 +35,13 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "56ead6cf08db",
+   "source": "Fierce Pharma",
+   "title": "GSK taps actress Viola Davis for shingles-focused campaign",
+   "link": "https://www.fiercepharma.com/marketing/gsk-taps-actress-viola-davis-teach-adults-over-50-how-get-away-shingles-new-education",
+   "date": "2026-10-18T12:43:11.375412+00:00",
+   "snippet": "The \"How to Get Away With Murder\" star is the face of GSK's \"Shingles, actually\" campaign, which positions an increased shingles risk as an untold reality of aging.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c7a7c0fbfb0b",
+   "source": "Google News: biosimilar",
+   "title": "Lupin gets CDSCO nod for nivolumab biosimilar - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVXd2ZHlaNy0wNFR0TnRJVVBiMHdYQWFZbjI0Y3FOM25VRlJIT191OG5RR2FHSGV6QmJLRXVzQi1vdzFtRzN3anp4ZHJOc3p5OUUwOXJPS1JnRTgxYmpKTkRpZTNhS2hhMGxiclFSLTJQYk5nVDZhUVFMWVlkTVluR2UzLWo5Wnk1QXI1MjRRUUd2RHVWZGpKdVllaDFobDhGSGk4TlRLX0xXTWIyZ2F2aDRJamFsdEhLYXZZZE5Nc0tyd0g2V1ZRSUNzcXHSAdIBQVVfeXFMTzF1dDRBclRZc1MzQUtKM0tOVUIzUGxwT2g0Ti1HVDJ6YWNQa0cxZmZPdGlXc2xlOHZYMk45S3MxaTlLWGYzQVhjbDVRbU5QT29DNUpWeG9EUG04VnR4Z1d3XzFMcXNuSlNCRTR3cDVEdHJBeFVvVGYwMjkwNFlBUEhXZVlURWlMVDhuWkdrbFFmZnlHYWVEUmhGai01YTJYdURYSVVpVGotalowampXRHdDbldTY2tTQkNwdVRXR2Y4akdsbGducFhJVEFWWHcyLWx3?oc=5",
+   "date": "2026-10-18T08:06:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "166a70e3d2e1",
    "source": "Google News: biosimilar",
@@ -689,6 +709,18 @@
    "snippet": "The growing use of AI tools is changing the skills doctors need to practice medicine, experts said during a panel at an Endpoints News event on Wednesday. Doctors no longer need to memorize as many ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "fdb2d6cd1825",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Secures Licensed Launch Dates For Pebrilzo Following Genentech Patent Settlement - BW Healthcare",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUE1SN1FoSU1xTzR3QVBzVFY2U0Z1SmlPd0dVWTFiVFBxejl5QmZiaEM5MmRySEtlNWQyQndIR0RaNFRxamFmN1IyYmNWZ2ZzZjN2VElGcE5yZW1yZEs1TGxsRFlGSVp3d003b3JoNC1XUVlLaGF5TUpzUVdnZkdMelVvWUYtZE5tLVluQzh4eXoza1hHSUxyajBTMS15d09hRU5TWEFTMzNfRDA4ODhTdGxGb3k2TWpIeG5FaGFHdlZVcG04NmRzN2VJbjB0aDdyNkE?oc=5",
+   "date": "2026-10-15T12:56:24+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
   },
   {
    "id": "8a2ef150862a",
