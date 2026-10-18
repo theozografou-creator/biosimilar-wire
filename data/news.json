@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T18:38:51.279810+00:00",
+ "updated": "2026-10-18T21:36:11.075096+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,13 +35,13 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": ""
   },
   {
