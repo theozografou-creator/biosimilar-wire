@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T03:38:31.497065+00:00",
+ "updated": "2026-10-18T06:44:43.741435+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 7,
+   "count": 5,
    "error": ""
   },
   {
@@ -616,6 +616,16 @@
    "title": "FDA Accepts BLA for Pembrolizumab Biosimilar Candidate FYB206 - Targeted Oncology",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd3ZtcFROYjRfWVNxSmZ1S0lzYndScDRGMndfRDhNMUxWaXNOSk9XRHhvLTRuUXh2Z0s0YTZ0UFRqMWh0dHhHZGFKNHJUd1VTai01V1BHcXhaOW9zTS1RWGlSOHZ1SktGZFVDUEQ5UmpPZ0V6TzVMcDRlRjEtSTl4TnJmdVF2Wmc?oc=5",
    "date": "2026-10-15T15:04:35+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "e4d2f5bff296",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Regulation Has Not Kept Up with the Science - RealClearHealth",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3FMR0lXd05YcWpISUZkYzZMc0NpbHV1UVRrTmdTVnB2Z3lYRkUxQnJuU3FjNWZCMjh3TjVvMDVGcm1xS2NqSTBDTXZQcWxKZFZNSkp2Q3AwNGNzcnZmMXBBU2ZlYWE0bElRM2d3RVd0OGVjYnRKZ1ZORnZOR0tRZjFLemV5XzBXS253dFNDUUNpX1NUYUlxMno3WFZkT1ZacEpxeFVmUm5GUWNqbFBZ?oc=5",
+   "date": "2026-10-15T14:47:12+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
