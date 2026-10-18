@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:36:10.656435+00:00",
+ "updated": "2026-10-18T18:38:51.279810+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": ""
   },
   {
@@ -1261,6 +1261,18 @@
    "watch": []
   },
   {
+   "id": "40974338ce9c",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Secures Global Patent Settlement With Genentech, Sets 2027 EU Launch for Perjeta Biosimilar - Medical Dialogues",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUEdZZ2FlRENnV2tjTUMyODFCemtFZ0VQY3Q5bklpczhmUzhPbFV4MkI4VzE0UXpRZUFKa0Mwek9DWG9LR3dEOWNVNTY4ZzRWcWs1bjRGdER4M2Q5akZLVXRwNEJQRGtWa3pDd2tha3M3engwM3BsRGtPQklkS2kzVnpMY00yM1dSSEdjMVJ6NmRoWWFOVGpwS3MyQkJIWHBnVnR4a013V3E5V0ZYdW1SWFVTYkZDSElKX2s0c0VnMVVpdFNQR3JnTUlib19zZ2JFa1F4a1gtUlpFcXdEQTVEWEkwNXR4dzYx0gHuAUFVX3lxTE9leU5oTHd3R2dnbWdxalptWHpzOHVRRHZuQnNzc24zSTdMRjdaWDRiQVJfUnFiQnFfY0xqNHB4XzdvdHBkNWZzdExjT2NtdlhNdHlLbGYyMXN2U1cyLVhTX1ZDcmZDSjA3ZTFIYjV6cndJSGYxQTZXX2VDLURodlllLUswWkhfMUVHWUJUbTZBYmN3QkdxTDd1dVdrYjRGN19EbGViTV9BNi1VZkRoeGljbWI3V3NGNDdxLVdjdEJUalBONzhmY3dYTHVyTjR0aFI0YkZqQkwxcXQ5UGNRVXhMazVOOUZKUHNxUTZObEE?oc=5",
+   "date": "2026-10-14T13:08:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "650a4b4e96cb",
    "source": "Fierce Biotech",
    "title": "Vir CEO sees ‘opportunity to do more deals’ after striking $1.9B Gilead pact for dual-masked TCEs",
@@ -1552,6 +1564,18 @@
    "title": "New Biosimilar Plant Could Be A Big Moment For Sandoz Stock (SWX:SDZ) - Simply Wall Street",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY3gxaktwSktCQm9JTGxfM0FTNWdaV19pY2lZbGltLVpPcHR2b2haWUF2bFI5N1poVWllTTBQLXFEanhXNWZhTzdyaF9ZYXI2QTJWSFAzUFJfV18yZGhCOXA2cGpVSC1iWmZvWTZncWRiRXlhclJ4TWdwU0djbUFVeE90UDIzWno2Nlc1TFVpMktRWlE5cHNHTVY0SHA5eFItWG1MQl9icEZkVEpobWRhd19aS0kwQVNoWmJ5YWoxaXpfU2dLeWVpSHM1d0l0c3o5X2RlcmdSVy1PTEhzTVEwV2dSMDl0TjTSAecBQVVfeXFMUGN4MWpLcEpLQkJvSUxsXzNBUzVnWldfaWNpWWxpbS1aT3B0dm9oWllBdmxSOTdaaFVpZU0wUC1xRGp4VzVmYU83cmhfWWFyNkEyVkhQM1BSX1dfMmRoQjlwNnBqVUgtYlpmb1k2Z3FkYkV5YXJSeE1ncFNHY21BVXhPdFAyM1p6NjZXNUxVaTJLUVpROXBzR01WNEhwOXhSLVhtTEJfYnBGZFRKaG1kYXdfWktJMEFTaFpieWFqMWl6X1NnS3llaUhzNXdJdHN6OV9kZXJnUlctT0xIc01RMFdnUjA5dE40?oc=5",
    "date": "2026-10-14T01:21:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "bd5059b23a51",
+   "source": "Google News: biosimilar",
+   "title": "New Biosimilar Plant Could Be A Big Moment For Sandoz Stock (SWX:SDZ) - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdnFoTVdyZm1mWjJlVjh6S2ppRmJYRUVNYzBmUEN5Sjdsb3lxaVV2RDYxazdaZE42cGx2YUU3VHlRbW9HazR1eFpPY04yRHVaQno2UFVoVkI5QnYyaTd0QlJSVU5PMTJHSEFTUi1QUE12STFLTGM0T1hPd3lta05pbWNFb0t0RkdmQ0FsYXRwU3ZXbUJHb21RaXdUUWhiSkswZHpGZURORmpPZmJyZ0RGVXpITGtRZGg5M2JBYkZUblh0Nkk1Sm9FRVdIZ25lQnQ4bVNObU1LekJzVzZUb3otdWFR0gHnAUFVX3lxTFBjeDFqS3BKS0JCb0lMbF8zQVM1Z1pXX2ljaVlsaW0tWk9wdHZvaFpZQXZsUjk3WmhVaWVNMFAtcURqeFc1ZmFPN3JoX1lhcjZBMlZIUDNQUl9XXzJkaEI5cDZwalVILWJaZm9ZNmdxZGJFeWFyUnhNZ3BTR2NtQVV4T3RQMjNaejY2VzVMVWkyS1FaUTlwc0dNVjRIcDl4Ui1YbUxCX2JwRmRUSmhtZGF3X1pLSTBBU2haYnlhajFpel9TZ0t5ZWlIczV3SXRzejlfZGVyZ1JXLU9MSHNNUTBXZ1IwOXRONA?oc=5",
+   "date": "2026-10-14T01:21:34+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
