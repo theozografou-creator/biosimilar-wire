@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T15:44:47.600096+00:00",
+ "updated": "2026-10-19T18:48:31.544800+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,56 @@
   }
  ],
  "items": [
+  {
+   "id": "240c6b06b8a3",
+   "source": "Fierce Biotech",
+   "title": "Labcorp pays $722M in upfront cash deal for BioReference Health assets",
+   "link": "https://www.fiercebiotech.com/medtech/labcorp-pays-722m-upfront-cash-deal-bioreference-health-assets",
+   "date": "2026-10-19T18:48:31.544800+00:00",
+   "snippet": "Labcorp and OPKO Health have partnered up for an agreement that sees Labcorp to acquire select assets of BioReference Health, a subsidiary of OPKO.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "668706db0463",
+   "source": "Fierce Pharma",
+   "title": "GSK’s Jemperli scores FDA approval in rectal cancer, backed by high complete response rate",
+   "link": "https://www.fiercepharma.com/pharma/gsk-jemperli-scores-fda-approval-rectal-cancer-backed-high-complete-response-rate",
+   "date": "2026-10-19T18:48:31.544800+00:00",
+   "snippet": "Building on the buzz around a celebrated early trial readout, GSK’s Jemperli has earned a first-in-class FDA approval in a specific type of rectal cancer.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e9c868f490bb",
+   "source": "Big Molecule Watch",
+   "title": "FDA Finalizes Q&A Guidance on Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products",
+   "link": "https://www.bigmoleculewatch.com/2026/10/19/fda-finalizes-qa-guidance-on-postapproval-manufacturing-changes-to-biosimilar-and-interchangeable-biosimilar-products/",
+   "date": "2026-10-19T18:25:35+00:00",
+   "snippet": "On October 13, 2026, the FDA announced the availability of a final guidance for industry entitled “Postapproval Manufacturing Changes to Biosimilar and Interchangeable Biosimilar Products: Questions and Answers,” finalizing a previously issued draft guidance of the same title ...",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "b038ad678aa6",
+   "source": "Endpoints News",
+   "title": "#ESMO26 regular abstracts featuring Zai Lab, GSK, Merck and more",
+   "link": "https://endpoints.news/esmo26-regular-abstracts-featuring-zai-lab-gsk-merck-and-more/",
+   "date": "2026-10-19T17:03:24+00:00",
+   "snippet": "The last time the ESMO congress was in Madrid, a presentation on first-line data in bladder cancer drew a rapturous standing ovation. Contenders that might draw the same reception include hotly anticipated ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "26a8ba6a4555",
+   "source": "BioPharma Dive",
+   "title": "Disc’s once-spurned rare disease drug to get a second chance at approval",
+   "link": "https://www.biopharmadive.com/news/Disc-bitopertin-apollo-erythropoietic-protoporphyria-study-results/833327/",
+   "date": "2026-10-19T16:27:00+00:00",
+   "snippet": "Months after the FDA rejected its treatment for a rare light-sensitivity disease, the biotech claimed success in a Phase 3 trial and now plans to re-engage regulators.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "44ae6e347450",
    "source": "Fierce Biotech",
@@ -163,6 +213,18 @@
    "watch": []
   },
   {
+   "id": "cc32aa14f9ab",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis to present data for oncology biosimilars at ESMO Congress 2026 - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObnkyQ3hEWnNzeGthanllang0cVZLUkN3RVlkZ3ZUdEwzblo4WmozeFJ1NEFlUEZyUDVKWEZkREFpMmpNbXpKUnZBalRUdEdIVktya29QYzl2Ni05TkVONFk4U0NjTmdfVGFRWE9oTXhjU3ZZSDZoZEFQOWZNbjZPQ09zWFR2REFhNk1DNF84YkhYRG80UXFMNFhB?oc=5",
+   "date": "2026-10-19T15:34:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
    "id": "eb606ebeded5",
    "source": "Endpoints News",
    "title": "Gilead’s pill posts stronger colitis remission rates than Entyvio",
@@ -183,6 +245,16 @@
    "watch": []
   },
   {
+   "id": "a414c48f281b",
+   "source": "Google News: biosimilar",
+   "title": "Kaiser’s formulary chief makes his case for a ‘total value’ model on biologics | HSES 2026 - Managed Healthcare Executive",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORDlzQThMdWs4MVdLdjhzakZFcG1IQ0g1dWhRY1FZMVBmNG5tc0FBR1I4YklOVjdDaG9QUFdsVjhxOUpxdGIwcGlSbEhsaFJJbWNuZnBvblFkUkFHSkc3ZlBBelpHMEpUNkZqX0xVNGYwQ0ZPY2ZLUkJORDJMTGlJTHMzQkJZNGdLY1BiZmlET2dTM19FeFF6cF91Y1dkWXVWS0phTnBvTEkzdG9mNmlQbGRKbG9wc1ppVUpr?oc=5",
+   "date": "2026-10-19T14:36:06+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "d1bc8e809a21",
    "source": "Center for Biosimilars",
    "title": "Ustekinumab Biosimilar Switch Holds Up in Crohn Disease - Center for Biosimilars",
@@ -193,12 +265,32 @@
    "watch": []
   },
   {
+   "id": "9e11444af6e2",
+   "source": "BioPharma Dive",
+   "title": "Merck KGaA bets on RNAi with $1.3B Silence buyout",
+   "link": "https://www.biopharmadive.com/news/merck-kgaa-rnai-13b-silence-buyout-blood-disorder-polycythemia-vera/833336/",
+   "date": "2026-10-19T13:59:52+00:00",
+   "snippet": "The acquisition gives the German company a promising blood disorder medicine that passed a Phase 2 test and could threaten a Takeda drug.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "8c6f35e41b22",
    "source": "Endpoints News",
    "title": "Merck KGaA to buy Silence Therapeutics and its siRNA pipeline for $1.3B",
    "link": "https://endpoints.news/merck-kgaa-will-buy-silence-therapeutics-and-its-sirna-pipeline-for-1-3b/",
    "date": "2026-10-19T13:57:45+00:00",
    "snippet": "Germany's Merck KGaA agreed to buy UK drug developer Silence Therapeutics for $1.3 billion, building out its work in rare and specialty diseases using genetic medicines. Silence is developing the siRNA drug divesiran, which is ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8127bd2fa399",
+   "source": "BioPharma Dive",
+   "title": "Roche inks $15B ADC pact with Hansoh; Veradermics scores in another baldness study",
+   "link": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
+   "date": "2026-10-19T13:14:00+00:00",
+   "snippet": "Roche is paying Hansoh $400 million up front in a broad deal involving several ADCs. Elsewhere, another top investor formed a China-focused fund and Ultragenyx sold a second review voucher.",
    "biosimilar": false,
    "watch": []
   },
@@ -320,6 +412,16 @@
    "date": "2026-10-19T11:08:33+00:00",
    "snippet": "Roche is going all in on Chinese drug discovery and development. The Swiss pharma has inked one of the largest cross-border collaborations of the year, promising $400 million upfront and potentially $15 billion in biobucks ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2be061e401fb",
+   "source": "Google News: biosimilar",
+   "title": "IGBA's Ana Gaunt: Biosimilar Developers Waste $100 Million on Duplicate Trials as Regulators Diverge - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JUV8yYWNmY1ZLS18tM1N6NVUtRU5nR2JKRnlmX2hWQjY1TWFEcGloSFdMamtLcWRRWWdUQ18yMjIzTmgwYXl0dEFTWUh4SE80elVheDBSR2RVT1E?oc=5",
+   "date": "2026-10-19T11:08:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
