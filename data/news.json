@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T09:45:53.265091+00:00",
+ "updated": "2026-10-19T12:50:39.539325+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,136 @@
  ],
  "items": [
   {
+   "id": "e736f1aa4fa0",
+   "source": "Fierce Biotech",
+   "title": "Immune Boost Capital Invests in Orthrus Therapeutics to Advance Antigen-Specific Immune Tolerance for Autoimmune Disease",
+   "link": "https://www.fiercebiotech.com/sponsored/immune-boost-capital-invests-orthrus-therapeutics-advance-antigen-specific-immune",
+   "date": "2026-10-19T12:50:39.539325+00:00",
+   "snippet": "Immune Boost Capital (IBC), the venture investment arm of the Arthritis National Research Foundation (ANRF), today announced its investment in Orthrus Therapeutics, a company developing a new class of precision therapies for autoimmune disease with a strong focus on rheumatoid ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b10d659c3e53",
+   "source": "Fierce Biotech",
+   "title": "From Scientific Hypothesis to Clinical Practice: The Next Chapter for CLDN18.2",
+   "link": "https://www.fiercebiotech.com/sponsored/scientific-hypothesis-clinical-practice-next-chapter-cldn182",
+   "date": "2026-10-19T12:50:39.539325+00:00",
+   "snippet": "Astellas reflects on a decade of progress in CLDN18.2 and the opportunities ahead in patient identification, testing and innovation",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cadb52aac698",
+   "source": "Fierce Biotech",
+   "title": "Saudi Arabia takes actionable steps to build its biotech sector after 46 agreements in Riyadh",
+   "link": "https://www.fiercebiotech.com/sponsored/saudi-arabia-takes-actionable-steps-build-its-biotech-sector-after-46-agreements-riyadh",
+   "date": "2026-10-19T12:50:39.539325+00:00",
+   "snippet": "Riyadh’s biotech summit closed with 46 agreements. Its chairman explains how Saudi Arabia plans to turn them into working programs.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0239b6d6f121",
+   "source": "Fierce Biotech",
+   "title": "Aligning drug discovery around patient benefit from the outset: Connecting human insights to better decisions",
+   "link": "https://www.fiercebiotech.com/sponsored/aligning-drug-discovery-around-patient-benefit-outset-connecting-human-insights-better",
+   "date": "2026-10-19T12:50:39.539325+00:00",
+   "snippet": "The pharmaceutical industry has traditionally viewed drug discovery and clinical development as separate stages of the R&D continuum.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e1803cfbc9a8",
+   "source": "Fierce Biotech",
+   "title": "Siemens Healthineers partners with Paradromics to build out new imaging system to support BCIs",
+   "link": "https://www.fiercebiotech.com/medtech/siemens-healthineers-partners-paradromics-build-out-new-imaging-system-support-bcis",
+   "date": "2026-10-19T12:50:39.539325+00:00",
+   "snippet": "Paradromics has announced a new collaboration with Siemens Healthineers to construct an advanced multimodal imaging platform to support the growing clinical use of implantable brain-computer interfaces (BCIs).",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "923ca45ce32f",
+   "source": "Fierce Biotech",
+   "title": "Roche returns to China’s ADC powerhouse Hansoh for $15B biobucks pact",
+   "link": "https://www.fiercebiotech.com/biotech/roche-returns-chinas-adc-powerhouse-hansoh-15b-biobucks-pact",
+   "date": "2026-10-19T12:50:39.539325+00:00",
+   "snippet": "A year after their first antibody-drug conjugate team-up, Roche has returned to Hansoh Pharmaceutical for a mammoth $15 billion biobucks pact.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "023abf9505da",
+   "source": "Fierce Biotech",
+   "title": "AbbVie’s next-gen Crohn’s disease combo beats Skyrizi in phase 2 trial",
+   "link": "https://www.fiercebiotech.com/biotech/abbvies-next-gen-crohns-combination-beats-skyrizi-phase-2-trial",
+   "date": "2026-10-19T12:50:39.539325+00:00",
+   "snippet": "AbbVie’s next-generation Crohn’s disease combination candidate has beaten Skyrizi in a midphase clinical trial.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fd38a50a5f12",
+   "source": "Fierce Pharma",
+   "title": "Closing the gap between approval and treatment",
+   "link": "https://www.fiercepharma.com/sponsored/closing-gap-between-approval-and-treatment",
+   "date": "2026-10-19T12:50:39.539325+00:00",
+   "snippet": "Lauren Boyer, CEO of Underscore, on why patient finding is a marketing job, and how to reach the people traditional data can't see.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "62439868a980",
+   "source": "Fierce Pharma",
+   "title": "Why Are 53% of Phase 2 and 3 Trials Delayed? A Redesign Is Overdue",
+   "link": "https://www.fiercepharma.com/sponsored/why-are-53-phase-2-and-3-trials-delayed-redesign-overdue",
+   "date": "2026-10-19T12:50:39.539325+00:00",
+   "snippet": "A different model can improve quality, speed, and cost at once.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "95272f1c88d1",
+   "source": "Endpoints News",
+   "title": "Roche does $400M upfront, $15B deal with China's Hansoh",
+   "link": "https://endpoints.news/roche-does-400m-upfront-15b-deal-with-chinas-hansoh/",
+   "date": "2026-10-19T11:08:33+00:00",
+   "snippet": "Roche is going all in on Chinese drug discovery and development. The Swiss pharma has inked one of the largest cross-border collaborations of the year, promising $400 million upfront and potentially $15 billion in biobucks ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "18b3a1a8bc2e",
+   "source": "Endpoints News",
+   "title": "Disc Medicine reports 'sun allergy' drug hits Phase 3 home run",
+   "link": "https://endpoints.news/disc-medicine-reports-sun-allergy-drug-hits-home-run-in-phase-3/",
+   "date": "2026-10-19T11:00:36+00:00",
+   "snippet": "Disc Medicine’s treatment for a rare disease that makes sun exposure painful succeeded on all endpoints in a Phase 3 study. The result sets the company on a path to redemption after the FDA unexpectedly ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6aa2e2a80563",
+   "source": "Endpoints News",
+   "title": "TriGemX Bio is going public through SPAC to get its migraine prospect to market",
+   "link": "https://endpoints.news/trigemx-bio-will-go-public-through-spac-to-get-its-migraine-prospect-to-market/",
+   "date": "2026-10-19T11:00:09+00:00",
+   "snippet": "The stock market will soon welcome another drug developer through a backdoor route that has been fallen out of favor now that traditional IPOs are flowing. TriGemX Bio, formerly known as Kallyope, is going public ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "823763261815",
+   "source": "Endpoints News",
+   "title": "Veradermics' oral Rogaine wins again at growing hair in late-stage trial",
+   "link": "https://endpoints.news/veradermics-oral-rogaine-wins-again-at-growing-hair-in-late-stage-trial/",
+   "date": "2026-10-19T11:00:09+00:00",
+   "snippet": "Veradermics is taking another victory lap with its oral twist on minoxidil, commonly known as Rogaine. The Connecticut biotech said VDPHL01, its extended-release version of the decades-old hair-regrowth drug, cleared all primary and secondary endpoints ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "c8309f890b1d",
    "source": "BioPharma Dive",
    "title": "From strategy to scale: How Saudi Arabia is building a biotech ecosystem",
@@ -91,6 +221,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "b94964f5c5d8",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis reports comparable results for Keytruda biosimilar ahead of ESMO - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kQnNldkZUTHNJdVpJWmpYNF9RUWpYQ2pEU2M0Yi1jWUlzRE5FaG9IcDNNdWxSVmVmQ0ZzRG5paHE3S21MZnRNNDJBMjdEY1lkdWZnendTVWtmQlVjN2ZPUGpRVlJOTFFpbmRHMUt30gFyQVVfeXFMUEx0aVVleHQ5SERTbTJxSTN5bzRtMTlMX1JpRUU4N29CQW1Rd1dwQnptODJEZXR0UnduLW9PQm15MkZrQW9GWk9QMlpYdV9JMi1qeldTMlRQVUJZeTdfMVhMd0RaZWJiUFdDakh6LVU0emZ3?oc=5",
+   "date": "2026-10-19T07:22:09+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
   },
   {
    "id": "3dfe35748df8",
