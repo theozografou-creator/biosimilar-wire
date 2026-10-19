@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T06:53:38.668854+00:00",
+ "updated": "2026-10-19T09:45:53.265091+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": ""
   },
   {
@@ -52,6 +52,46 @@
   }
  ],
  "items": [
+  {
+   "id": "c8309f890b1d",
+   "source": "BioPharma Dive",
+   "title": "From strategy to scale: How Saudi Arabia is building a biotech ecosystem",
+   "link": "https://www.biopharmadive.com/spons/from-strategy-to-scale-how-saudi-arabia-is-building-a-biotech-ecosystem/832761/",
+   "date": "2026-10-19T09:00:00+00:00",
+   "snippet": "Saudi Arabia’s biotech strategy now has named partners, sites and capital behind it.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "45c443da0c42",
+   "source": "BioPharma Dive",
+   "title": "Extractables in single-use systems used in ADC manufacturing",
+   "link": "https://www.biopharmadive.com/spons/extractables-in-single-use-systems-used-in-adc-manufacturing/833218/",
+   "date": "2026-10-19T09:00:00+00:00",
+   "snippet": "Explore extractables data supporting single-use systems in ADC manufacturing.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2590e36d31ad",
+   "source": "BioPharma Dive",
+   "title": "How early should you engage a CDMO?",
+   "link": "https://www.biopharmadive.com/spons/how-early-should-you-engage-a-cdmo/832693/",
+   "date": "2026-10-19T09:00:00+00:00",
+   "snippet": "Discover which CMC activities can move forward early, and which decisions need to remain flexible.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5fdef0f51564",
+   "source": "Google News: biosimilar",
+   "title": "Global Biosimilars Week 2026 - Realizing the global value of biosimilars - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbDdjQnBSWi1wb0dUUUVVQ3dSRUYxV1loN2JzNjZnYURwSEZDUUlwcWppNXMwX3hvNzg2MnJwb0ZmdC1yV0VoUVJmd2laRTlyckVGS1BzdDI1MWpRbUFBWWpCZVNOTmhrbWw4ckRrZVN1aGxOa2NQWThtRXRrQ25xN0xGTGtLU19pRnQ3YVkxZ0FKT2hqdFk4MFZOQmcySTFnS0NrT3d0T0M5RUoydzNzb0xmdGlJbG1fNlc0?oc=5",
+   "date": "2026-10-19T07:41:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "3dfe35748df8",
    "source": "Fierce Biotech",
@@ -70,6 +110,16 @@
    "date": "2026-10-19T06:00:32+00:00",
    "snippet": "Clinical-stage cancer biotech Nouscom has raised $135 million in an oversubscribed Series D funding round to take its lead vaccine through to a Phase 2 study. “We're super excited because there is the potential of ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5ec64810b6fa",
+   "source": "Google News: biosimilar",
+   "title": "Rajiv Dua Joins Emcure Pharmaceuticals as GM & Head – PMO & Program Management, Gennova Biopharma - https://hrtoday.in/",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmJSa01lTmRfb2JVT1RsYkRHQXpXLXQ5OWFmRzVhekU1VDExRXRwYnA1cnhVREF4dEpEX24xTXpkazJqRTRjd2ZzdjNWLTR2UHc3ZGJ2eVk2V1RiWUhkX1ZIVk4wNmhidUM4TUVFVzdyakJMVVVVWXJtTmRNVVRMZ3ZQak1FWmdOVmZLUnF4MlZUV01WcXFoQXpTSUhaM0lfd2xja1laQkhjUk9mTk00?oc=5",
+   "date": "2026-10-18T19:24:02+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -262,6 +312,16 @@
    "date": "2026-10-16T15:40:05.317758+00:00",
    "snippet": "Some six years after scoring an initial FDA nod, Roche’s IL-6 receptor agonist Enspryng is muscling up to Roche's Tepezza in a key eye disease arena.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ee41638344c0",
+   "source": "Google News: biosimilar",
+   "title": "Watch: Biosimilar Drug Warehouses Seized - MTV Lebanon",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ud1FJX1prWFRIUW95VUdzcHFvYXhKSFI0UXNJVTB3M3pybXh1TjVab0lERlFzU3BFOW44UUZsOUhRNmNsRWM5UmhhRWpuUjBpbzgxcmYySW8?oc=5",
+   "date": "2026-10-16T15:35:39+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -929,6 +989,16 @@
    ]
   },
   {
+   "id": "2fd60620877c",
+   "source": "Google News: biosimilar",
+   "title": "The Race to Copy the World’s Best-Selling Cancer Drug Is Heating Up - Koreabizwire",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVVUX2hwRTAtQTN0N1ctaGJHdElRMnBpdzQtQlFJUGM4Zjd5cGQ1ckhIQmZtdnozakFWZkN2WVlBNmVyaXpfcWp2TEUtbnQ3eHhtUE5iQzFkdXVWZFJ6alBGWE1UMFQ5MkFNRWVyQXhXQXBHZUxXNkVUM3AtUjFqY2h3czdiSEtxTkRCSnpMV1BRdnFjVVNiaDY3emYxdw?oc=5",
+   "date": "2026-10-15T02:02:39+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "4f54eea31832",
    "source": "Google News: biosimilar",
    "title": "Biocon settles US patent dispute with Roche's Genentech, eyes 2027 Perjeta biosimilar launch - The Economic Times",
@@ -1449,6 +1519,18 @@
    "snippet": "Agilent Technologies is buying up the digital pathology software company Proscia in an all-cash transaction valued at $240 million with an additional $30 million on the cards for future performance milestones.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "9bc20489e67a",
+   "source": "Google News: biosimilar",
+   "title": "Biocon settles patent dispute with Genentech over breast cancer drug - Fortune India",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQm93bWZZMG03SXFxRUhySXpFeGNLdk5EOVBCaGtvUkYtZEthcXpyRlc0bE1ZMWZ1b0hfTU51eWo3VWc4NWpISW1KLVprOXZpNkw2elZiN0tMMUp6d0tsWDJXODFscWtGb043ZTBHRnRKVngzazFZNWo2YWo2TkVLVXpXR2tNdnVYdi0yTnE5aGNBbk1ibGFfdkp6TlUtQXRxaVZzQ1hKaTJKc2lHZWxpczRQYjhHbkUwQ2fSAccBQVVfeXFMTV8tYjNwblowYl9nMEtZQ1BzVGZNYl9vLTRfOW9zMF9TalRVcUFiWUwxZnoxS3BrMnlFRnRDdDRSTnJDOVZxYXlPOWJiNkZieTFnTGE5VllOb1RlUnhydnBsay0xQ1JEVDFyUUpzVFltdlFTbldia1BYTFNIOEliX28wWmpCS3BkZFhSWmF5ZlFWeEdWMlo5bjNMbTRONDhtN2hqUXlZUnJqVTJsVUlMY2czdnAwMndPcUdUVjg4ZW9hTXM4b01ERQ?oc=5",
+   "date": "2026-10-14T09:38:52+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
   },
   {
    "id": "fe0ec0b01fa1",
@@ -2222,6 +2304,16 @@
    "title": "Biosimilars: FDA finalizes guidance on postapproval manufacturing changes - RAPS",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjc2azk4SXE4TmNON0t3SXB5bFozUVVQR2ZxajVqZnJsT2tSZzZoUjI2bmFRU18xaVkwajNNdnY3TW1sWGdfNDBOVXRTd0llS0lfNlRtSkRyUWhWOUxWR2F0dHM0bkE0TXlOc2p6Q0ZQaVg1Mk1YQnJyVFkxTzVuM05FZEpocGtoRHVER3E2NDhHSlVvZTBJOXNnX015WHlybnR1LWJmZ3REMTg?oc=5",
    "date": "2026-10-12T20:57:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "b39624831f44",
+   "source": "Google News: biosimilar",
+   "title": "GBMA's Nikki Lorenz returns from global generics talks with WHO and WTO - PharmaDispatch",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONE1ycmRTaTdtZzdCemdrR21Mam0wV3ZUWnI4TzhwX3NMOXI0MnUzcHN4ajY2U3N5ejY2NnNPcm9qWUxvWEcxT0dEd0lscGlqaDJDM1Z4b2IxWkM0ODBVNkplYkhRTG1oLXQySDRWTnpvNWJBcGYwTVBuU1lHb19MVm10ZjhPblR2bGxLX3BIM1hoZE9ET0NTcWZtNFFXYzdPZTBTWnpZcw?oc=5",
+   "date": "2026-10-12T19:08:53+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
