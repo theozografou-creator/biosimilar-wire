@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T03:42:08.033204+00:00",
+ "updated": "2026-10-19T06:53:38.668854+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "3dfe35748df8",
+   "source": "Fierce Biotech",
+   "title": "Nouscom raises $135M for pivotal trial of cancer-preventing vaccine candidate",
+   "link": "https://www.fiercebiotech.com/biotech/nouscom-raises-135m-pivotal-trial-cancer-preventing-vaccine-candidate",
+   "date": "2026-10-19T06:53:38.668854+00:00",
+   "snippet": "Nouscom has reeled in 120 million euros ($135 million) to take a cancer-preventing vaccine through a registration-enabling clinical trial.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "737d11e6acd5",
+   "source": "Endpoints News",
+   "title": "Nouscom raises $135M in Series D for lead cancer vaccine",
+   "link": "https://endpoints.news/nouscom-raises-135m-in-series-d-round-for-lead-cancer-vaccine/",
+   "date": "2026-10-19T06:00:32+00:00",
+   "snippet": "Clinical-stage cancer biotech Nouscom has raised $135 million in an oversubscribed Series D funding round to take its lead vaccine through to a Phase 2 study. “We're super excited because there is the potential of ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "56ead6cf08db",
    "source": "Fierce Pharma",
