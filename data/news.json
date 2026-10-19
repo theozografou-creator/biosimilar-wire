@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T00:52:12.179941+00:00",
+ "updated": "2026-10-19T03:42:08.033204+00:00",
  "ai": false,
  "feeds": [
   {
@@ -453,6 +453,18 @@
    "snippet": "City Therapeutics has gone public with an upsized $200 million IPO, on the same day that Frazier Life Sciences listed its second biotech-focused shell company.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "38139449ef92",
+   "source": "Google News: biosimilar",
+   "title": "﻿﻿Germany's Formycon gets 'Keytruda biosimilar' into U.S. first FDA approval review, skipping Phase 3 - 더바이오",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xUHdBaWNFMWVtT2lCVUNobzJwTUtkcmpTQVJGRjBfUlFMTm1nN0ZjSEZ2dHF3aTdsc1hRMWJiVU9laHk2ZmRMcFZRV1l3aUladHVCc25KWk5TNmlnVi1ONDRlaWYzQTBFY1V3N3pwOEnSAXBBVV95cUxOMVB3QWljRTFlbU9pQlVDaG8ycE1LZHJqU0FSRkYwX1JRTE5tZzdGY0hGdnRxd2k3bHNYUTFiYlVPZWh5NmZkTHBWUVdZd2lJWnR1QnNuSlpOUzZpZ1YtTjQ0ZWlmM0EwRWNVdzd6cDhJ?oc=5",
+   "date": "2026-10-16T09:27:50+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
   },
   {
    "id": "ab766ddcea15",
