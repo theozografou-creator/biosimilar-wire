@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:48:31.544800+00:00",
+ "updated": "2026-10-19T21:39:41.894735+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "7e4d2764d328",
+   "source": "Endpoints News",
+   "title": "Former MIT professor David Sabatini awarded $6M in defamation case",
+   "link": "https://endpoints.news/former-mit-professor-david-sabatini-awarded-6m-in-defamation-case/",
+   "date": "2026-10-19T19:17:01+00:00",
+   "snippet": "A Massachusetts jury awarded $6 million in damages to prominent biologist David Sabatini, years after sexual harassment allegations led to his ouster from MIT. Roughly five years ago, Sabatini brought the",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5d88bebcaeac",
+   "source": "Endpoints News",
+   "title": "Antheia gets $80M conditional DOD loan to onshore to the US",
+   "link": "https://endpoints.news/antheia-gets-80m-conditional-dod-loan-to-onshore-to-the-us/",
+   "date": "2026-10-19T19:01:09+00:00",
+   "snippet": "Biosynthesis manufacturer Antheia has won a conditional loan of $80 million from the US Department of Defense to help boost the domestic production of generic drugs. \"Over time, we aim to manufacture Antheia's full pipeline ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "240c6b06b8a3",
    "source": "Fierce Biotech",
