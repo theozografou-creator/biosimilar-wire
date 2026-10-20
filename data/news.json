@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T09:40:19.481052+00:00",
+ "updated": "2026-10-20T12:50:34.367024+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,102 @@
  ],
  "items": [
   {
+   "id": "de2d15e853ec",
+   "source": "Fierce Biotech",
+   "title": "Hengrui has become the go-to source of China biopharma innovation. What’s its secret?",
+   "link": "https://www.fiercebiotech.com/biotech/hengrui-has-become-go-source-china-biopharma-innovation-whats-its-secret",
+   "date": "2026-10-20T12:50:34.367024+00:00",
+   "snippet": "Amid the Chinese biotech licensing boom, Hengrui Pharmaceuticals stands out from the crowd. The Jiangsu-based biopharma landed one of the largest licensing deals ever by a Chinese company courtesy of a head-turning $15.2 billion biobucks pact with Bristol Myers Squibb in May. At ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5550b87bf835",
+   "source": "Fierce Biotech",
+   "title": "Israeli biotech’s inhaled exosome therapy reduces respiratory failure in phase 2 study",
+   "link": "https://www.fiercebiotech.com/biotech/israeli-biotechs-inhaled-exosome-therapy-reduces-respiratory-failure-phase-2-study",
+   "date": "2026-10-20T12:50:34.367024+00:00",
+   "snippet": "Nano24’s inhaled exosome therapy reduced respiratory failure in patients with acute respiratory distress syndrome (ARDS), hitting the main goal of a phase 2b study.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3b14294edc1e",
+   "source": "Fierce Pharma",
+   "title": "AstraZeneca taps Oracle to help improve recruitment for clinical trials",
+   "link": "https://www.fiercepharma.com/biotech/astrazeneca-taps-oracle-help-improve-recruitment-clinical-trials",
+   "date": "2026-10-20T12:50:34.367024+00:00",
+   "snippet": "AstraZeneca has turned to data giant Oracle as the U.K.-based Big Pharma works on one of the eternal problems of drug development—improving patient recruitment.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "379c23fda4c3",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech wins FDA nod for higher SIMLANDI batch output - Mugglehead Investment Magazine",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOenAyVHVkSmhGaFF5SkFNNVVrZFlEMV9aTGxsdWpKNEFhdWtNUmlDMFo1R2JwSEtqOFdGc3VDU1UyQS15cElTeC1Lb3M1RzdzTDNlNzBGV3BsLVItMS0tMnR4LTFxdGc5SnFVQlpFYWtjdDVsbzI2eUZxbk1RcUJvVWJPVzI0eGs?oc=5",
+   "date": "2026-10-20T12:11:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "bb9a9bb48055",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech wins FDA for Humira biosimilar process (ALVO:NASDAQ) - Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUFtY0NROTJMOVdpN3p0OEMwOEU5MXlDcnM1ZElSckNISjhtVS02M1hVd19QZlhsV0tZY21zNGI0WU91a0ZSWDYtc0JSNHRyYk9OUVl3Xzk3S25uc3dUZGhFMXhuZGRJSlZkTWVPVHF0cGhlRWwxZ1laNm1Ob25COEJvb1pCTmlV?oc=5",
+   "date": "2026-10-20T12:02:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "33070ec36e2a",
+   "source": "Endpoints News",
+   "title": "Exclusive: Astellas partners with Boston ‘miniproteins’ startup",
+   "link": "https://endpoints.news/exclusive-astellas-partners-with-boston-miniproteins-startup/",
+   "date": "2026-10-20T12:00:46+00:00",
+   "snippet": "Chris Bahl believes AI can help make tiny proteins capable of doing things that bigger and more traditional proteins like antibodies struggle to do. And now the Japanese drugmaker Astellas is buying into his vision ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c3c2d0e4a447",
+   "source": "BioPharma Dive",
+   "title": "Hype vs. reality: What pharma’s hottest R&D bets have actually proved",
+   "link": "https://www.biopharmadive.com/news/pharma-rd-bets-clinical-proof-gsk-summit/833332/",
+   "date": "2026-10-20T12:00:00+00:00",
+   "snippet": "New types of bispecifics, antibod-drug conjugates and cell therapies haven’t yet themselves in the clinic. Pharmaceutical companies are betting billions anyway.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0a14c1fb0a9a",
+   "source": "Endpoints News",
+   "title": "Rapport says drug it licensed from J&J clears Phase 2 bipolar mania study",
+   "link": "https://endpoints.news/rapport-says-drug-it-licensed-from-jj-clears-phase-2-bipolar-mania-study/",
+   "date": "2026-10-20T11:14:39+00:00",
+   "snippet": "Rapport Therapeutics said Tuesday its investigational oral drug that dials down the effect of AMPA receptors has cleared a mid-stage trial in bipolar mania, paving the way for registrational studies slated to start next year. ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ce7313a11c14",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis enters deal for biosimilar in Brazil - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFJ6NkJOVE9ubzgtT0VIRGVGSlFna2JJd3BzTE9JbHZTMGdGWWVqTjJudUE5eWtuNW9NRS1wNDNNNWo2VktTRXk4a1FQQVlFa183b0tlcWRUQjNhX2NBcXBnLUJhUXk5TW93OVg4LVVkZzhEeG94a2pNNGJ3MERMM25XeFMtSkJfNEtmVm5ualpMWmlpOTJPZWo0WlgzbW5tTGw4?oc=5",
+   "date": "2026-10-20T10:38:16+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
    "id": "277eb5af5f8b",
    "source": "Fierce Biotech",
    "title": "Pfizer makes ‘business decision’ to end phase 2 trial of autoimmune drug as program’s future uncertain",
@@ -61,6 +157,42 @@
    "snippet": "Pfizer has called time on a phase 2 trial of its CXCR5 antibody in an autoimmune blood disorder, with the company tight-lipped on whether this is marks end of the road for the asset.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "d4a096e39e06",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Wins US FDA Nod for New Humira Biosimilar Manufacturing Process - marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkVxY0ZXenhwa01oRkNyZnphOGdVSVdJeXFQV3VyUDdiMlJhUnluWjFVb1VMaWN4enlCY0gwS2MzZUpzZS1qUW1zTFJraTV2ZzZYYUE4WlR1cE9UMTRZTE54Z3BJZi1JTEZuQzVOdkpmcFdwU0xzbUMzSkhTQk1lYkQyb05rOGVkSkZtWDlfYVZuQVcxb3Iyc2JveDZNclhxcWtPM0pFTmdFeGtHbV9JSWhzVGdlZHJ6aXlHcXhlRWFJUnc?oc=5",
+   "date": "2026-10-20T09:38:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "ffa575bdccaf",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech shares jump premarket after FDA approves new Simlandi process - Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGpHY1BpZVJPTXpPVWQ1akduXzdLWXVnMEVkX2NjYzQtdzJ2REc4SGJ4bFFIdG9sNWlHRDhnUjBaeGVtLVg3aHAwWEVzV2NkVXhVNUZjYUo1bTY5YUQ5WE1tQ1JJbGlySndISHJaVzNnRnluQWJTUkRqX0poS25vVUtfUDhQS0ZLOEhB?oc=5",
+   "date": "2026-10-20T09:24:15+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "76cd636be562",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves new manufacturing process for Alvotech biosimilar By Investing.com - Investing.com South Africa",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaVVjZ2c5eUFvMU1LZHd2WkJOTXZKWEFGemR5cXNMYVEybzEwRk94MmNtVzdhakFHc0h3cnNMSE5kVnZ0U25KRFhCOWFIdUZrTzk0Um11T2RVTlFUVV9ack8yM3JpZk9JOHJ4X29vRnFQaVZ0Yl9rRTFjdEpLSGE3OEp1VXFYeFVnNHNjWjFHazctcHBQbHJwQU9qQ05LWXBUY0dGZDBndFhQZ0UxUGZya3hmVDBpeWoydkFHNS1FQXg?oc=5",
+   "date": "2026-10-20T09:02:23+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "37111da35607",
@@ -91,6 +223,18 @@
    "source": "Google News: biosimilar",
    "title": "Alvotech receives FDA approval for new SIMLANDI® manufacturing process that more than doubles output per batch - GlobeNewswire",
    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPU2dHcFNYcVZTSzQtVllkSG15QVRZSE9Ldkl4cWNzY0lhODJhZW04Smoyc3N5MVk5cHRPaEJXUDNDSy1VQmZzaWhxS3dfdDU0ZnVCNUlJZllYQkJLUGIxTW96ck5KaXdPOXZRcWZTWExuNzBIODd3elpnN1RXYkI1VXZETG1PVWFvay1BS2NsN0FzeWR6a1NseVFnYWxkdnlOeTVLcE9QLXhseWZUZ2tmd2VDUTJmZkM4QlBxMTVXaEhDTWN5bWpQQUZRUE1VeFIzSU9IY3F3OWxZQ3J5Y0xQcVJCWGx0TzdKUlh3UTFTVGROY1l0d3c2UUtzUVIyV3JQbHVZQ0QyamNoVlV3Wmc?oc=5",
+   "date": "2026-10-20T08:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "22ec38659f04",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Receives FDA Approval for New SIMLANDI® Manufacturing Process That More Than Doubles Output Per Batch - Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdWJzUFdrTW52UmNNZWNabEpESEpkdW1EVzc3WkMycmJWb2lPSW1OQVpsdl9yZXBNUHJJd2doTzRuaVpCcWJmdHBqTkZuVGRFaWk5cmxoMHRJSEtLbXBjb0tkSHpOY2ZfLTVEQmEwMTNiYkI5S0RBQmJRc1o0TmlWcGdJWmlTZWVtLXQ0TlA0VC1CZw?oc=5",
    "date": "2026-10-20T08:30:00+00:00",
    "snippet": "",
    "biosimilar": true,
