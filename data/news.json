@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T00:52:22.423432+00:00",
+ "updated": "2026-10-20T03:40:51.753064+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,42 @@
   }
  ],
  "items": [
+  {
+   "id": "b9b1d1e5cbeb",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis secures 10-year exclusive drug supply deal in Brazil - The Korea Times",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNXJBSFVqZ0xiUnJSWEZYZzFtZTR5TzFKei1uNXNDOWlCamlWZ3A2ako5eU5kdFNCYVhQLXVhbHRyWUNzMDBucXlkbUh2NVVabDN1U2tmM051SlB2TG5Oam8tck9oQ3d3NkVNcGVlRW04REhSUzZJTERWZVo3WklFOGp3VWpyTURNMnZ6U1NOOXh5QW5UcDEzbnpDcmowRDdVY3FsUzZJZEwxa3hsSkxkdV9Jdjd3VmdXV1lNdnZmRmpETVZyckRjT9IByAFBVV95cUxPNXJBSFVqZ0xiUnJSWEZYZzFtZTR5TzFKei1uNXNDOWlCamlWZ3A2ako5eU5kdFNCYVhQLXVhbHRyWUNzMDBucXlkbUh2NVVabDN1U2tmM051SlB2TG5Oam8tck9oQ3d3NkVNcGVlRW04REhSUzZJTERWZVo3WklFOGp3VWpyTURNMnZ6U1NOOXh5QW5UcDEzbnpDcmowRDdVY3FsUzZJZEwxa3hsSkxkdV9Jdjd3VmdXV1lNdnZmRmpETVZyckRjTw?oc=5",
+   "date": "2026-10-20T02:17:02+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "9b3e60816ab2",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Secures 10-Year Exclusive Supply Rights in Brazil's Rare Disease Drug Market - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iTVc0ZDdEUmZWTnRNR0ZuOWl1d0tXWXUwTzhwVHlBNWNiRVdLRFBBYWVWTElxclYxUXRnbUo2S0xibFVuMFN5aTlySHk5NnRqS2hoZUUwWnA1ci1OVHgwNlJ0MmoyZjR0SnB2d05nNHhLZEc1clE?oc=5",
+   "date": "2026-10-20T01:55:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "c045e0980490",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Secures 10-Year Exclusive Supply Deal in Brazil's $170 Million Rare Disease Drug Market - Businesskorea",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PWEM5b0JZVGZxZGVuVXF1V0RFRnRxMEJyNFBfUmgxVG9sODZENkVDLXNHV2hFelplY3ZwUE1sZ3UwdXFvVUJBb2RQZVF1S3VuMVhuVjlKN0ZNVVFCN1pISXlGRWlNUElyYVFmbDJUampjR01V?oc=5",
+   "date": "2026-10-20T01:27:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
   {
    "id": "2c8b13057a97",
    "source": "Google News: biosimilar",
