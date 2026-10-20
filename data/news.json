@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T15:41:45.327908+00:00",
+ "updated": "2026-10-20T18:45:24.514221+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,13 +35,13 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": ""
   },
   {
@@ -52,6 +52,86 @@
   }
  ],
  "items": [
+  {
+   "id": "8ae10cd41b63",
+   "source": "Fierce Biotech",
+   "title": "Industry at a ‘turning point’ with growth dominated by commercial leaders: EY report",
+   "link": "https://www.fiercebiotech.com/medtech/industry-turning-point-growth-dominated-commercial-leaders-ey-report",
+   "date": "2026-10-20T18:45:24.514221+00:00",
+   "snippet": "A new report has found that in 2025 through the first half of 2026, innovation increased dealmaking and R&D investment, AI heavily influenced the future of value creation, and that industry growth continued to expand into alternative care settings.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "42dbac7634d3",
+   "source": "Fierce Pharma",
+   "title": "CDMO Samsung Bio wins temporary reprieve from strike threat after Seoul court ruling",
+   "link": "https://www.fiercepharma.com/pharma/cdmo-samsung-bio-wins-temporary-reprieve-strike-threat-after-seoul-court-ruling",
+   "date": "2026-10-20T18:45:24.514221+00:00",
+   "snippet": "Ahead of a planned strike by its labor union later this month, Samsung Biologics has secured a favorable South Korean court ruling that shields most of its drug substance manufacturing operations from the labor action.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f9aed56a76e2",
+   "source": "Endpoints News",
+   "title": "New ICER report suggests drug launch prices are outpacing their worth",
+   "link": "https://endpoints.news/new-icer-report-suggests-drug-launch-prices-are-outpacing-their-worth/",
+   "date": "2026-10-20T17:57:40+00:00",
+   "snippet": "The median list price of drugs at launch rose 24% from 2022 to 2025, and the net prices of those drugs rose even higher, according to a new report from the Institute for Clinical and ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7e88b19e1b96",
+   "source": "Google News: biosimilar",
+   "title": "CHMP recommends ranibizumab biosimilar Fovlussea for retinal disease - Ophthalmology Times",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaGE1bEpONzVOSUJSMTZETERvNHNwSllvVXVTMGk5N1BtaFFDX0sycFRremVMTFBLdE5IeG8wZmdQTXpGN3ZaWWVreGE2NElUUnJraU9rZ05RUEt0MjQ1UkVHRWF1bVZtbllnU0wwcVI1cDd1cU9fQ0lXdUxHSlF2cEdyQWd3MDVLbGVDME1Hal9nVzJLa08wQg?oc=5",
+   "date": "2026-10-20T17:42:21+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "0ec7940e2b30",
+   "source": "Center for Biosimilars",
+   "title": "National Tendering, Combined Policies Linked to Highest Biosimilar Uptake - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUE0SFNIek5XdmQ3dHR3V2gxZjN3eVMtc1pvd085MEpLSUtVUkVrZ1ZPZzdMRmZOekdhMjJiSXItS2JGLUk5U2lSRjdvdXhwZTRSbE5YVnJ4SVY5emZYRUc2WGdsb2FWTXlqN2RXUTVWRVFEMDNlUmR4Q2dpX1NBSDZ2N2dNck05T3VoVG5SRDdWQ3A0cUJlZWUwLUtoV1NQWUlNV2F1RQ?oc=5",
+   "date": "2026-10-20T17:14:58+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "298d5edee303",
+   "source": "BioPharma Dive",
+   "title": "Rapport’s epilepsy drug finds surprising success in bipolar trial",
+   "link": "https://www.biopharmadive.com/news/rapport-bipolar-mania-clinical-trial-rap-219-results/833454/",
+   "date": "2026-10-20T16:27:00+00:00",
+   "snippet": "Despite what some analysts described as low expectations, RAP-219 narrowly hit the main goal of a mid-stage study, results that could help it tap a billion-dollar-plus market opportunity.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b1cbf2d90d8c",
+   "source": "Google News: biosimilar",
+   "title": "UBS Says Abbott’s Legacy Drug Unit Has Hidden Biosimilar Upside - Finimize",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMHFBUy1INXFYNVBfOXh3NlpuT052ME9XeHNQeENtZ1VJbEVoVDJ0MlRzcnZDVDJJQjZiZTF0Y1k4XzBHeEhlVlhZOVJhaS1rYUFUQXVyaGItQUxtYzQxM0swcTEySmtNd05Ub0VrUERpTmE4cEc4RWRHWFhHbzJId0dERTdmd09JVWZScWtSb1NBWkhBVnc?oc=5",
+   "date": "2026-10-20T15:55:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "bb2393be8ffb",
+   "source": "BioPharma Dive",
+   "title": "Most new drugs are still too costly at launch, ICER says",
+   "link": "https://www.biopharmadive.com/news/icer-new-drug-launch-prices-report-2022-2025/833468/",
+   "date": "2026-10-20T15:55:00+00:00",
+   "snippet": "A new analysis from the non-profit group found that net launch prices for new medicines spiked significantly between 2022 and 2025, and the majority were well above its cost-effectiveness guidelines.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "7fa9d2ae41f7",
    "source": "Fierce Biotech",
@@ -181,6 +261,18 @@
    "snippet": "AstraZeneca has turned to data giant Oracle as the U.K.-based Big Pharma works on one of the eternal problems of drug development—improving patient recruitment.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "233330bc5124",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis enters 10-year agreement to supply eculizumab in Brazil - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGpQYzI5SVhzc3BVWVhKNnZfZEVHdDFFLUFpX1pWbk15RjBhME0wWnlNaXlSRHlwWnFUUVpKZkx6bEVncG9SSGdUbXl5TXlCTndGZEJlNW4zYlBrQlByejhzeW5HSnNJbVhTT1pOeHMtUUhzbjNNOGNlSnktQmNuRndqVmRZRUUzTzNRVmo2cVBDU3d2S2c?oc=5",
+   "date": "2026-10-20T12:45:05+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
   },
   {
    "id": "379c23fda4c3",
@@ -540,6 +632,18 @@
    "snippet": "Months after the FDA rejected its treatment for a rare light-sensitivity disease, the biotech claimed success in a Phase 3 trial and now plans to re-engage regulators.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "168bf30f98aa",
+   "source": "Google News: biosimilar",
+   "title": "Zydus, Formycon's proposed Keytruda biosimilar accepted for FDA review - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazhaRTFZYnV3SThBUGNIREZuUHp3LTgxY2NrSVlTMDF3T056LV9kcHQ2Z2prcVhlY0NhckVubkg2WEZ1QjZ2MzZLaE9EQVFvSDN5czVSa05zZmN6WXQ4eXJNaDgwWHZTakNZd0ZXaVNNUFh6YkpSUDR2OHJfdjMxbFkwVUJDWUoyc2tGVnF6UGtGS29u?oc=5",
+   "date": "2026-10-19T15:57:02+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
   },
   {
    "id": "44ae6e347450",
@@ -4814,6 +4918,16 @@
    "title": "FDA Approves Degevma, Biosimilar to Xgeva - Pharmacy Practice News",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNDZRWEt4LTUtRzZYNV9CNkNMN2o0cVpWVld1b1VKSXhPRTlSMkkwS3pwRW1razdQTDVseG9DWUN6NXZIRGJfelExdy03T1dESnI0WXlQVkNDRnhtVWc4Z25QV3BtYUJ2Zno1aE9KSXQyVndLVFlQXy1ZNkZ4Ry1tX2dKUERxY3Fkd1d1eHR4ZUlodUlZUGNXWFhVRFVjd2FjbDBsVjBwOUQtZkh5dHQ4NEdxZkhPMVlFLW1GdFZLOHhBWUdOVlZB?oc=5",
    "date": "2026-10-08T04:58:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "65276c41e2cd",
+   "source": "GaBI Online",
+   "title": "FDA approves Ennumo as eighth pegfilgrastim biosimilar - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb0FOWUU0V201ckNyTzZOb3BDZ1FoVWVLVktQb3V2bFV4QkhSQVNKekJicTE4cEFVUEpTU3FkUzFndFBBRkI3UDZNcnE3b0ZueklDeGlZamhwSkduY1dJa0lPTDZZdHZsLXUxUjBrS25teXNSUGc1cTM3NGVPdGM1ZTgtTTk2NmxaX0xnaHBhNFk4VnlOZURmZmlpeWtrMzQ?oc=5",
+   "date": "2026-10-08T04:26:22+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
