@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:39:41.894735+00:00",
+ "updated": "2026-10-20T00:52:22.423432+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": ""
   },
   {
@@ -52,6 +52,43 @@
   }
  ],
  "items": [
+  {
+   "id": "2c8b13057a97",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis secures 10-year Brazil deal to supply rare disease biosimilar - CHOSUNBIZ - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNemRTNkp1djZmTS1fN2N6Z2NkNVdRbTVtQ0VuVFhTeW9CZXIzSDQzdHRhQ0dNcjNqYTVXc0xSRXF1TFNUUW1pZ18xbWRrZU5XUzE5a2VTejB4SzlxU2QtUHNKdjgtaUM0dnpNVWhPcUJVNnVZZm9iR09TVGFBWDVFR9IBlAFBVV95cUxNUFFkQjFrNDQxVE9mZzVkTzlXdThfaUdRV0hyaHd1WGtJdEZwUzdCTElGV3lSZjg2VEE2U2l6VVU3Y1dFdVNIRzVDaUY3T3UxLWZUNjloZnBWOFgwUG5SN2drUmVSck12TWdla21aUllsTEV0MDdUWWRab2d1WjIwNG1GS0RjZzM1LWtpTTBKeWVZSEFD?oc=5",
+   "date": "2026-10-19T23:22:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "3795fdfa2536",
+   "source": "Big Molecule Watch",
+   "title": "Teva and Samsung Bioepis Add Up to Six Biosimilar Candidates to Partnership",
+   "link": "https://www.bigmoleculewatch.com/2026/10/19/teva-and-samsung-bioepis-add-up-to-six-biosimilar-candidates-to-partnership/",
+   "date": "2026-10-19T22:53:58+00:00",
+   "snippet": "On October 1, 2026, Teva Pharmaceutical Industries Ltd. (“Teva”) and Samsung Bioepis Co., Ltd. (“Samsung Bioepis”) announced a new global license, development, and commercialization agreement for up to six potential biosimilar candidates. As with the companies’ previous ...",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
+   "id": "89033c09c8b1",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion uses Remsima to expand its reach in Europe’s inflammatory bowel disease market - KED Global",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBORzFyYVRPeFFnd0VVSGl4dlpheUtPRVpjLVRPTWY2NmNPNWR2UjRBMThqZUxPUmZuZVpSWVVYc0VnM2JpYllLejN2cHBfSk9zeUZpM1J0RGY1cmhka0YwNXAxUnd6UEVjM2VKTXpB?oc=5",
+   "date": "2026-10-19T22:20:52+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
   {
    "id": "7e4d2764d328",
    "source": "Endpoints News",
@@ -1754,6 +1791,16 @@
    "date": "2026-10-14T14:24:20+00:00",
    "snippet": "Plus news about United Therapeutics, Liquidia, Sanofi, Pharming, Skyhook Bio and Altay Therapeutics. Ultragenyx Pharmaceutical sells second PRV this month: The commercial-stage rare disease drugmaker sold its second priority review voucher for",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f13535154451",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Regulation Has Not Kept Up with the Science - RealClearHealth",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQazgwRGtNRWU1RWtPTTJqOUg5Ti1yV1U4NkNQcU1QbWpxcHhhMFIxanFkMk5LUmNmS3VNUlFNM2sxYVZaX2FnQWppdDFkWGRfWVlSczg0eWd0NnN4Nm1od1k3dVkwSEE4THlZYUtnaElLQVpSMC12NGlIaHJySUFkLU1KU2tCZzNKdGFDM29leXZOOWR3N3Y4cTBEQmZpbnpZanMxdjFJZ2h1dDRNcVRuWVoxOXh1a0g5SUNB?oc=5",
+   "date": "2026-10-14T14:03:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
