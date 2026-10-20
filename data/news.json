@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T18:45:24.514221+00:00",
+ "updated": "2026-10-20T21:40:29.515049+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": ""
   },
   {
@@ -52,6 +52,30 @@
   }
  ],
  "items": [
+  {
+   "id": "4947fd63aa75",
+   "source": "Google News: biosimilar",
+   "title": "FORMYCON AG - ENTERS COOPERATION AGREEMENTS WITH BIOCELYS AND SANTO BIOSIMILAR FOR BIOSIMILAR CANDIDATE - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOW52Q1FSNUFBbGoyZmpWcEVRdE9TZTZZYml5M1I2U1NKYmdYWjdDV3FBV3NNMFpnZFhiXzFIeTJDaHVSajJham5xaW1HeExLLXZ6LVVYME4zY2FDZ25zNnVCN0Q3cjFmYlh4ajMzU2x6WEh2eDJUd0pmanBWVmJxSW05WUZGXzk1UE9yZm9BWGdxeXlEWDRqdFRQRVlWMkhnUVQxX3BPZTZRSWFsd3V6dlZUdXpLdGRMZ2tDNUpXTGZ2Z2FOZGxWYllDZEpjaXhVVURDTlRmZlMwVVh4ZndYWFRBR0RPUVh5clYtUzZnZmZZUmUya1duZFFzSUpXdExw?oc=5",
+   "date": "2026-10-20T21:15:17+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "37a6f5e542f9",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Filing Could Be A Game Changer For Alvotech Stock (ALVO) - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMk5FLTNwcUFxanRZZF9wb0Y0cDFOWkpFdU9IakNuWkQ3Z3hNODI3aWRnWjJ2Y0U3TTg5LS1UaGhTRHpUUk4tejNJX1pVQmpYbWFSbmc0VjE5WGVkY2xIZUlKQ0U5YmwtTEk2UVgwRkdEOVR4UDNtcGttNlJlblZJdnQydTNwaEtqck5sSTh6ZUxPNGcwTm5IS1pMa3cwc0dxOTJadE5NME9xQXBkbEFJU1lOMlktWENlNlpTNUZxWGUzSkEyNEZtbXBPTldhMzJuaWE3Zno0X1VYZ9IB3wFBVV95cUxPWGQ1LTNpTmRfNmZiby0ySGV2QjVjODBHRWR2emVtT2RUbkgzQ1JidldSZF9BTEpLaFBTSm00TlFmcW9GLXZ2UzZiRTd3RDRRblZtdFQ0UWdxdjd0QnM3Tjlscmp3QmlsTGlOS3RzdWlmbHBuSFdFQVpBS2tkWjFkME5lMm5IOVZmbUdUamlsQVNhSmU1QmliUndwUDZpclhVWnFCd1lLbXpwMjBmZWhGeXNqMllsNzVRSEhuRnFnV1FmcFJVblZVcUlTUzNKNkxMYnVxOEtXNi1pdGxIZy00?oc=5",
+   "date": "2026-10-20T20:35:08+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
   {
    "id": "8ae10cd41b63",
    "source": "Fierce Biotech",
@@ -70,6 +94,16 @@
    "date": "2026-10-20T18:45:24.514221+00:00",
    "snippet": "Ahead of a planned strike by its labor union later this month, Samsung Biologics has secured a favorable South Korean court ruling that shields most of its drug substance manufacturing operations from the labor action.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "afd3fcc052e2",
+   "source": "Google News: biosimilar",
+   "title": "Column: To lower the cost of medicine, the backbone of affordable healthcare must grow stronger - Southgate News Herald",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVXVtYXYyOHEwajFjeXB0bHdDZ1lhN1RKZXZVNE8tQ20tb1BZajNsV2l4eXliUDRoR3hJYjk2ckJDYzVRYW5pMk01WHdPMWpmb0pXSDdIZWNzc29TU2xVdHMwSXpUamdFd29GRnR6d1dvZFNxLWdWNDJvQncxQzVTeGhtUjl4R2FncTd4LVZ2RW5YM1JWdlRaNHZCRUR0SzVXa25sbHlrOVE2UXBObUZQUENVd3JVVThWdnpFdnRtZE0zemhwcmR3UzhkT1UtUHVT?oc=5",
+   "date": "2026-10-20T18:44:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -380,6 +414,18 @@
    "title": "FDA approves new manufacturing process for Alvotech biosimilar By Investing.com - Investing.com South Africa",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaVVjZ2c5eUFvMU1LZHd2WkJOTXZKWEFGemR5cXNMYVEybzEwRk94MmNtVzdhakFHc0h3cnNMSE5kVnZ0U25KRFhCOWFIdUZrTzk0Um11T2RVTlFUVV9ack8yM3JpZk9JOHJ4X29vRnFQaVZ0Yl9rRTFjdEpLSGE3OEp1VXFYeFVnNHNjWjFHazctcHBQbHJwQU9qQ05LWXBUY0dGZDBndFhQZ0UxUGZya3hmVDBpeWoydkFHNS1FQXg?oc=5",
    "date": "2026-10-20T09:02:23+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "21d7413630aa",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves new manufacturing process for Alvotech biosimilar - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWp5bGFldDl4QVU0NnFzdVR1RlRwOUhZc0lwclhCU04xSVpIMlNPZ25kUmdOdmJxakNET1ljTzRzX2w4UUZETU5kRllPNTBrV0JUYjNLSndlampjeC11UFY5RC1iNHpIZjloMS1hdE1FLVlsQ28xVmJCQ2QzVG04Y3BZS05ULWF2VUNYVVh2SXlHdXBkMFltY0k1TUVYVnJlMTJUU0dGcnZtRFVBcTFuV094Zm8zV2QzUi1B?oc=5",
+   "date": "2026-10-20T08:58:59+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
