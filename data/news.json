@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T03:40:51.753064+00:00",
+ "updated": "2026-10-20T06:48:13.679767+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,50 @@
   }
  ],
  "items": [
+  {
+   "id": "c13d9fb389f0",
+   "source": "Fierce Biotech",
+   "title": "AstraZeneca taps Oracle to help improve recruitment for clinical trials",
+   "link": "https://www.fiercebiotech.com/biotech/astrazeneca-taps-oracle-help-improve-recruitment-clinical-trials",
+   "date": "2026-10-20T06:48:13.679767+00:00",
+   "snippet": "AstraZeneca has turned to data giant Oracle as the U.K.-based Big Pharma works on one of the eternal problems of drug development—improving patient recruitment.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9bd880ce1a4b",
+   "source": "Fierce Biotech",
+   "title": "Ambrose Healthcare inks $181M deal for former Pfizer target AM-Pharma",
+   "link": "https://www.fiercebiotech.com/biotech/ambrose-healthcare-inks-181m-deal-former-pfizer-target-am-pharma",
+   "date": "2026-10-20T06:48:13.679767+00:00",
+   "snippet": "Ambrose Healthcare has bought AM-Pharma for up to 161 million euros, inking a cut-price deal for a biotech once courted by Pfizer.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cc797cc26898",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis secures 10-year biosimilar supply deal in Brazil - The Korea Herald",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95RzE3Sm9pNjZmM2RIM1diSm5oUDk0NDZ3WHQ2dHVhLUNNWmF2WllqbTZpNVFZOGF3WGFsNU9wc3huNm1qdS1UR19jZHdUcFJxLUIwZUJKaw?oc=5",
+   "date": "2026-10-20T04:35:50+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "ace88b4e947b",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis wins 10-year rare disease drug deal in Brazil - Aju Press",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yeTJFeUpUa0NlYzVqRDI4QmtmaElwdXZibGIxb2l6ZXVBSnVYbWtqQlVfd1RJWWRoUXh1My1CeEVBUE1Kc0ZHSG00TVhxMHF5V1NrN3RxMNIBV0FVX3lxTE0yeTJFeUpUa0NlYzVqRDI4QmtmaElwdXZibGIxb2l6ZXVBSnVYbWtqQlVfd1RJWWRoUXh1My1CeEVBUE1Kc0ZHSG00TVhxMHF5V1NrN3RxMA?oc=5",
+   "date": "2026-10-20T02:39:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
   {
    "id": "b9b1d1e5cbeb",
    "source": "Google News: biosimilar",
@@ -375,6 +419,16 @@
    "date": "2026-10-19T13:57:45+00:00",
    "snippet": "Germany's Merck KGaA agreed to buy UK drug developer Silence Therapeutics for $1.3 billion, building out its work in rare and specialty diseases using genetic medicines. Silence is developing the siRNA drug divesiran, which is ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c9b48bd54236",
+   "source": "Google News: biosimilar",
+   "title": "Iceland's Frumtök Calls for Faster Access to New Medicines and Rethink of Drug Pricing Policy - NAVLIN DAILY",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM0tMaDJjb3hSVGQxWG9qS1pubnhEY2J5d2JrWVlpeXVLVFhoaUliUVFWSnRySG9VaHpoR2JtZGlZank0T0JyRmdLSG9DMHNoUFJqZWlaQ0d0X1pWeVVCMWxkWFBZd29pTUlMRnhlNkJFRUNHMV9aZ0pFWUJ5b0h5RlZLZUxkeENtaHFOQVR3Nm9KNUY2UXpwNXNBeFM0TTR1NmVEbTRQTkNFRlRTLWdEdXdQTDBGOFEzdk9yUF8wOXFVNVl3NWVpODlMT3F4dmh4?oc=5",
+   "date": "2026-10-19T13:35:55+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -1064,6 +1118,16 @@
    "watch": []
   },
   {
+   "id": "0514fbc4553a",
+   "source": "Google News: biosimilar",
+   "title": "Positive CHMP Opinions for Accord’s Biosimilar Ranibizumab and CuraTeQ’s Biosimilar Filgrastim; Expanded Indications for Novo Nordisk’s Kyinsu® & Janssen’s Talvey - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTGFXWk9WOVpJbzJSOXU3bHRjQzFCRUtKUmZ1R1pqUVBkWjBqUFI0cUxpNnprV3VtZXlaMUVzT2QtaFJHbjQyZUJwWVBnLXozMnFWSFo5QnI5THo3MmFUaUt5RUdIamk2b2U4TWFHX2FjcVFCenM0UFJpWkJrR1drb1R3Q1p6YjZnUjlYU2ZYTFBGVjRpZmhFME5HUUd1VmpTLWxSVEZ6VjJxckdKbkc4MWVjaHVaUWJwTkczamFkWGR2TmFJZzJ2Um9jbW4tWnhHS2JYSHdQbmRMUDEzbjJ3Vm5rSDhwSHdGWFZqU3dqZUhRN0ZYVnlrdzZNOXY0OFR6c2tKaDFuekw5NG5SN2ZiT1A4d3JKb3RsdVlN?oc=5",
+   "date": "2026-10-16T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "b78767e42b19",
    "source": "Google News: biosimilar",
    "title": "The BioPharm Brief: New Approvals, Biosimilar Competition, and Deeper Remission - BioPharm International",
@@ -1417,6 +1481,16 @@
    "title": "Beyond the Base Case: Why Biosimilar Companies Need Two Forecasting Engines, Not One - insights.citeline.com",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY1poNWFWYnE3UjBpdU4zTGRVWnEzbENzdmw0X0Y5V21FbDEwbFI3M0RYVVhBNXhLY1JYVmJEZlBCTk1tVWdjXzVUbGM0Vmg4WTN1bXhuYnFKSmsydXFoWmc4VUQ5OXhjZTUxWmRDRl9tUDFYb1kxRkJoM3BuTjlIZFRPN1k3cUFjc3Y1aWt1TkJyeHlfNU9qcDNQSkMzTGlRM1A4bjFYNW1peXdNVFYwZFFobWNiWkF0ckN2NXE0ZXBOSWZDNE5rSXVZSW5yc0JYSU41ZlNGWlZVeGx4YkdsV3JUbkRmUGFqYU91cUZ6QVFINDB1Z1Vrdmtn?oc=5",
    "date": "2026-10-15T07:10:34+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "39184b05ef65",
+   "source": "Google News: biosimilar",
+   "title": "First Biosimilar Ocrelizumab Approved in Russia for Biocad - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPajRycjBHaXJiaVp1c3drajZqSE0xLW9vblNzMGpCcm45b3BJSVpNZnNjbTNxN3pNTWFhZ2M2VlFORTdXLVFTeHVTUFQ4emFaZVc1bXk2ZGxWSlB0OGVfM0xIc1ZDMGVrV3BvSlRhdG84WE5uS1o2WkJzU2VLdDBJeTNiUjJhV1RWWlNTZEtTc0ZfZHdjYnhUNGNpTQ?oc=5",
+   "date": "2026-10-15T07:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -2110,6 +2184,18 @@
    ]
   },
   {
+   "id": "93ca11e7c4ef",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech and Advanz Pharma announce first known regulatory - GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQSWp5aVlnREE1RGdCQ0ZSYkZST25iNFBpdjJYSk1oWVRhSEZ2dHRteUtadndZOXkweXdvWjU4eGoyV3lHd3BjZmpWT1BDY1Vxa1hYMUdrZklxRE5BeDhFaE10TzE4c0Y5RlBxRkZibzBGWW9lbUNQMllWaFUzb29QMk5tT1RRSGhjaUNJOGV2OWQtNXJnZjVUSG5QckY3UThFblR4aEx1dVQ1azNTWEhBT1g2NFBuWGVmYmxsM00zblhxWFRyZ2FwMzBoU0E0SWI2c2xVakxRTHpkSTlwSEliajY1SkRmLVhqd3FrcnhtdllCZ3RrQm1JcjRzU2k1MWduLXlEd0E4TW9zVUwyb3ppV1Q5RnAtVS04R2hXRw?oc=5",
+   "date": "2026-10-14T08:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "90286d0f7eba",
    "source": "Google News: biosimilar",
    "title": "Germany's Formycon First to Enter FDA Review for Biosimilar of $31.5 Billion Keytruda - BigGo Finance",
@@ -2142,6 +2228,30 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "379ce7f38371",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Enters Global Settlement with Genentech for Biosimilar Pertuzumab - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnFkdWFmVXRiS0N6NVpEaEZGNmc4YUpoM3FtZUVJOUMydWdka3JfOU5uZmprbkdzVUdNaHc3aG04UzFjblFUSDRvanBnQXhScHhlRFJfZmxJa0kyd212OXZnYTBpSXFSY3ZjYkVieU13MFpTYTQwY2xLaGdvTEV2MTVlWXc0YVRvV0g3YnlHVXNBb1dXZ215c29DNk5uZDNxVzBsZFhqTVM3OG12WHc?oc=5",
+   "date": "2026-10-14T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "4ae3c6d3f99b",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech/Advanz Submit First Application for High-Dose Aflibercept Biosimilar - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOEIxYy14WFBVd2tGaHRmaDhQUktvbklwNldhbjNWVW55a0t5eEZ1dEt6LW9xa0o1REJITUY5dlhfT3JudFlGUDJ2Y1pRUWREVlpOSlVDVTl5V3JyMEROMElWczI4LWxVaElnOVVLeHAzMUcwWnRLSUxiVDN0RnFkVUQ4R29YdmhZN3pMZUFPZ3AyemRfcUE1VjFfSl92dTk3WFJXZURuX3hsaWlrdVZBZ3FRWnA?oc=5",
+   "date": "2026-10-14T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "8a8367532607",
@@ -2726,6 +2836,28 @@
    "watch": [
     "Formycon"
    ]
+  },
+  {
+   "id": "a250eac8fb2e",
+   "source": "Google News: biosimilar",
+   "title": "Formycon/Zydus First in Line for Biosimilar Pembrolizumab in US with BLA Accepted for FDA Review - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQWFyS0dKZWdXYjZkOUw2TGVDXzk0RzF2ZkJsOVZ2U2RfWlBtSDQtSHVmelpaUGlYSFJFZGlNWENub1FhY29zYlltNS1iY3Rwd3Q5eDN4OVNRdkp3V1E0THRsM3ZGN3d4aklDdjN3VFR5WDdBYThxVnQxUExGZWwyZzdDVnV5emtEVGMwNTN1X3BCbFRMVkMxeUpBOHppRVFnNmE1cHNGVEJvRzZ3SzNlV3d3eFI5bV9obXdiX0tpM05lMFN5WmlVcWc0N0xfdw?oc=5",
+   "date": "2026-10-13T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "647257217c71",
+   "source": "Google News: biosimilar",
+   "title": "Intas/Xbrane Complete Patient Enrolment for Biosimilar Nivolumab Clinical Trial - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcVEyb19SeWFwMjh2NnZRQWFxTm5LM0pZWmh1b3diRVFQZlhFSWlLVFg1Sktsa3E2MlVHN1pJUllHWUgwc2E2UXc0TUlfbFc4NkRXLXdnZnZhbXVqU3BmaVhZc2huaWd4VmtqMFhKQ1BDXzB4UlQ1R25jd21CQmh6Q0lTeC16Ul9Ic3c5REZBR3FlelZBSmFlamZ3Q2d2VHQ3RlpuM2tua1dYME9reEx5TUxyWjdLdkE?oc=5",
+   "date": "2026-10-13T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "0e1561394581",
