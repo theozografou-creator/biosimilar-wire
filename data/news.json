@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T06:48:13.679767+00:00",
+ "updated": "2026-10-20T09:40:19.481052+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,52 @@
  ],
  "items": [
   {
+   "id": "277eb5af5f8b",
+   "source": "Fierce Biotech",
+   "title": "Pfizer makes ‘business decision’ to end phase 2 trial of autoimmune drug as program’s future uncertain",
+   "link": "https://www.fiercebiotech.com/biotech/pfizer-makes-business-decision-end-phase-2-trial-autoimmune-drug-while-programs-future",
+   "date": "2026-10-20T09:40:19.481052+00:00",
+   "snippet": "Pfizer has called time on a phase 2 trial of its CXCR5 antibody in an autoimmune blood disorder, with the company tight-lipped on whether this is marks end of the road for the asset.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "37111da35607",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Announces FDA Approval of New Manufacturing Process for SIMLANDI Biosimilar to Increase Drug Substance Output - Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeEF1NzBsMmFlb1JzQ25aZDNxLThWLWgwdEtycUxBdWtPS1V3SS1CZF8zc2pzLU0tXzJVSllGaWFnRzJsOWNBX3RCTjdnVUxSeVhteFNiSWJPbklpUDlWZ1hmVld5N1BDSU1acXNaSDExMlBxSDduV1VIRklLX05PMnRmeVVOX1FnYk9oeWd2ZTY1Tl9senZ2YjVxbnB1MVZaakVWZzdYd01WUDk0T2ozRzBkSUhiY1ZoOTVIcV9lNmRnT3ZrRC1QNklsSDkyWXdCZVJlak53ZHNoWnY1T0p6NGNoN0Z1QQ?oc=5",
+   "date": "2026-10-20T08:40:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "436411639f3d",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech FDA Approves New Manufacturing Process for SIMLANDI, Doubling Drug Substance Output per Batch - Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTmI2QThPblgxX2Y2WTk0bHowU29HMll2dF9hekFrcF9iQVB0dnZuY0JxOXV0Zi1TZEg3bGhiUjhlZTBYckp2MHh1VWp2YVBWZzJ6Z0I2dE1Ec3c3OU80YVMtQnFWSTZ1NHlBSXhSbGROV05JVUE3UmxsNHg5dVVpbEg0M2RYTW0weDdvRHlRVlhTX1RYSkpwNnlaT3BfdVJQVEVMV3FfT2h3cExBMkVuNW55dUpjcnhyeXJIMVFjajZ1SGF2aldRMkgwNmFVdGtTMGlj?oc=5",
+   "date": "2026-10-20T08:40:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "6ebde524ccf7",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech receives FDA approval for new SIMLANDI® manufacturing process that more than doubles output per batch - GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPU2dHcFNYcVZTSzQtVllkSG15QVRZSE9Ldkl4cWNzY0lhODJhZW04Smoyc3N5MVk5cHRPaEJXUDNDSy1VQmZzaWhxS3dfdDU0ZnVCNUlJZllYQkJLUGIxTW96ck5KaXdPOXZRcWZTWExuNzBIODd3elpnN1RXYkI1VXZETG1PVWFvay1BS2NsN0FzeWR6a1NseVFnYWxkdnlOeTVLcE9QLXhseWZUZ2tmd2VDUTJmZkM4QlBxMTVXaEhDTWN5bWpQQUZRUE1VeFIzSU9IY3F3OWxZQ3J5Y0xQcVJCWGx0TzdKUlh3UTFTVGROY1l0d3c2UUtzUVIyV3JQbHVZQ0QyamNoVlV3Wmc?oc=5",
+   "date": "2026-10-20T08:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "c13d9fb389f0",
    "source": "Fierce Biotech",
    "title": "AstraZeneca taps Oracle to help improve recruitment for clinical trials",
@@ -71,6 +117,18 @@
    "snippet": "Ambrose Healthcare has bought AM-Pharma for up to 161 million euros, inking a cut-price deal for a biotech once courted by Pfizer.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "5eec6037fe08",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis secures 10-year biosimilar supply deal in Brazil - The Investor",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WMXJGZkpXLUljVGVGOHVHdWtJWDk2ZFhBZTdjWVk5TGJ4RGdkZ3doODNocm5CbnFKczhQTkcwZi1YR3FLT1BJZXhDLTMwSG15Yk1uSmZvQVNpUQ?oc=5",
+   "date": "2026-10-20T06:26:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
   },
   {
    "id": "cc797cc26898",
@@ -699,6 +757,16 @@
    "title": "Lupin gets CDSCO nod for nivolumab biosimilar - pharma.economictimes.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVXd2ZHlaNy0wNFR0TnRJVVBiMHdYQWFZbjI0Y3FOM25VRlJIT191OG5RR2FHSGV6QmJLRXVzQi1vdzFtRzN3anp4ZHJOc3p5OUUwOXJPS1JnRTgxYmpKTkRpZTNhS2hhMGxiclFSLTJQYk5nVDZhUVFMWVlkTVluR2UzLWo5Wnk1QXI1MjRRUUd2RHVWZGpKdVllaDFobDhGSGk4TlRLX0xXTWIyZ2F2aDRJamFsdEhLYXZZZE5Nc0tyd0g2V1ZRSUNzcXHSAdIBQVVfeXFMTzF1dDRBclRZc1MzQUtKM0tOVUIzUGxwT2g0Ti1HVDJ6YWNQa0cxZmZPdGlXc2xlOHZYMk45S3MxaTlLWGYzQVhjbDVRbU5QT29DNUpWeG9EUG04VnR4Z1d3XzFMcXNuSlNCRTR3cDVEdHJBeFVvVGYwMjkwNFlBUEhXZVlURWlMVDhuWkdrbFFmZnlHYWVEUmhGai01YTJYdURYSVVpVGotalowampXRHdDbldTY2tTQkNwdVRXR2Y4akdsbGducFhJVEFWWHcyLWx3?oc=5",
    "date": "2026-10-18T08:06:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "69403785bcde",
+   "source": "Google News: biosimilar",
+   "title": "Lupin’s Biosimilar to BMS’ Opdivo® (Nivolumab) Approved in India - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa29Ha25abi0zdnNfTl9iZEtOZTY5RmlmazBDcTFPUE1QY2JSZzhMOW5ORXluTDg1NkxSYjNja2tXeElHQndsc0xQY1pLOVRhMnRCUnNnS3hRdWY5cVA0cE9HUWNTMmVDTEduTlc4c3Rib3oyM1FIRkRqa1Q1b2I0Y3BENlliWFB3X2E2anNkbjhKZFFkOWgtS2FvQlU?oc=5",
+   "date": "2026-10-18T07:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
