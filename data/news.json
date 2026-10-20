@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T12:50:34.367024+00:00",
+ "updated": "2026-10-20T15:41:45.327908+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,106 @@
   }
  ],
  "items": [
+  {
+   "id": "7fa9d2ae41f7",
+   "source": "Fierce Biotech",
+   "title": "Lycia aims for $228M IPO to generate data on food allergy rival to Xolair",
+   "link": "https://www.fiercebiotech.com/biotech/lycia-aims-228m-generate-data-food-allergy-rival-xolair",
+   "date": "2026-10-20T15:41:45.327908+00:00",
+   "snippet": "Lycia Therapeutics is banking on a $227.8 million IPO as the biotech seeks to finance its pipeline of protein degraders for autoimmune, inflammatory and allergic diseases.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "30ceed97291c",
+   "source": "Fierce Biotech",
+   "title": "Rapport's phase 2 bipolar win strikes chord with analysts despite falling short of original ambition",
+   "link": "https://www.fiercebiotech.com/biotech/rapport-bipolar-data-strike-chord-analysts-despite-missing-target",
+   "date": "2026-10-20T15:41:45.327908+00:00",
+   "snippet": "Rapport Therapeutics’ phase 2 bipolar mania study has hit its primary endpoint, furthering the biotech’s efforts to make RAP-219 a multiindication blockbuster. However, the effect size fell short of the level targeted by Rapport and analysts ahead of the readout.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ccef4df3e6d4",
+   "source": "Fierce Pharma",
+   "title": "Antheia lands $80M conditional loan from Trump administration to onshore drug manufacturing",
+   "link": "https://www.fiercepharma.com/pharma/antheia-secures-80m-dow-onshore-ksm-and-api-manufacturing",
+   "date": "2026-10-20T15:41:45.327908+00:00",
+   "snippet": "The Department of War is allotting a conditional $80 million loan to next-gen ingredient maker Antheia, a move that will give the U.S. critical access to key starting materials and active pharmaceutical ingredients that are almost exclusively produced overseas.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ce6117878ccd",
+   "source": "Fierce Pharma",
+   "title": "Cosette lands FDA approval for Evoxac liquid in Sjögren’s disease",
+   "link": "https://www.fiercepharma.com/pharma/cosette-lands-fda-approval-evoxac-liquid-sjogrens-disease",
+   "date": "2026-10-20T15:41:45.327908+00:00",
+   "snippet": "The approval is for a liquid formulation of Evoxac, which was originally marketed by Daiichi Sankyo in capsules, providing an alternative treatment option for managing dry mouth symptoms in patients living with Sjögren’s disease.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d4be7bc265fe",
+   "source": "Fierce Pharma",
+   "title": "AbbVie hits the gas on immunology awareness with McLaren F1 pact",
+   "link": "https://www.fiercepharma.com/marketing/abbvie-hits-gas-immunology-awareness-mclaren-f1-pact",
+   "date": "2026-10-20T15:41:45.327908+00:00",
+   "snippet": "AbbVie has formed a multiyear deal with the McLaren Formula 1 team, signing up to raise awareness of immune-mediated diseases and provide funding for global charities.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4ebf7048a3e6",
+   "source": "Fierce Pharma",
+   "title": "Veradermics' hot streak continues with another phase 3 win in hair loss",
+   "link": "https://www.fiercepharma.com/pharma/veradermics-hot-streak-continue-another-phase-3-win-against-hair-loss",
+   "date": "2026-10-20T15:41:45.327908+00:00",
+   "snippet": "Topline results show the biotech's lead asset, VDPHL01, cleared all primary and secondary endpoints in a study of more than 500 men with mild to moderate pattern hair loss.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9f6b7cd04c13",
+   "source": "Fierce Pharma",
+   "title": "Amgen, AZ dive deep into Tezspire's Dupixent-challenging victory in EoE phase 3",
+   "link": "https://www.fiercepharma.com/pharma/amgen-az-dive-deep-tezspires-dupixent-challenging-victory-eoe-phase-3",
+   "date": "2026-10-20T15:41:45.327908+00:00",
+   "snippet": "With little time elapsed since AstraZeneca and Amgen unveiled a topline win for Tezspire over the summer, the partners are upping the stakes with a detailed look at their inflammation-fighting antibody’s prowess in eosinophilic esophagitis.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ccf65614cb96",
+   "source": "Endpoints News",
+   "title": "An EHR giant backs consumer healthcare",
+   "link": "https://endpoints.news/an-ehr-giant-backs-consumer-healthcare/",
+   "date": "2026-10-20T15:15:18+00:00",
+   "snippet": "Epic last week said it was launching a \"prescription marketplace\" that would allow physicians and their patients to compare prices for medicines at different pharmacies — all while in the doctor’s ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b29107870e6a",
+   "source": "Endpoints News",
+   "title": "Pfizer ends Phase 2 autoimmune study; Lycia aims for $227M IPO",
+   "link": "https://endpoints.news/pfizer-ends-phase-2-autoimmune-study-lycia-aims-for-227m-ipo/",
+   "date": "2026-10-20T14:55:11+00:00",
+   "snippet": "Pfizer halts Phase 2 autoimmune trial: The study was testing a program called PF-06835375 in the rare autoimmune disorder primary immune thrombocytopenia. The federal clinical trials database noted the halt was ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b86ab439f334",
+   "source": "Endpoints News",
+   "title": "Biopharma Sentiment Index | Q3 2026 survey results",
+   "link": "https://endpoints.news/biopharma-sentiment-index-q3-2026-survey-results/",
+   "date": "2026-10-20T13:49:20+00:00",
+   "snippet": "The latest BPSI shows dramatic improvements in biopharma conditions and a level of optimism not seen in years. It's official: Biopharma is finally in a good mood. For the first time since the four-year downturn ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "de2d15e853ec",
    "source": "Fierce Biotech",
