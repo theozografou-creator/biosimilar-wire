@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T09:41:33.870066+00:00",
+ "updated": "2026-10-21T12:50:08.778845+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,36 @@
   }
  ],
  "items": [
+  {
+   "id": "08a1d5340b68",
+   "source": "Fierce Biotech",
+   "title": "‘We’re getting back to stability’: CBER Director Karim Mikhail shares his strategy with Fierce",
+   "link": "https://www.fiercebiotech.com/biotech/cber-director-karim-mikhail-tells-fierce-he-feels-people-deserve-leader-whos-present",
+   "date": "2026-10-21T12:50:08.778845+00:00",
+   "snippet": "The FDA's Center for Biologics Evaluation and Research (CBER) is recovering from the most turbulent period in its recent history. The captain tasked with steadying the ship is Karim Mikhail, who was appointed as the center's director on a permanent basis last month.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "25d7f62c91f3",
+   "source": "Fierce Pharma",
+   "title": "GSK brings promise of 'functional cure' to hepatitis B finish line with FDA nod for Hibsago",
+   "link": "https://www.fiercepharma.com/pharma/gsk-brings-promise-functional-cure-hepatitis-b-finish-line-fda-nod-hibsago",
+   "date": "2026-10-21T12:50:08.778845+00:00",
+   "snippet": "With the FDA’s green light in hepatitis B, GSK and its Ionis-licensed medicine bepirovirsen have racked up several notable distinctions, bringing the antisense oligonucleotide class to bear against the virus for the first time alongside the promise of functional cure-standard ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "db977495d576",
+   "source": "Endpoints News",
+   "title": "GSK gets FDA approval for hepatitis B drug that offers functional cure",
+   "link": "https://endpoints.news/gsk-gets-fda-approval-for-hepatitis-b-drug-that-offers-functional-cure/",
+   "date": "2026-10-21T10:12:55+00:00",
+   "snippet": "The approval of GSK and Ionis’ chronic hepatitis B drug bepirovirsen came early, setting it up to eventually reach blockbuster status. But the FDA gave the drug, now branded Hibsago, a",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "5272294ba1e3",
    "source": "Fierce Biotech",
@@ -127,6 +157,18 @@
    ]
   },
   {
+   "id": "fd00d015b794",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion Breaks Into 9,000 French Pharmacies, Accelerating European Distribution Expansion - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fVjFpdVlxSHpqZ2xwYjNSZGlWOE80dlNWN1Z5SGhBX21vYmVzakRjVnE3U256V183Qkx3RV9CLXc4WU9WOGxWVmdzeXgwYVZqZjI5TUZoeTVPQ0JEWThDcWxKU2hZakNHT09iNHZDRTNFM2x5dXc?oc=5",
+   "date": "2026-10-21T01:35:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
    "id": "1febbc444aea",
    "source": "Google News: biosimilar",
    "title": "Celltrion taps French pharmacies to extend record run - Aju Press",
@@ -148,6 +190,18 @@
    "biosimilar": true,
    "watch": [
     "Biocon"
+   ]
+  },
+  {
+   "id": "7c8e8d4ef315",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Wins 10-Year Rare Disease Drug Deal in Brazil - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY3RnNmwtYVVraUhWQWdnMnZKWi01eE53Wk5BUjlNY0QzYlpONTAzVkhCTjVXaE1DX0NhRFBFOF84X3Q1M3E2ajBpc0UwbXEwRERoaXczVEJjMm03SWdYUG04LWpxWFpBcXc1Mk04aFQ5RTlNVkVvWE1sTy1kRkQ2RHVuT1B0cU9DWXl6X2xKekZ6NmtFZ09qX3IxdUc?oc=5",
+   "date": "2026-10-20T22:00:05+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
    ]
   },
   {
@@ -180,6 +234,40 @@
    "title": "Biosimilar Filing Could Be A Game Changer For Alvotech Stock (ALVO) - Simply Wall Street",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMk5FLTNwcUFxanRZZF9wb0Y0cDFOWkpFdU9IakNuWkQ3Z3hNODI3aWRnWjJ2Y0U3TTg5LS1UaGhTRHpUUk4tejNJX1pVQmpYbWFSbmc0VjE5WGVkY2xIZUlKQ0U5YmwtTEk2UVgwRkdEOVR4UDNtcGttNlJlblZJdnQydTNwaEtqck5sSTh6ZUxPNGcwTm5IS1pMa3cwc0dxOTJadE5NME9xQXBkbEFJU1lOMlktWENlNlpTNUZxWGUzSkEyNEZtbXBPTldhMzJuaWE3Zno0X1VYZ9IB3wFBVV95cUxPWGQ1LTNpTmRfNmZiby0ySGV2QjVjODBHRWR2emVtT2RUbkgzQ1JidldSZF9BTEpLaFBTSm00TlFmcW9GLXZ2UzZiRTd3RDRRblZtdFQ0UWdxdjd0QnM3Tjlscmp3QmlsTGlOS3RzdWlmbHBuSFdFQVpBS2tkWjFkME5lMm5IOVZmbUdUamlsQVNhSmU1QmliUndwUDZpclhVWnFCd1lLbXpwMjBmZWhGeXNqMllsNzVRSEhuRnFnV1FmcFJVblZVcUlTUzNKNkxMYnVxOEtXNi1pdGxIZy00?oc=5",
    "date": "2026-10-20T20:35:08+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "27ba1cae2e83",
+   "source": "Google News: biosimilar",
+   "title": "UAE to expand local production of medicines for cancer and chronic diseases - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkxEOXcxTGlXMTkzRW5oNENtOGo5NngwVGN3LTZVTDNZQVRnQWgzZ3VWcldfcVNubElPQXdVR2ZRNHd2bzVDQ1l0ZzhKQ2lFckdvOFJrQjc5cGZ1OTdQTnVhcnlIZk80ZTBpLWRUdGRUbHN6djlOTFZYVW9Ha0JOVDk3bGxGeVR4dDNfLUhiN3pFNVZJSXNEa1pVRTQ0YzJxSW1yZGZSS0JTSVhDRmxseFY0N1g1aFI5UEN3?oc=5",
+   "date": "2026-10-20T20:34:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "8bfdba658891",
+   "source": "Google News: biosimilar",
+   "title": "FDA Clears Alvotech Process to More Than Double Simlandi Drug Substance Output - www.tokenpost.com",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01NTFjMng5UVRpc1UzU2NTQjAtRnBzWkpkWGtNX3lHcjRPRDJsaTJTeHdENUppTTZZelkwSURTZFZacXl6YVU5VkVmOHoyaG9tV0wzUEpoVWczZEk?oc=5",
+   "date": "2026-10-20T19:33:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "d1ebc8aa44cb",
+   "source": "Google News: biosimilar",
+   "title": "Can Alvotech (NASDAQ:ALVO) Turn Biosimilar Momentum Into Growth? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0toSW5GZjhsR3lfeThFTkxkRjBMdERZeWhaTy1rZ0dxQzhLa1BwaHAtVEVvbTM5UWJ1Vlp3OEdIWHlySzFyenI4Ni1ob25xSGV3eEVkVDFkemJYZElxS054OWNMLWtNak90TjBhRmhlV1FkM0UwQmR6ZnVpRnZpUWs0Z2J3cU92bndrWk5FQjJWMHJhTGIzdERSNVhHZ1dUM1NaMmFxRGpwQQ?oc=5",
+   "date": "2026-10-20T19:01:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -265,6 +353,18 @@
    "snippet": "Despite what some analysts described as low expectations, RAP-219 narrowly hit the main goal of a mid-stage study, results that could help it tap a billion-dollar-plus market opportunity.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "9a511e66b7bf",
+   "source": "Google News: biosimilar",
+   "title": "Zydus, Formycon move to front of Keytruda biosimilar race - BioWorld News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYXdwQ0pBVjRCUWNGcU1oN0RCWnoxblJrQW02TUJhcmdUcVcxVUc4bWZxQTh1YnpQbnZfX21CdTgzalV6TTVCSE95TUlmRm1oclAwc1pyeHd2QlJDMlo0NmlHeXhfMURYa0ZFVGdQN20zajRBMVJiNnE4cDV4ZzFMY084SENlNlF3dWtlYkNfX2xSYi16QW1GRUlJZEkwdw?oc=5",
+   "date": "2026-10-20T16:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
   },
   {
    "id": "b1cbf2d90d8c",
@@ -367,6 +467,18 @@
    "watch": []
   },
   {
+   "id": "a991f480530c",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech gets FDA approval for new SIMLANDI process that more than doubles output per batch - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGQ0RG1HXzRDUnkwZ2NTcGd6RlU0VzlEazFyNzh1b2ZCQ0psb0p6aExsNTVLcGRYSTRveEgyMjgtUXVPSFdiVWZJTWhiS1lRckptRlBlekJuS3Z4SVZyeU5pUU9mOHFLR3FyQmcxeUNTTndldjQwVEV3WWZFYTZqRV9MQ3hDbGVkekNtem1pOEhKMDRXLW4wUl9QcGlQYlEtQjhrMnBHUWhHbVdGaHZwLXpjTk1EUUc1M1FvMGFLZmNWVXc?oc=5",
+   "date": "2026-10-20T15:11:16+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "b29107870e6a",
    "source": "Endpoints News",
    "title": "Pfizer ends Phase 2 autoimmune study; Lycia aims for $227M IPO",
@@ -426,6 +538,18 @@
    "biosimilar": true,
    "watch": [
     "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "ce3149d1acc0",
+   "source": "Google News: biosimilar",
+   "title": "Why Is Alvotech (NASDAQ:ALVO) Up 7.95% Pre-Market? FDA Manufacturing Approval and Three US Biosimilar Decisions Due in Q4 - kalkine.ca",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZW9JbFg4Z2FZd3k5V0VzR0JHTXpHRGlGQzhZR0F1elhfTktJMk5INFlneDNpNjJSRTY5WDhveHR6ZDRvbUd2RUxSZHFEUVJwSVlDMzVJRDdPUlR5aXJRbjBBdEktbEh2cGUwTmp5bmFmVlpxaGh2b0xGdjZ3MVZRc05TZDJnUXBKYnpFSWFFS0NZZ0s1UGg0S3dlZURwN2JVUlN3UFlNcXlQelYzUmM3THRZeTNENjc5UFJxVnpOTmMyZFB3aEc0N0RIYzlKSE82NVBkcXUxaVNPZDA0VWVGQ2dKZG5CZzQ?oc=5",
+   "date": "2026-10-20T12:42:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
    ]
   },
   {
@@ -553,6 +677,18 @@
    ]
   },
   {
+   "id": "50130b97f9ed",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech's new FDA-approved process doubles SIM... - Pluang",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1N2WUcybll6TGdxcXd5SFI4Tl9qZDQ1VkRoeWMyUEhNaEctMXZSOVdVVlZ2aFhtTExVT0sxTkFmalFCM05Sd0gtQ3Z6aFh4eWNmVVhldXJfR2s3LW1TQkVlaEtMcHhwQkIzdjNGRjhWOE54QU0zZzFXd09ReHNjTVdIWXhkclRUZ1dRV3JqcmpQeVVjcTZqTkdwa2RkdXh4STduZWJUQ05UUQ?oc=5",
+   "date": "2026-10-20T08:54:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "37111da35607",
    "source": "Google News: biosimilar",
    "title": "Alvotech Announces FDA Approval of New Manufacturing Process for SIMLANDI Biosimilar to Increase Drug Substance Output - Quiver Quantitative",
@@ -574,6 +710,18 @@
    "biosimilar": true,
    "watch": [
     "Alvotech"
+   ]
+  },
+  {
+   "id": "b56fb74189e7",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz adds 10 biosimilars as Sandoz stock reaches CHF 32.9 billion value - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdHNOZjUxQ2xFckdLWndrRUFKdTF6VzktcUVUY1R3TWd1SXpQZVJtOHUwa0lpRm16c2Q5N3Baa0U0MVl6VnZqUENSSGl0R2FZajlybm5fNTRXYi1ydTFrUVJTUVBCemxfWVktb0RxX0lucV9KZER4Nk1nM0VVdWFBajlXOEloYmw0ai1vQmhGSWNOOHhDdHpEc2wtWjh6QXZSbkxDckY5MTBSSjNQRm5RNFE2cU8tdklsYUVVSzhJTFpoN0J4eUZBX0RPN1lfTG9EN0E?oc=5",
+   "date": "2026-10-20T08:35:52+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
    ]
   },
   {
@@ -641,6 +789,18 @@
    "source": "Google News: biosimilar",
    "title": "Alvotech Receives FDA Approval for New SIMLANDI® Manufacturing Process That More Than Doubles Output Per Batch - Yahoo Finance UK",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMzEwM2VWRWdscVJic0dRVGZmdi04TnJaT1BOWlo1eHBHV1ZwMmFOc2o1YThXRklRdjJ1NTZQZjcyZV92Zk02emRjR25heWpiTjd4M2l5aWptOUlmRDFYRkJSanRCTVY4MVlWRXlCaElFVGoyVGo4THZacC0xQXRkZzc1NmtSc2NjT3dYc1k4TkRUZw?oc=5",
+   "date": "2026-10-20T08:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "b0dfe55da470",
+   "source": "Google News: biosimilar",
+   "title": "FDA approval lets Alvotech make the same amount of medicine in fewer batches, freeing capacity for other products. - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0FLQlFNLUxwcFhxc1owLXlIU0w5RFd0NHIwcEV2bHhGeVZkYklUZWoxN3lLLVRyVjZwS0hhbXRjX2lYUS0yektudHUzYTQ1S1c3Ri1qZnoxMHhiVzJMNGk0aHViWkZiRTlpTTlQRExwUHBmU3RYRGgzeDZZbUU3ZmtlT1RCbi14YkJ1QzlNREYwWGppLWs3T2pvSWlhTjVzYVd1S2cwU2hjSGxpR2d2YTdlRjZ2S2M?oc=5",
    "date": "2026-10-20T08:30:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -717,6 +877,30 @@
    ]
   },
   {
+   "id": "af937cbed726",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis secures 10-year exclusive drug supply deal in Brazil - The Korea Times",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUVpTWR6LWxGWUVGUU5MQjlWTVNVUExubEtvcTNudTdDNE92ampMZlA4ajZtRXpGMlVJQ0dlWWtHMDl6S0w0d3lIX3BXc3kxUUVCN3NUTURwXzNDNW9NNVRBbmNiRzFtSURQbGVGSjIyRDV1OTJBSUJUZlNmQXVHQlZ1ZV9MV0ZHMWRreTVHNllPN1hPWlVWcWtfMFBuRm5nZlV5LVNXckFtQmsxclRYajk1RVUtaGVpMVVFT2hvdkFfc3PSAcgBQVVfeXFMTzVyQUhVamdMYlJyUlhGWGcxbWU0eU8xSnotbjVzQzlpQmppVmdwNmpKOXlOZHRTQmFYUC11YWx0cllDczAwbnF5ZG1IdjVVWmwzdVNrZjNOdUpQdkxuTmpvLXJPaEN3dzZFTXBlZUVtOERIUlM2SUxEVmVaN1pJRThqd1Vqck1ETTJ2elNTTjl4eUFuVHAxM256Q3JqMEQ3VWNxbFM2SWRMMWt4bEpMZHVfSXY3d1ZnV1dZTXZ2ZkZqRE1WcnJEY08?oc=5",
+   "date": "2026-10-20T02:17:02+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "e6f2abdf7ae4",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis targets Brazil’s rare disease treatment market with 10-year supply contract - 파이낸셜뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoMVcxNjhKcDRrZzBoTkxENUpGOFFwdGtmYW54UnZucExPWER4Ui1PMnpGM3h2T0ZEZHF2UW9vQTE4UXVMbERRNXVQQTkxQzlRcV9JY055YU8?oc=5",
+   "date": "2026-10-20T02:01:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
    "id": "9b3e60816ab2",
    "source": "Google News: biosimilar",
    "title": "Samsung Bioepis Secures 10-Year Exclusive Supply Rights in Brazil's Rare Disease Drug Market - BigGo Finance",
@@ -734,6 +918,30 @@
    "title": "Samsung Bioepis Secures 10-Year Exclusive Supply Deal in Brazil's $170 Million Rare Disease Drug Market - Businesskorea",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PWEM5b0JZVGZxZGVuVXF1V0RFRnRxMEJyNFBfUmgxVG9sODZENkVDLXNHV2hFelplY3ZwUE1sZ3UwdXFvVUJBb2RQZVF1S3VuMVhuVjlKN0ZNVVFCN1pISXlGRWlNUElyYVFmbDJUampjR01V?oc=5",
    "date": "2026-10-20T01:27:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "0e3399199ffc",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis to Supply Rare Disease Drug to Brazil for 10 Years - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaVIxdFM3OF9tM1pFd3BLT3Y4S0ZYM2ZudjRqd0JZZFZHaEdmRmFZQ0NBTHB2X1QxakRJWHZ0NEVPZFN3N1pZRWVlOFQwaGxvdXZnYWtBVWJGRVo0WktubW8wZXVhbHFtNE91Vjhja0VUNFdhMVhSSVphY1RiMGlPMWpJR2NDcWd4WHFTTmZ0S0NFU2xHOUZHV1J2Q1hTU282?oc=5",
+   "date": "2026-10-19T23:57:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "d89239d2c22d",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis will supply a treatment for rare diseases to Brazil, the largest pharmaceutical mark.. - 매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jcEpFZmV6bTJSenV2aDFhYVdkcGRwcmR1Y2ZmY2ExNDd4ZlpoOW5jbVZWejluR1hKbTFpeldjbXI5ZS16cDhvRlZ2VQ?oc=5",
+   "date": "2026-10-19T23:32:13+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -1007,6 +1215,16 @@
    "title": "Kaiser’s formulary chief makes his case for a ‘total value’ model on biologics | HSES 2026 - Managed Healthcare Executive",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORDlzQThMdWs4MVdLdjhzakZFcG1IQ0g1dWhRY1FZMVBmNG5tc0FBR1I4YklOVjdDaG9QUFdsVjhxOUpxdGIwcGlSbEhsaFJJbWNuZnBvblFkUkFHSkc3ZlBBelpHMEpUNkZqX0xVNGYwQ0ZPY2ZLUkJORDJMTGlJTHMzQkJZNGdLY1BiZmlET2dTM19FeFF6cF91Y1dkWXVWS0phTnBvTEkzdG9mNmlQbGRKbG9wc1ppVUpr?oc=5",
    "date": "2026-10-19T14:36:06+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "3f4f280e7e1a",
+   "source": "Google News: biosimilar",
+   "title": "UBS reiterates Buy on Abbott Labs stock, cites biosimilars pipeline By Investing.com - Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejVfQ211aV8zZ2s4YURXWFlMLTRUOVMyQWpjLXNpc21KbDRyQWFlcmU3T1FHLU5nMlp3eFpXUzQxV1FyTW1CTVo5dWFWcUEtaFhVdUczYS0yUmRJY2s2WXA2T0Z4dnQxa0Z5VUt4ZThOREZUMzhzSG12dTRCUFlEVzdnUmxmM1dXX0lkR0hKRmZFbGtGcEM3eVhwNm9rM19YSVBBRkxDeEdXMHlZWkxId090WnNfRGI5UVBkVWE4NzdBMkFpaXc?oc=5",
+   "date": "2026-10-19T14:27:20+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
