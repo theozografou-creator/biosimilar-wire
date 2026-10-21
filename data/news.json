@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T00:51:16.882097+00:00",
+ "updated": "2026-10-21T03:40:48.793094+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": ""
   },
   {
@@ -509,6 +509,30 @@
    "source": "Google News: biosimilar",
    "title": "Alvotech receives FDA approval for new SIMLANDI® manufacturing process that more than doubles output per batch - Yahoo Finance UK",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS1BSYUhjQWRPd3FQeWpOR1hrRDJZYTB0YzBabVd1S1pobGhwdkRpTnNKNjRFR0pBTmwzSVo3MWNBYzdCUm9Qd3c1bUpJM3p4a3MzeUtiNVM3WTZmMnRSelJzWWNvd1dtV3h0b3NqMVNveWUxYUFqVjFYamJ1amlhRjIydFFNLWluR0RhQy16QU9HZw?oc=5",
+   "date": "2026-10-20T08:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "d8092e833a6f",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech receives FDA approval for new SIMLANDI® manufacturing process that more than doubles output per batch - GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNV1lsMnRTdWFPMW1PbHBiN1k0aHAwY1MwXzkzNWczem5jemh4UTZxU2lUYTg1QV9Uc0dnTS0yQ0pMWWxUeVNkUnl1TnNXSDY0WGwzU3oxdzViUUdKcUJhRlVHV1NIRW5reWJhR1pkQ0tMN0N3OHNya1FTS0JXVEdtamlKb0dvVEluMGU4V19hOWFNaHEzd1NQV3lUdDgwbE5YQzJoYURJTDgyUThRVndfTFJ0ZUYtd0Y1OVAycUxXOC1jV25zcjc3WlBqd19pd1l6V254TEZ5ZS1NNUJ2T0V4dU50dWNEZnlzYjNqN0dwWXZ5VHAtelFJZHVReGxuNE9mdEZFS3RwWmFYanZ6S1ZOWm9B?oc=5",
+   "date": "2026-10-20T08:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "9fcf0f914a73",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Receives FDA Approval for New SIMLANDI® - GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPT0txU3dKUUhHWjhGWEEwdzVNNkpTR0Z2S1ptV3M3ejVRZlRKZWZlMTlwdVFfN2hmZDRQMS01M2txeG5udlN0dlZTeGxrVThEQVphd19LSmloR1pQOWNUYlRDSWdjRDZHQVpoY1A1Z1ZyVWhtVmJiakp2MHMzejFpUnRoNFJxZ3E2Z01BMmRwZ2xZWDRKcFNNWDdIYlA3UDhwSkhYYWx2c0dnbDNiQTFpUGxyb2JFLWlQZVB5b1l4UXZNUmJxOEU2QWZjT3ZCNTIyLVkyYmxZS2gtLVZza2pyTjZXdlpUb1c2VzB6MmF0S0FvdUQtWjhwTUNVTmFpLUhjWXpKSmY2VEVaeVR0dUtobEhn?oc=5",
    "date": "2026-10-20T08:30:00+00:00",
    "snippet": "",
    "biosimilar": true,
