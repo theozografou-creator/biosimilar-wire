@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T15:43:20.553006+00:00",
+ "updated": "2026-10-21T18:46:23.167100+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": ""
   },
   {
@@ -52,6 +52,66 @@
   }
  ],
  "items": [
+  {
+   "id": "49fa10ee03ef",
+   "source": "Fierce Biotech",
+   "title": "‘A two-way conversation with the tumor’: Researchers use ‘avatar’ to predict immunotherapy responses",
+   "link": "https://www.fiercebiotech.com/research/using-tumor-avatars-predict-patient-immunotherapy-response",
+   "date": "2026-10-21T18:46:23.167100+00:00",
+   "snippet": "Researchers have explored a revolutionary way to predict a patient's response to immunotherapies by creating a tumor “avatar” from biopsies.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6f81e199595a",
+   "source": "Fierce Biotech",
+   "title": "Myriad Genetics to sell off Prenatal Health testing business to Labcorp",
+   "link": "https://www.fiercebiotech.com/medtech/myriad-genetics-sell-prenatal-health-testing-business-labcorp",
+   "date": "2026-10-21T18:46:23.167100+00:00",
+   "snippet": "Myriad Genetics is selling off its Prenatal Health testing biz to Labcorp for $210 million in cash.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "914de881633d",
+   "source": "Fierce Biotech",
+   "title": "Hologic snaps up Reveal Genomics to boost genomic diagnostic reach",
+   "link": "https://www.fiercebiotech.com/medtech/hologic-snaps-reveal-genomics-boost-genomic-diagnostic-reach",
+   "date": "2026-10-21T18:46:23.167100+00:00",
+   "snippet": "Hologic is acquiring precision oncology company Reveal Genomics.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c61dce973147",
+   "source": "Center for Biosimilars",
+   "title": "Biosimilar Uptake in Europe Reached 40.7%, With Wide Country Gaps - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHZNckhYaVIwR0l1UDNhTFBDZUpqeUFMT0lFTl9FcU5lejZubnQ2MWFDWVowcjZyV25fbXVpLWJ0ODBjZ0w4OXFBNmRMcU4weUw4NTZteTNCb0M1RHV6Wi1wOW9OZFJtbGtXa1NreW5BR2NXVjFVcjFhd0prOUVTT1Q5aUg3MXVkb0FoTU5oek9tWElTS0I5eERfSUhsdmtaVWpRd21FUFg?oc=5",
+   "date": "2026-10-21T17:45:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "5571b4a19677",
+   "source": "Endpoints News",
+   "title": "Samsung Bio union to contest court ruling blocking worker strikes",
+   "link": "https://endpoints.news/samsung-bio-union-to-contest-court-ruling-blocking-worker-strikes/",
+   "date": "2026-10-21T17:04:27+00:00",
+   "snippet": "Samsung Biologics may have won court approval to block upcoming worker strikes, but the company's labor union plans to appeal the decision and take further action. The labor group for the contract developer and manufacturer ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8affbf3de03f",
+   "source": "BioPharma Dive",
+   "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
+   "link": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
+   "date": "2026-10-21T16:03:00+00:00",
+   "snippet": "Hibsago is viewed as a potential “functional cure” for chronic infections and an important part of the British drugmaker’s goal of reaching £40 billion in annual revenue by 2031.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "1f099afd3bdb",
    "source": "Fierce Biotech",
@@ -298,6 +358,18 @@
    "biosimilar": true,
    "watch": [
     "Celltrion"
+   ]
+  },
+  {
+   "id": "253cfa448177",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis' first ADC candidate wins FDA fast track status for urothelial cancer - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lQTMzOHMyNXZ3SW1LU3BBZ2EwdkJaUTRwRUhfVmJmM0R3V2RnekJsQVltVW5YRzBmRE9OWmc3TmtJdGlPNWloQ29yZHgtbnpxQkFqUHY2NXdXQk8wdTdfTkwzcGZOM3FrSG1xZThn0gFyQVVfeXFMTzBxZTdXXzlubG5UWVdZMGh3ajRpbTFGM3BqMFp0ZFdJcnVJQTUydTFKOXR1cy1XS3YxNlJFRzd6NndSTHJjVXV5QVFvb2txY2FtTWRWOGZ1bnQ1Q1NackdLeU5NT3NpejRRUW1qdk9VT0dB?oc=5",
+   "date": "2026-10-21T00:15:59+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
    ]
   },
   {
@@ -617,6 +689,18 @@
    "snippet": "Pfizer halts Phase 2 autoimmune trial: The study was testing a program called PF-06835375 in the rare autoimmune disorder primary immune thrombocytopenia. The federal clinical trials database noted the halt was ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "e643f33653f5",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech receives FDA nod for new Simlandi manufacturing process - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0NJOEw5SFA3dmNYNGRZMm1xNXlRbVA2QVF1TnRrQ1RsNGRlS1hXSFZXTDNyWFBwMk9oMzZzRVRqSm1NSjNKeVVONDRxWE1WRnJaUnNOT0ZUaXVBdW4yZE4wb3lCSWV0THNYRmliaU1BVzF0Z1E5c04zdmFLM084VUNoVGdNeks2eEhqWEVfRQ?oc=5",
+   "date": "2026-10-20T13:54:45+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "b86ab439f334",
