@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T03:40:48.793094+00:00",
+ "updated": "2026-10-21T06:49:39.029699+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,48 @@
   }
  ],
  "items": [
+  {
+   "id": "1faa7ad28406",
+   "source": "Fierce Pharma",
+   "title": "FDA solidifies stance on mobile apps, software used with prescription drugs in final guidance",
+   "link": "https://www.fiercepharma.com/marketing/fda-solidifies-stance-prescription-drug-mobile-apps-software-final-guidance",
+   "date": "2026-10-21T06:49:39.029699+00:00",
+   "snippet": "The agency clarified its framework for when drugmakers should include prescription drug apps in their labeling submissions or when app content should instead be treated as promotional material.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "86ecc135b041",
+   "source": "Endpoints News",
+   "title": "Lilly’s retatrutide creeps closer to market for sleep apnea",
+   "link": "https://endpoints.news/lillys-retatrutide-creeps-closer-to-market-for-sleep-apnea/",
+   "date": "2026-10-21T06:00:22+00:00",
+   "snippet": "Expectations for the launch of Eli Lilly’s triple agonist retatrutide in obesity, due next year, are at fever pitch. But the company is also lining up data in other indications with the aim of eventually ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "70ff2b4589df",
+   "source": "Google News: biosimilar",
+   "title": "HSE could be saving nearly €150m annually by using more biosimilar drugs - The Irish Times",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2p0S2V1UXhfejJjUTZzaGJQVVNuV202R3E4R3dYSkVGbHdnSWZ0ZHBxODZpYk10b2dLRU1TMkxqRVg3M2tiUGVLMENwbXVtY2Myc2ZySGk5LUJybXVrVjJKTmhHSkp4VU9iMlFLSHBvZWw4cmpRM2I2XzZRZEZyV1RDNUZvc3ZzTHZ2Q1lnc3ZfLXhQRzlIRHQwRkRLZVZKUDdoT0c2NlJDWGRFWklWczBzODF2NG1tNWJB?oc=5",
+   "date": "2026-10-21T05:02:02+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "0532773391c3",
+   "source": "Google News: biosimilar",
+   "title": "Formycon Says Fyb286 Expands Formycon Biosimilar Pipeline Targeting Niche Indication - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPejY0Z2xpNlE1VGotRlhQNjd1NWhRVXl0R0RaeGNram5hemxaRXhHS1hMNXFxMjVreDJZVldRbHFxUWlBbEh1R25jSDRpSjV0dm1YaVU0bzdSY3NnWTkyVGF4R2JZUS1acTFfdVVGUjRGM2lIc0NYMEFIQnZKdDZEcnRseWV3ZHRYUndwUkdFcWdSa3VvRzZjamJ2TjVvdGZCOHhRMDg3QnBfMmExbkE5LXdJallRcWY1UGxLVFFsQnFlRVdyZEREOFMyNXY2endiV0hicEtVVGF1YXo3RTJub1A2NVYtT3IzdkE?oc=5",
+   "date": "2026-10-21T04:39:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
   {
    "id": "a014090e58a7",
    "source": "Big Molecule Watch",
@@ -533,6 +575,18 @@
    "source": "Google News: biosimilar",
    "title": "Alvotech Receives FDA Approval for New SIMLANDI® - GlobeNewswire",
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPT0txU3dKUUhHWjhGWEEwdzVNNkpTR0Z2S1ptV3M3ejVRZlRKZWZlMTlwdVFfN2hmZDRQMS01M2txeG5udlN0dlZTeGxrVThEQVphd19LSmloR1pQOWNUYlRDSWdjRDZHQVpoY1A1Z1ZyVWhtVmJiakp2MHMzejFpUnRoNFJxZ3E2Z01BMmRwZ2xZWDRKcFNNWDdIYlA3UDhwSkhYYWx2c0dnbDNiQTFpUGxyb2JFLWlQZVB5b1l4UXZNUmJxOEU2QWZjT3ZCNTIyLVkyYmxZS2gtLVZza2pyTjZXdlpUb1c2VzB6MmF0S0FvdUQtWjhwTUNVTmFpLUhjWXpKSmY2VEVaeVR0dUtobEhn?oc=5",
+   "date": "2026-10-20T08:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "de086ff30fe1",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Receives FDA Approval for New SIMLANDI® Manufacturing Process That More Than Doubles Output Per Batch - Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMzEwM2VWRWdscVJic0dRVGZmdi04TnJaT1BOWlo1eHBHV1ZwMmFOc2o1YThXRklRdjJ1NTZQZjcyZV92Zk02emRjR25heWpiTjd4M2l5aWptOUlmRDFYRkJSanRCTVY4MVlWRXlCaElFVGoyVGo4THZacC0xQXRkZzc1NmtSc2NjT3dYc1k4TkRUZw?oc=5",
    "date": "2026-10-20T08:30:00+00:00",
    "snippet": "",
    "biosimilar": true,
