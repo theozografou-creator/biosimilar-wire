@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T06:49:39.029699+00:00",
+ "updated": "2026-10-21T09:41:33.870066+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "5272294ba1e3",
+   "source": "Fierce Biotech",
+   "title": "Biotech reverse mergers rebound to highest level since 2021 as PIPEs flood market: report",
+   "link": "https://www.fiercebiotech.com/biotech/biotech-reverse-mergers-rebound-highest-level-2021-pipes-flood-markets",
+   "date": "2026-10-21T09:41:33.870066+00:00",
+   "snippet": "Reverse mergers have returned with a bang. More biotechs have taken the back door to the public markets so far in 2026 than in any full year since 2021, according to J.P. Morgan, with institutional investors backing many of the newly public companies from day one.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dcde25083d68",
+   "source": "Fierce Biotech",
+   "title": "Advocacy organization launches data dashboard to better assess how clinical trial sites perform",
+   "link": "https://www.fiercebiotech.com/cro/society-clinical-research-sites-aims-strengthen-site-relationships-data-intelligence-dashboard",
+   "date": "2026-10-21T09:41:33.870066+00:00",
+   "snippet": "The Society for Clinical Research Sites (SCRS) has launched a data intelligence platform to offer fresh insights into how different locations compare.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "1faa7ad28406",
    "source": "Fierce Pharma",
@@ -92,6 +112,30 @@
    "biosimilar": true,
    "watch": [
     "Formycon"
+   ]
+  },
+  {
+   "id": "8d99a5615626",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis' first ADC candidate wins FDA fast track status for urothelial cancer - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wcWU3V185bmxuVFlXWTBod2o0aW0xRjNwajBadGRXSXJ1SUE1MnUxSjl0dXMtV0t2MTZSRUc3ejZ3UkxyY1V1eUFRb29rcWNhbU1kVjhmdW50NUNTWnJHS3lOTU9zaXo0UVFtanZPVU9HQdIBckFVX3lxTE8wcWU3V185bmxuVFlXWTBod2o0aW0xRjNwajBadGRXSXJ1SUE1MnUxSjl0dXMtV0t2MTZSRUc3ejZ3UkxyY1V1eUFRb29rcWNhbU1kVjhmdW50NUNTWnJHS3lOTU9zaXo0UVFtanZPVU9HQQ?oc=5",
+   "date": "2026-10-21T02:24:59+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "1febbc444aea",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion taps French pharmacies to extend record run - Aju Press",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ockRvQzJ3cm5EWDBmSURGRXV2YXFIQ1NXRmtWclpTY1VWM2E3bDh2ODY4anZDYVE5Mm1mOC1KYnVfQ05TZjc1YW1vZS1pc2RJSTJSd1ZJb9IBV0FVX3lxTE9ockRvQzJ3cm5EWDBmSURGRXV2YXFIQ1NXRmtWclpTY1VWM2E3bDh2ODY4anZDYVE5Mm1mOC1KYnVfQ05TZjc1YW1vZS1pc2RJSTJSd1ZJbw?oc=5",
+   "date": "2026-10-21T00:46:06+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
    ]
   },
   {
@@ -168,6 +212,16 @@
    "title": "Column: To lower the cost of medicine, the backbone of affordable healthcare must grow stronger - Southgate News Herald",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVXVtYXYyOHEwajFjeXB0bHdDZ1lhN1RKZXZVNE8tQ20tb1BZajNsV2l4eXliUDRoR3hJYjk2ckJDYzVRYW5pMk01WHdPMWpmb0pXSDdIZWNzc29TU2xVdHMwSXpUamdFd29GRnR6d1dvZFNxLWdWNDJvQncxQzVTeGhtUjl4R2FncTd4LVZ2RW5YM1JWdlRaNHZCRUR0SzVXa25sbHlrOVE2UXBObUZQUENVd3JVVThWdnpFdnRtZE0zemhwcmR3UzhkT1UtUHVT?oc=5",
    "date": "2026-10-20T18:44:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "230dc104a0ce",
+   "source": "Google News: biosimilar",
+   "title": "Column: To lower the cost of medicine, the backbone of affordable healthcare must grow stronger - The Morning Sun",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUWtvVFc2R2hxVnhFaV84dU9YYXF1NUs0U0hoU3hlempqZ04yZTBDWjdWUTRtM0ZGdnFUOG1iazliVVdabG5BLTM4LVp5aGVZMVVCX0tJeGYwQ0N6b0lzQW9zMnlvb0hHamRpT1BJSmlBenFnQUwtSWdsaklXeTh3THM5U0VzVkJGRUQtYlgydVZHV1JuOE5TeW16dXBJRmxmOGE1aDVadzdXeUQ1NHZ5NHlIWDhyVzR2cGRVNnJVV0tmZWpoWk5sV1ZGeWo0WDVt?oc=5",
+   "date": "2026-10-20T18:44:10+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -1522,6 +1576,16 @@
    "watch": []
   },
   {
+   "id": "08eccfa6d7a0",
+   "source": "Google News: biosimilar",
+   "title": "Crossword - Fort Mill Sun",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVZWxTT1FoX3k1ZEhaY3QwYk42eVl3LUNJZTBMTnp1SEpFYlZvUnRzOS1qMWpHQ2FDandMVFlyMVd0NF96bC1sUDN0RHZYN3piRnE3eDRFYXRWM2pfbHdHZGJKbzQ?oc=5",
+   "date": "2026-10-16T14:52:05+00:00",
+   "snippet": "Crossword Fort Mill Sun",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "b1aa473abd9d",
    "source": "Endpoints News",
    "title": "Lilly interested in ibogaine investments, its neuro leader says",
@@ -2478,6 +2542,18 @@
    "snippet": "Plus news about United Therapeutics, Liquidia, Sanofi, Pharming, Skyhook Bio and Altay Therapeutics. Ultragenyx Pharmaceutical sells second PRV this month: The commercial-stage rare disease drugmaker sold its second priority review voucher for",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "9871309ff85d",
+   "source": "Google News: biosimilar",
+   "title": "A proposed Eylea biosimilar remains unapproved as Alvotech (ALVO) submits its European application. - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVFtQjFoV1VoRjd1TTRHLVk1bDVRVDV6dGdYaHRrVE5BUzBCXzRNOW05Y0NmREUyS2NXc2RKeGwwWng0Mi1IWGNnM2JPWWw1NFl5RHJVWFBLcFE3bHNlU05uM1l1QzEzY0ZmRkJPTFVZRFJ3N3NNLVZGWmFqWUxnMUdMdUwyXzlFaWp5UDBzcTNrdGNidWN5c2xaM2M4WFNjaWVGRmtMWQ?oc=5",
+   "date": "2026-10-14T14:05:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "f13535154451",
