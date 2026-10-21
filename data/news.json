@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:40:29.515049+00:00",
+ "updated": "2026-10-21T00:51:16.882097+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,18 @@
  ],
  "items": [
   {
+   "id": "a014090e58a7",
+   "source": "Big Molecule Watch",
+   "title": "Genentech and Biocon Settle Pertuzumab Biosimilar BPCIA Litigation",
+   "link": "https://www.bigmoleculewatch.com/2026/10/20/genentech-and-biocon-settle-pertuzumab-biosimilar-bpcia-litigation/",
+   "date": "2026-10-20T22:59:18+00:00",
+   "snippet": "On October 14, 2026, the U.S. District Court for the District of New Jersey entered an order dismissing without prejudice all claims in Genentech Inc. and Hoffmann-La Roche Inc.’s BPCIA litigation against Biocon Biologics Inc. concerning its proposed pertuzumab biosimilar. The ...",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "4947fd63aa75",
    "source": "Google News: biosimilar",
    "title": "FORMYCON AG - ENTERS COOPERATION AGREEMENTS WITH BIOCELYS AND SANTO BIOSIMILAR FOR BIOSIMILAR CANDIDATE - TradingView",
@@ -62,6 +74,18 @@
    "biosimilar": true,
    "watch": [
     "Formycon"
+   ]
+  },
+  {
+   "id": "54325c488baa",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Filing Could Be A Game Changer For Alvotech Stock (ALVO) - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGQ1LTNpTmRfNmZiby0ySGV2QjVjODBHRWR2emVtT2RUbkgzQ1JidldSZF9BTEpLaFBTSm00TlFmcW9GLXZ2UzZiRTd3RDRRblZtdFQ0UWdxdjd0QnM3Tjlscmp3QmlsTGlOS3RzdWlmbHBuSFdFQVpBS2tkWjFkME5lMm5IOVZmbUdUamlsQVNhSmU1QmliUndwUDZpclhVWnFCd1lLbXpwMjBmZWhGeXNqMllsNzVRSEhuRnFnV1FmcFJVblZVcUlTUzNKNkxMYnVxOEtXNi1pdGxIZy000gHfAUFVX3lxTE9YZDUtM2lOZF82ZmJvLTJIZXZCNWM4MEdFZHZ6ZW1PZFRuSDNDUmJ2V1JkX0FMSktoUFNKbTROUWZxb0YtdnZTNmJFN3dENFFuVm10VDRRZ3F2N3RCczdOOWxyandCaWxMaU5LdHN1aWZscG5IV0VBWkFLa2RaMWQwTmUybkg5VmZtR1RqaWxBU2FKZTVCaWJSd3BQNmlyWFVacUJ3WUttenAyMGZlaEZ5c2oyWWw3NVFISG5GcWdXUWZwUlVuVlVxSVNTM0o2TExidXE4S1c2LWl0bEhnLTQ?oc=5",
+   "date": "2026-10-20T20:35:09+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
    ]
   },
   {
@@ -473,6 +497,18 @@
    "source": "Google News: biosimilar",
    "title": "Alvotech Receives FDA Approval for New SIMLANDI® Manufacturing Process That More Than Doubles Output Per Batch - Yahoo Finance Singapore",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdWJzUFdrTW52UmNNZWNabEpESEpkdW1EVzc3WkMycmJWb2lPSW1OQVpsdl9yZXBNUHJJd2doTzRuaVpCcWJmdHBqTkZuVGRFaWk5cmxoMHRJSEtLbXBjb0tkSHpOY2ZfLTVEQmEwMTNiYkI5S0RBQmJRc1o0TmlWcGdJWmlTZWVtLXQ0TlA0VC1CZw?oc=5",
+   "date": "2026-10-20T08:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "fe7dc09169fc",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech receives FDA approval for new SIMLANDI® manufacturing process that more than doubles output per batch - Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS1BSYUhjQWRPd3FQeWpOR1hrRDJZYTB0YzBabVd1S1pobGhwdkRpTnNKNjRFR0pBTmwzSVo3MWNBYzdCUm9Qd3c1bUpJM3p4a3MzeUtiNVM3WTZmMnRSelJzWWNvd1dtV3h0b3NqMVNveWUxYUFqVjFYamJ1amlhRjIydFFNLWluR0RhQy16QU9HZw?oc=5",
    "date": "2026-10-20T08:30:00+00:00",
    "snippet": "",
    "biosimilar": true,
