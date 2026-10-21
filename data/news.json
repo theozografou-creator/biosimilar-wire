@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T18:46:23.167100+00:00",
+ "updated": "2026-10-21T21:41:38.381938+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,40 @@
   }
  ],
  "items": [
+  {
+   "id": "5272d8015c44",
+   "source": "Big Molecule Watch",
+   "title": "Alvotech and Advanz Pharma Announce Submission for Proposed Eylea 8 mg Biosimilar",
+   "link": "https://www.bigmoleculewatch.com/2026/10/21/alvotech-and-advanz-pharma-announce-submission-for-proposed-eylea-8-mg-biosimilar/",
+   "date": "2026-10-21T18:53:26+00:00",
+   "snippet": "On October 14, 2026, Alvotech and Advanz Pharma announced the submission of a European regulatory application for AVT29, a proposed biosimilar to Eylea® 8 mg (aflibercept 114.3 mg/mL), marketed as Eylea HD® in the United States. This is the first publicly announced regulatory ...",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "e106d7ba0d7f",
+   "source": "Big Molecule Watch",
+   "title": "FDA Accepts Formycon and Zydus’ Proposed Pembrolizumab Biosimilar for Review",
+   "link": "https://www.bigmoleculewatch.com/2026/10/21/fda-accepts-formycon-and-zydus-proposed-pembrolizumab-biosimilar-for-review/",
+   "date": "2026-10-21T18:53:23+00:00",
+   "snippet": "On October 13, 2026, Formycon and Zydus announced that the FDA accepted for review the Biologics License Application for FYB206, a proposed biosimilar to Merck’s KEYTRUDA® (pembrolizumab). This is the first publicly announced FDA acceptance of an application for a proposed ...",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "56a826b6bfce",
+   "source": "Endpoints News",
+   "title": "Treasury expected to be harder on China biotech deals in new rules",
+   "link": "https://endpoints.news/treasury-expected-to-be-harder-on-china-biotech-deals-in-new-rules/",
+   "date": "2026-10-21T18:48:02+00:00",
+   "snippet": "The pharma industry is bracing for a more stringent assessment of China deals from the Treasury Department, despite months of work to escape a harsh clampdown on buying new assets there. Endpoints News spoke with ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "49fa10ee03ef",
    "source": "Fierce Biotech",
@@ -301,6 +335,18 @@
    "snippet": "Expectations for the launch of Eli Lilly’s triple agonist retatrutide in obesity, due next year, are at fever pitch. But the company is also lining up data in other indications with the aim of eventually ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "6060f9f92a76",
+   "source": "Google News: biosimilar",
+   "title": "Formycon Partners with Biocelys to Develop Biosimilar Candidate - www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd0VZcDRHc0h0U19OX0tHclhSZzBpSG1wdkQxUGxKM09mMktKNG5LUS1NLXBGS2hOOVctdjVUYXVXYk10c0pPOTFqS3ExUGxyMDBmamRPbFY3eWM1SU1oQnNHRGpUVEN3UjlKZzM3Rkd2ZWM5VHhZQWxfQUlzWDl4WUJJNjZrMEZmNEs0QmhtYkZNelN3bHNxb25zSC02RGJwUkpfaE04Nm1pS053SkRubks1c2U5NXc?oc=5",
+   "date": "2026-10-21T05:13:15+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
   },
   {
    "id": "70ff2b4589df",
