@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T15:42:42.557998+00:00",
+ "updated": "2026-10-22T18:46:00.489305+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": ""
   },
   {
@@ -52,6 +52,86 @@
   }
  ],
  "items": [
+  {
+   "id": "7313dd32a783",
+   "source": "Fierce Biotech",
+   "title": "Abbott to separate Nutrition business into an independent, publicly traded company",
+   "link": "https://www.fiercebiotech.com/medtech/abbott-separate-nutrition-business-independent-publicly-traded-company",
+   "date": "2026-10-22T18:46:00.489305+00:00",
+   "snippet": "Abbott will separate its Nutrition business into an independent, publicly traded company through a tax-free distribution to Abbott shareholders.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ba9e103bb94e",
+   "source": "Endpoints News",
+   "title": "Data leak for Merck and Moderna’s therapeutic cancer vaccine",
+   "link": "https://endpoints.news/data-leaks-for-merck-and-modernas-therapeutic-cancer-vaccine/",
+   "date": "2026-10-22T18:37:12+00:00",
+   "snippet": "MADRID — Results of a Phase 3 trial of Moderna and Merck’s closely watched cancer vaccine were released on Thursday, after the data were leaked earlier in the day. The therapeutic vaccine, named intismeran autogene, cut ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "daee5edc9f48",
+   "source": "Google News: biosimilar",
+   "title": "PhRMA Increases Covington Lobbying Amid Drug Patent Debate - Legis1",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUSTdva0ZhZWd2aXk1dXZkR0tOMnJRU3piN21OWUt0MVoxYWNDTWgxSlVQSUd3SmhBV2ZsR3lXNzdNazVVbl9yV2lFUzcwcUZ0SzJiOV9pQjE0QzFZS28zRWlXOGt2dEpmTnBPVWVGWWp1WkVFS2NER0lHVGw?oc=5",
+   "date": "2026-10-22T17:47:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "1e70851b9aaa",
+   "source": "Endpoints News",
+   "title": "Roche says it will help patients who are 'anxiously awaiting' its new breast cancer drug",
+   "link": "https://endpoints.news/roche-says-it-will-help-patients-who-are-anxiously-awaiting-its-new-breast-cancer-drug/",
+   "date": "2026-10-22T16:32:24+00:00",
+   "snippet": "Roche is gearing up for a major launch in the shape of its breast cancer pill giredestrant, and according to Teresa Graham, head of the company’s pharma unit, patients are clamoring to get hold of ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7250fa4fd3d6",
+   "source": "BioPharma Dive",
+   "title": "Biohaven’s previously rejected rare disease drug to get fresh FDA review",
+   "link": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
+   "date": "2026-10-22T16:24:00+00:00",
+   "snippet": "U.S. regulators have accepted a new submission for Vyglxia, offering the chance at a turnaround for another rare disease medicine spurned by previous FDA leadership.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "19c636608879",
+   "source": "Center for Biosimilars",
+   "title": "IGBA's Global Biosimilars Week Panel Spotlights Value of Access - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmR2aGpNRjY2QmxLdVJsT1RXY3ZSRmt3R2JEWG1JNzlDcnNjNmt0MDNmX3FrTjR1eF9qb2VpUXVCa3A2dWxFdGFLaDVaWDdQR0VpWE5UY3VxZ2FqY0Y0QXlqd2dtRHVYOWVTVmlRenQ4MGtBTnltdkNFVnVoV2hDTXJNWDc5NjhLa21vNk5xcmhkNG8zQXNMVlppV3hvc1FXR3NTR1lB?oc=5",
+   "date": "2026-10-22T16:18:45+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "897ff162a7de",
+   "source": "Endpoints News",
+   "title": "American Medical Association CEO talks regulating AI care",
+   "link": "https://endpoints.news/american-medical-association-ceo-talks-regulating-ai-care/",
+   "date": "2026-10-22T15:51:50+00:00",
+   "snippet": "As we get closer to autonomous, AI-driven medical care becoming a reality, regulators are racing to catch up. The FDA in August released a discussion paper with ideas about how ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ca88e75aea3f",
+   "source": "BioPharma Dive",
+   "title": "GLP-1 compounder issues recall for copycat Zepbound",
+   "link": "https://www.biopharmadive.com/news/glp1-obesity-drug-recall-apothecary-tirzepatide-zepbound/833712/",
+   "date": "2026-10-22T15:50:00+00:00",
+   "snippet": "The notice adds to growing concerns about the safety of knockoff weight loss drugs, which have remained popular despite FDA warnings and legal pressure from Eli Lilly and Novo.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "b11bd0ff6a14",
    "source": "Fierce Biotech",
@@ -245,6 +325,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "1be924d3dddb",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis releases Q4 Biosimilar Market Report - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdEktX3Q5Q1NrWTl5YTNsVGQzWXJ4ck45YzRtSms0MUk0aVNRZWx3S1FxWkZ3MUx3SWtnUnd0WjUxU3g1RkdOanNYTU5BaUsycWFFYzQ3NXJaejlnbHI4aHQ1bnFHNlBhRnZ5bEY4a2V4REJHMWZBd0VMQVhDUzkxUmtqam0?oc=5",
+   "date": "2026-10-22T12:52:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
   },
   {
    "id": "380e667fbbde",
