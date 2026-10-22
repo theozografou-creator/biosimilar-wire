@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T21:41:38.381938+00:00",
+ "updated": "2026-10-22T00:51:39.163091+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": ""
   },
   {
@@ -52,6 +52,36 @@
   }
  ],
  "items": [
+  {
+   "id": "7c006ee56117",
+   "source": "Fierce Pharma",
+   "title": "Direct-to-patient pharma programs transform drug access: survey",
+   "link": "https://www.fiercepharma.com/marketing/direct-patient-pharma-programs-transform-drug-access-survey",
+   "date": "2026-10-22T00:51:39.163091+00:00",
+   "snippet": "Many direct-to-patient programs have significantly affected access to medicines, a survey of U.S. life sciences leaders found.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "615c32f1f7cc",
+   "source": "Endpoints News",
+   "title": "Rezera files for IPO to back NLRP3 work in peripheral artery disease",
+   "link": "https://endpoints.news/rezera-files-for-ipo-to-back-nlrp3-work-in-peripheral-artery-disease/",
+   "date": "2026-10-21T23:45:38+00:00",
+   "snippet": "Rezera, the biotech that rebranded from NodThera earlier this year, has entered the queue for an initial public offering to bolster its decade-long NLRP3 efforts. The biotech submitted its pitch Wednesday ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3956629a47c5",
+   "source": "Endpoints News",
+   "title": "China biotech RiboX reveals first data of circular RNA therapies in people",
+   "link": "https://endpoints.news/china-biotech-ribox-reveals-first-data-of-circular-rna-therapies-in-people/",
+   "date": "2026-10-21T23:19:30+00:00",
+   "snippet": "Biotech investors and pharma companies have poured billions into three Boston-region startups competing to develop a next-generation version of mRNA technology that could make for more durable and potent therapies. But now a relatively",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "5272d8015c44",
    "source": "Big Molecule Watch",
@@ -2615,6 +2645,16 @@
    "date": "2026-10-15T08:01:53+00:00",
    "snippet": "Nvidia-backed Iambic Therapeutics will begin trading Thursday after pricing its $150 million initial public offering Wednesday night. The cancer-focused biotech sold 9.38 million shares {$IAM} at $16 apiece. The float adds ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "61ff37644257",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Poteau Daily News",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPWHdQN1dsbVNKYmZaSjhXUVhjOFBNNXpIeWp3MU8wTmcwVTNVNUVqd1BhdXJSMzVVcjNQV1I3TEhibnJoSkpJOU01QVhuTG5neGVlbjVpRnpWWlpaZzJhVGR0WEYwODFiMmJ6RmhkaGU5blU4QzBfSmE1cVZncVhfcFlzYmthTFd2TDU2ME9LcXdjOHRkeDg3TjJRMDdLa2JET0NXN05ya2U3U3o0OUFGejBER2hIVDk2QkVvNWxBcG1tQjVWOGpFQkJqUnA2aVk1TWNZWDRIb0VBYWZTZDhPeTduZDRfYjNBOUJjcXdCTjF4eG91NkFiSDNKRWdzR0ZDeDZJVXN1bDUyajZCeHJGbjRyZDFXTEU?oc=5",
+   "date": "2026-10-15T07:53:27+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
