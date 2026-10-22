@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T12:50:15.873284+00:00",
+ "updated": "2026-10-22T15:42:42.557998+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 6,
+   "count": 8,
    "error": ""
   },
   {
@@ -52,6 +52,200 @@
   }
  ],
  "items": [
+  {
+   "id": "b11bd0ff6a14",
+   "source": "Fierce Biotech",
+   "title": "Menarini's Stemline picks up Georgiamune preclinical cancer immunotherapy in $1.1B deal",
+   "link": "https://www.fiercebiotech.com/biotech/menarini-stemline-pick-georgiamune-preclinical-cancer-immunotherapy-11b",
+   "date": "2026-10-22T15:42:42.557998+00:00",
+   "snippet": "Georgiamune, an immunology-focused biotech out of Maryland, has licensed a preclinical cancer drug candidate to Stemline Therapeutics, owned by Italy's Menarini Group, for up to $1.1 billion.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7b85908c5734",
+   "source": "Fierce Biotech",
+   "title": "AbbVie scratches out phase 3 hidradenitis suppurativa win but falls short of expectations",
+   "link": "https://www.fiercebiotech.com/biotech/abbvie-scratches-out-phase-3-hidradenitis-suppurativa-win-falls-short-expectations",
+   "date": "2026-10-22T15:42:42.557998+00:00",
+   "snippet": "A phase 3 trial of AbbVie’s lutikizumab in hidradenitis suppurativa has hit its primary endpoint. But with the drug candidate beating placebo by a narrower margin than expected, the readout raises questions about AbbVie’s chances of cracking a competitive market.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "53871a69c748",
+   "source": "Fierce Biotech",
+   "title": "Celltrion picks up another Kaigene autoimmune antibody for up to $580.5M",
+   "link": "https://www.fiercebiotech.com/biotech/celltrion-picks-another-kaigene-autoimmune-antibody-5805m",
+   "date": "2026-10-22T15:42:42.557998+00:00",
+   "snippet": "Celltrion has licensed a preclinical antibody targeting autoimmune conditions from Maryland-based biotech Kaigene in a deal worth up to $580.5 million, marking another step in the South Korean drugmaker's expansion beyond its traditional biosimilar business.",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "bf33107ee6ae",
+   "source": "Fierce Biotech",
+   "title": "Quest Diagnostics’ test results system breached in yet another medtech cyberattack",
+   "link": "https://www.fiercebiotech.com/medtech/quest-diagnostics-test-results-system-breached-yet-another-medtech-cyberattack",
+   "date": "2026-10-22T15:42:42.557998+00:00",
+   "snippet": "Quest Diagnostics is the latest life sciences company to fall victim to a cyberattack, with the company believing patient records have been compromised.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7a329a51dbea",
+   "source": "Fierce Pharma",
+   "title": "Vabysmo shows signs of reacceleration as Roche gears up for busy 2027",
+   "link": "https://www.fiercepharma.com/pharma/vabysmo-shows-signs-reacceleration-roche-gears-busy-2027",
+   "date": "2026-10-22T15:42:42.557998+00:00",
+   "snippet": "After disappointing Wall Street for most of 2026, Roche’s eye disease drug Vabysmo met analysts’ expectations for the first time this year. But the company may have bigger fish to fry heading into 2027.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9866501d693b",
+   "source": "Fierce Pharma",
+   "title": "AZ's Ultomiris adds 5th rare disease feather to cap with FDA IgAN nod",
+   "link": "https://www.fiercepharma.com/pharma/azs-ultomiris-adds-5th-rare-disease-feather-cap-accelerated-igan-fda-nod",
+   "date": "2026-10-22T15:42:42.557998+00:00",
+   "snippet": "With a late Thursday nod from the FDA to reduce protein levels in the urine of patients with primary immunoglobulin A nephropathy (IgAN), AstraZeneca’s Alexion-born Ultomiris has racked up its fifth rare disease indication in the United States.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5e2ad68d83f9",
+   "source": "Fierce Pharma",
+   "title": "Esteve earmarks $80M to revamp CDMO operations in China",
+   "link": "https://www.fiercepharma.com/pharma/esteve-earmarks-80m-revamp-china-operations",
+   "date": "2026-10-22T15:42:42.557998+00:00",
+   "snippet": "In the next phase of its global expansion, Esteve is set to invest $80 million in an upgrade and relocation of its CDMO business in China.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8fe546c8aee0",
+   "source": "Fierce Pharma",
+   "title": "Pfizer's latest cost-savings plan looks to get early start as layoff reports surface around Europe, US plants",
+   "link": "https://www.fiercepharma.com/pharma/pfizer-layoffs-hit-michigan-north-carolina-and-italy-25b-cost-cutting-effort-kicks",
+   "date": "2026-10-22T15:42:42.557998+00:00",
+   "snippet": "Local news reported Pfizer layoffs in Michigan and North Carolina as the drugmaker kicks of $2.5 billion in planned cost cuts. Pfizer declined to comment on the total number of jobs affected or when the layoffs would go into effect.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6746a80cb880",
+   "source": "Fierce Pharma",
+   "title": "FDA rebukes Baxter over 'repeated' production stumbles in new warning letter",
+   "link": "https://www.fiercepharma.com/manufacturing/fda-rebukes-baxter-warning-letter-ongoing-production-problems",
+   "date": "2026-10-22T15:42:42.557998+00:00",
+   "snippet": "The FDA rebuked Baxter in a lengthy warning letter that outlined a series of production violations that led to a trio of recalls earlier this year.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a9361f31bdfd",
+   "source": "Fierce Pharma",
+   "title": "Roivant comes for Humira as Lisraya checks boxes in inflammatory eye disease phase 3s",
+   "link": "https://www.fiercepharma.com/pharma/roivant-comes-humira-lisraya-checks-boxes-inflammatory-eye-disease-phase-3s",
+   "date": "2026-10-22T15:42:42.557998+00:00",
+   "snippet": "With the ink barely dry on Lisraya’s first approval, Roivant and its spinout Priovant are wasting little time in making the case for the dual TYK2/JAK1 inhibitor to claim a larger immune-mediated kingdom.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3a1ee9fb34f5",
+   "source": "BioPharma Dive",
+   "title": "Roche affirms sales outlook amid doubts about its future",
+   "link": "https://www.biopharmadive.com/news/roche-3q-2026-earnings-sales-outlook/833684/",
+   "date": "2026-10-22T15:20:26+00:00",
+   "snippet": "Lower-than-expected sales of Xolair stood out as the Swiss drugmaker readies for an onslaught of generic competition for top products.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d917d77decdd",
+   "source": "Endpoints News",
+   "title": "A hepatitis B hold lifted and drug tabled; Ultomiris' accelerated approval",
+   "link": "https://endpoints.news/a-hepatitis-b-hold-lifted-and-drug-tabled-ultomiris-accelerated-approval/",
+   "date": "2026-10-22T15:18:05+00:00",
+   "snippet": "Plus news about Biohaven, Arcus Biosciences and a Boehringer Ingelheim and Microsoft collaboration. Hold on Arbutus drug lifted: It’s been a long, tough road for Arbutus Biopharma. The company has",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6390062ea2ea",
+   "source": "Endpoints News",
+   "title": "AbbVie notches Phase 3 win in painful skin condition, FDA filing likely next year",
+   "link": "https://endpoints.news/abbvie-notches-phase-3-win-in-painful-skin-condition-fda-filing-likely-next-year/",
+   "date": "2026-10-22T14:09:51+00:00",
+   "snippet": "AbbVie unwrapped a Phase 3 success on Thursday for an experimental drug designed to treat a debilitating skin disease. In the trial, AbbVie’s IL-1α and IL-1β inhibitor lutikizumab improved patient response ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b2f96ca388d3",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis releases 4th-qtr 2026 Biosimilar Market Report - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnJNZ2IyNVI2bTVDU1ZfVFVXX2tZYWZLU04xYUpiZi1Pc1dwTk5zdVBsVHVGOGo5aWJXb1E0NGFXb1gwMHBjU1Z0SjNjYU9qV0tQdFNmN09DWWhfT29QeUVPQ1JGcU1QX0h5LXJGZ202dHBWbUx6N2VIX2F5RWJ6cjhQWnFhQ0Y3VldqVnhTUmt1bkoxbFdMM05HX1N5RmFwR0FwVTF5ano4UXluZ2Jz?oc=5",
+   "date": "2026-10-22T14:08:48+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "b41c6439ab28",
+   "source": "Endpoints News",
+   "title": "Sanofi's new German site; radioisotope deals from Northstar and Telix",
+   "link": "https://endpoints.news/sanofis-new-german-site-radioisotope-deals-from-northstar-and-telix/",
+   "date": "2026-10-22T14:07:13+00:00",
+   "snippet": "Plus more from Baxter and United Therapeutics. Sanofi starts construction of an insulin factory: Sanofi has broken ground on a new 36,000-square-meter manufacturing facility at its site in Frankfurt, which ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "db37c27624cb",
+   "source": "Endpoints News",
+   "title": "Big trials push beyond obesity to see if GLP-1s can quell alcohol, drug cravings",
+   "link": "https://endpoints.news/big-trials-push-beyond-obesity-to-see-if-glp-1s-can-quell-alcohol-drug-cravings/",
+   "date": "2026-10-22T14:00:40+00:00",
+   "snippet": "For nearly as long as they've been approved for diabetes and weight loss, GLP-1 drugs have captured the public imagination as a possible solution to diseases far beyond metabolic disorders. That potential is now inching ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "be830f69eb0d",
+   "source": "GaBI Online",
+   "title": "FDA publishes draft strategy on interchangeable biosimilars following 2025 public workshop - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcWlpWWJUTEJIUkdubEJWeG4wNFkwanZpUHRBTG9IYkRiR2pxa3RMTjR1alAxOGV1UU1JRFBTX2ItaDdVVFVVYzM1YmtWYUx3SmwwZEdCeTR3Ql9ESEJXUUliYTBCQ2pSalNSdFZuU05HODFxaXNYSG5pMjloU1dyS1BROHR3YWQ3UjVTOTk3U1dpLVBXWDNEc2dFNld5TUVsUG43S3RDem9yd0MxTFJjR1h4N1Zrd29CSnA3RnZPSnhuOTJRa0FFS0p0RGpWdw?oc=5",
+   "date": "2026-10-22T12:58:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "aab9f3ea7a50",
+   "source": "GaBI Online",
+   "title": "China edges past US in novel cancer approvals as Chinese biosimilars expand - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGE2bURyREU5TDBxX3hOY0kyaXRtaUFCcEJFd3M4VjNJRHpfbEliWnZhS2loQmlUX3ppdnJMcWpQZmQzRkN4TXlsZ3hVdkJBNHJIazhkZmdqRFhGSElDSHVkVWhyN2J3ckJ1SmFLeXRLb0lnR2s4NDNkN1BTUl9lVkppR2RNd3hKOUlFdDZ6VDVVQUZKS1E3emQzMFE3NXRCWWtUV1dGdW5wZw?oc=5",
+   "date": "2026-10-22T12:53:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "dd5fedde7011",
+   "source": "GaBI Online",
+   "title": "EMA recommends approval for biosimilar omalizumab Adcomfo and pertuzumab Pebrilzo - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMWYzX1l5NHJTQ0JUYTM0YzE0VGd6S29UZFFNZFlGSTgyZVJEcGJ2VkhzN05hbl8xZDI3aTJPa3c3Z0FMUmZadjhBMEh3MTRMM09FTWE1ak1QTDZTX3Q3ajE2OUVwNTNiX1YxdWZMeks5c0JsNTBMZk9TMXZpcDRZRV9SOEVtdVBPZUloLUdIQ3hrd0hRVnVZTXY2Zk9Vc285TkhBTTNhaWE0M3dwdEU4VVhGQXdRNkJDWks2Y2ZB?oc=5",
+   "date": "2026-10-22T12:53:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "380e667fbbde",
    "source": "Fierce Biotech",
@@ -1509,6 +1703,16 @@
    "watch": [
     "Samsung Bioepis"
    ]
+  },
+  {
+   "id": "58a489cdb224",
+   "source": "Google News: biosimilar",
+   "title": "‘Breaking the 10,000-yen barrier’: Omlyclo won‘t stop biosimilar shift, says Japanese dermatologist [WAC 2026] - 헤럴드경제",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91ZDB4bElFSjBVZzZWX0JCV2xiaWJCNmhkUnE4MHZqZVF2bWoxVTluaDJ6Njc2MVpXSDhsT0w3YjlkUVREZkdxU05JU0RvZVl1dnJ2eXJxUQ?oc=5",
+   "date": "2026-10-19T23:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "3795fdfa2536",
