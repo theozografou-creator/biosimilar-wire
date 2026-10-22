@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T03:41:03.257026+00:00",
+ "updated": "2026-10-22T06:50:02.120053+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 3,
+   "count": 5,
    "error": ""
   },
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "a0c339865a37",
+   "source": "Fierce Pharma",
+   "title": "Otsuka hit with 11 marketing code breaches after event organizer blunder",
+   "link": "https://www.fiercepharma.com/marketing/otsuka-hit-11-marketing-code-breaches-after-event-organizer-blunder",
+   "date": "2026-10-22T06:50:02.120053+00:00",
+   "snippet": "The PMCPA has ruled that Otsuka Europe’s involvement with a sponsored symposium webpage breached 11 clauses of the U.K. marketing code. While the PMCPA found fault with many aspects of the webpage, the watchdog opted against hitting Otsuka with its toughest punishment.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "7c006ee56117",
    "source": "Fierce Pharma",
@@ -1265,6 +1275,18 @@
    ]
   },
   {
+   "id": "abf2bc0ea745",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion's Remsima Overtakes Original Drug in Japan, Claiming No. 1 Spot With 48% Market Share - Businesskorea",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EMVdpNFB1REdUVUs5QmlpbV9zZWR3bmJRaXhZTFJ4TGJXRWdDd1FjMU14aTNYTURPSmNrU1BkZU5rYU5VQWhjSkRsQ205dGNnWUluOEhmRHFxMnpJSUtTLWJSU1dyaFdBV1N1N29LRWhmM0tW?oc=5",
+   "date": "2026-10-20T02:45:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
    "id": "ace88b4e947b",
    "source": "Google News: biosimilar",
    "title": "Samsung Bioepis wins 10-year rare disease drug deal in Brazil - Aju Press",
@@ -1334,6 +1356,18 @@
    "biosimilar": true,
    "watch": [
     "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "1c842deca220",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion widens global biosimilar lead as Remsima nears half of Japan market - CHOSUNBIZ - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSWpRbWt2anBtVXdqVTBIZ3JlbmpGc2YweGg3V09qQjZ0VVF0Z0IyQmNmdlRqVFJVOTFIY01vYkVXWV8ySVQyeEpubURFY0puYmlJLXpHc240U3pERUtsNDdKOFBjQ2hRVkcwZmdTOG96OU1HaTJ4X21TeEtlVWtoMVBESWNRQ1dMNnYtbWNESGp3QXFC0gGUAUFVX3lxTE1JalFta3ZqcG1Vd2pVMEhncmVuakZzZjB4aDdXT2pCNnRVUXRnQjJCY2Z2VGpUUlU5MUhjTW9iRVdZXzJJVDJ4Sm5tREVjSm5iaUktekdzbjRTekRFS2w0N0o4UGNDaFFWRzBmZ1M4b3o5TUdpMnhfbVN4S2VVa2gxUERJY1FDV0w2di1tY0RIandBcUI?oc=5",
+   "date": "2026-10-20T00:26:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
    ]
   },
   {
@@ -1687,6 +1721,16 @@
    "title": "Iceland's Frumtök Calls for Faster Access to New Medicines and Rethink of Drug Pricing Policy - NAVLIN DAILY",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM0tMaDJjb3hSVGQxWG9qS1pubnhEY2J5d2JrWVlpeXVLVFhoaUliUVFWSnRySG9VaHpoR2JtZGlZank0T0JyRmdLSG9DMHNoUFJqZWlaQ0d0X1pWeVVCMWxkWFBZd29pTUlMRnhlNkJFRUNHMV9aZ0pFWUJ5b0h5RlZLZUxkeENtaHFOQVR3Nm9KNUY2UXpwNXNBeFM0TTR1NmVEbTRQTkNFRlRTLWdEdXdQTDBGOFEzdk9yUF8wOXFVNVl3NWVpODlMT3F4dmh4?oc=5",
    "date": "2026-10-19T13:35:55+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "d8731485cc07",
+   "source": "Google News: biosimilar",
+   "title": "CDSCO Clears Lupin to Manufacture, Market Nivolumab Biosimilar for Cancer Treatment - Medical Dialogues",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN2lJa1ZGSmJnd25jTnliRGNWTHc0ZUdHXzZFUWpOYkljbzhES1VHcVNtV3pONWZ0TG5hWUJ4MmNRNHNZRmZ5cENZaC1uQllmU1p6QlhWbHBubVdOTW5xR2poWlZZQXZVdlVCN3RVelpDTTNjTlNLUnFYTldXMnE5NWI0SjBWNzNsSFNISkR0VERfYjliWWY4d0FmdjQ1ank3SU42QWpjMEFEX1RGaHpQTFJZU1RxVFVTOUZsMWNyZXZSVmp1cTg3bF95eGRtX2ZXcmpzMdIB2gFBVV95cUxPZk5tWUMtbjFrX2wwRXdnQ0M0VmNEb3pIdTBIdFRkQVBxdFlqV1RXZEY1RGxqSmhSZWxwQ1hvY1c4WXh1SnpUaXlaM0Z6UVlnNzRZVjJnTkJXeFgzRjc5RXVvZEl5MllmWDZaOUlxZlJfUThEcWJSLVR6ZzFNOWZWOXp0cnpBU19JX3I0ZUViQlZ4SU9PWXU1OUQyVlhSa1hhMktBZ3daY3FhRGl3dkM0c3NYNkNqLVU2Z2FWSHUyMEJoaDZBOVBHRGV5dTk0YTdtVmFzTi0wMUZBUQ?oc=5",
+   "date": "2026-10-19T13:15:12+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
