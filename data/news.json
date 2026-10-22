@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T18:46:00.489305+00:00",
+ "updated": "2026-10-22T21:38:33.481087+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,36 @@
   }
  ],
  "items": [
+  {
+   "id": "7c813c078984",
+   "source": "Fierce Biotech",
+   "title": "After leak, Merck and Moderna post phase 3 cancer vaccine data early",
+   "link": "https://www.fiercebiotech.com/biotech/merck-co-and-moderna-post-phase-3-cancer-vaccine-data",
+   "date": "2026-10-22T21:38:33.481087+00:00",
+   "snippet": "Merck & Co. and Moderna have shared highly anticipated phase 3 data on their cancer vaccine ahead of schedule, revealing a primary endpoint hit that approached analysts’ best-case scenario. But the positive result was offset by weaker-than-expected data on a key secondary ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9f2691ed856d",
+   "source": "Endpoints News",
+   "title": "Pfizer details mixed Lyme disease vaccine data",
+   "link": "https://endpoints.news/pfizer-details-mixed-lyme-disease-vaccine-data/",
+   "date": "2026-10-22T20:00:07+00:00",
+   "snippet": "New data on a closely watched Lyme disease vaccine from Pfizer and Valneva provide details on the near-miss in one of two analyses, as the vaccine's commercial future hangs in the balance. Unveiled Thursday at ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c7312d522f66",
+   "source": "BioPharma Dive",
+   "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
+   "link": "https://www.biopharmadive.com/news/moderna-merck-esmo-intismeran-melanoma-vaccine-results/833765/",
+   "date": "2026-10-22T19:27:00+00:00",
+   "snippet": "A combination of the shot and the immunotherapy Keytruda cut the risk of relapse or death by 42% in a landmark melanoma study that met Wall Street expectations but triggered a “sell-the-news reaction,” one analyst wrote.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "7313dd32a783",
    "source": "Fierce Biotech",
@@ -408,6 +438,16 @@
    "date": "2026-10-22T11:30:58+00:00",
    "snippet": "A small Maryland biotech is shipping a preclinical cancer drug to a family-owned Italian pharma in a deal worth up to $1.1 billion if all goes according to plan, the companies exclusively told Endpoints News. ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "def89ddcba16",
+   "source": "Google News: biosimilar",
+   "title": "Pfizer to Discontinue Avastin, Herceptin Biosimilars in Japan in 2027 - NAVLIN DAILY",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVYyVmp2Qzg0Y3FPY2VTWFk5OVhINHVxRkRVLTBTLTBvak5RWDNjd1p2Q01HYW9QOGRXTU85TXp5MVJNeDlSeVRILVNjQjlwcFJtd3ZHWm4xUEs1ZTA2ZDQ0UW0xY3Y0OHVnNUpJYW50bjBHdjE0Ymc5QW5NcVFKRFY5Z1VkZS15dkdrVjhmbTVEZVdDdEZsZjItYnhFU0xCM0ZiR2gtb1dFd1FlTWVJ?oc=5",
+   "date": "2026-10-22T11:08:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -2351,6 +2391,16 @@
    "title": "Global Biosimilars Week 2026 - Realizing the global value of biosimilars - The Pharma Letter",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbDdjQnBSWi1wb0dUUUVVQ3dSRUYxV1loN2JzNjZnYURwSEZDUUlwcWppNXMwX3hvNzg2MnJwb0ZmdC1yV0VoUVJmd2laRTlyckVGS1BzdDI1MWpRbUFBWWpCZVNOTmhrbWw4ckRrZVN1aGxOa2NQWThtRXRrQ25xN0xGTGtLU19pRnQ3YVkxZ0FKT2hqdFk4MFZOQmcySTFnS0NrT3d0T0M5RUoydzNzb0xmdGlJbG1fNlc0?oc=5",
    "date": "2026-10-19T07:41:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "09d6d2c19649",
+   "source": "Google News: biosimilar",
+   "title": "IGBA Kicks Off Global Biosimilars Week 2026 - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRC1sX1NzS2xIb0pwSGdYdktZVE9ubHYwMm5qeHZrQnBtZWFjdW9EaHU0ZVJjdXlqSWk1NUxRZzVkVmpkT1cyOWtpb1B3RUlIN1JfQk56SWZnamF2cHhUNDRMZ1Q3MDA4VjRSZlJ6TVhORXFPYktueUpXbFFzeWc4dXFwVFBWM3FNUVgzQ0FFTnJ6NWZKZVNwX1NZcXB6VWRNaFh3QzNNbU0ycmY1dHlDUVVwVHV4WVV2Q0MtS0ZYc1cyRjJkZWUwSU5xbXhIeFhndDF1WjRaWQ?oc=5",
+   "date": "2026-10-19T07:27:47+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
