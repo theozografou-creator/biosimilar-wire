@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T09:43:31.879689+00:00",
+ "updated": "2026-10-22T12:50:15.873284+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": ""
   },
   {
@@ -52,6 +52,88 @@
   }
  ],
  "items": [
+  {
+   "id": "380e667fbbde",
+   "source": "Fierce Biotech",
+   "title": "Rebranded NodThera plans IPO to fund NLRP3 inhibitor’s push toward approval",
+   "link": "https://www.fiercebiotech.com/biotech/rebranded-nodthera-plans-ipo-fund-nlrp3-inhibitors-push-toward-approval",
+   "date": "2026-10-22T12:50:15.873284+00:00",
+   "snippet": "NodThera—under its new name Rezera—is planning an IPO as the biotech steps up its ambitions to get its NLRP3 inhibitor to market.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a88673a4094f",
+   "source": "Fierce Pharma",
+   "title": "AbbVie pumps up the economic case for early subcutaneous Parkinson’s treatment",
+   "link": "https://www.fiercepharma.com/marketing/abbvie-pumps-economic-case-early-subcutaneous-parkinsons-treatment",
+   "date": "2026-10-22T12:50:15.873284+00:00",
+   "snippet": "Delaying the use of subcutaneous Parkinson’s disease treatments by one year increases annual medical costs by 59.1%, AbbVie-sponsored research found.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c47f553233e2",
+   "source": "GaBI Online",
+   "title": "China edges past US in novel cancer approvals as biosimilars go global - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNenMxU3c0MzRlaVBqSTJsbkhFYWxzU09hVkg2anBYb0d1eHNJOHVpUGxaSlFrREVHME1KR0k5a1JHaktlQ2JqVW5yN0MyRnpFbWM1cDRXZ0laZkdEUHZ1MVBpazRrRnZaNFVCd21pMzhKSEJkSUtVbWJBbWhTcHg3TVdMQlFtcmlQXzhCZzd3UTYxM1BqMWVpUi1GbUtCSTZjMUZ3?oc=5",
+   "date": "2026-10-22T12:48:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "bf60b2996467",
+   "source": "Endpoints News",
+   "title": "Healthcare industry weighs in on evidence standards for generative AI medical devices",
+   "link": "https://endpoints.news/healthcare-industry-weighs-in-on-evidence-standards-for-generative-ai-medical-devices/",
+   "date": "2026-10-22T12:30:01+00:00",
+   "snippet": "How much evidence should the FDA require before it authorizes a generative AI-enabled medical device? The question was a point of contention among healthcare lobbying organizations and tech companies, who weighed in as the FDA ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "409023201794",
+   "source": "Endpoints News",
+   "title": "Redesign Health merges with ARC Global in $2B deal to help hospitals build startups",
+   "link": "https://endpoints.news/redesign-health-merges-with-arc-global-in-2b-deal-to-help-hospitals-build-startups/",
+   "date": "2026-10-22T12:00:26+00:00",
+   "snippet": "Health tech venture firm Redesign Health is merging with ARC Global, the innovation arm of Sheba Medical Center, to help hospitals in different countries develop and sell software. The new company will combine the two ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "074dbcaa38de",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Releases Fourth Quarter 2026 Biosimilar Market Report Highlighting Importance of Supply Continuity - Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcnlraFFTOHYxVWtRdFpDMUd1cUlCVjFSZHhiZVVsTnpfOGs4T2JIZzhEd1NOdFBqelJXdm5BbXNmU1AwRWNmTmo5SjN5M1kwUEc3WUt3blAyVnBlVFpEVnZZTmxURGNVR1VSSm5pSklHdFRidEpLN0M5V2NraVQzZkNwMEpzMFlPT25FeDBOTnhreEJ2U1pfdE41Z1ItMk1kUnFlY2FwQzlGY1VJOUxFWEpSYll4b09uX0g1OGtVRzlwT0Noclc4bU0tSkptS0w2dzQzOGN2c1VTd0Z6d3JiTXBvUG1XekwteDIyNGtYekZRY0t3eDRrc2IwVGFJWlhM?oc=5",
+   "date": "2026-10-22T12:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "1e0a248843fd",
+   "source": "Endpoints News",
+   "title": "Georgiamune sells solid tumor drug to Italy's Menarini for up to $1.1B",
+   "link": "https://endpoints.news/georgiamune-sells-solid-tumor-drug-to-italys-menarini-for-up-to-1-1b/",
+   "date": "2026-10-22T11:30:58+00:00",
+   "snippet": "A small Maryland biotech is shipping a preclinical cancer drug to a family-owned Italian pharma in a deal worth up to $1.1 billion if all goes according to plan, the companies exclusively told Endpoints News. ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8d86b4e9bd5b",
+   "source": "Endpoints News",
+   "title": "Roche talks up Phase 3 success rate as it unveils pipeline cuts",
+   "link": "https://endpoints.news/roche-talks-up-phase-3-success-rate-as-it-unveils-pipeline-cuts/",
+   "date": "2026-10-22T10:21:48+00:00",
+   "snippet": "Where other European pharmas — notably Novartis, Novo and AstraZeneca — have suffered huge late-stage clinical failures this summer, Roche is feeling rather smug. CEO Thomas Schinecker said ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "05b90f0ed507",
    "source": "Fierce Biotech",
