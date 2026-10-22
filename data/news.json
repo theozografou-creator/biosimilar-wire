@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T06:50:02.120053+00:00",
+ "updated": "2026-10-22T09:43:31.879689+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "05b90f0ed507",
+   "source": "Fierce Biotech",
+   "title": "Roche’s CEO has ‘absolutely not’ changed tune on Poseida despite scrapping CAR-T from the buyout",
+   "link": "https://www.fiercebiotech.com/biotech/roches-ceo-has-absolutely-not-changed-tune-15b-poseida-buy-despite-scrapping-asset",
+   "date": "2026-10-22T09:43:31.879689+00:00",
+   "snippet": "Roche’s CEO has insisted to Fierce that the company’s view on its $1.5 billion Poseida buyout has “absolutely not” changed, even as the Swiss pharma scraps one of the CAR-T therapy’s from the acquisition.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "a0c339865a37",
    "source": "Fierce Pharma",
@@ -1363,6 +1373,18 @@
    "source": "Google News: biosimilar",
    "title": "Celltrion widens global biosimilar lead as Remsima nears half of Japan market - CHOSUNBIZ - Chosunbiz",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSWpRbWt2anBtVXdqVTBIZ3JlbmpGc2YweGg3V09qQjZ0VVF0Z0IyQmNmdlRqVFJVOTFIY01vYkVXWV8ySVQyeEpubURFY0puYmlJLXpHc240U3pERUtsNDdKOFBjQ2hRVkcwZmdTOG96OU1HaTJ4X21TeEtlVWtoMVBESWNRQ1dMNnYtbWNESGp3QXFC0gGUAUFVX3lxTE1JalFta3ZqcG1Vd2pVMEhncmVuakZzZjB4aDdXT2pCNnRVUXRnQjJCY2Z2VGpUUlU5MUhjTW9iRVdZXzJJVDJ4Sm5tREVjSm5iaUktekdzbjRTekRFS2w0N0o4UGNDaFFWRzBmZ1M4b3o5TUdpMnhfbVN4S2VVa2gxUERJY1FDV0w2di1tY0RIandBcUI?oc=5",
+   "date": "2026-10-20T00:26:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "38d41ae22d00",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion widens global biosimilar lead as Remsima nears half of Japan market - CHOSUNBIZ - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObWlpYVBPaHhUcHZNSjJOUFk1X0RveWNqVEpObi1fMUhxSE40OGd3Wjd3MXVGYUJiMXZyOUNmLWdQQldTeWwwX0lPMjJqc2tJNGVLcDJEWEh2OEpMczR0WndYRklib0IzOVN3UDhIVG1WMDlfYmJpVkpjWWU0enZwRtIBlAFBVV95cUxNSWpRbWt2anBtVXdqVTBIZ3JlbmpGc2YweGg3V09qQjZ0VVF0Z0IyQmNmdlRqVFJVOTFIY01vYkVXWV8ySVQyeEpubURFY0puYmlJLXpHc240U3pERUtsNDdKOFBjQ2hRVkcwZmdTOG96OU1HaTJ4X21TeEtlVWtoMVBESWNRQ1dMNnYtbWNESGp3QXFC?oc=5",
    "date": "2026-10-20T00:26:00+00:00",
    "snippet": "",
    "biosimilar": true,
