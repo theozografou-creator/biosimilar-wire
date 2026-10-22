@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T00:51:39.163091+00:00",
+ "updated": "2026-10-22T03:41:03.257026+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": ""
   },
   {
@@ -297,6 +297,18 @@
    "watch": []
   },
   {
+   "id": "6bdad355729c",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Signs Exclusive Brazilian Supply Deal - Businesskorea",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xUlJpWjJ5X20xZ0dremdxUkw0dmZHaEZTbl81OHJlUXB0MG5QazRnSk5nQkVnVjZBWFVkQ1hhT2tEVmZDY2t6OGx2NWFZRWlLSFNyblAxX242X3pLcHd2NnNSWWJHb3h4el9oMVZFU3E2WHdV?oc=5",
+   "date": "2026-10-21T14:14:46+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
    "id": "08a1d5340b68",
    "source": "Fierce Biotech",
    "title": "‘We’re getting back to stability’: CBER Director Karim Mikhail shares his strategy with Fierce",
@@ -317,6 +329,38 @@
    "watch": []
   },
   {
+   "id": "32bceeca662b",
+   "source": "Google News: biosimilar",
+   "title": "Adalimumab, Infliximab and Etanercept Biosimilars Market - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQno3eF9aa1c2NWM2a1hPUldzVkhPTHFtczI2RUFLTmh1UjNQZ2hLSW9JemJtTGl4dUVTYzBKblpucUFIbjNsT19GU1JjcmpVR3JUQkFyTGdVQ2VjODRRMFlyT0JMNlUzX3lKYW9XbDJ2Nm41YVJRbjNpeF9BSHpUWEN3S1lyckZjYUh1RnRXRFNXdk0zdUE?oc=5",
+   "date": "2026-10-21T12:44:05+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "5cea1ff4d71a",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion Expands European Business Through Broader Distribution Networks and Product Diversification - Korea IT Times",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94NW96ZkdEZFhHbno4SEN6Q2hWcUlaNWVFdU9MMTNMZWt0cVg3Tnp5NUJPUHRlb3VxdEpDcVZoMXJVZ0dfWnJjU1k5S2t5c2ZIREJBbTlRQlBvdURBTjF4Y2dFMVpTSVM4Mnc2Y1V3b28?oc=5",
+   "date": "2026-10-21T12:39:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "e43882357bd1",
+   "source": "Google News: biosimilar",
+   "title": "Biologics market to reach USD 755.83B - Medical Buyer",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jT19CLVVIcWNaS1JZQTJ0YktkUGhHb2NXT1JodkE4RzdiTWJCRWNISUszUjNCbEtKUjdRWFo4MGNZVkxaTDVwTmN0bFAydVA0TE92Yl9JOFZWd1NkNHR4MVVaMHhVOVZqdTFjZzFCVEpFTEU?oc=5",
+   "date": "2026-10-21T11:26:24+00:00",
+   "snippet": "Biologics market to reach USD 755.83B Medical Buyer",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "db977495d576",
    "source": "Endpoints News",
    "title": "GSK gets FDA approval for hepatitis B drug that offers functional cure",
@@ -324,6 +368,16 @@
    "date": "2026-10-21T10:12:55+00:00",
    "snippet": "The approval of GSK and Ionis’ chronic hepatitis B drug bepirovirsen came early, setting it up to eventually reach blockbuster status. But the FDA gave the drug, now branded Hibsago, a",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "40eb4f89fd0d",
+   "source": "Google News: biosimilar",
+   "title": "Regional NHS reassures patients over medicine switches - Northumberland Gazette",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFp1bDQ2ZHg3alF2eEZ4c1BmWnlIc1VRTzFXRDIxTVpjaGpNVGkwOG5ydWVSeUZWbGxVd2dwUndSYllfV0kxQmJVSlpCaDI1Q0FvR3FBVXdwbVNhTWMxSF83cE10WTRoSm5hYkFYY2c1VkVpM3F3ZkMwMEc2WDdtZzRmckFlMGk3V2RRSnNyNU14Zkl1NjM0T0lrVlBocVA3OWhZWGpBVDlmbUt3NWc?oc=5",
+   "date": "2026-10-21T09:50:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -345,6 +399,18 @@
    "snippet": "The Society for Clinical Research Sites (SCRS) has launched a data intelligence platform to offer fresh insights into how different locations compare.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "450db6b0a579",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis' first ADC candidate wins FDA Fast Track - The Investor",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rY0pxNWZkQjlsMTFGZ25ZZGFGTmQ4TXh6bnQxX0pRdlVmVVltQ1dyaExqNEU1QW45YjI0VjU0enFmTjB4UkRxalUxWkt1XzJQT24zNDZVMVFydw?oc=5",
+   "date": "2026-10-21T06:50:39+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
   },
   {
    "id": "1faa7ad28406",
@@ -623,6 +689,16 @@
    "watch": []
   },
   {
+   "id": "3a66637cfdc7",
+   "source": "Google News: biosimilar",
+   "title": "ADCAN Pharma, MS Pharma partner to advance Pharmaceutical localisation in UAE - Big News Network.com",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbm1lTkVrMm5IaWJHeS1iNTY1RWY2ZllHQXlxTW1sM2N1bUhzN25FUmF5S1RzMFhESUNyN0h5ODdiNjFKdXpJLVJ5TGtDeWExNV9lY1JFWGNxMjJ5ckFqX2hZN24wYjZQQkRMS0VEYWpYa3h4cXI3NzVYb1IydnpyYWZXc3ZnZ1lVWkdvR29PdzV0c3BmbUxadF9leGE0RTcxaDFSMHR4QU5tcmRlWUFPQkEzWVM2NHJTcnI1ZnhKbw?oc=5",
+   "date": "2026-10-20T17:09:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "298d5edee303",
    "source": "BioPharma Dive",
    "title": "Rapport’s epilepsy drug finds surprising success in bipolar trial",
@@ -786,6 +862,16 @@
    "date": "2026-10-20T13:49:20+00:00",
    "snippet": "The latest BPSI shows dramatic improvements in biopharma conditions and a level of optimism not seen in years. It's official: Biopharma is finally in a good mood. For the first time since the four-year downturn ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3df1a8307ce6",
+   "source": "Google News: biosimilar",
+   "title": "ADCAN Pharma And MS Pharma Partner To Advance Pharmaceutical Localization In The UAE - Menafn",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTl9Dek5JZlpFeGg5TF9QdE5XVHhOaEw1RlRZb01ib2ItVnhpa0NrdXNUa0NWM2hwMDZDRnFPUEk0RzhvSnhHV29nZjR4QzVfTTVRb0cxV2dZRzA5X0JHV28xRG8tbXhncjZrUGc2amhSWjF2eHkyaUh1WHdkTmlQakdEYXJsX3piVnZwVlR5Tl9kVUdZS212SWY5SWYzTTJHSHJtek94TGs0bVk4bmM2d3VIRWY?oc=5",
+   "date": "2026-10-20T13:15:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -1155,6 +1241,18 @@
    ]
   },
   {
+   "id": "4f726d9fdc2f",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz stock: generic drugmaker trades pre-market at EUR 82.10 - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0tOczc2a1hqcGpTSmtpVmt4MUxqbUVHaEc0WGZGQTlXUXc0OHhNTk1ZR0NxalU2Q2xGMU1LR2QtVmJuUmJ4cjByRFVKWDRvZ3M3VklTRERRa2E2OGVnY2NVbHVZYW5JNkxLSlplRmVKWjA5cE5rbmVQclNyeEQ3ZXVHcUtjNDJXS0R3TnhHNUZpVG5JQm9CeW1IRkdVZGFsZlJnM09uRU80ZW1Cc1F4Vnl4N05WSVZCVldZ?oc=5",
+   "date": "2026-10-20T06:15:16+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
    "id": "cc797cc26898",
    "source": "Google News: biosimilar",
    "title": "Samsung Bioepis secures 10-year biosimilar supply deal in Brazil - The Korea Herald",
@@ -1492,6 +1590,16 @@
    "watch": []
   },
   {
+   "id": "653cd8d76004",
+   "source": "Google News: biosimilar",
+   "title": "Amgen (AMGN): The Biotech Pioneer Preparing for Its Next Growth Wave - Securities.io",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ONUtKZm1BZXJBSTRYVWZjalA2VklpMmY3ZnJ1LUFqdkx6NjlZY29ObXlIRUJCSDkyOXFjN05xTnFGRFl6ZVFvMHZmMlQ2THdXOGUwdi14WDZJYjA?oc=5",
+   "date": "2026-10-19T15:42:54+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "cc32aa14f9ab",
    "source": "Google News: biosimilar",
    "title": "Samsung Bioepis to present data for oncology biosimilars at ESMO Congress 2026 - Drug Store News",
@@ -1724,6 +1832,16 @@
    "watch": []
   },
   {
+   "id": "1e08b0c6c8dc",
+   "source": "Google News: biosimilar",
+   "title": "Europe Biosimilar Market to Hit USD 62,878.9 Million by 2034 with a Robust CAGR of 15.75% - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWdTNnRMeHk4NXU5S3ZtMFBJdUNkVUVncEtfZlhGMU4xY2t3Z3Y1cnpoXy1RdWxSTk1qc3BsN1RVbU1hRnJkaUF0UkVrczBoZUJyVmtIdjE5bHJWWHJHSXg2dFZ6ZEJYcTF1Wm1RMEt3STJLcl8wVU1lbllJSkRZY21zSXdfU0dSZkZsYlZiYUlucEVvLXpTcHotRi1oaTl2eHBj?oc=5",
+   "date": "2026-10-19T11:02:08+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "18b3a1a8bc2e",
    "source": "Endpoints News",
    "title": "Disc Medicine reports 'sun allergy' drug hits Phase 3 home run",
@@ -1824,6 +1942,18 @@
    "snippet": "Clinical-stage cancer biotech Nouscom has raised $135 million in an oversubscribed Series D funding round to take its lead vaccine through to a Phase 2 study. “We're super excited because there is the potential of ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "a0f43879fa2f",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz stock pre-market at EUR 83.41: generic drugmaker - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORU5sTXkxZHQxc1RPMDU1NTZfR3JRUmg1dTBySUk0cHFCYTBxSHlJaHJCaFZvUHFLM0pYTG5CMHVDbmViYmxacTZuY0tYN0xjN2J0TUJjZERnc1dxR3EwTTVNeWx2WU1rcEFGTDMwckpXVXRjb3JZbEw1bGRlYUtVcmVxZ2JjWkY5bF9sZzZQXzB6TndVU3ppQ1J5S3JnVW80Z0xlRWRKR2tleTdBTkg1TDhR?oc=5",
+   "date": "2026-10-19T05:48:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
   },
   {
    "id": "5ec64810b6fa",
@@ -2359,6 +2489,16 @@
    "date": "2026-10-15T17:26:18+00:00",
    "snippet": "The state of Virginia is emerging as an early winner as President Donald Trump prods drugmakers to increase their manufacturing investments in the US, securing at least $12.6 billion through commitments from three of the ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b35120656a3b",
+   "source": "Google News: biosimilar",
+   "title": "Immunology Biosimilars Market to Reach USD 50.3 Billion by 2036 - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmlHWXdfNGEwb2tVLUpBZUh1MjVnZWNIWnRmMkFEcVdjRTRWSUZMSEpHWjJJb19aeWdNc2FYWlJ2R3Jadl9hN0V4SlB5R2FLZENxTXhZbHBEQ2dMVGJET2F2czZSZEhfOVo3NWdibVMtS3ZNR1lZdlBjS2dycWVlQmtRclNIWmZmczB1NHc2X2c4OWE0TTV4ZHRMeksxcGRG?oc=5",
+   "date": "2026-10-15T17:20:44+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
