@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T09:41:10.762996+00:00",
+ "updated": "2026-10-23T12:48:43.425888+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": ""
   },
   {
@@ -47,11 +47,81 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 60,
+   "count": 47,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "e3a6e0a528cc",
+   "source": "Fierce Biotech",
+   "title": "Chutes & Ladders—Troubled CSL enlists GSK vet Deborah Waterhouse to lead",
+   "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-troubled-csl-enlists-viiv-vet-deborah-waterhouse-lead",
+   "date": "2026-10-23T12:48:43.425888+00:00",
+   "snippet": "CSL has tapped a new leader to steer it through a make-or-break period. Ironwood's CEO since 2021 is hanging up his hat. CytoDyn's new helmsman is highlighting the company's \"transformational period.\" And more.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "37ed30383099",
+   "source": "Fierce Biotech",
+   "title": "Roche pays Zymeworks $55M for trispecific challenger to Amgen’s Imdelltra",
+   "link": "https://www.fiercebiotech.com/biotech/roche-pays-zymeworks-55m-trispecific-challenger-amgens-imdelltra",
+   "date": "2026-10-23T12:48:43.425888+00:00",
+   "snippet": "Roche is paying Zymeworks $55 million upfront for ZW209, bagging global rights to a trispecific designed to improve on the rate and depth of responses achieved by Amgen’s Imdelltra.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a0ba9b741df1",
+   "source": "Fierce Biotech",
+   "title": "Pathos inks BMS, Tempus collabs to apply agentic AI in Alzheimer's clinical development",
+   "link": "https://www.fiercebiotech.com/biotech/pathos-inks-bms-tempus-collabs-apply-agentic-ai-alzheimers-clinical-development",
+   "date": "2026-10-23T12:48:43.425888+00:00",
+   "snippet": "Pathos AI has signed two new collaboration deals aimed at developing drugs for neurological conditions such as Alzheimer's disease, one with pharma giant Bristol Myers Squibb and another with Tempus AI, a builder of large-scale clinical datasets.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "717f8aec810a",
+   "source": "Endpoints News",
+   "title": "Warp Sciences emerges from stealth, founded by ex-OpenAI science chief and tech veterans",
+   "link": "https://endpoints.news/warp-sciences-emerges-from-stealth-founded-by-ex-openai-science-chief-and-tech-veterans/",
+   "date": "2026-10-23T11:35:00+00:00",
+   "snippet": "With $215 million in a Series A raise, former OpenAI head of science Kevin Weil has launched a startup in an effort to help pharma companies make the building blocks for new drugs using artificial ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b5f42de00864",
+   "source": "Endpoints News",
+   "title": "Tango combo clears Rasonque bar, Takeda's Innovent bet gets early returns, plus more from #ESMO26",
+   "link": "https://endpoints.news/tango-combo-clears-rasonque-bar-takedas-innovent-bet-gets-early-returns-and-more-from-esmo26/",
+   "date": "2026-10-23T11:30:14+00:00",
+   "snippet": "MADRID — While Friday is officially the first day of this year's ESMO congress, some of the anticipation has deflated after keenly awaited data on Moderna and Merck's cancer vaccine were leaked on ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "df5a5f6199ec",
+   "source": "Endpoints News",
+   "title": "Al Sandrock to step down as Voyager CEO; Insmed adds Paul Hudson to board",
+   "link": "https://endpoints.news/al-sandrock-to-step-down-as-voyager-ceo-insmed-adds-paul-hudson-to-board/",
+   "date": "2026-10-23T11:00:34+00:00",
+   "snippet": "→ Al Sandrock is calling it quits as CEO of Voyager Therapeutics in the first quarter next year, but he will stay on the board. Chief business and operating officer Robin Swartz, a Sanofi Genzyme ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8a9c927d8cf9",
+   "source": "Endpoints News",
+   "title": "Star Therapeutics gets $200M to try repeating its Vega, Electra successes",
+   "link": "https://endpoints.news/star-therapeutics-gets-200m-to-try-repeating-its-vega-electra-successes/",
+   "date": "2026-10-23T11:00:15+00:00",
+   "snippet": "Star Therapeutics has collected $200 million to see whether its homegrown research can produce a new pipeline of medicines after prior successes that have been shipped elsewhere. The new capital is essentially a fresh start ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "a65beed3fb92",
    "source": "Fierce Pharma",
@@ -118,6 +188,18 @@
    "title": "Celltrion's 'Omlyclo' Targets Japan's Pollen Allergy Market; Brokerages Raise Price Targets in Succession - BigGo Finance",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBueElqSk1GaDhWaW50OUxmN0I0dGZidGdQS3JNaEtPSFlXVGZxSjREbFJTeVNKcDM5NmJ1Yllfb0psMEVneHdLYkZfaWZSSkxSNXphc3BhUUp4akg1MVRqUmR2bnpiSWpUc0RYVm5aVWlRTEVIOHc?oc=5",
    "date": "2026-10-23T00:05:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "26f357a6dc30",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion targets Japan’s allergy market with Omlyclo; price target of 260,000 won - 파이낸셜뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyMGZoNERFOEdPRWJFQlJWcTY0dzZxaEwtaTZCS1BaME9xT3REZEFjZ2dsaDhrdEJHT245V2M3MllKdmJJYVNmY3hDajB5Ynhyako2TGJ2ZmU?oc=5",
+   "date": "2026-10-22T23:44:49+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -399,6 +481,26 @@
    "watch": []
   },
   {
+   "id": "79d136f7957e",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilars Market Report Examines Industry Trends, Growth Drivers And Future Outlook - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWxId21VVUVhWEpER2I4dmJ1ajJNMG10VHJaRVhOdWVQUTBzNS1ha0k2ZXp5N1FteXVsX3h2dmlzYl8xYmp5MHpIY2lzZW1mVWt0OEVHTXhScl9XbDhVLVdHOFpKc29wX1VaSG9FclJpeTd4VUhEM1ZyX2V3QnZkZi15cEo2WkRUVzFKTWZSeEF0MVNZT193cw?oc=5",
+   "date": "2026-10-22T14:07:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "d4851db2b7aa",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Hormones Market Study Highlights How Industry Demand Is Evolving - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLWdiOEMwYkFSTjRDVXdnYjVXb1lUTFZSUVp0cFBObGdzeVR4WFo3ME93cWdmdnpLR3A5V2dvMko1czJQOVRFaGJDeW5NcWhkSHg1cllMZENsUlFuZjU2OWxDZm9Md0dlTlVSWERRMWxSYWxnbkJKcVZJcXVWQ1BoM0prUEVheTV1NFZzTEFXUFNNOW1Pb09z?oc=5",
+   "date": "2026-10-22T14:06:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "db37c27624cb",
    "source": "Endpoints News",
    "title": "Big trials push beyond obesity to see if GLP-1s can quell alcohol, drug cravings",
@@ -406,6 +508,26 @@
    "date": "2026-10-22T14:00:40+00:00",
    "snippet": "For nearly as long as they've been approved for diabetes and weight loss, GLP-1 drugs have captured the public imagination as a possible solution to diseases far beyond metabolic disorders. That potential is now inching ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "65ef1a77ebe3",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Interleukins Market Report 2026 Market Outlook Supported By A Forecast 40.6% CAGR - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWXQ2VDNoOWpmOWFvS09INUJoZ2o3Wjl4WGxkaXM4WHlYVm8xMHNXSGNZVHdqZ0JTaU9zMHhjOVlUWnZnQUItWUlaSHY1aVBVcl93THpJSUNLd2l2MjVxNm9oM3liU1QxZnU1VTVUdkg3RG0xNmF6cHlGN2otQVhwUW1pdUJFN09oNFh6eGp5TTVBMTFhT21sdQ?oc=5",
+   "date": "2026-10-22T13:56:38+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "3500ab62bf3b",
+   "source": "Google News: biosimilar",
+   "title": "Bevacizumab Biosimilars Market Insights Highlight Segment Expansion And Market Leadership - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFlkSGZtbjhoMUpMdmJqTEx5blEwM2t6bkhkQV8xcXVwQ3RxM1dhTUhuMzZubzRsVGZzZGN1enJQU2djZjAyMnlGbGpvalhfOEZlb1QwS3hwMDNNN2pza2YySHdWTU8wUEd3VTRaam9WUFFCd3NQcG85US1uc2ljZG54R0NxbDBMaG54SzFkbjNTVFctUThBSA?oc=5",
+   "date": "2026-10-22T13:52:18+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -555,6 +677,26 @@
    "watch": []
   },
   {
+   "id": "75a9dd26c690",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Therapeutic Peptides Market Outlook Signals Expansion To $6.11 Billion Through 2030 - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmVScHVXOVJRalFhOTktN2VXb292R0hQaWFxSWVsMDFtOW9RckJNeWs3a2hlQk9TejVSY1Y3Y2gzcUl0UW5rVk5YNW82TGRTa1hQdHBENHZPb2w3UXNNQ3Y1Q01XXzBfb2lidGtwajZTbFZYaFZTQzhIZkdsZ0gyXzloTFA3VW1OV0xUem1oMU4xUzlJ?oc=5",
+   "date": "2026-10-22T09:59:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "18e10ad1247c",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Growth Hormones Market Outlook Highlights Strategic Opportunities Across The Industry - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZm1FeTFDT0U5ZzhfRWxrVDdlU0tTS28xanhOemk1MmkxQ1cwQVJsdENnaXQzaU42U1ByZmV0bGZoLUp6SFpUanhCcFEwNHZLaXBaYS1iVGMwdW5PSjFpSUdscHNsczhuQ0ZId0ZGSVNBR2h1UzZLeEJkSm9EbjRfakFiOHdlU3JvT2VDRWxPcFVUUQ?oc=5",
+   "date": "2026-10-22T09:58:31+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "05b90f0ed507",
    "source": "Fierce Biotech",
    "title": "Roche’s CEO has ‘absolutely not’ changed tune on Poseida despite scrapping CAR-T from the buyout",
@@ -563,6 +705,18 @@
    "snippet": "Roche’s CEO has insisted to Fierce that the company’s view on its $1.5 billion Poseida buyout has “absolutely not” changed, even as the Swiss pharma scraps one of the CAR-T therapy’s from the acquisition.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "e050dc59edc3",
+   "source": "Google News: biosimilar",
+   "title": "AlphaValue/ Baader downgrades Sandoz Group stock to Reduce - AD HOC NEWS",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnV4NWN4MDd2c0RhTkt6U1BwRm04ZDNRVDBUcEliSWh6TUNKNzRfamZBU2lacFdyRkEyeEk2WGlYdy1GUFplTHlYZ3Vqc01iQ1VSUU9MUEhra1I3ZmhaME9NUy05ZWdJWV8zY1dPQngwZ3Bwb1ZvZnhDVWw1am5TUzdDd1RFYmxRa2Q1MmpJUHlnVjRsa21WcFhyRkhBYlRZOEJuQndBNEVNV1J5bEU1NWV6dDhxRXFDNTR3MQ?oc=5",
+   "date": "2026-10-22T07:28:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
   },
   {
    "id": "cdebc9b8b9c3",
@@ -575,6 +729,16 @@
    "watch": [
     "Samsung Bioepis"
    ]
+  },
+  {
+   "id": "25ee4c68a00c",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Lymphocyte Modulator Market Report Examines Leading Companies And Growth Opportunities - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSEhxdDJhdEg4dVB3Q09wR1pxQ3p3VjRValE5ODVGUUF4MTcyOW5SczNmRUVfZVNITEdtbTh3YmJyV1Y3WjdXRzROa184S21fMzctX21PbVZIcDk1WmQwejBMajFobzdabFRnMy13OGxnbWxkeWZITEs2LTBjMFk3T0RuVEp6Vjg5SXlubWdKUDRtbUpP?oc=5",
+   "date": "2026-10-22T06:50:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "a0c339865a37",
