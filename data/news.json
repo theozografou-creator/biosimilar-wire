@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T06:49:14.988223+00:00",
+ "updated": "2026-10-23T09:41:10.762996+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,36 @@
   }
  ],
  "items": [
+  {
+   "id": "a65beed3fb92",
+   "source": "Fierce Pharma",
+   "title": "Treasury sweeps biotech into proposed COINS Act restrictions, but spares Big Pharma’s China licensing deals",
+   "link": "https://www.fiercepharma.com/biotech/treasury-sweeps-biotech-proposed-coins-act-restrictions-spares-big-pharma-china-licensing",
+   "date": "2026-10-23T09:41:10.762996+00:00",
+   "snippet": "Despite the sweeping scope of the ban covering various types of drug molecules, biopharma business development teams can breathe a measured sigh of relief.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "466413c1824f",
+   "source": "Fierce Pharma",
+   "title": "Real Chemistry spotlights health dignity as key trust, engagement indicator in new research initiative",
+   "link": "https://www.fiercepharma.com/marketing/real-chemistry-presents-health-dignity-key-trust-engagement-indicator-new-research",
+   "date": "2026-10-23T09:41:10.762996+00:00",
+   "snippet": "With its health dignity initiative, Real Chemistry is tapping into human experiences during healthcare interactions to gauge communication signals that could mark important engagement indicators.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4c29117f0bce",
+   "source": "Endpoints News",
+   "title": "Alnylam plans bigger study of RNA drug for Huntington’s disease",
+   "link": "https://endpoints.news/alnylam-plans-bigger-study-of-rna-drug-for-huntingtons-disease/",
+   "date": "2026-10-23T07:45:51+00:00",
+   "snippet": "As with many of the most feared neurological conditions, Huntington’s disease has proven to be a minefield for drug developers. Promising biomarker data didn’t translate into clinical benefits in Roche’s recent study ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "5e0f3777aea2",
    "source": "Fierce Biotech",
@@ -533,6 +563,18 @@
    "snippet": "Roche’s CEO has insisted to Fierce that the company’s view on its $1.5 billion Poseida buyout has “absolutely not” changed, even as the Swiss pharma scraps one of the CAR-T therapy’s from the acquisition.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "cdebc9b8b9c3",
+   "source": "Google News: biosimilar",
+   "title": "Korea's Samsung Bioepis enters into landmark 10-Year agreement to supply Eculizumab to Brazil - BioSpectrum Asia",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNTFGRFZ3a3lxUTgtLW9BTnhUeXpKdXo3SEIxOFJ1WU5kN1RYcHVLMmowZW5PRm1LSzMwMEtYa1B1M0ZVdlRURGxBbE9pclc5OHZfdEdwM1ROaEpzSFl6cVExelF5MFl0NFF0bG9jVUtRYm40TmE4OExmczltWHpNdEtJamcxc3RDc3ctSjNZd1R6aDNLSWtsb1F3b1poRXplTlNSRWhCUDUyY3dyWUVOVlR2YnJNX21NVDg2eEFsa0R0RGdTUzZNTlVVNl94MG1hSl9NZGVQMW5jZk0?oc=5",
+   "date": "2026-10-22T07:20:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
   },
   {
    "id": "a0c339865a37",
