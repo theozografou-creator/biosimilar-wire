@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T03:41:02.449904+00:00",
+ "updated": "2026-10-23T06:49:14.988223+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,16 @@
  ],
  "items": [
   {
+   "id": "5e0f3777aea2",
+   "source": "Fierce Biotech",
+   "title": "Treasury sweeps biotech into proposed COINS Act restrictions, but spares Big Pharma’s China licensing deals",
+   "link": "https://www.fiercebiotech.com/biotech/treasury-sweeps-biotech-proposed-coins-act-restrictions-spares-big-pharma-china-licensing",
+   "date": "2026-10-23T06:49:14.988223+00:00",
+   "snippet": "Despite the sweeping scope of the ban covering various types of drug molecules, biopharma business development teams can breathe a measured sigh of relief.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "f066877f677a",
    "source": "Endpoints News",
    "title": "Gilead strikes $1.3B upfront China deal for oral IL-23 drug",
@@ -71,6 +81,18 @@
    "snippet": "Funds from the upsized offering will support a trio of protein-degrading medicines in development for allergic conditions as well as the autoimmune disorder Graves’ disease.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "79a650693787",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion's 'Omlyclo' Targets Japan's Pollen Allergy Market; Brokerages Raise Price Targets in Succession - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBueElqSk1GaDhWaW50OUxmN0I0dGZidGdQS3JNaEtPSFlXVGZxSjREbFJTeVNKcDM5NmJ1Yllfb0psMEVneHdLYkZfaWZSSkxSNXphc3BhUUp4akg1MVRqUmR2bnpiSWpUc0RYVm5aVWlRTEVIOHc?oc=5",
+   "date": "2026-10-23T00:05:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
   },
   {
    "id": "a01e2c5e0fa4",
@@ -1164,6 +1186,16 @@
    "title": "ADCAN Pharma, MS Pharma partner to advance Pharmaceutical localisation in UAE - Big News Network.com",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbm1lTkVrMm5IaWJHeS1iNTY1RWY2ZllHQXlxTW1sM2N1bUhzN25FUmF5S1RzMFhESUNyN0h5ODdiNjFKdXpJLVJ5TGtDeWExNV9lY1JFWGNxMjJ5ckFqX2hZN24wYjZQQkRMS0VEYWpYa3h4cXI3NzVYb1IydnpyYWZXc3ZnZ1lVWkdvR29PdzV0c3BmbUxadF9leGE0RTcxaDFSMHR4QU5tcmRlWUFPQkEzWVM2NHJTcnI1ZnhKbw?oc=5",
    "date": "2026-10-20T17:09:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "7a1b964c1a42",
+   "source": "Google News: biosimilar",
+   "title": "Abbott Laboratories' Established Pharma Unit Undervalued on Biosimilars Potential, UBS Says - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdEoxcjViSHBZZG4zSmpYc29OSl9lVlJwQnJuMWo4MDBpT1Jfd084WXBUSF9sSGlZOWEyMjRTeldxWE95d1VVYllYekQ1NW5Fd2pwaDllVUZScE1XT09FUWxBeFVGUlZtZnBJRXZzTHZtblFmdTdSb0tqVXExc3RsMnBsYnQ0NDNIb0hzOWJBWlRRSmtnckFCdXNnNG10aGFrMndYUlZJWQ?oc=5",
+   "date": "2026-10-20T16:45:01+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -2527,6 +2559,16 @@
    "title": "Lupin’s Biosimilar to BMS’ Opdivo® (Nivolumab) Approved in India - Pearce IP",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa29Ha25abi0zdnNfTl9iZEtOZTY5RmlmazBDcTFPUE1QY2JSZzhMOW5ORXluTDg1NkxSYjNja2tXeElHQndsc0xQY1pLOVRhMnRCUnNnS3hRdWY5cVA0cE9HUWNTMmVDTEduTlc4c3Rib3oyM1FIRkRqa1Q1b2I0Y3BENlliWFB3X2E2anNkbjhKZFFkOWgtS2FvQlU?oc=5",
    "date": "2026-10-18T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "c9d2b5e5ccc3",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Winchester News Gazette",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenNMNWZ1aFpCQm9OaElUNW9Uamd3a3NuRy1VY3JPdTV2QURTeGdYR1BmSUFQTFJvOUk0MllvSDBoMUtRUTg4Tm11TEwxblFCSjJab1B4VXRRcUkxV19VUUI4S2t3V2Q2Nk5OZ0ZhMjVpTDZlWXVlT2pOdk9MSDM3VlI3VXdMYkd0aHotVmlGbEZnYTF5MFJrQ0Y2NTNhTE9pRFp3ZElWMExZUjg?oc=5",
+   "date": "2026-10-18T01:51:22+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
