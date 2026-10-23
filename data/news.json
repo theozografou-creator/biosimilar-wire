@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:38:33.481087+00:00",
+ "updated": "2026-10-23T00:53:52.707214+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": ""
   },
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "a01e2c5e0fa4",
+   "source": "Endpoints News",
+   "title": "Treasury proposal would sharply limit US investments in much of China biotech",
+   "link": "https://endpoints.news/treasury-proposal-would-sharply-limit-us-investments-in-much-of-china-biotech/",
+   "date": "2026-10-22T21:57:11+00:00",
+   "snippet": "Draft regulations from the Treasury Department would put broad limits on what types of drug and biotech assets that US companies and venture capitalists could invest in and make deals for. The",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "7c813c078984",
    "source": "Fierce Biotech",
