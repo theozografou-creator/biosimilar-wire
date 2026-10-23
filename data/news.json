@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T12:48:43.425888+00:00",
+ "updated": "2026-10-23T15:44:55.745363+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,23 +35,193 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": ""
   },
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 47,
+   "count": 60,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "48a0224073f1",
+   "source": "Fierce Biotech",
+   "title": "Gilead to pay $1.3B upfront for PepStar’s oral IL-23 challenger to J&J’s Icotyde",
+   "link": "https://www.fiercebiotech.com/biotech/gilead-pay-13b-upfront-pepstars-oral-il-23-challenger-jjs-icotyde",
+   "date": "2026-10-23T15:44:55.745363+00:00",
+   "snippet": "Gilead has struck a deal to acquire PepStar Therapeutics’ oral IL-23 receptor inhibitor program for $1.275 billion, positioning itself as a would-be challenger to Johnson & Johnson’s Icotyde across a range of inflammatory diseases.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "82e93074405c",
+   "source": "Fierce Biotech",
+   "title": "ESMO: Boehringer builds case for late-phase rival to Amgen’s Imdelltra",
+   "link": "https://www.fiercebiotech.com/biotech/boehringer-builds-case-late-phase-rival-amgens-imdelltra",
+   "date": "2026-10-23T15:44:55.745363+00:00",
+   "snippet": "Boehringer Ingelheim has shared data on its DLL3xCD3 T-cell engager, providing pointers to the prospects of a would-be rival to Amgen’s Imdelltra that entered phase 3 this year.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c4a4c787e0d9",
+   "source": "Fierce Biotech",
+   "title": "Bolt makes inflammation play with Prana reverse merger, $120M financing",
+   "link": "https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies",
+   "date": "2026-10-23T15:44:55.745363+00:00",
+   "snippet": "Bolt Biotherapeutics is acquiring Prana Therapies in a stock-for-stock reverse merger backed by a $120 million financing to advance Prana’s lead antibody through multiple phase 2 trials in inflammatory diseases.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fa1ad261ac25",
+   "source": "Fierce Biotech",
+   "title": "ESMO: Zentalis already dreaming of launch for WEE1 inhibitor after ‘great result’ in early-stage test",
+   "link": "https://www.fiercebiotech.com/biotech/esmo-zentalis-already-dreaming-launching-wee1-drug-after-great-result",
+   "date": "2026-10-23T15:44:55.745363+00:00",
+   "snippet": "Zentalis Pharmaceuticals has pointed to the first overall survival (OS) analysis for azenosertib as proof that the oral WEE1 tyrosine kinase inhibitor can offer a convenient oral treatment for a tricky cancer.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1ba7d41b7fd3",
+   "source": "Fierce Biotech",
+   "title": "ESMO: Takeda’s $1.2B bet on Innovent ‘absolutely’ pays off with details of ADC’s phase 3 win",
+   "link": "https://www.fiercebiotech.com/biotech/esmo-takedas-12b-bet-innovent-absolutely-pays-adcs-phase-3-win",
+   "date": "2026-10-23T15:44:55.745363+00:00",
+   "snippet": "Takeda has lifted the lid on the phase 3 win for its next-generation claudin18.2 drug, with the antibody-drug conjugate (ADC) demonstrating overall survival of 10.2 months.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "370ec487a3a0",
+   "source": "Fierce Biotech",
+   "title": "BMS leads Pathos AI's $237M series E alongside Alzheimer's link-up",
+   "link": "https://www.fiercebiotech.com/biotech/pathos-ai-closes-237m-series-e-heels-bms-alzheimers-link",
+   "date": "2026-10-23T15:44:55.745363+00:00",
+   "snippet": "Pathos AI has closed a $237 million series E round led by pharma giant Bristol Myers Squibb on the same day that the two companies signed a cutting-edge Alzheimer's disease-focused collaboration.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ca35a5449ef1",
+   "source": "Fierce Pharma",
+   "title": "Argenx confirmatory trial update for Vyvgart puts small dent in strong Q3",
+   "link": "https://www.fiercepharma.com/pharma/argenx-pipeline-wobbles-overshadow-strong-vyvgart-sales",
+   "date": "2026-10-23T15:44:55.745363+00:00",
+   "snippet": "Argenx's third quarter report reflected strong sales and pipeline plans, but investors took issue with high operating expenses and a new phase 3 requirement.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7867260929a2",
+   "source": "Fierce Pharma",
+   "title": "Gilead to pay $45M as it settles Medicaid kickback allegations from Texas AG Paxton",
+   "link": "https://www.fiercepharma.com/pharma/gilead-rounds-45m-settle-medicaid-kickback-allegations-texas-ag-paxton",
+   "date": "2026-10-23T15:44:55.745363+00:00",
+   "snippet": "As a snarl of pharma-focused lawsuits from Texas Attorney General Ken Paxton play out, Gilead Sciences has worked out a deal to put its own litigation to bed.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "11677d4212fc",
+   "source": "Fierce Pharma",
+   "title": "GSK's double FDA win, Roche's $15B deal and the rise of point-of-care marketing",
+   "link": "https://www.fiercepharma.com/pharma/gsks-double-fda-win-roches-15b-deal-and-rise-point-care-marketing",
+   "date": "2026-10-23T15:44:55.745363+00:00",
+   "snippet": "This week on \"The Top Line,\" we cover GSK's pair of FDA approvals, Roche's $15 billion ADC deal and the rise of point-of-care pharma marketing.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "06b252b154fa",
+   "source": "Fierce Pharma",
+   "title": "Fierce Pharma Asia—US Treasury homes in on China deals; Hengrui's secret sauce; Samsung Bio's strike developments",
+   "link": "https://www.fiercepharma.com/pharma/fierce-pharma-asia-us-treasury-homes-china-deals-hengruis-secret-sauce-samsung-bios-strike",
+   "date": "2026-10-23T15:44:55.745363+00:00",
+   "snippet": "The U.S. Treasury Department is closing in on American investments in China's life sciences industry as it issued draft rules adding biotechnology to the COINS Act. Hengrui leadership sat down with Fierce to discuss the secret sauce behind the Chinese drugmaker's massive ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5c8e1b188579",
+   "source": "Endpoints News",
+   "title": "Lycia's $318M IPO; Merck sac-TMT trial stopped early",
+   "link": "https://endpoints.news/lycias-318m-ipo-merck-sac-tmt-trial-stopped-early/",
+   "date": "2026-10-23T15:13:11+00:00",
+   "snippet": "Plus news about Hexagon Bio, Mineralys Therapeutics and Arbor Biotechnologies. Lycia prices $317.5 million IPO: Lycia Therapeutics, a company founded by Nobel Prize winner Carolyn Bertozzi, is pricing its initial public ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a0053895f1dc",
+   "source": "Endpoints News",
+   "title": "Roche taps Zymeworks in up to $813M deal for preclinical T cell engager",
+   "link": "https://endpoints.news/roche-taps-zymeworks-in-up-to-813m-deal-for-preclinical-t-cell-engager/",
+   "date": "2026-10-23T15:03:52+00:00",
+   "snippet": "Another day, another Roche deal. The Swiss pharma is teaming up with Zymeworks, paying $55 million upfront for worldwide rights to a trispecific T cell engager (TCE) that could go head-to-head with Amgen’s Imdelltra. Zymeworks ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0ae0a2f29ead",
+   "source": "Endpoints News",
+   "title": "Bristol Myers reveals death in MS CAR-T trial, has answer for safety signal in lupus trial",
+   "link": "https://endpoints.news/bristol-myers-reveals-autoimmune-car-t-trial-death-explains-summertime-pause/",
+   "date": "2026-10-23T14:33:54+00:00",
+   "snippet": "A patient has died in a Bristol Myers Squibb study of autoimmune CAR-T, the same technology that was called into question this summer when both Bristol Myers and Novartis paused similar programs. The patient, who ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "53c32850ea64",
+   "source": "Google News: biosimilar",
+   "title": "Irish Oncology Drug Costs Rose Over 3100% as Biosimilar Uptake Lagged - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT0E5c2JkWG9pOVplSWpYOGo0cEstY2I5TFRNbENIYXN6a21TOG0zZlVWVXJBMmQxR2ZxcXZ0Si1ZelhSelBPVTl3SlBaMDgtc1kxOU9pWjZzU2JZVlBnWXQ3X3Y1Zmc0blhuWmcxMks4Y3JQdlFfWS1VUTlrYzR2dnlCNi1JeXJQdHlwYm1tTTJzZk52Z1M1alBFdEZfYkJYVjFaZTYwY2t6WGdBZExB?oc=5",
+   "date": "2026-10-23T14:06:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "11e7ed3b69e7",
+   "source": "Endpoints News",
+   "title": "Pathos raises $237M at $3B valuation, signs Bristol Myers neuro partnership",
+   "link": "https://endpoints.news/pathos-raises-237m-at-3b-valuation-signs-bristol-myers-neuro-partnership/",
+   "date": "2026-10-23T13:00:57+00:00",
+   "snippet": "AI-driven biotech Pathos AI has corralled a $237 million Series E at a $3 billion valuation, the New York-based company said on Wednesday. The large fundraise comes in below the $300 million that the biotech ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f441b428a619",
+   "source": "Endpoints News",
+   "title": "Post-Hoc Live: Did the US just kill off China biotech deals?",
+   "link": "https://endpoints.news/post-hoc-live-did-the-us-just-kill-off-china-biotech-deals/",
+   "date": "2026-10-23T13:00:44+00:00",
+   "snippet": "Last night, the Treasury Department issued a proposed rule to implement the COINS Act, the 2025 law that governs US investment in sensitive technologies in China and other countries. In a surprise turn, a broad ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a81e505bfba6",
+   "source": "Endpoints News",
+   "title": "Biotech takes a hit as dealmakers take a knee in Q3",
+   "link": "https://endpoints.news/biotech-takes-a-hit-as-dealmakers-take-a-knee-in-q3/",
+   "date": "2026-10-23T13:00:17+00:00",
+   "snippet": "A chill wind blew through the biopharma industry in the third quarter as the pace of M&A from the first half of the year cooled down, big upfront licensing deals slackened and venture investing slowed ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "e3a6e0a528cc",
    "source": "Fierce Biotech",
@@ -123,6 +293,28 @@
    "watch": []
   },
   {
+   "id": "1b1ba69c5352",
+   "source": "BioPharma Dive",
+   "title": "Star adds $200M after spinout successes",
+   "link": "https://www.biopharmadive.com/news/star-therapeutics-financing-vega-electra/833733/",
+   "date": "2026-10-23T11:00:00+00:00",
+   "snippet": "Following exits for its subsidiaries Electra Therapeutics and Vega Therapeutics, Star is now mining for a new drug prospect.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1d51c1c8054e",
+   "source": "Google News: biosimilar",
+   "title": "Formycon Goes After Its First Niche-Buster Biosimilar With A Latin American Partner - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZjFhU2E0anhJQnQ2dHp3WmcwY2xiR1ZJQmpoZ0h4T3lJQm5YblJERHJYNTU2TDNNMzY5RHEtRnNSM1hHcmZoNVpnenJQVnVGcEpEcEN3M01aT2J0OWoyV0ZpMzF4LVFDangxLXpjVWpEZS1tV1NpVG4tVURVYzVQZnowSldpMVNuNG1pUUltYXdKZ1BFeXFlYTRFdWlhLTZ6ZHEzUFE1cy1JbG5qcU9hS3dlOTU5MmFQTzVkOU5IRUhRRDB2NGpPeG1ESEs3YVRBZ3l1LXBzdXdWM2k4ZGRHeVdqbUZORl9LdVdDVnlMdVdpT0J6bXBaWTlCSGZuNWJ3cTlPWQ?oc=5",
+   "date": "2026-10-23T10:50:23+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
    "id": "a65beed3fb92",
    "source": "Fierce Pharma",
    "title": "Treasury sweeps biotech into proposed COINS Act restrictions, but spares Big Pharma’s China licensing deals",
@@ -150,6 +342,16 @@
    "date": "2026-10-23T07:45:51+00:00",
    "snippet": "As with many of the most feared neurological conditions, Huntington’s disease has proven to be a minefield for drug developers. Promising biomarker data didn’t translate into clinical benefits in Roche’s recent study ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8cdba894e24f",
+   "source": "Google News: biosimilar",
+   "title": "South Korea Leads the World in Biosimilar Production, but Its 33.1% Prescription Rate Is the Lowest Among Peer Nations - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oTFBEaFZQODNjS2lDSk0wTGVaa2Rya2xGWkZhWGMtMzNSbF9vb3htVDJOa1FkTVk1X0JpNlQzckxlZTNpRUItNWNCTEJuR2pZbWgtTzZsOS1QR25IV0VfaC1KUEFzWWRDcDJlTGd0N085MW4xSWc?oc=5",
+   "date": "2026-10-23T07:35:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
