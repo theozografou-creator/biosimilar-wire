@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T18:46:36.156707+00:00",
+ "updated": "2026-10-23T21:40:04.454770+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,21 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 47,
+   "count": 60,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "5af9020ef01c",
+   "source": "Big Molecule Watch",
+   "title": "European Commission Makes Sanofi’s Antitrust Commitments Binding",
+   "link": "https://www.bigmoleculewatch.com/2026/10/23/european-commission-makes-sanofis-antitrust-commitments-binding/",
+   "date": "2026-10-23T20:00:53+00:00",
+   "snippet": "On October 13, 2026, the European Union’s (EU) European Commission made Sanofi’s commitments not to disparage a competing flu vaccine legally binding. The Commission found that Sanofi’s enhanced flu vaccine in the EU, Efluelda, competes with the EU’s only other enhanced flu ...",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "88042422ef54",
    "source": "Fierce Biotech",
