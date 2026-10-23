@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:53:52.707214+00:00",
+ "updated": "2026-10-23T03:41:02.449904+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "f066877f677a",
+   "source": "Endpoints News",
+   "title": "Gilead strikes $1.3B upfront China deal for oral IL-23 drug",
+   "link": "https://endpoints.news/gilead-strikes-1-3b-upfront-china-deal-for-oral-il-23-drug/",
+   "date": "2026-10-23T02:02:41+00:00",
+   "snippet": "Gilead is going to Shanghai for its latest expansion in the hot inflammation market, dishing out $1.28 billion upfront to PepStar Therapeutics for a Phase 1 asset. The California biopharma is gaining hold of an ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "455a38478dae",
+   "source": "BioPharma Dive",
+   "title": "Protein degrader specialist Lycia prices $318M IPO",
+   "link": "https://www.biopharmadive.com/news/lycia-therapeutics-targeted-protein-degraders-ipo-pricing/833624/",
+   "date": "2026-10-23T01:37:00+00:00",
+   "snippet": "Funds from the upsized offering will support a trio of protein-degrading medicines in development for allergic conditions as well as the autoimmune disorder Graves’ disease.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "a01e2c5e0fa4",
    "source": "Endpoints News",
@@ -433,6 +453,18 @@
    "source": "Google News: biosimilar",
    "title": "Samsung Bioepis Releases Fourth Quarter 2026 Biosimilar Market Report Highlighting Importance of Supply Continuity - Business Wire",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcnlraFFTOHYxVWtRdFpDMUd1cUlCVjFSZHhiZVVsTnpfOGs4T2JIZzhEd1NOdFBqelJXdm5BbXNmU1AwRWNmTmo5SjN5M1kwUEc3WUt3blAyVnBlVFpEVnZZTmxURGNVR1VSSm5pSklHdFRidEpLN0M5V2NraVQzZkNwMEpzMFlPT25FeDBOTnhreEJ2U1pfdE41Z1ItMk1kUnFlY2FwQzlGY1VJOUxFWEpSYll4b09uX0g1OGtVRzlwT0Noclc4bU0tSkptS0w2dzQzOGN2c1VTd0Z6d3JiTXBvUG1XekwteDIyNGtYekZRY0t3eDRrc2IwVGFJWlhM?oc=5",
+   "date": "2026-10-22T12:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "f9f743c8e65f",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Releases Fourth Quarter 2026 Biosimilar Market Report Highlighting Importance of Supply Continuity - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFExb01wSUpBc0h4akhhUjd6RTI2UWxBa2QydGwtU3RWbVRRQkRBYk5FMkpWS0ZLNmZ3a3Jqb1Y0OS1peTNDZVZjaGFLR1RUNUVkMzAyREVBOGpYRGRUZjN6T29SVkpnbnhWdnNyem92WDdUclJaU1dFU0ZZeHhaejRGU1d3cVlLcVdXcEZHT2pCUXVlekpqV1ZjUzhCTHNGVXc?oc=5",
    "date": "2026-10-22T12:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
