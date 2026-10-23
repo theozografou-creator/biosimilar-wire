@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T15:44:55.745363+00:00",
+ "updated": "2026-10-23T18:46:36.156707+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": ""
   },
   {
@@ -47,11 +47,61 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 60,
+   "count": 47,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "88042422ef54",
+   "source": "Fierce Biotech",
+   "title": "Roche puts numbers behind phase 3 kidney disease win amid blockbuster ambitions",
+   "link": "https://www.fiercebiotech.com/biotech/roches-igan-kidney-disease-drug-sefaxersen-snags-ph3-win",
+   "date": "2026-10-23T18:46:36.156707+00:00",
+   "snippet": "Roche's Genentech has put numbers behind its phase 3 success in IgA nephropathy (IgAN), reporting that antisense oligonucleotide sefaxersen reduced a key marker of kidney damage by 43.1% compared with placebo.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6785b4966084",
+   "source": "Fierce Biotech",
+   "title": "EQT buys molecular diagnostics specialist Qiagen in a €10.8B deal",
+   "link": "https://www.fiercebiotech.com/medtech/eqt-buys-molecular-diagnostics-specialist-qiagen-eur108b-deal",
+   "date": "2026-10-23T18:46:36.156707+00:00",
+   "snippet": "EQT is buying up Netherlands-based Qiagen in a deal worth €10.8 billion ($12.1 billion) in enterprise value that includes $1.1 billion in net debt.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c14e8ed0e76a",
+   "source": "Endpoints News",
+   "title": "Q&A: Bristol Myers' Lynelle Hoch on autoimmune CAR-T safety challenges",
+   "link": "https://endpoints.news/qa-bristol-myers-lynelle-hoch-on-autoimmune-car-t-safety-challenges/",
+   "date": "2026-10-23T18:36:40+00:00",
+   "snippet": "Bristol Myers Squibb is facing one problem after another with its autoimmune CAR-T therapy program. The company says it has figured out the cause of the safety signal in a lupus trial ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3cc5d2701875",
+   "source": "Google News: biosimilar",
+   "title": "Dario Trapani: Elisabeth de Vries on the Limited Uptake of Biosimilars and Generics in LMICs - Oncodaily",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oejZKdk9nZzBDQ25hZUF6VlJoeHByWmZjYU5RRXJ0ZlpXcWFmekdwM1ctdUphb3BVOGR6WWd0NjgzS2VUMWxQOFpYSURsblhqVTZOWU1TOGJQNndnckE?oc=5",
+   "date": "2026-10-23T17:57:53+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "fff6f3752ddd",
+   "source": "Google News: biosimilar",
+   "title": "EmblemHealth Argues Insurers Must Fill Biosimilar Antitrust Gap - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMG1ITEkyeVI3em9aSl9BTlpHSE1JLUtQSzJsSnR1cHVKWXZyd3ZtT2RsRHdkQ1ltRUxCSDV4d2dMNUMzdUw4OWJTU0piUkw0bWJJd0owZ09kbFpPWDJaSjZmWm9HOUU4TnlKZWZtd1BQemR0QzBOWEtUbzFRQ3dfS05iMEthMUdDcFM5a2FrT2N6bF80clMxcjgwQ3lLa2pSLUtYQk5qUnNDcWdNazZYY3hfS0J0OEdXTEE?oc=5",
+   "date": "2026-10-23T17:38:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "48a0224073f1",
    "source": "Fierce Biotech",
@@ -153,6 +203,16 @@
    "watch": []
   },
   {
+   "id": "a8c987654b62",
+   "source": "BioPharma Dive",
+   "title": "This week in charts: a big year for RNAi developers",
+   "link": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
+   "date": "2026-10-23T15:33:00+00:00",
+   "snippet": "The latest installment in BioPharma Dive’s data visualization series features a look at the emerging popularity of RNAi developers, and the funding that came with it.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "5c8e1b188579",
    "source": "Endpoints News",
    "title": "Lycia's $318M IPO; Merck sac-TMT trial stopped early",
@@ -173,6 +233,16 @@
    "watch": []
   },
   {
+   "id": "25f0ea124fe2",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilars and Follow-on Biologics Market to Reach USD 1.18 - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON0hMb092X0VGYS10cmhfUDVrQVA4Uk9JQ1I5LUNleXZzbHRvVkUxdk1rLVk0NWl0dWRoc2xoVC1ScHlnd05MZmsyMFRwUGFJOXFuZl9MV0YxTXBwdl80WlJhbmZ2bWZPZjI2cjRLZDhyN2NOLUI4enotS2ptWEhLZXR6MHRHTkdKeHpJOVBUdC1SbmxWUXNTWEVhY2I?oc=5",
+   "date": "2026-10-23T15:03:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "0ae0a2f29ead",
    "source": "Endpoints News",
    "title": "Bristol Myers reveals death in MS CAR-T trial, has answer for safety signal in lupus trial",
@@ -188,6 +258,16 @@
    "title": "Irish Oncology Drug Costs Rose Over 3100% as Biosimilar Uptake Lagged - Center for Biosimilars",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT0E5c2JkWG9pOVplSWpYOGo0cEstY2I5TFRNbENIYXN6a21TOG0zZlVWVXJBMmQxR2ZxcXZ0Si1ZelhSelBPVTl3SlBaMDgtc1kxOU9pWjZzU2JZVlBnWXQ3X3Y1Zmc0blhuWmcxMks4Y3JQdlFfWS1VUTlrYzR2dnlCNi1JeXJQdHlwYm1tTTJzZk52Z1M1alBFdEZfYkJYVjFaZTYwY2t6WGdBZExB?oc=5",
    "date": "2026-10-23T14:06:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "2c6b8c8d31d5",
+   "source": "Google News: biosimilar",
+   "title": "Immunology Biosimilars Market Report Examines Industry Trends, Growth Drivers And Future Outlook - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlk5MUxCd1VJY2tIaVQ4UlI0cW5ORkMxNHhiODZoTEp3RlR3aWZzT3F5aTlwOUZnN3RuUG5BY1Y2aHh3d2dVa0t4Y1hMMTk2NV9sS0pFczRDRkRtTDdSbEpMTnBtcjk2RVJxN3dJY3FlV2ktTUhmNkRuNVN3eDNCcG54LXlzRmRxMFNoWW5EYzgzR2xf?oc=5",
+   "date": "2026-10-23T13:57:49+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -1956,6 +2036,18 @@
    "title": "Alvotech shares jump premarket after FDA approves new Simlandi process - Yahoo Finance Australia",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGpHY1BpZVJPTXpPVWQ1akduXzdLWXVnMEVkX2NjYzQtdzJ2REc4SGJ4bFFIdG9sNWlHRDhnUjBaeGVtLVg3aHAwWEVzV2NkVXhVNUZjYUo1bTY5YUQ5WE1tQ1JJbGlySndISHJaVzNnRnluQWJTUkRqX0poS25vVUtfUDhQS0ZLOEhB?oc=5",
    "date": "2026-10-20T09:24:15+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "b570fffafa0d",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves new manufacturing process for Alvotech biosimilar By Investing.com - Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbERYRkFDMWg1ekhrNWlWN0MyVF90b3BJWktWMFd2RVotYVloMnRMU3VIVW4ydmFjZkFlTWdFaFlOaEJ6Q0p5ZjdsdmEzODhvMC1vYTBPT2RGdGJ0RzdvQmRpLW9ZT2xnMDhUWWlNamw5bzYwX0huY0VYOS1kSEIzLV9ubzZtTEZieW1LeFdqam1peW00Q29UcjN5cWc5RmhsTGVHb1JlWkxkckF1UjBKMS1ha1l4cEthYWFzSkN2SWg?oc=5",
+   "date": "2026-10-20T09:12:11+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
