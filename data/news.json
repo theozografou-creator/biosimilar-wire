@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T06:46:28.240475+00:00",
+ "updated": "2026-10-24T09:38:32.618628+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,13 +41,13 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": ""
   },
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 60,
+   "count": 41,
    "error": ""
   }
  ],
@@ -70,6 +70,16 @@
    "date": "2026-10-24T00:56:17.192783+00:00",
    "snippet": "GSK’s cancer R&D chief has suggested the latest slice of early-stage data on its B7-H4-directed antibody-drug conjugate (ADC) has “reinforce[d] our belief in the asset,” as the therapy races through a clutch of phase 3 studies.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a4bb26a41b3a",
+   "source": "Google News: biosimilar",
+   "title": "Beyond chemotherapy: 2 pharma stocks betting on the next wave of cancer treatment - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTkhRbklLV2MzcnBtWWptdXNYM3lfb1VHWDdrOFdFcnVvRG5QRHBlUzlWT2pLZHNfcU13bnhqYi1JSmpYT1FhVTdSUkNqbEFOdFRUa2UwbjVsODBSeG1zWV9RRkVLVmVvTzV4NHQ1QlBTTFlMREUwNWlNVExlZjM3LWxsck5KT2dnZGdZUTRqSHJ4bktmTjBNZzc5NG1OQkJrVE9tUXkzQVlXbjJBOVIxN3NqUlVCR2U1X2w4Y3pVbzRTYzJDZFA3QVlSVkdzVmJ6X2lEV3N6Z2RQeE0y0gHjAUFVX3lxTE5jUUJobmlvRmtWY2w0QkMxdG9nSmxSbm1ySk9vN0xDZ1VmR1hmaThxcnNCMHFzNXhZTzFwV0lnVV9yUGFYSWZMQmhTNnlOeUJfNVhaRWQtaDlPMW1kSkN1VFk3VnRwYlB4MFRqXzVkRks1eVFDdk9qOGhvQUFIMjNoY1Y1aXl0dVg3OG1FeDVtNWplMHZwRlNQTXNHUThOY0N0aXp1S1d1VUJBVmh4aS1ZNzJyOG11YzlHX0hYMW5QczE0dzROQTRDYkY3QWRVS0trcmxYTU1mYnY2b3laUWxjOXVF?oc=5",
+   "date": "2026-10-23T23:41:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -317,6 +327,16 @@
    "source": "Google News: biosimilar",
    "title": "Irish Oncology Drug Costs Rose Over 3100% as Biosimilar Uptake Lagged - Center for Biosimilars",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT0E5c2JkWG9pOVplSWpYOGo0cEstY2I5TFRNbENIYXN6a21TOG0zZlVWVXJBMmQxR2ZxcXZ0Si1ZelhSelBPVTl3SlBaMDgtc1kxOU9pWjZzU2JZVlBnWXQ3X3Y1Zmc0blhuWmcxMks4Y3JQdlFfWS1VUTlrYzR2dnlCNi1JeXJQdHlwYm1tTTJzZk52Z1M1alBFdEZfYkJYVjFaZTYwY2t6WGdBZExB?oc=5",
+   "date": "2026-10-23T14:06:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "3ac6985fdad9",
+   "source": "Google News: biosimilar",
+   "title": "Insulin biosimilars Market Insights Highlight Segment Expansion And Market Leadership - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaXV0dHJGdTNReXZGbEVYczFobzJoZEhZOGV1V1VkUG4xTHVsdm45cm9MRzNKNnB6aWlYN0R2YmRySm5xSWcydFpPVW5CR2tzSHBsNGxpTHJONnFLdllpeTZsblB4cXhXWHlTMGMzSlpITEFNb1NwcTM3MDhxaWt1dmx4Mmt6YkpuUGVaMlpDV3JYR0U?oc=5",
    "date": "2026-10-23T14:06:43+00:00",
    "snippet": "",
    "biosimilar": true,
