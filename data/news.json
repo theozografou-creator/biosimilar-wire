@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T09:38:32.618628+00:00",
+ "updated": "2026-10-24T12:45:27.280853+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,41 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 41,
+   "count": 60,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "05324c9903ea",
+   "source": "Fierce Biotech",
+   "title": "‘It is what it is’: Merck exec unruffled by ‘unfortunate’ leak of ESMO cancer vaccine data",
+   "link": "https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data",
+   "date": "2026-10-24T12:45:27.280853+00:00",
+   "snippet": "Merck & Co. and Moderna always knew they would be making headlines in Madrid this week—just not in the way it happened.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "631bd04a82f9",
+   "source": "Fierce Pharma",
+   "title": "Bayer's Nubeqa scores phase 3 win in high-risk prostate cancer",
+   "link": "https://www.fiercepharma.com/pharma/bayers-nubeqa-lands-phase-3-win-very-high-risk-prostate-cancer",
+   "date": "2026-10-24T12:45:27.280853+00:00",
+   "snippet": "Nubeqa, when added to standard-of-care treatment, significantly improved metastasis-free survival in patients with very high-risk localized prostate cancer.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "32ad8b2491cb",
+   "source": "Endpoints News",
+   "title": "Cancer vaccine data from #ESMO26; Treasury proposal could curb China investment; and more",
+   "link": "https://endpoints.news/cancer-vaccine-data-from-esmo26-treasury-proposal-could-curb-china-investment-and-more/",
+   "date": "2026-10-24T10:00:25+00:00",
+   "snippet": "Hello from Madrid, and welcome back to Endpoints Weekly! I’m at #ESMO26 with my colleagues Ayisha Sharma and Reynald Castaneda. The most anticipated readout from this year’s conference was Merck and Moderna’s Phase 3 study ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "201557fb2971",
    "source": "Fierce Biotech",
