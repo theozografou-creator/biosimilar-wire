@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:56:17.192783+00:00",
+ "updated": "2026-10-24T03:39:41.209050+00:00",
  "ai": false,
  "feeds": [
   {
@@ -70,6 +70,16 @@
    "date": "2026-10-23T23:15:09+00:00",
    "snippet": "A 2-year-old European biotech with two clinical-stage assets from China is the latest to attempt an initial public offering in the US. Basel-based Windward Bio submitted its cards for a Nasdaq ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4fae593d5de3",
+   "source": "Google News: biosimilar",
+   "title": "AEON Biopharma Outlines ABP-450 Biosimilar Plan, Targets Q4 2026 IND - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU215QjYtWElocF94QmRvV1V6R3hQeHVIS0hLdVYyRUdoTm5rQWplejV2VUF0OWgyYWJ0c0oya1ZreC1OTmI3TWNvcDVnMGs1NGJaLThJUkVHeEFEaTBfOFg0YnJJN0dXNmFxMkU1ejNXU1JTY3pvUzdYTjVPUDEtNVFlMEh1LUxzVG9ncHR0cmg5Mk41TGdIbnpuSkozVUlqd1lPQmVUQVA1dkNFQlN5VjRta1BtaEVnWmVXaFR2SlNsV0JOUzRvMw?oc=5",
+   "date": "2026-10-23T20:23:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
