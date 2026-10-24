@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T21:40:04.454770+00:00",
+ "updated": "2026-10-24T00:56:17.192783+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "42d9cf176243",
+   "source": "Fierce Biotech",
+   "title": "ESMO: GSK cancer R&D chief says mo-rez data ‘reinforces our belief’ in ADC as phase 3 push ramps up",
+   "link": "https://www.fiercebiotech.com/biotech/esmo-gsk-cancer-chief-says-latest-data-mo-rez-reinforces-our-belief-adc",
+   "date": "2026-10-24T00:56:17.192783+00:00",
+   "snippet": "GSK’s cancer R&D chief has suggested the latest slice of early-stage data on its B7-H4-directed antibody-drug conjugate (ADC) has “reinforce[d] our belief in the asset,” as the therapy races through a clutch of phase 3 studies.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0a8c28d2d951",
+   "source": "Endpoints News",
+   "title": "Windward Bio files for Nasdaq IPO to fund China-derived assets and in-house R&D",
+   "link": "https://endpoints.news/windward-bio-files-for-nasdaq-ipo-to-fund-china-derived-assets-and-in-house-rd/",
+   "date": "2026-10-23T23:15:09+00:00",
+   "snippet": "A 2-year-old European biotech with two clinical-stage assets from China is the latest to attempt an initial public offering in the US. Basel-based Windward Bio submitted its cards for a Nasdaq ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "5af9020ef01c",
    "source": "Big Molecule Watch",
@@ -107,6 +127,16 @@
    "source": "Google News: biosimilar",
    "title": "EmblemHealth Argues Insurers Must Fill Biosimilar Antitrust Gap - Bloomberg Law News",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMG1ITEkyeVI3em9aSl9BTlpHSE1JLUtQSzJsSnR1cHVKWXZyd3ZtT2RsRHdkQ1ltRUxCSDV4d2dMNUMzdUw4OWJTU0piUkw0bWJJd0owZ09kbFpPWDJaSjZmWm9HOUU4TnlKZWZtd1BQemR0QzBOWEtUbzFRQ3dfS05iMEthMUdDcFM5a2FrT2N6bF80clMxcjgwQ3lLa2pSLUtYQk5qUnNDcWdNazZYY3hfS0J0OEdXTEE?oc=5",
+   "date": "2026-10-23T17:38:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "721e2023c7eb",
+   "source": "Google News: biosimilar",
+   "title": "EmblemHealth Argues Insurers Must Fill Biosimilar Antitrust Gap - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONk41RFZhZE1uUE1qUnA3TmFOeWRqRUJfLV9fN2pwUC1OYjVSbW52ZlRlWFprdEh1ZEtQY0Vnd2NQSDRPMDFOTWx6TWp3d3lSZ01WSkZ2OVktaXFEUGYyaGRpQ1RYOWhlWHNDRVh5ZTdTSUJfMnYzSnhnSjh1UmVzeTBmRENtYzZxREhoaVZEYzlPb3ZBYlVwa3VHOWN5S2FtQmtHcTJhWQ?oc=5",
    "date": "2026-10-23T17:38:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -453,6 +483,18 @@
    "snippet": "Despite the sweeping scope of the ban covering various types of drug molecules, biopharma business development teams can breathe a measured sigh of relief.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "e73b6313ddaa",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Releases Fourth Quarter 2026 Biosimilar Market Report Highlighting Importance of Supply Continuity - BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS19pN0J0SzBQTlAxRHcxQV9Dc0VQaGpxM3hnNkFzSlVyZS0wT3BSTmFWLTVkZlZxZlJGcE9KblBXeWNzS3VkeVlqbVNqOTZsdlo1VUFsX05vdGxETnVsWVFqMlNEQkNETnpIaEZkNkprNDI1M2w1N1dvbVl6QU81Z1JxQl9fSGdJa29pTFEyLXh6N2NabXVkRXlMM0pBVHN6akJvMUQzWlhPSzJQT3l6bHkwVlVQeXFhTllMeW91TkR6b0xGM3JDNzhoSjg0V2xnQ0Z2T3VReWszMkhGdzdCNTRLOFlqNEpkWVE?oc=5",
+   "date": "2026-10-23T02:38:58+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
   },
   {
    "id": "f066877f677a",
