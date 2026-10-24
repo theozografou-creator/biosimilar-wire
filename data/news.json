@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T18:39:50.228130+00:00",
+ "updated": "2026-10-24T21:37:27.466157+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,7 +47,7 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 36,
+   "count": 60,
    "error": ""
   }
  ],
