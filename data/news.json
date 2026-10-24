@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:38:52.870030+00:00",
+ "updated": "2026-10-24T18:39:50.228130+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": ""
   },
   {
@@ -47,11 +47,31 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 60,
+   "count": 36,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "58f3758e299d",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar drugs breaking high-cost barrier to cancer immunotherapy - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRHVYVGFMYkR4dGtqcVM3N29Qam5ZUTB4TkJaMlNmQ0VzYTVCbmI1VTByaTdjNGpoTzl6X05mc2Nwcjl2cE4wTS1uX1JZMVNZVE9kU0x0bm5QVVhDel8wUXZldTNPT3M0T09kX3NuaURsVWpENjZhQ1FxNExBQUxlN3pTS0hYLXRjYzZUekhkVDVYc1lLM0kwSzVYR25KY2drUkhRc3VjWHpDNVpYVXd2djZCUUIzMF9iU0FBRUx2ejgzdS1DdHA4M21oRHItUUh4NDJXLUF4NGfSAd4BQVVfeXFMTkctSDNtcEk2NDNxQVdqQlV4eUFHTEtTZWVUSFVxR3JFZjhqV0FfTG9qenlzb0FJeDNhM2YtbzRYeUlDWWJXOWV3Wktvd29INXFreHVhYTFRQUJoc1pBa2RYOXRFRlBkR0t1cVpUb1J6WFAxeXdGWXlsQUhBTEN3ZFRIeEREZTNSZDE3RjhseEpQY0xaT2xrTHQwZGlWRk9tNXF1S3NwNWlKejlTU0FKU1doek5Meks3VFdqYl9WLXpyOEE4eG82WVN6ellNbHdJUFZ0Rmp1ZXo2Rk1Ub3l3?oc=5",
+   "date": "2026-10-24T18:10:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "22dc106d6c63",
+   "source": "Endpoints News",
+   "title": "#ESMO26: AstraZeneca eyes Keytruda's Padcev spot; Lilly's ADC takes on Elahere; Nubeqa targets earlier prostate cancer",
+   "link": "https://endpoints.news/esmo26-astrazeneca-eyes-keytrudas-padcev-spot-lillys-adc-takes-on-elahere-nubeqa-targets-earlier-prostate-cancer/",
+   "date": "2026-10-24T16:00:12+00:00",
+   "snippet": "MADRID — It's been estimated that almost 40,000 delegates will be attending this year's ESMO congress over five days in Madrid. And on Saturday, they have new data to review from AstraZeneca, Eli Lilly and Bayer. ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "0d8f9a69015a",
    "source": "Fierce Pharma",
@@ -3234,6 +3254,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "7eee1287b261",
+   "source": "GaBI Online",
+   "title": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUC1qYk9FOThSSVNCUjdjM2tYSmNTTHQ1UzFsMDlLeWZhaEZwRDJYZ2JnNUxmcmI4TVpzaVVPQlIzdjlGYjkxTWw2TlNpNWo3YnJNY1N1OXVTRHBxeTJGdEdZcndRQV91OFNNd01ObHNpTW5IaU5hd1BidHN0cnF0UGdEZE5FSDNYT2ZPY0hMQzlYUFczSkJ4Z2VfdjNJaTFYTTFPSUhicUpQX1VaaVE?oc=5",
+   "date": "2026-10-18T05:36:17+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Organon"
+   ]
   },
   {
    "id": "c9d2b5e5ccc3",
