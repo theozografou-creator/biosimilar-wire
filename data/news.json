@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:45:27.280853+00:00",
+ "updated": "2026-10-24T15:38:52.870030+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,46 @@
   }
  ],
  "items": [
+  {
+   "id": "0d8f9a69015a",
+   "source": "Fierce Pharma",
+   "title": "ESMO: Chasing Keytruda, AstraZeneca’s Imfinzi pitches its own Padcev combos in bladder cancer",
+   "link": "https://www.fiercepharma.com/pharma/chasing-keytruda-astrazeneca-imfinzi-pitches-its-own-padcev-combos-bladder-cancer",
+   "date": "2026-10-24T15:38:52.870030+00:00",
+   "snippet": "AstraZeneca is rolling out its own Imfinzi-Padcev combination pitch in cisplatin-ineligible muscle-invasive bladder cancer, hoping to differentiate from Keytruda-Padcev with a tweaked dosing regimen, while its effort to add a CTLA-4 component appears to have backfired.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "34d745743510",
+   "source": "Fierce Pharma",
+   "title": "ESMO: Amgen’s Imdelltra drives massive survival benefit in ‘watershed moment’ for small cell lung cancer",
+   "link": "https://www.fiercepharma.com/pharma/amgen-imdelltra-drives-massive-survival-benefit-watershed-moment-small-cell-lung-cancer",
+   "date": "2026-10-24T15:38:52.870030+00:00",
+   "snippet": "Amgen’s T-cell engager Imdelltra has posted a massive survival benefit in small cell lung cancer, delivering what Chief Medical Officer Paul Burton called a “watershed moment” for the field while drawing comparison to Rasonque in pancreatic cancer.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b6b219dca86c",
+   "source": "Endpoints News",
+   "title": "#ESMO26: Amgen's Imdelltra regimen more than halves risk of death in Phase 3 lung cancer trial",
+   "link": "https://endpoints.news/esmo26-amgens-imdelltra-regimen-more-than-halves-risk-of-death-in-phase-3-lung-cancer-trial/",
+   "date": "2026-10-24T14:30:56+00:00",
+   "snippet": "MADRID — Amgen’s Imdelltra combined with AstraZeneca’s Imfinzi slashed the chances of dying by 58% versus Imfinzi alone in the first-line maintenance setting in certain small cell lung cancer patients, breezing past the benchmark set by ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1f05b00cec93",
+   "source": "Google News: biosimilar",
+   "title": "Cetuximab fails India’s cost-effectiveness test unless biosimilar price halves - Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSV84bm10RTFQQk9YS2RZa0JoZ3lXWnpmRFdmWjBHbEFCRGc5Q2pCVWtFWHpKS2lDQTZEcHNYdFdKMy1SaVQyR3lWNlpXRVdyZXJnY2RBWnU2djl6OFhEUHRQWEstOGFwbG5hMG1RNWlveUdTbVZSbWlBSm5JUHVTQkM1MXpNU2c3VXRaa1J2eHV0NlVfZUwwUEdDM3JXckFSRTZlSg?oc=5",
+   "date": "2026-10-24T13:09:02+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "05324c9903ea",
    "source": "Fierce Biotech",
@@ -2625,6 +2665,16 @@
    "date": "2026-10-19T17:03:24+00:00",
    "snippet": "The last time the ESMO congress was in Madrid, a presentation on first-line data in bladder cancer drew a rapturous standing ovation. Contenders that might draw the same reception include hotly anticipated ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b06eea73824d",
+   "source": "Google News: biosimilar",
+   "title": "UBS reiterates Buy on Abbott Labs stock, cites biosimilars pipeline By Investing.com - Investing.com South Africa",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWk83Slc3NloyYVJXTTNpTkYzNjFKdTZEM19jWXhRSV9mcGNjQVBDUEpoYlgxWm5pQ1hBWk1hYXN6NV9NTXFwdWlwd2RSb3h5VGhHTjZvV1M4aGZsczRpLTY3Nkl1MG55WnlmYmRxanVtUHFaWExCNUhkakFrcC1iRnNhVUwxMTk2Q2piM05SSkJvaUdEVGpVZkpBbGNOeG1DVHIweG1XQzczYXBmZXVoTGZPcHBFYW9aN1AyeDBxUWpFcHZOMEE?oc=5",
+   "date": "2026-10-19T16:50:48+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
