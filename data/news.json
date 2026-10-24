@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T03:39:41.209050+00:00",
+ "updated": "2026-10-24T06:46:28.240475+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": ""
   },
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "201557fb2971",
+   "source": "Fierce Biotech",
+   "title": "ESMO: Lilly touts 79% ADC response rate in competitive ovarian cancer space",
+   "link": "https://www.fiercebiotech.com/biotech/esmo-eli-lilly-touts-79-adc-response-rate-competitive-ovarian-cancer-space",
+   "date": "2026-10-24T06:46:28.240475+00:00",
+   "snippet": "Eli Lilly has shared phase 1 data on an antibody-drug conjugate in platinum-sensitive ovarian cancer, shedding light on the company’s chances of competing for a market targeted by rivals including AbbVie and Genmab.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "42d9cf176243",
    "source": "Fierce Biotech",
