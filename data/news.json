@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T21:37:27.466157+00:00",
+ "updated": "2026-10-25T00:47:48.834584+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,13 +41,13 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": ""
   },
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 60,
+   "count": 36,
    "error": ""
   }
  ],
