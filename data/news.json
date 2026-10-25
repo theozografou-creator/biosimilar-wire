@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T18:40:45.579062+00:00",
+ "updated": "2026-10-25T21:37:34.152576+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,7 +47,7 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 31,
+   "count": 60,
    "error": ""
   }
  ],
@@ -1333,6 +1333,18 @@
    "snippet": "The PMCPA has ruled that Otsuka Europe’s involvement with a sponsored symposium webpage breached 11 clauses of the U.K. marketing code. While the PMCPA found fault with many aspects of the webpage, the watchdog opted against hitting Otsuka with its toughest punishment.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "9840a8d62beb",
+   "source": "Google News: biosimilar",
+   "title": "TEVA: Pipeline Momentum And Margin Gains Support A Stronger Fair Value - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOcnEtUFlZeXpONVpJMGF4THB0QXB1eVB5TW1naGZVaHlSTnE3TlVlUEpieXZZYjJrTlhJaEduWFIya0xud3R3amFyYTd1Ymx3ZHMyM1F3TWM1alhyY0puTzItRXplUkRNZkluQlJyOVE4ZVI2ZDBRT0hFQl8wbVdPTkpreFBUdlZuY1RoRXVLV00zY1lzR2JZLTBKdnozYjAzZUZxT20wV2tmVnJkcU83N1ZJeG1vTlhCLXpOZVFBcFZkNy1GV3RVS0hSV1pMLVU1d0ZNOVp0SjFSUmlSZk9yV2F4ckppZmVrREViT3dGRXVFQ2pYdUVEbHZhU3BJQkl0dGxTQXZWLXhZUGxJT1dZZXd1Z1VNOEJ3U2IzZW8xNXJpVnI1Z3JrRkp5Mi1scFlOd0NtS0dkUnB2Tk9CNFNSSmkzV21YSW9JODRjOTBsVHJfa281a29LMW0zeElEeVZwRkozQmhZSVA0NFRYTFZRYkxGdjY5Mnc1VzJhSmRzNU9faGlKSDFES3Fldw?oc=5",
+   "date": "2026-10-22T04:34:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
   },
   {
    "id": "7c006ee56117",
@@ -2728,6 +2740,18 @@
    "title": "Samsung Bioepis secures 10-year Brazil deal to supply rare disease biosimilar - CHOSUNBIZ - Chosunbiz",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNemRTNkp1djZmTS1fN2N6Z2NkNVdRbTVtQ0VuVFhTeW9CZXIzSDQzdHRhQ0dNcjNqYTVXc0xSRXF1TFNUUW1pZ18xbWRrZU5XUzE5a2VTejB4SzlxU2QtUHNKdjgtaUM0dnpNVWhPcUJVNnVZZm9iR09TVGFBWDVFR9IBlAFBVV95cUxNUFFkQjFrNDQxVE9mZzVkTzlXdThfaUdRV0hyaHd1WGtJdEZwUzdCTElGV3lSZjg2VEE2U2l6VVU3Y1dFdVNIRzVDaUY3T3UxLWZUNjloZnBWOFgwUG5SN2drUmVSck12TWdla21aUllsTEV0MDdUWWRab2d1WjIwNG1GS0RjZzM1LWtpTTBKeWVZSEFD?oc=5",
    "date": "2026-10-19T23:22:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "3ce0a2f38afc",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis to Exclusively Supply Rare Disease Treatments in Brazil for 10 Years - 아시아경제",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83dTc1ak9PU0VBcWN3S2tUS1h5YnVwakRkYU5ZTUQ2VjhmZTN1LUZRZy1UajFNX2s2VWJ3YjRjZ2ZCRURsUzQ4MDFCN1JuVm1jVTByb0pCS1Z6M0xoWGF3ZVllMUI?oc=5",
+   "date": "2026-10-19T23:17:34+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
