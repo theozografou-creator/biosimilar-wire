@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T03:40:10.824811+00:00",
+ "updated": "2026-10-25T06:46:51.970685+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": ""
   },
   {
@@ -57,6 +57,16 @@
    "source": "Google News: biosimilar",
    "title": "Biosimilar drugs breaking high-cost barrier to cancer immunotherapy - The Times of India",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRHVYVGFMYkR4dGtqcVM3N29Qam5ZUTB4TkJaMlNmQ0VzYTVCbmI1VTByaTdjNGpoTzl6X05mc2Nwcjl2cE4wTS1uX1JZMVNZVE9kU0x0bm5QVVhDel8wUXZldTNPT3M0T09kX3NuaURsVWpENjZhQ1FxNExBQUxlN3pTS0hYLXRjYzZUekhkVDVYc1lLM0kwSzVYR25KY2drUkhRc3VjWHpDNVpYVXd2djZCUUIzMF9iU0FBRUx2ejgzdS1DdHA4M21oRHItUUh4NDJXLUF4NGfSAd4BQVVfeXFMTkctSDNtcEk2NDNxQVdqQlV4eUFHTEtTZWVUSFVxR3JFZjhqV0FfTG9qenlzb0FJeDNhM2YtbzRYeUlDWWJXOWV3Wktvd29INXFreHVhYTFRQUJoc1pBa2RYOXRFRlBkR0t1cVpUb1J6WFAxeXdGWXlsQUhBTEN3ZFRIeEREZTNSZDE3RjhseEpQY0xaT2xrTHQwZGlWRk9tNXF1S3NwNWlKejlTU0FKU1doek5Meks3VFdqYl9WLXpyOEE4eG82WVN6ellNbHdJUFZ0Rmp1ZXo2Rk1Ub3l3?oc=5",
+   "date": "2026-10-24T18:10:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "4b63f7205730",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar drugs breaking high-cost barrier to cancer immunotherapy - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRHVYVGFMYkR4dGtqcVM3N29Qam5ZUTB4TkJaMlNmQ0VzYTVCbmI1VTByaTdjNGpoTzl6X05mc2Nwcjl2cE4wTS1uX1JZMVNZVE9kU0x0bm5QVVhDel8wUXZldTNPT3M0T09kX3NuaURsVWpENjZhQ1FxNExBQUxlN3pTS0hYLXRjYzZUekhkVDVYc1lLM0kwSzVYR25KY2drUkhRc3VjWHpDNVpYVXd2djZCUUIzMF9iU0FBRUx2ejgzdS1DdHA4M21oRHItUUh4NDJXLUF4NGc?oc=5",
    "date": "2026-10-24T18:10:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -2554,6 +2564,18 @@
    "biosimilar": true,
    "watch": [
     "Celltrion"
+   ]
+  },
+  {
+   "id": "4cca91efcdb0",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis wins 10-year exclusive contract to supply rare disease drug in Brazil - 헤럴드경제",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMWWhJZnZPT1FtV21Dc1JLeW1uQkZsUnM0c2ZIeEl2V3JxUHlFcVBJLXo3RGlGVmp5QzItZ3NlWHRQODZaZGVDZWN6cWwtQ29rV1Z6WWF3?oc=5",
+   "date": "2026-10-20T00:11:38+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
    ]
   },
   {
