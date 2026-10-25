@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T15:39:10.275802+00:00",
+ "updated": "2026-10-25T18:40:45.579062+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,51 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 60,
+   "count": 31,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "4af00efe4046",
+   "source": "Fierce Biotech",
+   "title": "ESMO: J&J exec says RIPTAC readout is ‘best data we’ve ever seen’ for a prostate cancer drug",
+   "link": "https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug",
+   "date": "2026-10-25T18:40:45.579062+00:00",
+   "snippet": "A year after paying over $3 billion for Halda Therapeutics, Johnson & Johson has unveiled the first data from its shiny new RIPTAC pipeline that it believes could sustain its leading role in prostate cancer.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b633c4614b4e",
+   "source": "Fierce Pharma",
+   "title": "ESMO: AZ, Hutchmed’s Orpathys combo shows post-Tagrisso power in MET-driven lung cancer",
+   "link": "https://www.fiercepharma.com/pharma/az-hutchmed-orpathys-combo-shows-post-tagrisso-power-met-driven-lung-cancer",
+   "date": "2026-10-25T18:40:45.579062+00:00",
+   "snippet": "AstraZeneca has offered a detailed look at the phase 3 non-small cell lung cancer data that finally position its Hutchmed-partnered Orpathys for an FDA approval more than five years after the MET inhibitor’s initial go-ahead in China.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f5655f8be811",
+   "source": "Fierce Pharma",
+   "title": "‘Infinite potential’: Akeso CEO looks for more ivonescimab combos amid AstraZeneca investment, new phase 3 win",
+   "link": "https://www.fiercepharma.com/pharma/akeso-ceo-looks-more-ivonescimab-combos-amid-astrazeneca-investment-new-phase-3-win",
+   "date": "2026-10-25T18:40:45.579062+00:00",
+   "snippet": "With ivonescimab’s first phase 3 win outside lung cancer and a $2 billion investment from AstraZeneca in its U.S. partner Summit Therapeutics, Akeso CEO Michelle Xia, Ph.D., is expecting more combination opportunities for its star PD-1xVEGF bispecific.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "569a2fccfeaf",
+   "source": "Endpoints News",
+   "title": "#ESMO26: Merck and Moderna's cancer vaccine data were 'a triumph of science.' And now, the work begins",
+   "link": "https://endpoints.news/esmo26-merck-and-modernas-cancer-vaccine-data-were-a-triumph-of-science-and-now-the-work-begins/",
+   "date": "2026-10-25T15:46:39+00:00",
+   "snippet": "MADRID — In a testament to clinicians’ interest in Merck and Moderna’s personalized cancer vaccine data at this year’s European Society for Medical Oncology conference, the presidential symposium, which can seat thousands of people, was full ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "c8b2ed61ff89",
    "source": "Fierce Biotech",
@@ -110,6 +150,16 @@
    "date": "2026-10-25T09:39:03.257638+00:00",
    "snippet": "Sac-TMT showed a strong tumor progression benefit in first-line, PD-L1-negative non-small cell lung cancer in a China phase 3 trial that could help Merck close a high-stakes gap in its expansive global development program for the Kelun-Biotech-partnered ADC.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "db8b4a5a7f27",
+   "source": "Google News: biosimilar",
+   "title": "Rs 1 lakh to Rs 30,000: Cancer immunotherapy gets cheaper, but will patients get the price benefit? - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPLUladmRiSDJteGpQVHFaZ3d3WlNhLUJaalR5UkNYcmJrZElTUTB2VEpYOXZlc2NubjBmSWNpU253cDExOUZnMlN1ekgwSU4waEx4RmJqRWdPVWQ5Q2xZTDBzX1BWOFJnSGIyX0wyTllBNlJUaUJlejNIYUZHS2VmZm5IR3FQb3kwbmZXd1NaMDZidER0VFRTeTYxYjlMNnVjY0RmUmN0YVlXQkJnWW9MMjdnSFBSdUstNWNhSjhCTzlwUUwzWGZQbzlvdmdkZUdZNXBpTm82WXFhVGNsWjR0UjZYRzVuSFhfR1BVaDY0NFgtWUVXTGJsT1hQVWRRckdWc0RpOFUtTjZYbUhDQlB6RTA2RF96WVFzbVNiUjZn0gGjAkFVX3lxTE94UFZzTWQ4bWI3T3RiSjl0TlZYeTJfOFRYa3duSnFEeEwtOUhBNTE1UUNTLTg2WkFjZmFydVpxUS1tUHotZXBZWHZMVlAwYTdxRnA1OEtXVHJibUJnenE1Vi10VFRxMm5sYTMzcEpkRVdEcHRHMG5tcERHdW9nOWpxT0ZfY2V3dHpMTEpEUlk2dndUUzFSNUQ3Tm5DTGlYZTBteDV6d2JKb0VOWGxuYURibTFZTV9OcjFVMHNyeEZBSThkcUtSNHhpMGJqdllTdGtPVlQzaEpSMGR1VnFDRWczS1VmcEFidzJLX21LcTNJeDVRSHh0QmFsVmtLSjEtb2QwOE9VakdwRFNkQUxCd2N3TGwxUEdNV3RQYmJCMGRZZzZnTQ?oc=5",
+   "date": "2026-10-25T07:17:34+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
