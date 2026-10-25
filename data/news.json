@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T12:45:08.249495+00:00",
+ "updated": "2026-10-25T15:39:10.275802+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,46 @@
   }
  ],
  "items": [
+  {
+   "id": "c8b2ed61ff89",
+   "source": "Fierce Biotech",
+   "title": "ESMO: AstraZeneca exec insists phase 3 ADC data ‘robust’ enough for regulators despite PFS miss",
+   "link": "https://www.fiercebiotech.com/biotech/esmo-az-exec-insists-ph-3-adc-data-robust-enough-approval-despite-pfs-miss",
+   "date": "2026-10-25T15:39:10.275802+00:00",
+   "snippet": "An AstraZeneca executive was adamant that detailed data from a phase 3 study of the pharma’s next-generation antibody-drug conjugate are “robust” enough to take to regulators, despite the trial failing to meet a key endpoint.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3e2ea3293761",
+   "source": "Fierce Biotech",
+   "title": "ESMO: Roche touts ‘convincing’ phase 3 KRAS data after win over rivals",
+   "link": "https://www.fiercebiotech.com/biotech/esmo-roche-sees-phase-3-kras-lung-cancer-win-over-krazati-convincing-health-authorities",
+   "date": "2026-10-25T15:39:10.275802+00:00",
+   "snippet": "Roche has shed more light on its investigational KRAS G12C inhibitor’s phase 3 victory over Amgen’s Lumakras and Bristol Myers Squibb’s Krazati.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "45bbae2461fe",
+   "source": "Endpoints News",
+   "title": "#ESMO26: Roche details magnitude of its KRAS G12C inhibitor’s win over rivals in lung cancer trial",
+   "link": "https://endpoints.news/esmo26-roche-details-magnitude-of-its-kras-g12c-inhibitors-win-over-rivals-in-lung-cancer-trial/",
+   "date": "2026-10-25T15:30:51+00:00",
+   "snippet": "MADRID — Roche’s next-gen KRAS G12C inhibitor cut the risk of death by 44% in previously treated mutant non-small cell lung cancer in a head-to-head trial against drugs with the same target from Amgen and Bristol ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cf8ebbccfa09",
+   "source": "Endpoints News",
+   "title": "#ESMO26: AstraZeneca's Tagrisso-Orpathys combo may extend Tagrisso's life in lung cancer",
+   "link": "https://endpoints.news/esmo26-astrazenecas-tagrisso-orpathys-combo-may-extend-tagrissos-life-in-lung-cancer/",
+   "date": "2026-10-25T15:30:09+00:00",
+   "snippet": "MADRID — AstraZeneca said Sunday it might have found a way for patients with mutant non-small cell lung cancer to keep taking Tagrisso even after they have become resistant to the EGFR-targeting tyrosine kinase inhibitor. In ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "24e0a618336e",
    "source": "Endpoints News",
@@ -1799,6 +1839,16 @@
    "watch": [
     "Alvotech"
    ]
+  },
+  {
+   "id": "820c1a25fc5c",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Epis secures third sales channel in Brazil - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HaTY0WXh0S1V2X3p3WldLVjVFcEwtSWk0TFAwRDBUNDhZVjc3V3BiT1QtOEw2SHJzSUJSTVhnTjJmWm02Tk45a0N5OEtvQ01xQzJpd2JQNUVwUzdKNFRJRW1VVXJaSEtQaEN6ZTFn?oc=5",
+   "date": "2026-10-20T18:54:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "8ae10cd41b63",
