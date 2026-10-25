@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T00:47:48.834584+00:00",
+ "updated": "2026-10-25T03:40:10.824811+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,7 +47,7 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 36,
+   "count": 60,
    "error": ""
   }
  ],
@@ -3252,6 +3252,16 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa29Ha25abi0zdnNfTl9iZEtOZTY5RmlmazBDcTFPUE1QY2JSZzhMOW5ORXluTDg1NkxSYjNja2tXeElHQndsc0xQY1pLOVRhMnRCUnNnS3hRdWY5cVA0cE9HUWNTMmVDTEduTlc4c3Rib3oyM1FIRkRqa1Q1b2I0Y3BENlliWFB3X2E2anNkbjhKZFFkOWgtS2FvQlU?oc=5",
    "date": "2026-10-18T07:00:00+00:00",
    "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "0cdd12437a81",
+   "source": "Google News: biosimilar",
+   "title": "Sudoku - Evangeline Today",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uSkhoVTFLV1drTldRTG5vZTV0NXdnRDdsOEhtVURwUkJWNERvVk9RTzBvaVB1SG14czBfel9UQnYwbG0wekR3M0tfb0pQM2xqM2dtQlVOb2FWek1jNVIxMzYtTWc?oc=5",
+   "date": "2026-10-18T05:37:30+00:00",
+   "snippet": "Sudoku Evangeline Today",
    "biosimilar": true,
    "watch": []
   },
