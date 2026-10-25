@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T09:39:03.257638+00:00",
+ "updated": "2026-10-25T12:45:08.249495+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": ""
   },
   {
@@ -47,11 +47,21 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 33,
+   "count": 60,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "24e0a618336e",
+   "source": "Endpoints News",
+   "title": "#ESMO26: Pfizer looks beyond lung cancer flop as BioNTech, Bristol Myers show early activity",
+   "link": "https://endpoints.news/esmo26-pfizer-says-failed-adc-from-seagen-buy-shows-promise-in-post-hoc-review/",
+   "date": "2026-10-25T10:00:51+00:00",
+   "snippet": "MADRID — Pfizer is moving past its late-stage loss in non-small cell lung cancer, pointing to a post-hoc analysis of earlier-line patients who appear to benefit. Also on Sunday, BioNTech and Bristol Myers Squibb touted ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "bcd9bc121f6a",
    "source": "Fierce Pharma",
