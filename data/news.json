@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:37:34.152576+00:00",
+ "updated": "2026-10-26T01:02:08.969976+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": ""
   },
   {
@@ -52,6 +52,48 @@
   }
  ],
  "items": [
+  {
+   "id": "98736aaa3a9b",
+   "source": "Fierce Biotech",
+   "title": "ESMO: BMS’ Massacesi hails ‘very promising’ data for BioNTech-partnered PD-L1xVEGF-A drug",
+   "link": "https://www.fiercebiotech.com/biotech/esmo-bms-massacesi-hails-very-promising-data-biontech-partnered-pd-l1xvegf-drug",
+   "date": "2026-10-26T01:02:08.969976+00:00",
+   "snippet": "Bristol Myers Squibb Chief Medical Officer Cristian Massacesi, M.D., has told Fierce that the latest data for its BioNTech-partnered PD-L1xVEGF-A drug are “very promising,” as phase 3 ambitions ramp up.v",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c97a739d4546",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Targets 20 Biosimilars by 2030, Eyes ADC and Obesity Drugs - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQzFFdWdIZ1dGdGRWOWlSeXJLYldWdE95ZzdKMlR5WW9HNFQ1M19uYTlGcHdGdEdWMnY4ZHFBSFVPdEQwTFJYeU9FVXUza2RjMW5IU1pqMU4wV182N01DblljUWRDaWJIVjVGNFlXZ3hsUnN1cmJKc1JQTzdoWkJqTkV3aGpsRDhsYVVjSUc4WC10N21XbmpwbmxQZHZVcmh5TmlZ?oc=5",
+   "date": "2026-10-25T22:00:05+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "b785128912d4",
+   "source": "Endpoints News",
+   "title": "#ESMO26: Akeso details ivonescimab's biliary cancer success, drawing Keytruda comparisons",
+   "link": "https://endpoints.news/esmo26-akeso-details-ivonescimabs-biliary-cancer-success-drawing-keytruda-comparisons/",
+   "date": "2026-10-25T21:43:13+00:00",
+   "snippet": "MADRID — Akeso on Sunday spelled out by how much its Summit Therapeutics-partnered PD-1xVEGF bispecific improved survival in a late-stage, China-only biliary tract cancer study, in one of its early moves to find success beyond ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b69762e274e8",
+   "source": "Google News: biosimilar",
+   "title": "Dr Reddy's bets on generic semaglutide, biosimilars - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZDRBWUlFSFJ3ejFQYU9NdlE3UGMydVlWRWZPdk1SN21yMjRfSkNBYlhSUkZFdnRSQWM2V0w2ZUtBMXRxcEdsMVJhM25sODNnQzBrVHhWcWxoMkh2UDkxVEpZcnhfWE5sOFBoMUNKYjBJZHJCWFNoNkVFMVpvQVpwYV9hYjNwSm1vYURhNzhMOVUxQ2hORXdOZXFQZmoxTzFRSWpETWVBNWpsZHItZ2JrTjRYZ0N1RW9fUEdsWDY1dVd4Qk9wM2FJMnloeG5nR2VXcFQtYTlXQnN2eWh2MkhKWnZjWU52Zjh4a2NBQW13SHpFSjJyN3JjdnE3SXM3YVh0aFJOYWhZQWp1bWMzcklIcTYyT1pJeHYz0gGeAkFVX3lxTFBlQVh6QXRzUHJ3aTc4NzlGb0FYQVBwUTlaZTY4amJBWWprTWIxSU1FcGROcWpxMWhEbHEybUpXQ3paeURWVHJ0c2tkMnZGaFc4V3N6MnVpUjFHVmJzV1M2VTBjdUlZQUVrMWtOZGhWX1Npem9pT1hHVjM3XzVnMnpkUVpTc3haUjA0Z2JzeUtZSGJEV1UzNU1tUExoa2NtZkc2VXF2NmlkVnpvNG4xekFkT21SdWFFWjkzWDBGQnBRV0ljZU5fS0VwQldweWJnWDJWbEYxU0t0dEVwVDVlaG4tMXZQOFNtcktCamhNdzhBQ3BFNUwzaFl3VDJ3YVhNcnRUSF9IVXFVVmpjRGlNOFVuTEVOTjZLQ19yTU9WMmc?oc=5",
+   "date": "2026-10-25T19:49:21+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "4af00efe4046",
    "source": "Fierce Biotech",
@@ -3348,6 +3390,16 @@
    "watch": [
     "Samsung Bioepis"
    ]
+  },
+  {
+   "id": "a5b39f500f60",
+   "source": "Google News: biosimilar",
+   "title": "Virtual Event | The Next Era of Biosimilars: Rewriting the Playbook - STAT",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnBvekh2b1h0UldmQzFJUFNudXlwWkpvTjJWMHh3cUJwYWtiMmZNZDdIZXFxRVJfZ3BFaWdKamxILTJNSUdBRGJsd3doa1VsejVZb0hWNmh3Z0RjZXZqU0hTRjU5UnJ6QlRHam9sX0RDTThLMkhmV3AwbVFQZjcwUTdZZ1Q?oc=5",
+   "date": "2026-10-19T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "3dfe35748df8",
