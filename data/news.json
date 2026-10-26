@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:53:24.066566+00:00",
+ "updated": "2026-10-26T09:51:20.132050+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,23 +41,77 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": ""
   },
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 40,
+   "count": 60,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "f11941f58e90",
+   "source": "Fierce Pharma",
+   "title": "ESMO: Bristol Myers CMO touts ‘5 out of 5’ positive phase 3 trials for bispecific ADC iza-bren",
+   "link": "https://www.fiercepharma.com/pharma/bristol-myers-cmo-touts-5-out-5-positive-phase-3-trials-bispecific-adc-iza-bren",
+   "date": "2026-10-26T09:51:20.132050+00:00",
+   "snippet": "Buoyed by a clean sweep of five positive phase 3 readouts in China, Bristol Myers’ Chief Medical Officer Cristian Massacesi, M.D., is voicing growing confidence in the company's first-in-class bispecific ADC iza-bren, even as the New Jersey pharma has yet to match one China ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6a698957e468",
+   "source": "BioPharma Dive",
+   "title": "The molecule was fine. The moment wasn’t.",
+   "link": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
+   "date": "2026-10-26T09:00:00+00:00",
+   "snippet": "Some overlooked medicines aren’t failures. They just arrived before the market was ready.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5e94ddb23431",
+   "source": "BioPharma Dive",
+   "title": "Novel protein and peptide therapeutics",
+   "link": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
+   "date": "2026-10-26T09:00:00+00:00",
+   "snippet": "Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c4629804e208",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Signs License Agreement to Commercialize Stelara Biosimilar in Nine Markets - marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeGxsM3FkNEU2R3pYSGxpYm1mdkxMZ0tSUE01TDh2aHNpWDUwZ2NIZG94SUJDRm1EajhfbDZVeC1mTzBwQlltWEdyOHB4Um9Qa2NKTWg4N1gySkhmZGZrSmNkaHFKOTdYZlh1RDNOV3RCeTNTWHpyU3ZFeHlhdWs0YjZIQWhwU1NPRkZRRUxoYldPZzVxc2pXaEwxU21heS1rdDVjcHM3VlNvdXF3dlFHY3l0bzNvalh6QVFvZlRNM3RhLU5hMzAweVpJVGJjaTZX?oc=5",
+   "date": "2026-10-26T08:23:34+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
   {
    "id": "f08b409e7418",
    "source": "Google News: biosimilar",
    "title": "Biocon Expands Stelara Biosimilar Access To Nine More Markets - APAC Media",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODZtQUFzdkFEN2lIUC1sTVFhNDhPekZkS3JmSFBXMkNwcElrV1l1YzhRUjRMcDVXdEd0ZWs2Z2cyWE5qeHhkQVVTaTRCZzhQWlJIOWVNZzltVVczeWRfQWxvcGwwdzhnaWNpMDgxc3JwQjE0UUZxWnhSYmRzQ2ZhSWx1enNDbGNmWVBKeTFLVk9vYkFyamUwU1Mxclo2elU?oc=5",
    "date": "2026-10-26T06:11:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "b3334d9c97f6",
+   "source": "Google News: biosimilar",
+   "title": "Biocon secures Yesintek biosimilar rights in nine markets - Express Pharma",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1JhS0dyWUh5NUQ2SU9tSTFaNUl1WmNNZ3B6dmtzWnpSdThfNm5rcXY1QXJKOUVlV1ZkZkI2UVRSZW9NQ1RlMkVfNzhjMjkwc2xjdVA3bG5kUXVrdUR0REJSX0Y3V0JMU2RpLWJMdE9YbWZ6eXZaUlYycFVhT0pvNlNtd0xSYXRvXzFhVExDbEE?oc=5",
+   "date": "2026-10-26T05:31:16+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -188,6 +242,16 @@
    "date": "2026-10-25T21:43:13+00:00",
    "snippet": "MADRID — Akeso on Sunday spelled out by how much its Summit Therapeutics-partnered PD-1xVEGF bispecific improved survival in a late-stage, China-only biliary tract cancer study, in one of its early moves to find success beyond ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6de5f87e6e1d",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilars Cost Less but Remain Underused in South Korea, With 33.1% Uptake Lowest Among 12 Countries - 헬스조선",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFl3VklMc2ZkckFNWGRValptUzJnWm5WSktjU0NYTEJkNTZ4TUVJaTVNOUhKSnRpbVlkTHRXRmx2WHpQR2t3b2NZSkpydVhmc0U4Rm5LTGxWaGI2S09zQk8xRkRRSkQwSDZ6ZTc2ZGZZSmJXUWFOMjhkWHdIdmxQaWY1amh6aHVMTkE?oc=5",
+   "date": "2026-10-25T21:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
