@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T14:51:59.230235+00:00",
+ "updated": "2026-10-26T16:09:21.389490+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": ""
   },
   {
@@ -52,6 +52,56 @@
   }
  ],
  "items": [
+  {
+   "id": "cb3e7c7b79d7",
+   "source": "Fierce Pharma",
+   "title": "ESMO: In sac-TMT’s first global phase 3 win, Merck sees ‘pretty consistent’ data with China",
+   "link": "https://www.fiercepharma.com/pharma/sac-tmt-first-global-phase-3-win-merck-sees-pretty-consistent-data-china",
+   "date": "2026-10-26T16:09:21.389490+00:00",
+   "snippet": "As a cornerstone of Merck’s post-Keytruda oncology strategy, sac-TMT has cleared a clinical milestone. In its first global phase 3 win, the TROP2 ADC delivered results that are “pretty consistent” with earlier China data, according to Merck’s head of oncology clinical ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "318d10261e4c",
+   "source": "Fierce Pharma",
+   "title": "Novartis' Rhapsido touts solid efficacy with industry-best safety data in RMS phase 3 reveal",
+   "link": "https://www.fiercepharma.com/pharma/novartis-rhapsido-touts-solid-efficacy-industry-best-safety-data-rms-phase-3-reveal",
+   "date": "2026-10-26T16:09:21.389490+00:00",
+   "snippet": "In new data from Novartis' Remodel-1 and Remodel-2, Rhapsido's safety profile helped compensate for its solid but lower-than-expected efficacy data in RMS.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f592ff7788e8",
+   "source": "Endpoints News",
+   "title": "Roche’s changing plans show how MFN is complicating European drug launches",
+   "link": "https://endpoints.news/roches-changing-plans-show-how-mfn-is-complicating-european-drug-launches/",
+   "date": "2026-10-26T16:06:38+00:00",
+   "snippet": "Roche will seek European approval for its promising new breast cancer pill giredestrant later than it once expected, highlighting how US drug pricing pressure may be affecting pharmaceutical companies’ launch strategies elsewhere. As recently as ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dae17f6ef974",
+   "source": "BioPharma Dive",
+   "title": "ESMO ‘26: A cancer vaccine debate, Roche’s KRAS progress and Amgen’s ‘unprecedented’ data",
+   "link": "https://www.biopharmadive.com/news/esmo-2026-intismeran-melanoma-imdelltra-divarasib-kras-g12c/833921/",
+   "date": "2026-10-26T15:58:00+00:00",
+   "snippet": "At one of the year’s premiere meetings for cancer research, melanoma vaccine data hailed by researchers sparked a share sell-off on Wall Street, while a lung drug received a standing ovation.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "61f264d45f05",
+   "source": "Endpoints News",
+   "title": "Beyond cancer vaccine, how did Merck’s oncology pipeline do at #ESMO26?",
+   "link": "https://endpoints.news/beyond-cancer-vaccine-how-did-mercks-oncology-pipeline-do-at-esmo26/",
+   "date": "2026-10-26T15:49:12+00:00",
+   "snippet": "MADRID — Much of the coverage on Merck at the European Society for Medical Oncology congress centered on its Moderna-partnered cancer vaccine trial. But the company is actually at the meeting with more than two ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "96bb187de85a",
    "source": "Fierce Biotech",
