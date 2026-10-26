@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T16:09:21.389490+00:00",
+ "updated": "2026-10-26T18:53:58.624819+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "0f9727aca05f",
+   "source": "Fierce Biotech",
+   "title": "Anthropic lays out drug R&D ambitions, risks in mammoth IPO filing",
+   "link": "https://www.fiercebiotech.com/biotech/anthropic-extols-ais-drug-rd-potential-including-risks-mammoth-ipo-filing",
+   "date": "2026-10-26T18:53:58.624819+00:00",
+   "snippet": "Artificial intelligence giant Anthropic is pushing deeper into drug discovery, building its own molecular biology lab and investing in research that could eventually produce drug candidates, according to the company's blockbuster IPO filing.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f8a67c680be6",
+   "source": "Endpoints News",
+   "title": "WuXi AppTec raises revenue forecast again in the face of DOD court case",
+   "link": "https://endpoints.news/wuxi-apptec-raises-revenue-forecast-again-in-the-face-of-dod-court-case/",
+   "date": "2026-10-26T17:43:52+00:00",
+   "snippet": "WuXi AppTec's dispute with the US Department of Defense over its designation as a Chinese military company isn't standing in the way of its performance: The manufacturer raised its 2026 guidance again and is accelerating ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "cb3e7c7b79d7",
    "source": "Fierce Pharma",
@@ -79,6 +99,16 @@
    "link": "https://endpoints.news/roches-changing-plans-show-how-mfn-is-complicating-european-drug-launches/",
    "date": "2026-10-26T16:06:38+00:00",
    "snippet": "Roche will seek European approval for its promising new breast cancer pill giredestrant later than it once expected, highlighting how US drug pricing pressure may be affecting pharmaceutical companies’ launch strategies elsewhere. As recently as ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8ebcf06b763d",
+   "source": "BioPharma Dive",
+   "title": "BioNTech, DualityBio say ADC had ‘modest’ benefit in breast cancer study",
+   "link": "https://www.biopharmadive.com/news/biontech-dualitybio-modest-results-adc-breast-cancer/839574/",
+   "date": "2026-10-26T16:06:00+00:00",
+   "snippet": "The companies said the findings suggest the treatment has a “limited” impact in HER2-low breast cancer, an area where AstraZeneca and Daiichi Sankyo’s Enhertu has already set a high bar.",
    "biosimilar": false,
    "watch": []
   },
