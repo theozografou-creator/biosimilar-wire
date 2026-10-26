@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T18:53:58.624819+00:00",
+ "updated": "2026-10-26T21:40:57.724515+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": ""
   },
   {
@@ -52,6 +52,56 @@
   }
  ],
  "items": [
+  {
+   "id": "039b369954dc",
+   "source": "Fierce Biotech",
+   "title": "Boehringer, Microsoft team up to explore digital patient twins for clinical trials",
+   "link": "https://www.fiercebiotech.com/cro/microsoft-bi-team-launch-digital-patient-twins-trial-design-improvements",
+   "date": "2026-10-26T21:40:57.724515+00:00",
+   "snippet": "Boehringer Ingelheim and Microsoft have launched a collaboration to explore the use of AI-powered digital patient twins to improve clinical trial design.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dc439e86bc3d",
+   "source": "Fierce Pharma",
+   "title": "Pfizer’s Talzenna combo moves up treatment line with new FDA nod in prostate cancer",
+   "link": "https://www.fiercepharma.com/pharma/pfizers-talzenna-climbs-treatment-line-new-fda-okay-prostate-cancer",
+   "date": "2026-10-26T21:40:57.724515+00:00",
+   "snippet": "Pfizer’s Talzenna is now the first PARP inhibitor approved by the FDA to treat men with metastatic hormone-sensitive prostate cancer.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9ae49c6b65d6",
+   "source": "Endpoints News",
+   "title": "Employers accuse UnitedHealth of overpaying medical claims",
+   "link": "https://endpoints.news/employers-accuse-unitedhealth-of-overpaying-medical-claims/",
+   "date": "2026-10-26T20:50:03+00:00",
+   "snippet": "Six large US companies sued UnitedHealth Group, accusing the health insurance giant of overpaying for workers’ medical claims and driving up their costs. Aramark, Whirlpool, Grainger, Kraft Heinz Foods, Ralph Lauren and Sterling Jewelers allege ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3f952eccb070",
+   "source": "BioPharma Dive",
+   "title": "Corxel, an obesity drugmaker, to go public via SPAC deal",
+   "link": "https://www.biopharmadive.com/news/corxel-pharmaceuticals-spac-public-obesity-drugs/872772/",
+   "date": "2026-10-26T19:17:00+00:00",
+   "snippet": "Armed with a $300 million financing and two GLP-1 and amylin-targeting medicines, Corxel is set to become the latest weight loss-focused company to join the public markets.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a5b9147e23ce",
+   "source": "Endpoints News",
+   "title": "Microsoft's AI gives more accurate diagnoses than doctors, study finds",
+   "link": "https://endpoints.news/microsofts-ai-gives-more-accurate-diagnoses-than-doctors-study-finds/",
+   "date": "2026-10-26T19:00:50+00:00",
+   "snippet": "Microsoft says its AI system was around twice as accurate as doctors in diagnosing cases from a medical journal and from emergency room visits, as the tech giant looks to bring AI into clinical care. ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "0f9727aca05f",
    "source": "Fierce Biotech",
@@ -70,6 +120,16 @@
    "date": "2026-10-26T17:43:52+00:00",
    "snippet": "WuXi AppTec's dispute with the US Department of Defense over its designation as a Chinese military company isn't standing in the way of its performance: The manufacturer raised its 2026 guidance again and is accelerating ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "19f70ebd72be",
+   "source": "Google News: biosimilar",
+   "title": "How the biosimilars user fee program supports competition and patients - PhRMA",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZFNmNmJsTjVkbHdFYzFEUnBoT051cnlxcVpuUi1kX3dqT2ZqcHZUaXYtRVdRUWJfQ0tQTEU4dTFCUzYzazY4YmtBZzhIUUl4UE40RDRnZEVFWC1pZDFNX2lEc1BWaWFUZnp3WEhyY1hVRHlNSUhmb3FEOGpMb0VaVmxla1o2TDV4T2hDM1hSdjAwWEh3NFFwQg?oc=5",
+   "date": "2026-10-26T17:24:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
