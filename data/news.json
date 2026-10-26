@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T03:42:21.738179+00:00",
+ "updated": "2026-10-26T06:53:24.066566+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,17 +41,111 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": ""
   },
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 60,
+   "count": 40,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "f08b409e7418",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Expands Stelara Biosimilar Access To Nine More Markets - APAC Media",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODZtQUFzdkFEN2lIUC1sTVFhNDhPekZkS3JmSFBXMkNwcElrV1l1YzhRUjRMcDVXdEd0ZWs2Z2cyWE5qeHhkQVVTaTRCZzhQWlJIOWVNZzltVVczeWRfQWxvcGwwdzhnaWNpMDgxc3JwQjE0UUZxWnhSYmRzQ2ZhSWx1enNDbGNmWVBKeTFLVk9vYkFyamUwU1Mxclo2elU?oc=5",
+   "date": "2026-10-26T06:11:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "d3e14f1dfa7c",
+   "source": "Google News: biosimilar",
+   "title": "Biocon signs Janssen deal to sell $6 bn Stelara Biosimilar in China, 8 other markets - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZFpoX0ZEVlZZTmNoSFBpQ0tMb1ZaUDA2ai03dUdQMm12M0FWclVldzNKZDJIOVk5azZjVG1xWWVWdFh0ek9hZnhSTVJWcWJDMWtkMTVpcGxXX0ZybnFYOTRGcUdNZUh3QjB2aE8teS1wbUdKQ3FZNzV3UkVoYVlkbF9ONmJKX1pxcmhsbGlHbTZsWVdWQzFEVHZkak41ZW1OUHdhUkQwZWlwQUk0T0tsSnExQ09OY0NyRTJCZUdJcmRfZGFhUDVUMVZSZ0JDYmp4UndOV3RCS3NZUdIB4AFBVV95cUxPTlhYNTVMeU8yaE5mS0F1SkF1RDNQWXp3R01odUdLdDFIUW9NVlA4dkwyVFJHMnk3NDdMbS1RVzF5QURwamU0blYzUHUtMnA4OC1xVktfdVpVbUpOcmVaT1ZrNkJnS1k5TE5iVzlSNTRicFpJT1U3QUlPLTFjRndQSS04OGxWdDEtQkNvM3FLSXpFcUlndmJSWWtja25WUVBjYXNnbFFHZmtPblByWS1Vc2wtRVVTMkFzZkN2cmpnZjlUajNEOVFMejZTRjdiX3Nod0lfR09pc0NrRW5HUXk1QQ?oc=5",
+   "date": "2026-10-26T05:02:17+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "94afd66c9e87",
+   "source": "Google News: biosimilar",
+   "title": "Biocon expands global reach of Stelara biosimilar to nine more markets - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ01odWRrZWNab2lFTGJEN2FqUlloSlZjUC00dTRlN1pOTFR5cWQ4djJabmpOOURHT0dYVF9hOFhRVERGZFZqZDZmZEhvX093YVNneUp2TDlYUXQ1UHhxRHc4cXctVU5Lb1VCNHY1MHJrVTdKR0EtOFNJM0RyNjhsc1BxUnJpRklMcnJfanFtaVBtOFljWXY2dndWaDFhOUZQRFhSTWJNM0QzRDRCZVpIM3JiX0kzZXI3dGQ0eUR4ZVlmUkxOWW03V0J0WdIB0AFBVV95cUxNMjZaTUpUMTZDNG1hSWRzNk1RdVJ6Q3ZwZlQ3X2FSel9qVTZGRUJhczNualhnQWdXc1BhWG41S2ZFQ1F3QnNqa3F0MmNfbE5vZjdFTUtKeUlGLUZJdFNGY3k0cWN0c3ZkTDlKTWJ6UzNObWpvczJRU0FJY2E3em4zbjRIdkIyWUJHOWlXQ2ZMcUtHN3BqaWFqRnhkZ0FLVU54VFRYM2hLaDcwazJhRFU3M1ZkVTlZRGota1cwS2hCTTgzWGVkNE9SVUxUTVpaTVdv?oc=5",
+   "date": "2026-10-26T04:09:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "029b800f8e74",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Gains Approval For Yesintek Biosimilar To Stelara In New Global Markets - Sahi",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV1hjUUltbG1UcjQ0Q1BhWGJKWkpGMWNuOEhRaDJ6cjExajB1RXctcGtnMXdWNElrMDZhVkNnQzlmb0ViSE9UcHpzWU1FRW1XWFNMbjdzbnc0NkRaaG05UnRUaG5tZXc3ZjFxeGliTkpFWE9SQ0J0aE9CZmQyUTN1YVRYSzlyZ1R6U1J6cjJJSWZxanA1MVlRVEZxY3NqMFR5S2FTVVJ0QQ?oc=5",
+   "date": "2026-10-26T04:04:44+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "a04d7aabf8b6",
+   "source": "Google News: biosimilar",
+   "title": "News by CNBC TV18 on TradingView, 2026-10-26 — cnbctv:2b4fe5561094b:0 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04ekxmalBaOU95N3NNZ0sxeVJ1allKNmJGRDBkQTBGcS11emdkUjJUa2hqZkpLaURjNk9WdFZYb2xTNWU5T0ktZkFTUzAtWVpyTC1Jc20xak1hOGt1cDFJWG1NZkNtMHM?oc=5",
+   "date": "2026-10-26T03:28:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "9169f25b29f7",
+   "source": "Google News: biosimilar",
+   "title": "Biocon secures market entry for Yesintek™, a proposed biosimilar to Stelara®, in additional global markets - Business Upturn",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcVJodVdQSDlueUd5NnBNN1hKQ2pSdDdJWW1zQmR4c1JfaFRubEhKMkdBY1gtcW5FcG5OaHRwV1NwRXE2ZEVEZ1RjSVppSDFBa0l4YTNoTmhzdFVGenFNWXRUMFFZbDhaZmtucTR5ak96ekhaT3pGd3MtZTlaZmRxc1o3eWlTaTNCSk8zR2lDR1hIUW1SZEdUNkQ0MFFWRlpHd2JidGRENTV4bWZseVBFX0JHWUdIZWZfZDlkcXNyS2pUSHVOS0lZZXBELUhVa0R0Z29QRHNYWEZlS28?oc=5",
+   "date": "2026-10-26T03:13:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "637376c42035",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Biosimilar Expands to Key Global Markets - InvestyWise",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNmFZWDU1VnJ1TkIzTjVEUENkQ3V4NGlrU0lkUWhpdkk0NURsYl9nREhFY3kyVmUtTlFKa2pFemFOZW5TUE1XV1pwOHM1TmEyVFpTVmFkaVRrc0MwSWtRVDJHbC1aR2RYT09Zd1hNLW5iM0R0a2RSUkFVZzBpN0FMYWNleXFicGRh?oc=5",
+   "date": "2026-10-26T03:00:44+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "ffdca538d37b",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Yesintek Biosimilar Expands to Nine New Markets - Kalkine India",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUG9vcmd4SzZab3VtVGFDc0dpcWVoUG02ZnVUMTBJOUptNnN5SHM0dTU4bnZpM1FoMkZnUUE2WWxlektZVS1QY1ZKOUFoUWp1R3pvenlRVkRSU19iMnNRNUUzdEZTV0hvZzNZWmVmN0tneWpqV19uTVFsZmdpd3liMHFEcjFvZUhkbkR4ZndMdi1jaXhweHZVX0ZsSE5nSUY3NThPTFN6aVUwQ0JxUV9nU0dGeE8xeE8zYUt4Rnpfbw?oc=5",
+   "date": "2026-10-26T02:56:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
   {
    "id": "98736aaa3a9b",
    "source": "Fierce Biotech",
