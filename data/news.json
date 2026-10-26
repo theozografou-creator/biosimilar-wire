@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T09:51:20.132050+00:00",
+ "updated": "2026-10-26T14:51:59.230235+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": ""
   },
   {
@@ -52,6 +52,170 @@
   }
  ],
  "items": [
+  {
+   "id": "96bb187de85a",
+   "source": "Fierce Biotech",
+   "title": "Lycia leaps onto Nasdaq with upsized $318M IPO as Windward breezes toward listing",
+   "link": "https://www.fiercebiotech.com/biotech/lycia-leaps-nasdaq-upsized-318m-ipo-while-windward-also-plans-listing",
+   "date": "2026-10-26T14:51:59.230235+00:00",
+   "snippet": "Lycia Therapeutics went public with an upsized $317.5 million IPO on Friday, while immunology-focused Windward Bio is hoping to catch the same tailwinds.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b11ee4f3c559",
+   "source": "Fierce Biotech",
+   "title": "ESMO: Why Incyte sees itself ‘neck and neck’ with RevMed in KRAS G12D pancreatic cancer race",
+   "link": "https://www.fiercebiotech.com/biotech/esmo-why-incyte-sees-itself-neck-and-neck-revmed-kras-g12d-race",
+   "date": "2026-10-26T14:51:59.230235+00:00",
+   "snippet": "Incyte has pointed to a spread of phase 1 data for its KRAS G12D inhibitor as evidence that the company has a worthy rival to Revolution Medicines in this increasingly competitive cancer space.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "02eb10f42a8e",
+   "source": "Fierce Biotech",
+   "title": "BioNTech sees ‘limited’ benefit to ADC after phase 3 reveals modest efficacy, ILD cases",
+   "link": "https://www.fiercebiotech.com/biotech/biontech-sees-limited-benefit-adc-after-phase-3-reveals-modest-efficacy-ild-cases",
+   "date": "2026-10-26T14:51:59.230235+00:00",
+   "snippet": "BioNTech has reported modest efficacy and unexpected safety findings in a phase 3 breast cancer trial, leading the company to conclude its HER2-directed candidate may offer limited benefits in the current treatment landscape.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a0dc6d27eb6c",
+   "source": "Fierce Biotech",
+   "title": "BMS sheds light on patient death in CAR-T trial, wants to get program back on track",
+   "link": "https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause",
+   "date": "2026-10-26T14:51:59.230235+00:00",
+   "snippet": "Bristol Myers Squibb has shared more details with Fierce about the death of a patient who received the pharma's investigational CAR-T in a multiple sclerosis trial.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c32ca8e7eda6",
+   "source": "Fierce Biotech",
+   "title": "ESMO: Genmab posts phase 3 win for Elahere rival, ahead of ‘very interesting’ data from Merus buyout",
+   "link": "https://www.fiercebiotech.com/biotech/esmo-genmabs-phase-3-win-elahere-rival-ahead-very-interesting-data-merus-buyout",
+   "date": "2026-10-26T14:51:59.230235+00:00",
+   "snippet": "Genmab may have arrived in Spain with updated data from a pair of phase 2 studies from the main prize of its Merus buyout, but the company had bigger news to share.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1d4b4732ef00",
+   "source": "Fierce Biotech",
+   "title": "ESMO: Tango trims headcount after impressing analysts with ‘highly synergistic’ RevMed combo",
+   "link": "https://www.fiercebiotech.com/biotech/esmo-tango-dances-phase-3-analysts-hail-highly-synergistic-revmed-combo",
+   "date": "2026-10-26T14:51:59.230235+00:00",
+   "snippet": "Tango disclosed a 14% reduction in headcount even as the company shared more evidence that its PRMT5 inhibitor enhances Revolution Medicines’ Rasonque.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6511208154fc",
+   "source": "Fierce Pharma",
+   "title": "Biopharma Companies Must Break the DMTA Linearity",
+   "link": "https://www.fiercepharma.com/sponsored/biopharma-companies-must-break-dmta-linearity",
+   "date": "2026-10-26T14:51:59.230235+00:00",
+   "snippet": "Reimagining DMTA as a connected network gives scientists the flexibility to act when needed, with context retained across every decision",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "86d1c27285fb",
+   "source": "Endpoints News",
+   "title": "Aspen, Bambusa target $135M IPOs; AstraZeneca vs. Takeda in gastric cancer ADCs",
+   "link": "https://endpoints.news/aspen-bambusa-target-135m-ipos-astrazeneca-vs-takeda-in-gastric-cancer-adcs/",
+   "date": "2026-10-26T14:40:47+00:00",
+   "snippet": "Plus news about Hutchmed, Johnson & Johnson, Jazz Pharmaceuticals, Novartis, Roche and Oruka Therapeutics. Aspen, Bambusa both eye $135M IPOs: Aspen Neuroscience plans to sell 9.38 million shares {$ASPE} between $15 ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6677a5d6998f",
+   "source": "Google News: biosimilar",
+   "title": "Christine Johnston on biosimilar interchangeability and PBM formularies - Managed Healthcare Executive",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYzkzSUE5VHo5bVA5YV93SjI0ZjNQV2dOZG1pNWx1amtuSnRHbG9CMXViTzRJY1hDVklnN1JKb2VWSkhURm01YmFjSWk1UWNBRjdycDlLUHVfbzRNTVdoTE0zV0NULVdpTS1CQVpGR2FrZ21uTVc3aHVJZUpVUV9BNjNTZVdmUl9oeDE2aFJrbk11NlZ3MDZOZVJOMllOLVBNVm9xMXJ5OUJ2bGlfR2ZoZ2JR?oc=5",
+   "date": "2026-10-26T14:32:59+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "cb3b4bb7b6ab",
+   "source": "Endpoints News",
+   "title": "#ESMO26: SystImmune/BMS and Hengrui detail data in EGFR-mutant lung cancer",
+   "link": "https://endpoints.news/esmo26-systimmune-bms-and-hengrui-detail-data-in-egfr-mutant-lung-cancer/",
+   "date": "2026-10-26T14:11:34+00:00",
+   "snippet": "MADRID — Several drugmakers with antibody-drug conjugates are jockeying for a spot in EGFR-mutant non-small cell lung cancer patients who progress after AstraZeneca’s Tagrisso. And it seems that the most intriguing results are coming out of ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "eea4d2fcae5c",
+   "source": "Endpoints News",
+   "title": "Lilly’s music-loving, intense lead dealmaker knows what he wants",
+   "link": "https://endpoints.news/lillys-music-loving-intense-lead-dealmaker-knows-what-he-wants/",
+   "date": "2026-10-26T14:05:43+00:00",
+   "snippet": "Twenty-two years ago, in a theater on the bucolic campus of Princeton University, a sophomore named Jacob Van Naarden portrayed the gambler Nathan Detroit in a production of the famous Broadway ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8d27aab8f62e",
+   "source": "BioPharma Dive",
+   "title": "Another autoimmune CAR-T death; Treasury zeroes in on China deals",
+   "link": "https://www.biopharmadive.com/news/autoimmune-bristol-death-treasury-china-gilead-pepstar-zymeworks/833901/",
+   "date": "2026-10-26T13:59:35+00:00",
+   "snippet": "A patient who received Bristol Myers’ zola-cell died 44 days later. Elswehere, Gilead paid nearly $1.3 billion for a potential threat to J&J’s newly approved psoriasis pill.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7eed9061795e",
+   "source": "Endpoints News",
+   "title": "Corxel to take oral GLP-1 public in the US via SPAC",
+   "link": "https://endpoints.news/corxel-to-take-oral-glp-1-public-in-the-us-via-spac/",
+   "date": "2026-10-26T13:14:17+00:00",
+   "snippet": "For the second week in a row, a drug developer is going public via a special purpose acquisition company (SPAC), the blank-check vehicle that had faded out of favor but now appears ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "be4c4bdd8af1",
+   "source": "Google News: biosimilar",
+   "title": "Bio-Thera Announces NMPA Approval of BAT2306, the First Secukinumab Biosimilar Approved in China - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWGtaV21WV2VmNmhRckdydGlvRUFQTkZqRUtGUlEwNXZDRDVUbDhDUTJQVFNjYmtrSEdWbEszNjBwdFE0WGM3STRBZFVnS2l5aC1ZX2U2WmV2dUtkZ0hja2JLNDhYTWlYQWRhTlBRbXJ1ZUVjWVFVMjZIYUFWdG5YVFAxSy1ud2o4ZVlRQy1mcnYyUzFkTU9oNTV3?oc=5",
+   "date": "2026-10-26T11:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Bio-Thera"
+   ]
+  },
+  {
+   "id": "6e96c64ecf0a",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Secures Yesintek Biosimilar Stelara Commercialisation Rights in 9 More Markets - Medical Dialogues",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZmw4ZWNNMWExMkxUVDc2dXBfdzQ4Qm1fcG1ld01iTk0yT3dub3VmZW0zN1h4OVJMbTlLdWFIX29hUFhvdXNFX0RVMENIaU5HVGhNYnhfa3doR3JQRTk0aE9QLXFmaGxQSXBRaERKZjRPRVphM2dTaFVoSmtfTHZvQzhsUUpKQjhqeU03UjhzSFI0Y0ZBQlg5TF82eUg4WHlhUE53ZXJNYVM1V1ZabHRxei05NG9tTlkxODlEb1BaUjJZZmJyWEZvNExEb0VlY0RiMEtZRjE3dWbSAd4BQVVfeXFMUDVVUm9DUFBjQXY5M21hUDgzbFREYU5KUzZuZ0pWWUhTQTZILXpheURfQlpITjdGOWY1dWgtc2RzRENmWFFEYW9URlBIbXY0VmN0UlhRbDJ3Mk5DTHJpQ0J5TjlBekxtR1RuTW1QekgxVFNzZ2ktaEI4SS1rVjR3RXdiUU9HOWNIOU1CVkwtckhGeDNtVjVwQURRWVpyUmF5ZG9jOHVwOFo0Qjg5Um82cFBkR2tiVldoZUsyend6bXUxQmd4eHd4a1dQcEdpOTg2T2ZQNnBXSmFuZENrbFh3?oc=5",
+   "date": "2026-10-26T10:57:23+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "826d6c455b44",
+   "source": "Endpoints News",
+   "title": "BioNTech, DualityBio ponder next steps for HER2 ADC after 'modest' breast cancer results",
+   "link": "https://endpoints.news/biontech-dualitybio-ponder-next-steps-for-her2-adc-after-modest-breast-cancer-results/",
+   "date": "2026-10-26T10:34:34+00:00",
+   "snippet": "BioNTech and DualityBio are mulling what to do next with trastuzumab pamirtecan in certain breast cancer patients after the antibody-drug conjugate delivered a “statistically significant, yet modest” success in a Phase 3 trial. The drugmakers ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "f11941f58e90",
    "source": "Fierce Pharma",
@@ -88,6 +252,18 @@
    "title": "Biocon Signs License Agreement to Commercialize Stelara Biosimilar in Nine Markets - marketscreener.com",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeGxsM3FkNEU2R3pYSGxpYm1mdkxMZ0tSUE01TDh2aHNpWDUwZ2NIZG94SUJDRm1EajhfbDZVeC1mTzBwQlltWEdyOHB4Um9Qa2NKTWg4N1gySkhmZGZrSmNkaHFKOTdYZlh1RDNOV3RCeTNTWHpyU3ZFeHlhdWs0YjZIQWhwU1NPRkZRRUxoYldPZzVxc2pXaEwxU21heS1rdDVjcHM3VlNvdXF3dlFHY3l0bzNvalh6QVFvZlRNM3RhLU5hMzAweVpJVGJjaTZX?oc=5",
    "date": "2026-10-26T08:23:34+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "f86e8c0cbeac",
+   "source": "Google News: biosimilar",
+   "title": "Biocon inks settlement with J&J arm to launch Stelara biosimilar in nine more markets - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPai11UnhTQ0VKSEdRd1NQNGFRdE9VYmJBclRJRzExTTFSMVBYdlpaQndrTlZqQVpweWpxZmxIZUhERnJLNE04SHMxNVV2cVBISWx0VlJEUkI1NEVaNF9aN3k4TDBKZWRZc1J6bm8wRThENkRCdXNnQ2xGblI3dlFUQl9OUkwybzFYRnM0RlAwOGlQTUZNSzZ2WVZMaFJVZkhYWHl5QUFhYmpudzVpWWN0MjZwT1kwRnVpN1VRSGhab3FhbkpzUmxaX3ZJczFEMU5xbkszX3pUTno2bVBLbjRMejRTZTlnbmc3bkp3R3pOdTHSAfYBQVVfeXFMTjFsemtCeTlaaWlNTG9hWU0xNlc2bVdrTE5rRjl1R3dUZ0JtYnp2ZFMtRTR3X0N2V19PUTBodm5tdWxhYmZxM3FKb1laMUV6bUpnT3ZHTXpoV28wWGlERzg5UWlMa1NaSmVWQzVDQnZuNGd4QWpZV240eUk2Ykt0ak04bnBFMXdLbnNGc20yN1o4dWRSc25sM1E3ei1DRVdsdm9yaktxS0pyQm1nb1RCOHE4RnMxNTVFSEFieElsd3FJT3dYRmRNeC0ydENjQlZiSFlxZGw1QjRuNFVWdURVWlZhdkVxWDJXbjllTldjNHlhUWI0N0Jn?oc=5",
+   "date": "2026-10-26T07:25:47+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -221,6 +397,16 @@
    "watch": [
     "Celltrion"
    ]
+  },
+  {
+   "id": "52f21c0652e8",
+   "source": "Google News: biosimilar",
+   "title": "Korean biosimilars dominate globally but lag at home, ranking last among 12 nations - 헤럴드경제",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hNnMxbHVEM2xKNjhhMHdqdTNPTzJUZFhKLW8yYlBNTF8zdnc1MHNneEFIazFrWkdjT1BMV0JfWnJDWHh4THB5TDF6c0sybU45dzUtMXE1aw?oc=5",
+   "date": "2026-10-26T00:02:49+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "c97a739d4546",
