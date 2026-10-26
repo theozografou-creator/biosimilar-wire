@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:02:08.969976+00:00",
+ "updated": "2026-10-26T03:42:21.738179+00:00",
  "ai": false,
  "feeds": [
   {
@@ -63,6 +63,18 @@
    "watch": []
   },
   {
+   "id": "d8f55160f154",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion lands exclusive US deals for two biosimilars - Aju Press",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rR1pnTER6NUJMc21HQi05bHY2UGxhblVHV2cwR2xFWHlxX29oeDRubmRFa05nRThDT3h2alNrUlJ6WDJrcjJsZlpjV0dVMlE1TXRoUm5tMNIBV0FVX3lxTE1rR1pnTER6NUJMc21HQi05bHY2UGxhblVHV2cwR2xFWHlxX29oeDRubmRFa05nRThDT3h2alNrUlJ6WDJrcjJsZlpjV0dVMlE1TXRoUm5tMA?oc=5",
+   "date": "2026-10-26T00:14:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
    "id": "c97a739d4546",
    "source": "Google News: biosimilar",
    "title": "Samsung Bioepis Targets 20 Biosimilars by 2030, Eyes ADC and Obesity Drugs - Seoul Economic Daily",
@@ -90,6 +102,16 @@
    "title": "Dr Reddy's bets on generic semaglutide, biosimilars - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZDRBWUlFSFJ3ejFQYU9NdlE3UGMydVlWRWZPdk1SN21yMjRfSkNBYlhSUkZFdnRSQWM2V0w2ZUtBMXRxcEdsMVJhM25sODNnQzBrVHhWcWxoMkh2UDkxVEpZcnhfWE5sOFBoMUNKYjBJZHJCWFNoNkVFMVpvQVpwYV9hYjNwSm1vYURhNzhMOVUxQ2hORXdOZXFQZmoxTzFRSWpETWVBNWpsZHItZ2JrTjRYZ0N1RW9fUEdsWDY1dVd4Qk9wM2FJMnloeG5nR2VXcFQtYTlXQnN2eWh2MkhKWnZjWU52Zjh4a2NBQW13SHpFSjJyN3JjdnE3SXM3YVh0aFJOYWhZQWp1bWMzcklIcTYyT1pJeHYz0gGeAkFVX3lxTFBlQVh6QXRzUHJ3aTc4NzlGb0FYQVBwUTlaZTY4amJBWWprTWIxSU1FcGROcWpxMWhEbHEybUpXQ3paeURWVHJ0c2tkMnZGaFc4V3N6MnVpUjFHVmJzV1M2VTBjdUlZQUVrMWtOZGhWX1Npem9pT1hHVjM3XzVnMnpkUVpTc3haUjA0Z2JzeUtZSGJEV1UzNU1tUExoa2NtZkc2VXF2NmlkVnpvNG4xekFkT21SdWFFWjkzWDBGQnBRV0ljZU5fS0VwQldweWJnWDJWbEYxU0t0dEVwVDVlaG4tMXZQOFNtcktCamhNdzhBQ3BFNUwzaFl3VDJ3YVhNcnRUSF9IVXFVVmpjRGlNOFVuTEVOTjZLQ19yTU9WMmc?oc=5",
    "date": "2026-10-25T19:49:21+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "3108b03d05fa",
+   "source": "Google News: biosimilar",
+   "title": "Dr Reddy's bets on generic semaglutide, biosimilars - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQk1FSmxKNVdEdEFWdmpNaDQ0OVYzZGJxTGJmZXNRV2dPMUVhRkhpS1FpRktPYi1wT1U0MjVvemVkRzdwOFRpVUdJR3htblIwSkRfUlR0d2NJVFlwTGt4cGswSE1aZ0t1R1RVZHUzTUxNaXY1cmNoZnktS2pfdEUzUW5NR1RzN0o1bjFZMFpVcTBLeWFFeDg1UGh1ZTk2M3YxNFhGN25mYWFDeFFNVlA1VXgxZU5VTlU3SV9lXzdra3U4T1lOc2xMeEdfSjAycXpsQktSNXhRZUtETm1RSUVzUUFkYmpKUHNTTEoxeW10ZEs0M2dyNHZGUFJQTWRSMFZlZmVVd1F0SllTZ9IBngJBVV95cUxQZUFYekF0c1Byd2k3ODc5Rm9BWEFQcFE5WmU2OGpiQVlqa01iMUlNRXBkTnFqcTFoRGxxMm1KV0N6WnlEVlRydHNrZDJ2RmhXOFdzejJ1aVIxR1Zic1dTNlUwY3VJWUFFazFrTmRoVl9TaXpvaU9YR1YzN181ZzJ6ZFFaU3N4WlIwNGdic3lLWUhiRFdVMzVNbVBMaGtjbWZHNlVxdjZpZFZ6bzRuMXpBZE9tUnVhRVo5M1gwRkJwUVdJY2VOX0tFcEJXcHliZ1gyVmxGMVNLdHRFcFQ1ZWhuLTF2UDhTbXJLQmpoTXc4QUNwRTVMM2hZd1Qyd2FYTXJ0VEhfSFVxVVZqY0RpTThVbkxFTk42S0Nfck1PVjJn?oc=5",
+   "date": "2026-10-25T19:49:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -173,6 +195,18 @@
    "snippet": "MADRID — AstraZeneca said Sunday it might have found a way for patients with mutant non-small cell lung cancer to keep taking Tagrisso even after they have become resistant to the EGFR-targeting tyrosine kinase inhibitor. In ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "937b354b9db3",
+   "source": "Google News: biosimilar",
+   "title": "Dr. Reddy's Laboratories wins U.S. FDA approval for rituximab biosimilar - scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNDJUU25iemtINlRyOTdSVkFzY1hCZExSMEdBR2thcktXdzBKRGhsSmZIbEhxMTFZR0xjWlkwdWxZalJSWnlSSXRSZGRRb1FpTGQzalcyalZpV1pYQ1hDRHR3SUNMX0pRc29haVNDY2g5NUZNYldlSFF4T0ZpdGFSRkdlUGNKLXhvUldtYW1DRlJITm1wSllCb19GaFhaS3ZhQ2RXLTQyS0RmcXhOX0NOLVFWbjJib0xNM2pDSVluY29RQi14alE?oc=5",
+   "date": "2026-10-25T12:53:54+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Dr. Reddy"
+   ]
   },
   {
    "id": "24e0a618336e",
