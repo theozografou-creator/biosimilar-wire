@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T09:47:19.581717+00:00",
+ "updated": "2026-10-27T12:51:44.886566+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,91 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 60,
+   "count": 59,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "9c28629b8548",
+   "source": "Fierce Biotech",
+   "title": "Artiva lays off 94% of staff after deaths and durability sink autoimmune cell therapy",
+   "link": "https://www.fiercebiotech.com/biotech/artiva-lays-94-staff-after-deaths-and-durability-sink-autoimmune-cell-therapy",
+   "date": "2026-10-27T12:51:44.886566+00:00",
+   "snippet": "Artiva Biotherapeutics has halted development of an autoimmune disease cell therapy and laid off 94% of its staff after two patients died and durability data fell short of expectations.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "69699b0b3006",
+   "source": "Fierce Biotech",
+   "title": "Parkinson’s-focused Aspen and bispecific biotech Bambusa both shoot for $134M IPOs",
+   "link": "https://www.fiercebiotech.com/biotech/parkinsons-focused-aspen-and-bispecific-biotech-bambusa-both-shoot-134m-ipos",
+   "date": "2026-10-27T12:51:44.886566+00:00",
+   "snippet": "Parkinson’s disease cell therapy-focused Aspen Neuroscience and bispecific biotech Bambusa Therapeutics are each hoping to raise around $134 million from their respective IPOs.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a5b3e008657f",
+   "source": "Fierce Biotech",
+   "title": "Corxel claims oral obesity drug is in the ‘right lane’ as biotech plans SPAC route to Nasdaq",
+   "link": "https://www.fiercebiotech.com/biotech/377m-spac-deal-corxel-says-its-oral-obesity-drug-right-lane-or-corxel-takes-oral-obesity",
+   "date": "2026-10-27T12:51:44.886566+00:00",
+   "snippet": "Corxel Pharmaceuticals may not have always planned to dust off the SPAC route to the public markets, but the obesity-focused biotech is happy with its choice.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c55850dd983e",
+   "source": "Fierce Biotech",
+   "title": "Novartis CEO keeps faith in Avidity deal despite taking $1.9B hit from del-desiran fail",
+   "link": "https://www.fiercebiotech.com/biotech/novartis-ceo-keeps-faith-avidity-deal-despite-19b-hit-del-desiran-fail",
+   "date": "2026-10-27T12:51:44.886566+00:00",
+   "snippet": "Novartis CEO Vas Narasimhan has insisted that the phase 3 fail for del-desiran is just a “bump” in the Swiss pharma’s wider plans for the drug, despite costing the company an estimated $1.9 billion.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8df3dd341c30",
+   "source": "Endpoints News",
+   "title": "After $1.9B impairment hit, Novartis stands by $12B bet on Avidity",
+   "link": "https://endpoints.news/novartis-stands-by-12b-bet-on-avidity-after-1-9b-impairment-hit/",
+   "date": "2026-10-27T10:57:52+00:00",
+   "snippet": "Novartis’ $12 billion acquisition of Avidity Biosciences “remains absolutely on track,” CEO Vas Narasimhan said, after the company disclosed a $1.9 billion impairment charge on a failed late-stage neuromuscular disease asset it ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9dff9f106a24",
+   "source": "Google News: biosimilar",
+   "title": "Psoriasis Biosimilars Market Outlook Signals Expansion To $13.79 Billion Through 2030 - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdk0xX0tFT1RTd0s1Q2x3U0hjVVM3dVlkWDhnaGVSbC1VcV9nYUlMSTVlb2VGcjlDOUVwMS1YR3pGaEhOQnc3ekJKZTF3YzFOTFpSelJtSnQzdnd4ZjNXT2o0MTZOaDFyMHB2XzhZR01YQ3dxU0Vld0hNY203ZUxFODRrWTdaQW5na1lsRGFCOGxway0w?oc=5",
+   "date": "2026-10-27T10:38:38+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "9b9e5d9db9e5",
+   "source": "Endpoints News",
+   "title": "Novartis considers bypassing European government payers due to MFN",
+   "link": "https://endpoints.news/novartis-considers-bypassing-european-government-payers-due-to-mfn/",
+   "date": "2026-10-27T10:34:44+00:00",
+   "snippet": "Novartis CEO Vas Narasimhan said Tuesday that launching new drugs in the private market or in a self-pay market in Europe is not off the table in response to the so-called most favored nation policy. ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7c133d9d0e60",
+   "source": "Google News: biosimilar",
+   "title": "17 APAC-Made Biosimilars Approved in the US or EU in 2026 - BioPharma APAC",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVktaTjlleTVZczFoQW0wSnNGalZvb09vdHk1dzUzckNxek54aVdyQjV6TjFKUXR5QmQtZGV4OTJLT21weWMxMzNtelR6UFVkNjRrd1NqeXlWMmxRa25ON21aN2pyeVQxeWc3NnZrVDZodUxCNjhnd2pSUG9MeFBfT2N5T051OG9xdHZkbXdkUkZVSkxKNEtGa01WalRuUFViN3BaRTF1bEo?oc=5",
+   "date": "2026-10-27T10:18:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "c2aa4223fafc",
    "source": "Fierce Biotech",
@@ -70,6 +150,40 @@
    "date": "2026-10-27T09:47:19.581717+00:00",
    "snippet": "A phase 3 trial has linked GSK’s risvutatug rezetecan to a 67% reduction in the risk of disease progression or death, providing evidence that B7-H3-directed antibody-drug conjugates work in relapsed osteosarcoma.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cb72d27a4860",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz stock costs EUR 88.85 ahead of October 28 sales update - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS1duM0JNSGRpTGIwbDdCOWN1cElTWVp5RUQ2M3R3dk9EWXYtWl9TcFhMZkdwd3d5WEVad1UtVG1QXzlsdGZSRlhnd1JiT29XekhtekZCYXVnYS1IWEZnUy1yOWFudDB1bWhBUUllamt2ZkNDWTdYTndIbi1hX1JMcHpUc2ZPTkJKSUxLblRlbmJ3Yk1xdmpfSjg4c3JBTE4zd05VZHJqNlhGc2kxdG1hZ1hEdUs2UGRhQ2lsTWpjYXpwUQ?oc=5",
+   "date": "2026-10-27T09:33:55+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "ceae2eee78e0",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Confirms Similarity in Clinical Trial of Keytruda Biosimilar - 파이낸셜뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vcTY4M2k2SGxMUlJncmpCSjZtaUc1SmYtcE1fVVp6Q1VGTVAyMUcxQUxHLW9qMnlrZHFXMFFrZlRlcjdNZGcwY2lFWklKMlZ1bjl0amc0WVE?oc=5",
+   "date": "2026-10-27T08:49:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "9121d17980eb",
+   "source": "Google News: biosimilar",
+   "title": "Rituximab Biosimilars Market Insights Highlight Segment Expansion And Market Leadership - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHdXYk10SFhUbUFRUjFnam53U3hFcHBJajVfQXFaQkg0Q3VkWTN3YVItQ28xMDVnQmp6bzFKbXo3cGlTb0RfVWwtS3NSYVRTa0ZieTYtejNLRlFJaUdTamI0RV9CQnRXNmxSRzRZME1YSnRDcGpPVVFVaGxZTnJuRDVFZXNpYTR2VmNqYlJva3B2eTFCZ3c?oc=5",
+   "date": "2026-10-27T07:24:02+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -1065,6 +1179,18 @@
    "snippet": "Hello from Madrid, and welcome back to Endpoints Weekly! I’m at #ESMO26 with my colleagues Ayisha Sharma and Reynald Castaneda. The most anticipated readout from this year’s conference was Merck and Moderna’s Phase 3 study ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "17573cbee908",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Secures Entry for Stelara Biosimilar Yesintek in Nine More Global Markets via Janssen Licence - eHealth Magazine",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGN4dEpMUlVaNE4zN1pHX3VackpGN1NZM01IbEkwYzNyd2dfWjVRSU9iOEsxSlpyR0Q0NE42cVF4R0RacXZnMGoxMzdjY3EzV2JhY0xxZ25yX1dyelRwVzA3bUMwRnB6U3RlV1VVUUlYblNXMlJ6S1JVaTVlR3ktWldqOGZEb2dwUnBtUVd2U196ZkctdlUzMExVN0Y3SUNfYnVqQWdpaw?oc=5",
+   "date": "2026-10-24T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
   },
   {
    "id": "201557fb2971",
