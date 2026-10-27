@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T06:49:40.399951+00:00",
+ "updated": "2026-10-27T09:47:19.581717+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,31 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 53,
+   "count": 60,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "c2aa4223fafc",
+   "source": "Fierce Biotech",
+   "title": "BMS joins 3-year partnership to boost participation in cancer trials",
+   "link": "https://www.fiercebiotech.com/cro/bms-partners-healthcare-improvement-organization-expand-access-cancer-clinical-trials",
+   "date": "2026-10-27T09:47:19.581717+00:00",
+   "snippet": "The Institute for Healthcare Improvement has partnered with Bristol Myers Squibb on an initiative to expand access to cancer trials.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "517f496bcee9",
+   "source": "Fierce Biotech",
+   "title": "GSK’s B7-H3 ADC drives 67% cancer risk reduction in Hansoh's phase 3 China trial",
+   "link": "https://www.fiercebiotech.com/biotech/gsks-b7-h3-adc-drives-67-cancer-risk-reduction-phase-3",
+   "date": "2026-10-27T09:47:19.581717+00:00",
+   "snippet": "A phase 3 trial has linked GSK’s risvutatug rezetecan to a 67% reduction in the risk of disease progression or death, providing evidence that B7-H3-directed antibody-drug conjugates work in relapsed osteosarcoma.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "063e374c4b2a",
    "source": "Google News: biosimilar",
@@ -61,6 +81,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "e61739631931",
+   "source": "Google News: biosimilar",
+   "title": "[ESMO 2026] Samsung Bioepis' Keytruda biosimilar shows equivalent drug exposure - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52WDZFZ2FUcmE1a0Zjdl9vS2pCR3dGM2l4a0w5REl0ZjlNZkZvR0lvOFVpS0pSUGtsQ1UwRUJlODFEbUxVcEVFc1lJOVNIUjFmOVdJXy1WVjlvd24yMEZFYVdnTHRNVThlamhvaG9n0gFyQVVfeXFMTlh1bFlXamZnWGc3VVU0bk81d2tkTVRQcWZUUk0zZE1CRlQ5TEtzOHA3c2NXV2RnX1JkWkczSnBYQ1RSVWxLWF9MLW9yRlg2TWdCenhYdllsNWpFMnpRWUwzX3gtelczd1JnTTA1OUFvcDZ3?oc=5",
+   "date": "2026-10-27T04:24:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
   },
   {
    "id": "6655b40e4fe9",
