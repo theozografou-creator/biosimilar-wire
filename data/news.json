@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:53:21.217721+00:00",
+ "updated": "2026-10-27T03:41:56.009735+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,22 +41,58 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": ""
   },
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 49,
+   "count": 60,
    "error": ""
   }
  ],
  "items": [
   {
+   "id": "6655b40e4fe9",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Confirms Pharmacokinetic Equivalence of Keytruda Biosimilar 'SB27' in Phase 1 Trial - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FMGt0TnBmXzBUZG5OTmhPdXJuQzBqLVV2RWR6Skc3ZURoVC12SENoLVQ3dUg1a05wNy1pTVhxOFVoWkNJNEpvZ21zQ1Vxd2g5eGlfeENUSzB0WmZYUk1nX1ljMnltS2pVYWF4OTVRV25xemRxdFE?oc=5",
+   "date": "2026-10-27T01:36:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "9244d4143728",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion Q3 operating profit jumps 74% on strong sales of high-margin biosimilars - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwdGRVZDcxaEJjbWVnQ2FXMzBwTDNzd0V2RHY5c0syRFZvcHhnNDRDSThZVE84SEI4VTBYRUhQWER0cGNQU2tRRUs1SnptXzMtZ28wRjduUUpvN2JQZzZiM0hHemFGVlhzUlpFNWVR0gFyQVVfeXFMTTBZQjU4YWdBRk9WQzhQYmVmQ1hYZ2FPZ0tNdGtXdkRWTEpkWWZMWXB5cjJJNF9HdVBOTXpKcTJFQkxsYjR6MVczUHpldnRGWUd1MnV6SVdKejU3R0lGbXJ0UG1CZDFPTGpyaWVWNkRjVTF3?oc=5",
+   "date": "2026-10-27T01:06:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
    "id": "74d221e6b010",
    "source": "Google News: biosimilar",
    "title": "Celltrion boosts Q3 revenue 53% on high-margin biosimilar sales in Korea - CHOSUNBIZ - Chosunbiz",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONVU1WXUxMmdZS0xJMVNJNm5WZXhfQzc1UXlhb1ZVS3oxTHBfM1ROdC1DT2dobjBvY25QUTg0cjZzSnpNUFFaTFlZcW9QLTFpeVAwMUVNaUlBRVFHRWlqc1VlRGlYT1dxYlZXNElHVHdVSUZrVUd2TFAzVTdhal9IStIBlAFBVV95cUxORzhZVkN1eml0clNGQkdNRkd0empMQmx3cGVOal90Z2M1SVdHQjNaeGpiMlQ1UHEyOTVKRGlYT2lBMk1WMS1vN1Jpcm5rWU94Vi1YREhhYjFscVpIZmI1ZXlULWlxWG1heDlwcG03QURDVTh1UElCSmZZanZubDVscTlyUTBhME5iSVExUXcydGlvNFdJ?oc=5",
+   "date": "2026-10-27T00:28:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "897a722bb69b",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion boosts Q3 revenue 53% on high-margin biosimilar sales in Korea - CHOSUNBIZ - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORzhZVkN1eml0clNGQkdNRkd0empMQmx3cGVOal90Z2M1SVdHQjNaeGpiMlQ1UHEyOTVKRGlYT2lBMk1WMS1vN1Jpcm5rWU94Vi1YREhhYjFscVpIZmI1ZXlULWlxWG1heDlwcG03QURDVTh1UElCSmZZanZubDVscTlyUTBhME5iSVExUXcydGlvNFdJ0gGUAUFVX3lxTE5HOFlWQ3V6aXRyU0ZCR01GR3R6akxCbHdwZU5qX3RnYzVJV0dCM1p4amIyVDVQcTI5NUpEaVhPaUEyTVYxLW83UmlybmtZT3hWLVhESGFiMWxxWkhmYjVleVQtaXFYbWF4OXBwbTdBRENVOHVQSUJKZllqdm5sNWxxOXJRMGEwTmJJUTFRdzJ0aW80V0k?oc=5",
    "date": "2026-10-27T00:28:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -423,6 +459,16 @@
    ]
   },
   {
+   "id": "117d61c1c2ed",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Winchester News Gazette",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2xHcGZpLW9pNGE5MDNCdy1uNFo0T2RzN1B0YURqd0k0S29Pd2dGdFRQSjBhYnlGZzdKRHE2emQwOHZ4TFhMMmJBWmc2eHZPcUFNUFdDOU9Td09FOW92QmlxajNLd19aOGhUNGxFMjBJY2dDTTFwUEJXTWZFRUpjMlNVTkVRSWtoV0tZZHVfUFJ0SURMTVJuc2ExeHVqeGVJZVc5SEdodmM2QQ?oc=5",
+   "date": "2026-10-26T11:27:53+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "be4c4bdd8af1",
    "source": "Google News: biosimilar",
    "title": "Bio-Thera Announces NMPA Approval of BAT2306, the First Secukinumab Biosimilar Approved in China - Yahoo Finance",
@@ -439,6 +485,18 @@
    "source": "Google News: biosimilar",
    "title": "Biocon Secures Yesintek Biosimilar Stelara Commercialisation Rights in 9 More Markets - Medical Dialogues",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZmw4ZWNNMWExMkxUVDc2dXBfdzQ4Qm1fcG1ld01iTk0yT3dub3VmZW0zN1h4OVJMbTlLdWFIX29hUFhvdXNFX0RVMENIaU5HVGhNYnhfa3doR3JQRTk0aE9QLXFmaGxQSXBRaERKZjRPRVphM2dTaFVoSmtfTHZvQzhsUUpKQjhqeU03UjhzSFI0Y0ZBQlg5TF82eUg4WHlhUE53ZXJNYVM1V1ZabHRxei05NG9tTlkxODlEb1BaUjJZZmJyWEZvNExEb0VlY0RiMEtZRjE3dWbSAd4BQVVfeXFMUDVVUm9DUFBjQXY5M21hUDgzbFREYU5KUzZuZ0pWWUhTQTZILXpheURfQlpITjdGOWY1dWgtc2RzRENmWFFEYW9URlBIbXY0VmN0UlhRbDJ3Mk5DTHJpQ0J5TjlBekxtR1RuTW1QekgxVFNzZ2ktaEI4SS1rVjR3RXdiUU9HOWNIOU1CVkwtckhGeDNtVjVwQURRWVpyUmF5ZG9jOHVwOFo0Qjg5Um82cFBkR2tiVldoZUsyend6bXUxQmd4eHd4a1dQcEdpOTg2T2ZQNnBXSmFuZENrbFh3?oc=5",
+   "date": "2026-10-26T10:57:23+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "2761e0fca8a2",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Secures Yesintek Biosimilar Stelara Commercialisation Rights in 9 More Markets - Medical Dialogues",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNVVSb0NQUGNBdjkzbWFQODNsVERhTkpTNm5nSlZZSFNBNkgtemF5RF9CWkhON0Y5ZjV1aC1zZHNEQ2ZYUURhb1RGUEhtdjRWY3RSWFFsMncyTkNMcmlDQnlOOUF6TG1HVG5NbVB6SDFUU3NnaS1oQjhJLWtWNHdFd2JRT0c5Y0g5TUJWTC1ySEZ4M21WNXBBRFFZWnJSYXlkb2M4dXA4WjRCODlSbzZwUGRHa2JWV2hlSzJ6d3ptdTFCZ3h4d3hrV1BwR2k5ODZPZlA2cFdKYW5kQ2tsWHfSAd4BQVVfeXFMUDVVUm9DUFBjQXY5M21hUDgzbFREYU5KUzZuZ0pWWUhTQTZILXpheURfQlpITjdGOWY1dWgtc2RzRENmWFFEYW9URlBIbXY0VmN0UlhRbDJ3Mk5DTHJpQ0J5TjlBekxtR1RuTW1QekgxVFNzZ2ktaEI4SS1rVjR3RXdiUU9HOWNIOU1CVkwtckhGeDNtVjVwQURRWVpyUmF5ZG9jOHVwOFo0Qjg5Um82cFBkR2tiVldoZUsyend6bXUxQmd4eHd4a1dQcEdpOTg2T2ZQNnBXSmFuZENrbFh3?oc=5",
    "date": "2026-10-26T10:57:23+00:00",
    "snippet": "",
    "biosimilar": true,
