@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:51:44.886566+00:00",
+ "updated": "2026-10-27T15:51:52.573818+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,17 +41,167 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": ""
   },
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 59,
+   "count": 60,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "2a3337b65ee1",
+   "source": "Fierce Biotech",
+   "title": "From RAS rivalries to leaked cancer vaccine readouts, ESMO brought the data drama",
+   "link": "https://www.fiercebiotech.com/biotech/ras-rivalries-leaked-vaccine-readouts-esmo-brought-data-drama",
+   "date": "2026-10-27T15:51:52.573818+00:00",
+   "snippet": "Every ESMO conference is eventful, but the drama kicked into gear earlier than expected this year when the eagerly anticipated phase 3 data for Moderna and Merck & Co.’s cancer vaccine were leaked two days before the Presidential Symposium.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "09880ea5627a",
+   "source": "Fierce Biotech",
+   "title": "Labcorp continues acquisition spree as it buys up Millennium Health",
+   "link": "https://www.fiercebiotech.com/medtech/labcorp-continues-acquisition-spree-it-buys-millennium-health",
+   "date": "2026-10-27T15:51:52.573818+00:00",
+   "snippet": "Labcorp is acquiring Millennium Health to boost the medtech giant’s toxicology testing capabilities throughout the U.S.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e92a97f36b69",
+   "source": "Fierce Pharma",
+   "title": "Novartis CEO unfazed by high-profile clinical failures, maintains long-term revenue goal",
+   "link": "https://www.fiercepharma.com/pharma/novartis-ceo-unfazed-high-profile-clinical-failures-maintains-long-term-revenue-goal",
+   "date": "2026-10-27T15:51:52.573818+00:00",
+   "snippet": "Two late-stage clinical failures of high-value projects have not changed Vas Narasimhan’s projection for Novartis over the next 10 years. Based on early launch trajectory in chronic hives and a positive phase 3 readout in relapsing multiple sclerosis, Novartis has increased its ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3919604d0704",
+   "source": "Fierce Pharma",
+   "title": "Pfizer heads to FDA with phase 3 myeloma win for Elrexfio",
+   "link": "https://www.fiercepharma.com/pharma/pfizer-heads-fda-phase-3-myeloma-win-elrexfio",
+   "date": "2026-10-27T15:51:52.573818+00:00",
+   "snippet": "Pfizer touted another Elrexfio phase 3 win in earlier-line relapsed or refractory multiple myeloma. Next up, the drugmaker is taking the data to global regulators in hopes of a label expansion.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7610dd7091bf",
+   "source": "Fierce Pharma",
+   "title": "WuXi AppTec bucks DOD uncertainty through Q3, lifting forecast for 2026",
+   "link": "https://www.fiercepharma.com/manufacturing/wuxi-apptec-bucks-dod-uncertainty-through-q3-lifting-forecast-2026",
+   "date": "2026-10-27T15:51:52.573818+00:00",
+   "snippet": "As it continues to confront a potential existential threat in the United States, CRDMO juggernaut WuXi AppTec’s finances certainly don’t seem to be feeling the pressure.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "eb8f40b52075",
+   "source": "Fierce Pharma",
+   "title": "Eli Lilly fends off Novo’s legal bid to block GLP-1 marketing claims",
+   "link": "https://www.fiercepharma.com/marketing/eli-lilly-fends-novos-legal-bid-block-glp-1-marketing-claims",
+   "date": "2026-10-27T15:51:52.573818+00:00",
+   "snippet": "A U.S. judge has ruled Eli Lilly can keep making marketing claims challenged by Novo pending a ruling on a court case brought by the Danish drugmaker.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b27f53454549",
+   "source": "Fierce Pharma",
+   "title": "Regeneron lands $270M in renewed US supply pact for approved Ebola med Inmazeb",
+   "link": "https://www.fiercepharma.com/pharma/regeneron-lands-270m-renewed-us-supply-pact-approved-ebola-med-inmazeb",
+   "date": "2026-10-27T15:51:52.573818+00:00",
+   "snippet": "As the fastest-spreading Ebola outbreak on record continues to grip the Democratic Republic of Congo, the United States is taking renewed steps to protect its own citizens from the devastating virus.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "606bbaeadfa7",
+   "source": "Fierce Pharma",
+   "title": "Sun locks in first DTC spot for alopecia areata med Leqselvi",
+   "link": "https://www.fiercepharma.com/marketing/sun-locks-first-dtc-spot-alopecia-areata-med-leqselvi",
+   "date": "2026-10-27T15:51:52.573818+00:00",
+   "snippet": "The new 60-second spot follows Sun’s fashion-forward “Regrowth Restyled” campaign and aims to spark awareness and hope for people living with alopecia areata.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bfd32cfbd9a8",
+   "source": "Endpoints News",
+   "title": "Gubra looks beyond metabolism, hopes for first portfolio company this year",
+   "link": "https://endpoints.news/gubra-looks-beyond-metabolism-hopes-for-first-portfolio-company-this-year/",
+   "date": "2026-10-27T15:21:31+00:00",
+   "snippet": "The Copenhagen-based drugmaker Gubra's present is mostly about obesity. Its future will need to be about a much broader pipeline. The company has a portfolio of weight loss drug candidates but is moving into the ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6e47b37dfc62",
+   "source": "Endpoints News",
+   "title": "Artiva to wind down after two patient deaths in autoimmune cell therapy trials",
+   "link": "https://endpoints.news/artiva-to-wind-down-after-two-patient-deaths-in-autoimmune-cell-therapy-trials/",
+   "date": "2026-10-27T14:45:41+00:00",
+   "snippet": "Cell therapy biotech Artiva Biotherapeutics abruptly announced Tuesday morning that it is effectively shutting down and laying off almost all of its staff after two patients died in its clinical trials. Researchers had been testing ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5a5b0ad0ee46",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves Xbrane's biosimilar Lucamzi in the US - www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzNKNVFfWGJxdTlXRmNnSWRPd25PWkxpajdBU1Q1X2xJM2IyZXhnSURGZUFHSHlySzdLUWxkd0JjRDNPOE1jRE9oT0JkYldHNUd1b0oyMHlWTkV6aEloV2h6OVhSQzRnSF9tUTAwbzJjWEgtYkpma1ppMmg1b3RER01JU3B6M2RvUDFCbjA3ZmZubFQycmRlMGJoSzBWSTRpLWo2ckxR?oc=5",
+   "date": "2026-10-27T14:45:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "be4f01b20770",
+   "source": "Google News: biosimilar",
+   "title": "Xbrane Biopharma AB (XBRANE) Wins FDA Nod For Lucamzi Biosimilar - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUN3NkN4WXcyaWczU0VabldPUFktd3hEZDBwZllaQkpjVHFRc1dQVGwtZU5MRlFjVjhwQ2tsWW9EX1dZdW9oV3NOWmpyNGgyY1FkQ0dEclJKRnFfOWR6bndGR0lFQndrYVBTLTVEVTk5ZlJBaUNnemhMbldRN3lWWVM3OTZMVDJ1NTlOdExPNFVzaWtEOVJzU2VqMnJTX2VRRVlnbmFvYi11c0w2X1Z3VW5BUFJhSTg5Vk1rYUlHMDU2Zw?oc=5",
+   "date": "2026-10-27T14:40:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "766444cdd388",
+   "source": "Endpoints News",
+   "title": "Outpace ends an ovarian cancer trial; Incyte data impresses at ESMO",
+   "link": "https://endpoints.news/outpace-ends-an-ovarian-cancer-trial-incyte-data-impresses-at-esmo/",
+   "date": "2026-10-27T14:38:38+00:00",
+   "snippet": "Plus news about Genmab, Rumi, Prana and Fractyl. Outpace Bio ends cell therapy trial: The Seattle startup canned a Phase 1 ovarian cancer trial of its mesothelin autologous CAR-T, called OPB-101 ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6cf947bcee48",
+   "source": "Endpoints News",
+   "title": "After Makary's FDA exit, biopharma exhales: Signal Survey",
+   "link": "https://endpoints.news/after-makarys-fda-exit-biopharma-exhales-signal-survey/",
+   "date": "2026-10-27T14:04:06+00:00",
+   "snippet": "When Endpoints Signal released the Q3 Biopharma Sentiment Index last week, it showed a level of industry optimism not seen in years. Behind the topline figure, one area of improvement really stood ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8a2410b496a1",
+   "source": "Endpoints News",
+   "title": "Ferring to acquire ovary-in-a-dish startup Gameto for up to $1.38B",
+   "link": "https://endpoints.news/ferring-to-acquire-ovary-in-a-dish-startup-gameto-for-up-to-1-38b/",
+   "date": "2026-10-27T13:16:29+00:00",
+   "snippet": "Ferring Pharmaceuticals has signed an agreement to acquire the fertility startup Gameto in a deal that could be worth up to $1.3825 billion, the companies told Endpoints News ahead of a",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "9c28629b8548",
    "source": "Fierce Biotech",
