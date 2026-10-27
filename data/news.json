@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T18:50:23.721759+00:00",
+ "updated": "2026-10-27T21:42:35.936913+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,105 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 58,
+   "count": 59,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "5f0721b87e12",
+   "source": "Fierce Pharma",
+   "title": "Vanda eyes GLP-1 nausea indication with Nereus phase 3 win in hand",
+   "link": "https://www.fiercepharma.com/pharma/vanda-eyes-glp-1-nausea-indication-nereus-phase-3-win-hand",
+   "date": "2026-10-27T21:42:35.936913+00:00",
+   "snippet": "Vanda Pharmaceuticals secured a phase 3 win for its motion sickness medicine, Nereus. The drug reduced GLP-1 related vomiting by 27% for patients on Wegovy.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bd6a827b807f",
+   "source": "Fierce Pharma",
+   "title": "Teva telegraphs 61 job cuts amid plans to close 'underutilized' New Jersey plant",
+   "link": "https://www.fiercepharma.com/pharma/teva-telegraphs-61-job-cuts-amid-plans-close-underutilized-new-jersey-plant",
+   "date": "2026-10-27T21:42:35.936913+00:00",
+   "snippet": "Amid Teva’s return to sales growth, the innovative-generic drugs hybrid has been taking steps to cut costs in parallel, with the downsizing push now reaching a U.S. manufacturing facility in the Garden State.",
+   "biosimilar": false,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "179974a7a6d0",
+   "source": "Google News: biosimilar",
+   "title": "Adalvo Acquires Romiplostim Biosimilar Program from Enzene - Contract Pharma",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQajJQSTd1UklXdmgxV0hpdmtfQnNheHFxbTFJWnVlcldpVUs5dWNqQ0Y3SVdoUlIyX2NrTGx2MG1rcFpiRlNlak1TSktlVGQtVGI1dVNhMGhRUENtQk9lMThqb0t3ZW9ucHB1UkV1aU43S0lYRmMzcjhzRjYxVExnbE1fNnJzbVF5TVkzX1Mxc3R2Si1fU256ejJGZmV3Rk4zTU9zWC0zOA?oc=5",
+   "date": "2026-10-27T21:00:58+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "5bbbbfc80f95",
+   "source": "BioPharma Dive",
+   "title": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
+   "link": "https://www.biopharmadive.com/news/ferring-gameto-acquire-ivf-fertilo-womens-health/872904/",
+   "date": "2026-10-27T20:53:00+00:00",
+   "snippet": "The buyout hands Ferring rights to a technology capable of simplifying the lengthy and burdensome process of in vitro fertilization.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "da4d23ff291e",
+   "source": "Endpoints News",
+   "title": "Backed by Amish and Mennonites, a new kind of gene therapy company takes shape",
+   "link": "https://endpoints.news/backed-by-amish-and-mennonites-a-new-kind-of-gene-therapy-company-takes-shape/",
+   "date": "2026-10-27T20:52:03+00:00",
+   "snippet": "LANCASTER, PA — This spring, Lorraine and Mark Martin, a Mennonite family with a tax business, adopted a stubby-legged cow named Royal Lite. Lorraine, Mark and Royal Lite all have one thing in common: They ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "de1fe03f57bd",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech (ALVO) Could Be 32% Undervalued After FDA Nod And Eylea Biosimilar Filing - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV3ZvWi1BT3l0b1NIcEhJVW9jT0llcnA4YXRGOEhTeWNNZzVMQmJLYjNwZTRKb0FzM0dRR01nZnM1MnctaWxfaG1MNlMtUFJxckN5Qk9tMVZCcFZSV3ducm1iT1ppbnRPd0lzUnlSdHZ2a3RReTZKd1VXN1YwVjFNQzZkQnEtSElzR3RRUFJ2RFZQbERzV0R6X1N6YTNpX2xZMGppSGh6SmJ3aFhHYldXZGxDVjV5RUFXQTBvd1RBR1A4dTBvZ2FHazZfaTd4VGxJdXF0aUl6Y1plUdIB3wFBVV95cUxQdnZMTVgyOUxrZlF5eExQdWtWOER2cUxWUU1NbGRYaFFXZ0JQZ1FLMmxVTGNUaFpGSnBtZEFkdnl3YWxGc2RZYVhnX25PWVZiTWxpTGYtTElhZFVvNnpnN3pNWlUtRGo1V0RoaVZSR2xoVVRlRXkzY2t5YTFKRkJtdUVQNmN1SVdEQnlxOWhvbmxzN2d2TkN0NkJOX3FtM294b1l1a01lX3BUaVE1ZnZzd0k4NW1QaTI3MWpsTjJWZk9NemEyZGtWRENrUWhrS1h1cGNoeUMycjE0c01BWGln?oc=5",
+   "date": "2026-10-27T19:26:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "bcdfb5d0312c",
+   "source": "Google News: biosimilar",
+   "title": "Cipla and Qilu plan US Keytruda biosimilar launch around 2029 - NewsBytes",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzRIejVMMzBHeEM2YW9NamsxejB5ZXlpMlhWaGVuYXlodGlCR0laT05kRE9SSkJtNFktcTQyTWlRWEI4SlliUVg2cXFsX19LV2tGSVUyVHlJZzFoOXpIb0JrTTZmd3RTNUxDdU85ZEh2NE5hSnZ5Q0RqRVJaaFFFSFpzQm5yRmp2Nlc3UHE1Um5RWXYzQXNaaVh6SmpiNTkzV2hwbG5nWG9tZzZlSUE?oc=5",
+   "date": "2026-10-27T19:05:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "820d027fd90b",
+   "source": "Google News: biosimilar",
+   "title": "Cipla sets sights on first-wave gains from rollout of Keytruda Biosimilar - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQVpYTXllazBmbzdYcVNqdnRhSk9SSDVZendENTM5RFJ6QU9ucElEY3pUZkI1TDFKdGFyY1FIcXo5SkVfai1zenVta05EWHJJYWJpYlhmd1JfdWhHekdDZnhhYUhNTXYzMS1uT19OZkNsX2R6b0ZJUU9RTDltWHdkYy1KM3ZrRmVOaUtISkRuRE1hNnJoZXVBbTdFWERmOHdsM0lKN21aUnRwSzM2VVhaTl9CUzRTNjJ3al9sRjg0TDh3WWJzVjI1alY0YkpMbXNvXzhDOGRwMzZwY1ZlZmdBcTdYZUI5Wkh3ZGh0RjRsZnFYRHNZYkcyZmZWb3NrNkk00gGGAkFVX3lxTFBwUUlNNTZpa0tYekp6cVZzYTRwUUFRX0I0cFJGVThPa20wODh3TmJZT1E1THZGZUFPWkpSbFJFTEoxWGhOdVVYQUMxWWhpbHdOdVViQXRGOTV5Rm5rZ2d1M3dvVnB3bGJsOG84cUwtYktieGZFalVXSXVtR2J5Y1p1a005LVNzWkpOYU5naWNrQktoYm9wYnUyc015NDgxNUVYeHlmZ3dxRGthS1BXXzVjR2lUUVhNME9FcDdROW9sbEM2S1FGQ2dxclJQaU9mMTlDSE1oZ3hzcHFSY1VnMHhfMzlLejNYRTFZbF9hV1JaVUUydXU4S3JJNlU5dmY5NFJGa0N6SlE?oc=5",
+   "date": "2026-10-27T18:51:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "dad1aef27782",
+   "source": "Endpoints News",
+   "title": "Draft COINS rules could threaten broad China collaborations",
+   "link": "https://endpoints.news/draft-coins-rules-could-threaten-broad-china-collaborations/",
+   "date": "2026-10-27T18:50:49+00:00",
+   "snippet": "The release of draft regulations from the Treasury Department has spurred an intense debate over the future of China biotech deals, which could be sharply curtailed under the proposal as written. The draft bars US ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "4b62d13204d6",
    "source": "Fierce Pharma",
@@ -110,6 +204,16 @@
    "date": "2026-10-27T16:03:00+00:00",
    "snippet": "Novo failed to prove that Lilly’s campaign — which featured claims of obesity drug superiority — meaningfully harmed the Danish company’s sales, a federal judge ruled.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6808011c1a6f",
+   "source": "Google News: biosimilar",
+   "title": "Inflammatory Diseases Biologics Market to Reach US$157.31 - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN3pWcDFnX3RYSmlNa1ZPZFZ0WDNlR0pwQjZ6dEFPakxTT180b1hfSF9mRUo5V3NSOEMxZW1PWWJwQ0MzdUkzWk1oTDVHZDVNRV9PYURycUcyR1NidFB2YzZ0ZEY4M0lWejZpVUQxd2NVY0RTWFpicnh0UmZLM3ZvMk9DRGRzQVFhcFFFWXJ4QmlTSkNNY3VDTQ?oc=5",
+   "date": "2026-10-27T15:58:48+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -200,6 +304,16 @@
    "date": "2026-10-27T15:44:00+00:00",
    "snippet": "The disclosure makes Artiva the third company to recently report fatal events in an autoimmune cell therapy trial, following announcements from Novartis and Bristol Myers Squibb.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1f58d0918bad",
+   "source": "Google News: biosimilar",
+   "title": "Xbrane wins long-awaited FDA approval for eye drug biosimilar - www.lifesciencefocus.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcE5uY0RoZGJxUXVXSTRxc2VIcDVkcG1lakNOb1QtQXhvQkM2YWJvSFFLVjlGUWFoMkNGMk16ZW5XWTZFOXFYQ0lwai03bEIxQzZiOTdzblNTVlJQN3h5TVBHVERXTk4yNjVYa01LcjA5cGZidHVpRXBkSWNxbWVWQTUyeWdUOHlEWGpyNW5JeW5NMUFBeEhTY2tzaW9VeUZkSk5yZlctbXlkLTkxZ3RrcXU2Z3k?oc=5",
+   "date": "2026-10-27T15:32:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
