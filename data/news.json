@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T03:41:56.009735+00:00",
+ "updated": "2026-10-27T06:49:40.399951+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": ""
   },
   {
@@ -47,11 +47,21 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 60,
+   "count": 53,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "063e374c4b2a",
+   "source": "Google News: biosimilar",
+   "title": "Dr Reddy's stock could rise 10-15% if a major biosimilar gets approved in December: Systematix - CNBC TV18",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd2kxODgybEFZSENRMGM3TmFWR1FyWUdOaWsxVkMyVVMycElVQ3dORVNjUldCa08yOVpYeWJQc3JGQUd0Q3drQXFWMWdYVVpyejFGcWx2a3hoc0ZMMUNHcURWLTBuNFJfOFNHR1kxa3gwNmpWTHU2M0RmbDg1Xzl6ZnVpc0lzR3AxWU9jbTBGT2lQa2lWeTNyUk1FTklHODVjeDg0a0Rqb09wd1BraGdDQXQtV2ljMVNXQldfcFNmSkg2SXB2MlZjMGZHc2UzNXA3dE5SMVBJdVh3R1RYTmNKTV9EbTJRZnd5ak5MSXVIb9IB9AFBVV95cUxNMGl1b1hPTHV0ejhOaWRtbEpHVmxSMTV1SUs5WGZlNG0xcnJSZnY5NEZmZmVTcXR1MUxlR1c4S3U0ellkS3BiT3ZfVUQxWXNDS2MtWDVEWG9LM3NpdDEzOUlEU0U2dVFjQ2pEOW8zMWFjTHl2MmpINzU4Z1pYWHB3Q1FhaDFldjZlTW9mMUdPMjZGanVqTzFhWkg4T2t1WEk1bUI2SER3SmI0dWFENnZNN09RblFrX3d6eHE0VDR5THdqcEU0bUQ5emRGdVJLRm1wN0NXVjhDakxGbXNUa1hrb0hQRXF5b0dfLXloZl8zeFFucWVS?oc=5",
+   "date": "2026-10-27T06:06:51+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "6655b40e4fe9",
    "source": "Google News: biosimilar",
@@ -118,6 +128,18 @@
    "title": "Samsung Bioepis Keytruda Biosimilar Matches Original in Phase 1 Trial - Seoul Economic Daily",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2k2QVhER0s3MzlxOC1aRE5rZTI3T3lKTFJ6VmlPaWhDZktiOUxXZjhuNjVaeHF5eW1zcHFtY2JRbm1JSDRYRDYzSTJsbmhMcnh4NWRzVjA2XzM5MHVpM3FtcnFycjNuck9Mc1JOVjdqbEhBdmtDU3hhd19weExCQVIxMmNoQkYwSTJuMlp5eGFReEtJZmh0T1NiQzBEUQ?oc=5",
    "date": "2026-10-27T00:21:02+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "ddb1efdbe8aa",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis presents Phase 1 trial results for Keytruda biosimilar at ESMO, confirming equivalence - 헤럴드경제",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13QWVpSzE2MTdBQzFGc2RES25UQUhwMkFiTVp6dlBTaHpIT01tUTRKSWw5TVgxdHE3WndOWnl2ZXBjbDlnenVDLXNJUDZxNVQ2SlZNTVhYYw?oc=5",
+   "date": "2026-10-27T00:01:51+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -2445,6 +2467,30 @@
    "watch": []
   },
   {
+   "id": "ae0f6b912c19",
+   "source": "Google News: biosimilar",
+   "title": "Formycon & Biocelys Collaborate on Undisclosed “Niche-Buster” Biosimilar, FYB286 - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSnBQM0FVLThFcW1pOWhkNzYtb2FMS2t2V3JwdFlkaWRrZGdRaHBXUXNnSnlkcURQQXFQaTVoN3JTS0VVd3h1b1VzYUduRDVYZ2d4MnBjSzdrTGNxYkZhUVNZUmJ0ejNrU3FWOE1xaU55NEZFcF8zb0pBVXdMWFRYdXFFbHJWdWR0VWNyMGNtYU5QOC1UbGpOS3ZtTVVvdi1lYUJ0TF9VZlA2SUxzdnhSUHVn?oc=5",
+   "date": "2026-10-21T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "16c03b4b189a",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech/Dr Reddy’s Biosimilar Denosumab PFS Recommended in India - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEdmVnNvTVVJYXFPSlRXRFlTa1k5TXVnUWFpUnUyc1M5cURQZEh5c2Y1SkxuY0d5eHVXblJQNVA0ZjAzN2NDQVlfei1qOC1ob3JFNFo1R3lKcVB2SFRnYi1xTGQ1cnRsRmtWQjlkNTJGcTk5VWE2Zm5UT1FUQ2JneElKaEhmNTB6akM5enphM3VVZV90VGVjQ2dpbE5nS2FodHdR?oc=5",
+   "date": "2026-10-21T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "450db6b0a579",
    "source": "Google News: biosimilar",
    "title": "Samsung Bioepis' first ADC candidate wins FDA Fast Track - The Investor",
@@ -3282,6 +3328,18 @@
    "biosimilar": true,
    "watch": [
     "Alvotech"
+   ]
+  },
+  {
+   "id": "30d93c76d65d",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Enters 10-Year Exclusive Deal to Supply Biosimilar Eculizumab in Brazil - Pearce IP",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWwyOTFNWTU3NmJHZm1XR3lzM0hWaTFRbEhfNnhZdzRKMnpfbkZVNHlQRkZZWS1odTRiZUtVbFl1ZVR2ODVrcXlERFhHWmRFNEpPU2FPQ00zYlhVU3N3MGhUN0VMYnJldWgxTGpsNlNYTWpJRDBpNHZpb1pMdEFLcWt4STlGdVY4MXRPaXExVjJvc0hrMHRmbmdBNjFnR2lsaXBVdE5QS0cxMlFsZTEyUmUwaGQzV05ELVBtRDhYWk8wUQ?oc=5",
+   "date": "2026-10-20T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
    ]
   },
   {
