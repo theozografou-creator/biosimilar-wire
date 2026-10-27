@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T15:51:52.573818+00:00",
+ "updated": "2026-10-27T18:50:23.721759+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,71 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 60,
+   "count": 58,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "4b62d13204d6",
+   "source": "Fierce Pharma",
+   "title": "UCB’s Bimzelx leads pharma’s Q3 drug ad spend, but who will take the annual prize?",
+   "link": "https://www.fiercepharma.com/marketing/ucbs-bimzelx-leads-pharmas-q3-drug-ad-spend-who-will-take-annual-prize",
+   "date": "2026-10-27T18:50:23.721759+00:00",
+   "snippet": "We’re heading into the final quarter of the year, and things are heating up in the drug ad spending space.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "41c69d2c6801",
+   "source": "Endpoints News",
+   "title": "Lilly's ads can continue after Novo challenge, judge rules",
+   "link": "https://endpoints.news/lillys-ads-can-continue-after-novo-challenge-judge-rules/",
+   "date": "2026-10-27T18:23:59+00:00",
+   "snippet": "Novo Nordisk has suffered another setback in its uphill battle against Eli Lilly in the booming obesity drug market after a US judge rejected its attempt to block television ads that Novo alleges are misleading. ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "59b91c812868",
+   "source": "Google News: biosimilar",
+   "title": "Xbrane Biopharma Wins US FDA Approval for Lucentis Biosimilar - marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQekI4YkI0X2sxVS14a1hWTEF4R0xhOS1pRTZDTHVQYVh6VUU4WjRlaGhxOTBld2M1NjNURFotS2Z2VGJuY0dVcmg5emZlT2QxVUxOeFBTZXprWW1DSm55VFJVVjd5bVlvNDR1TUY5X2hodG5PUVRmX3hZajNTRktVTnRHeTBfSmtELWlvaUw4cmtqak1jTDA5SlVJMEhkemwtMDdSeVR2WmJ5UHNYYnFkWnM3TEQ?oc=5",
+   "date": "2026-10-27T16:23:20+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "8bf968ec3349",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves Xbrane's Lucamzi, a biosimilar to Lucentis for wet AMD - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzVDbGNYa0RHMTdDdjdzZTZrZFBPVTltamF2X3l1Q0xQdG9JUmtvOG9aZkhwLUl1UTd3LU9OMFZTWkJ6VHhSeVcwT24tUEIyQ3BoX3Z5bUQxUExTY2ZtUG5yZWFWQlRacjZ1TERUMFNxV3VhYm9FYkMxd1pmcHdDVUVnenpjT3ZUbXVOQTR6OVNaMDZla283WS1JTHNVOHE5Mmc?oc=5",
+   "date": "2026-10-27T16:12:18+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "0a8945361fb1",
+   "source": "Google News: biosimilar",
+   "title": "Japan Biopharmaceuticals Market: 6.5% Forecast Growth Puts - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEV4UWJrSjYyR2FEN1pydkNKbGFYZjJtUWN3eHY0MmhUMXZzZ0xRQUxIbkZmX0w1WGN0NHppUk5vc0RDZERVdTMtNVV1MHJlcFp6LTRXVVQtdC1qOE1uYVVYcmpUMEdHNkpLZlJ1V2EtWXNqc3BQZUM2QlNyYzdEbENTbnJlR2o3T3dYV3dFMzVEbDV3cDlZ?oc=5",
+   "date": "2026-10-27T16:12:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "12dd2d439e97",
+   "source": "BioPharma Dive",
+   "title": "Court rejects Novo bid to block Lilly obesity drug ads",
+   "link": "https://www.biopharmadive.com/news/novo-lilly-lawsuit-ruling-false-advertising-wegovy-zepbound/872856/",
+   "date": "2026-10-27T16:03:00+00:00",
+   "snippet": "Novo failed to prove that Lilly’s campaign — which featured claims of obesity drug superiority — meaningfully harmed the Danish company’s sales, a federal judge ruled.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "2a3337b65ee1",
    "source": "Fierce Biotech",
@@ -133,6 +193,26 @@
    "watch": []
   },
   {
+   "id": "91c17ddd9337",
+   "source": "BioPharma Dive",
+   "title": "Artiva to quit autoimmune cell therapy work, cut staff after patient deaths",
+   "link": "https://www.biopharmadive.com/news/artiva-discontinue-nk-cell-therapy-autoimmune-patient-death/872873/",
+   "date": "2026-10-27T15:44:00+00:00",
+   "snippet": "The disclosure makes Artiva the third company to recently report fatal events in an autoimmune cell therapy trial, following announcements from Novartis and Bristol Myers Squibb.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b9cce008b24a",
+   "source": "Google News: biosimilar",
+   "title": "Xbrane wins long-awaited FDA approval for eye drug biosimilar - lifesciencesweden.se",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkY5ZFhqNGVGb1hXdWxYei0ybnZiYTQzUEJaTTdhY2RHb09xa3ZfYmlxOEJDZUgwMlpoY0VYeDZtQy1WN0dLbTR3cUk4Qk5GSVRES3VhWXhseUJqcWIxMS1XOXFMVUtVYXIyeDdtVzJBSVNhR1p5NkhVSkxpVFR5cDN6dmw5SzNlbld0cnBsZVZoTkFfWVRmSkhRSDBCb01KV2haS1YtUzkwU3lDSXc0d3ZtYzU?oc=5",
+   "date": "2026-10-27T15:32:16+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "bfd32cfbd9a8",
    "source": "Endpoints News",
    "title": "Gubra looks beyond metabolism, hopes for first portfolio company this year",
@@ -167,6 +247,16 @@
    "source": "Google News: biosimilar",
    "title": "Xbrane Biopharma AB (XBRANE) Wins FDA Nod For Lucamzi Biosimilar - TradingView",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUN3NkN4WXcyaWczU0VabldPUFktd3hEZDBwZllaQkpjVHFRc1dQVGwtZU5MRlFjVjhwQ2tsWW9EX1dZdW9oV3NOWmpyNGgyY1FkQ0dEclJKRnFfOWR6bndGR0lFQndrYVBTLTVEVTk5ZlJBaUNnemhMbldRN3lWWVM3OTZMVDJ1NTlOdExPNFVzaWtEOVJzU2VqMnJTX2VRRVlnbmFvYi11c0w2X1Z3VW5BUFJhSTg5Vk1rYUlHMDU2Zw?oc=5",
+   "date": "2026-10-27T14:40:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "1df0f3240156",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves Lucamzi™ - biosimilar to Lucentis® - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXlpZDlrelNCNVpQQVM4OVczTFhCWEIxbVZPcHlEdDFkYzA3WG56dm5jY2pDVXRzSGItVjdlVGZLRENUaVc1VGZvd21RbUNqQVVOVHphQkYyTFRwSWFLNmI3YWlnR3NhUDJFcXh0T1MzbTdvTnZRWFNwYmxleFBKTVNNeFNPeDZ0SUZ2TUtzZHliSzdSbm5la05ja1hKX1Vsc0dITDVtTk04S2daQ1E?oc=5",
    "date": "2026-10-27T14:40:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -451,6 +541,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "461a7f8209a3",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis presents Phase 1 results for Keytruda biosimilar at ESMO, demonstrating equivalence - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoNlJmeXdnV2FYcVdfdWhKRV9rbjByb2RQRDJKVUw2ekpndFl6M3Z5ZFhWU2ZxQW5nME1RbWNrZ3FrNXJtNkZWdm1fN3FLTllmWjhSQXEyYXJDbXpQVzg0QUFzaThLV2lBekJGcDltak1rSnBOQWJnRm5jZw?oc=5",
+   "date": "2026-10-26T23:26:17+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
   },
   {
    "id": "039b369954dc",
