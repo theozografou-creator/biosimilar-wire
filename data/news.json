@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T21:40:57.724515+00:00",
+ "updated": "2026-10-27T00:53:21.217721+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,57 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 60,
+   "count": 49,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "74d221e6b010",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion boosts Q3 revenue 53% on high-margin biosimilar sales in Korea - CHOSUNBIZ - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONVU1WXUxMmdZS0xJMVNJNm5WZXhfQzc1UXlhb1ZVS3oxTHBfM1ROdC1DT2dobjBvY25QUTg0cjZzSnpNUFFaTFlZcW9QLTFpeVAwMUVNaUlBRVFHRWlqc1VlRGlYT1dxYlZXNElHVHdVSUZrVUd2TFAzVTdhal9IStIBlAFBVV95cUxORzhZVkN1eml0clNGQkdNRkd0empMQmx3cGVOal90Z2M1SVdHQjNaeGpiMlQ1UHEyOTVKRGlYT2lBMk1WMS1vN1Jpcm5rWU94Vi1YREhhYjFscVpIZmI1ZXlULWlxWG1heDlwcG03QURDVTh1UElCSmZZanZubDVscTlyUTBhME5iSVExUXcydGlvNFdJ?oc=5",
+   "date": "2026-10-27T00:28:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "288a7187579b",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis proves Keytruda biosimilar matches pharmacokinetics - CHOSUNBIZ - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRnhseGQyQzhWSlhIWEg5NTJFZUlKalpqVEFidUloQ3ZLbHNYU1dyNGRtVHJDWDVxem9YeDU0NFN6Q0xYMjFRaHdMajVRMWg4MHRUS3VQcF9IaVY1NGNkNGZuMnVpSlpSQ3k1a1lDajZ0M0R5MV96YWNHcmRfaGd4X9IBlAFBVV95cUxQcFlXR1luZDlDUlhKT2U5TmVvT055di1hRnBmRDd6Ml9RM3ZsNUZBa1BhTFNNaC1ycC1TQ3hFcjlvX0k1S3lEeVBJcTFDaG1BNV9LcDFicW9rWUp6aWxENmJjWVFrVllCWF8zUUhOdGEzLXRFRUdZSUVCdkRGS211eWk3R25pZW5XRmd4V25uMWl5dUdS?oc=5",
+   "date": "2026-10-27T00:22:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "601895847302",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Keytruda Biosimilar Matches Original in Phase 1 Trial - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2k2QVhER0s3MzlxOC1aRE5rZTI3T3lKTFJ6VmlPaWhDZktiOUxXZjhuNjVaeHF5eW1zcHFtY2JRbm1JSDRYRDYzSTJsbmhMcnh4NWRzVjA2XzM5MHVpM3FtcnFycjNuck9Mc1JOVjdqbEhBdmtDU3hhd19weExCQVIxMmNoQkYwSTJuMlp5eGFReEtJZmh0T1NiQzBEUQ?oc=5",
+   "date": "2026-10-27T00:21:02+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "c7b01c43b77a",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Biologics Epix Presents Phase 1 Results for Keytruda Biosimilar at ESMO, Demonstrating Equivalence - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfWHZRQ292dHZVSkRyUXBLV0RwdmN5Rk5IaDQ5WHBhZHhJU3JURUFsdS00V2xIQXByeGpPQlotQTlfanNGMURQOFUtUndoSkFKTXRPSV9WX3g1eXZPSi1UWHhwY0JEQ1BFSXg0eVBn?oc=5",
+   "date": "2026-10-26T23:26:17+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "039b369954dc",
    "source": "Fierce Biotech",
@@ -131,6 +177,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "0e01c1584f8a",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz stock trades 4.16 percent above its Xetra close - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ1pid1pLREc3TVM5NW1fVGNTOGhsRUcwbndkbXhaNFlNc05zUDZTdUEydjllR3BINVphRjhIR3N3ei1VUVBJNmhtLU9KTzYyMVktSG5mRllsdlp3RHRobDFIay0wVlMwRGFGZWROM0o5RUhXT01xMEZ0RWJHbW5UM1FFak9yaG55OFlhTXF0eEZCR0JQSy1Cd2RZVWFUNHBKb2d1bDZUY1UyNHA3NjVMcUpRRjgtTHda?oc=5",
+   "date": "2026-10-26T16:27:49+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
   },
   {
    "id": "cb3e7c7b79d7",
@@ -313,6 +371,26 @@
    "watch": []
   },
   {
+   "id": "35d2f0c1bc8a",
+   "source": "Google News: biosimilar",
+   "title": "Oral Biologics & Biosimilar Drugs Market Demonstrates Long-Term Growth Potential At 13.3% CAGR - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdV9IMjJRblByOF9jQlQ3eTEtWmZJREZiSElrRmVoS2Frbl81WklPZWxuZk41aEFSTjF0eXJkZThfdnNpZzZBYzg4VnRnZFlpYV9ET3ppVW1oMHNnREh3UXo3djRpWlg1dXdjWE1ScHNqSExyUjlzeWdiaF9ZUC1HQWl1SVF4bkg4Vy1OMEpFRlg?oc=5",
+   "date": "2026-10-26T13:45:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "483e63bc792a",
+   "source": "Google News: biosimilar",
+   "title": "Oncology Biosimilars Market Report 2026 Market Outlook Supported By A Forecast 13.5% CAGR - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdTI4ZDVhcHNjS3E1MkhsSG9zdGhuZGoxeVFYU3J6RjdSY1d5dlRiLV8xNW5heko0bGhJWEZtWmdpeWtjOXhvZUNiOHZaM3dDNmVRX2dTb0ljM3Rfc05pdEkxZkozVlB4XzUzR0E4ZlMzMnFFVFZFNnplLVJHNTdaT2FYY1loZ1dxVEFJWXh0TjBrVHd0?oc=5",
+   "date": "2026-10-26T13:44:48+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "7eed9061795e",
    "source": "Endpoints News",
    "title": "Corxel to take oral GLP-1 public in the US via SPAC",
@@ -321,6 +399,28 @@
    "snippet": "For the second week in a row, a drug developer is going public via a special purpose acquisition company (SPAC), the blank-check vehicle that had faded out of favor but now appears ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "5d47299c8a96",
+   "source": "Google News: biosimilar",
+   "title": "BioSim asks the parties for electoral measures to strengthen the use of biosimilar medicines - Demócrata",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHBLYmNoSVdwUmhzVWtKYUM4ZFVYc3o4RldNNzJlU2dEUHp2d3piNEVpdDQ2T2RlSGU4RFM3UUdXSTdJSmowYmdCc0RRN042eERyMjhsaVZxR2tnUzR1bmN0cVFYNGp0MXNpYVlLT1JoUThHTGdmZ3VVb0p4a19PaElvMTRiNTVYUF9SajNYNzUweXM2cFBQMHdMTF95amZoVkVMOUx6UHZRMEQwODFSNTAzbGo1NThQSVE2VERfZ29oVkNWMHlF0gHMAUFVX3lxTE9ydU5MU0xlUjNOWjRZNUhqNWtSWmRrbkRGS18wa09NQV9acndYTHJJOEpod081RnBNVXFHa3FLTmlHMG5ubzlEZzU2WDRJZ1ktM2NmZmxzN0pvUGtfRkdRLVRtVEhtaWs2b3NTd3JrNFE1WjhwQS0wajc5Z0lIUWVNbGxaSkFBeTY1eE5faE04LWViQXpwX1JycW8xTDhrT3Y0clBvTU9xODNiRFp6ZUFDcXp5S0JaNFpnRFo5SlVCU3A5VENsNHdrb0NwcA?oc=5",
+   "date": "2026-10-26T13:01:48+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "4a4ed3236827",
+   "source": "Google News: biosimilar",
+   "title": "Bio-Thera Announces NMPA Approval of BAT2306, the First Secukinumab Biosimilar Approved in China - PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2FkemRxS2NsM0RRVlM1R2hHSzY1cU5FbFRzSzNvWVpFSmlGR1pCdFhibDhlelB2Ung3bnVGa0dzUWs5Sk8tR3JLLUdVRklfZEFsNXBvQnh0eGJ1N0hiN3Zkc1FoVWhvMk56eDBfN2hlWDRfT2ZiVllsaFFxbHJJZ0w0eHAyRmUtZlBnVldYVy1IYnZISWV6YzQwTUdsUF9qdEZ3aXFNUXhWZkdMUS1KMDJ2V09MclNxaXVheTg0UVIyenp4MEUxVEZxT0U2dHZYQjVpSFdqMTVLWkZyZTR5X1VpdzhiZw?oc=5",
+   "date": "2026-10-26T12:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Bio-Thera"
+   ]
   },
   {
    "id": "be4c4bdd8af1",
@@ -367,6 +467,16 @@
    "watch": []
   },
   {
+   "id": "adc8d02df8f3",
+   "source": "Google News: biosimilar",
+   "title": "Pegfilgrastim Biosimilars Market Research Explores Growth Within A $2.65 Billion Opportunity - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMTNScFhLVHVMYlpIYW8zelgwUEo2dFg5bHRwN3h2STBsZklicWxlUFNMaTZsTkdUbFk4emkweFBYR2o3cUhjdHdFbEdQTlFnQTNDdm1oWlEtc0YwUlUtNjIxZmtMbWQzRGVYU1dPSW1BckV4c3B0Wkc4bHFReXZIcnd2OExPVFhacTZDd0RDVkw0cXYzekVOTQ?oc=5",
+   "date": "2026-10-26T09:26:18+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "6a698957e468",
    "source": "BioPharma Dive",
    "title": "The molecule was fine. The moment wasn’t.",
@@ -409,6 +519,16 @@
    "watch": [
     "Biocon"
    ]
+  },
+  {
+   "id": "c9727be6493f",
+   "source": "Google News: biosimilar",
+   "title": "Oral Biologics & Biosimilars Market Trends Support A 21.6% CAGR Outlook Through The Forecast Period - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGlNbjNVcGN0WTNYeEtYTnFiUnlyV083d2YtOV9VMUNOOVZnVWdweDdTcll5ZGhxNFFqRjJNbXVFOEVPdHoxTXFYUEliZ1JWeDl5YmotOTFld080QUY2Tjdzdk9mMk5mNGZpVGx1T0FQb0Rkak42MnFqcWh1anpud2h3ZURNRTY1VkRIR3VBUU1wMTZHMVVqc3UtSE4?oc=5",
+   "date": "2026-10-26T07:19:31+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "f08b409e7418",
@@ -485,6 +605,18 @@
    "source": "Google News: biosimilar",
    "title": "Biocon secures market entry for Yesintek™, a proposed biosimilar to Stelara®, in additional global markets - Business Upturn",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcVJodVdQSDlueUd5NnBNN1hKQ2pSdDdJWW1zQmR4c1JfaFRubEhKMkdBY1gtcW5FcG5OaHRwV1NwRXE2ZEVEZ1RjSVppSDFBa0l4YTNoTmhzdFVGenFNWXRUMFFZbDhaZmtucTR5ak96ekhaT3pGd3MtZTlaZmRxc1o3eWlTaTNCSk8zR2lDR1hIUW1SZEdUNkQ0MFFWRlpHd2JidGRENTV4bWZseVBFX0JHWUdIZWZfZDlkcXNyS2pUSHVOS0lZZXBELUhVa0R0Z29QRHNYWEZlS28?oc=5",
+   "date": "2026-10-26T03:13:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "81633c033cff",
+   "source": "Google News: biosimilar",
+   "title": "Biocon secures market entry for Yesintek™, a proposed biosimilar to Stelara®, in additional global markets - Business Upturn",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeDBEU3BJdlR0REVIVVluSkRPbHNfMWx0RHIzdzVkOGRGdnpidkt6cnZiNXpPdDBuUnpMdTlNeWNQZEVSbW1yVmpVOFpRX2RQeW1IZ3FFWEl3UlptUTVhODVBODZjLTdvM3czb1ZMOFhIMFFlNGNlUGpwOHBUU19nZm9jZGNCYjlmZGliQ1dHcnptZ016eTBqb1BlcF9yVnAtYVptcWJoNDd2c3hjYVhicGFEdmJ1U2dGWWhDdU5nc3k0WEpxMmFNMXBkMU8wSkhQRFMyY1RB?oc=5",
    "date": "2026-10-26T03:13:22+00:00",
    "snippet": "",
    "biosimilar": true,
