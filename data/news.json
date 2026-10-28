@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T13:01:04.543005+00:00",
+ "updated": "2026-10-28T15:57:19.463774+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": ""
   },
   {
@@ -52,6 +52,148 @@
   }
  ],
  "items": [
+  {
+   "id": "36194d58a62a",
+   "source": "Fierce Biotech",
+   "title": "Biogen CEO tells analysts he’s focused on early-stage R&D as ‘we were not very good with that’",
+   "link": "https://www.fiercebiotech.com/biotech/biogen-ceo-focused-early-stage-future-company",
+   "date": "2026-10-28T15:57:19.463774+00:00",
+   "snippet": "Biogen's CEO has pointed to the company's ability to take five drugs into clinical trials so far this year as evidence of its new focus on early-stage R&D.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ff196f6d8ccf",
+   "source": "Fierce Biotech",
+   "title": "‘The patient need is enormous’: Syntax programs stem cells into pancreatic beta cells in 4 days",
+   "link": "https://www.fiercebiotech.com/research/syntax-bio-programs-stem-cells-pancreatic-beta-cells-just-4-days",
+   "date": "2026-10-28T15:57:19.463774+00:00",
+   "snippet": "Chicago-based Syntax Bio believes it has cracked the code for turning stem cells into pancreatic beta cells in as little as four days.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "779ad6551800",
+   "source": "Fierce Pharma",
+   "title": "After GSK's Q3 approval spate, Hibsago preps for 'concentrated' US hep B launch",
+   "link": "https://www.fiercepharma.com/pharma/after-gsks-q3-approval-spate-hibsago-preps-concentrated-us-hep-b-launch",
+   "date": "2026-10-28T15:57:19.463774+00:00",
+   "snippet": "Armed with a trio of recent high-profile approvals, GSK is banking on its specialty medicines to drive its next wave of growth, even as investor enthusiasm cooled Wednesday morning amid reports of restructuring charges and a vaccine sales dip at the British drugmaker.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0be08e23629c",
+   "source": "Fierce Pharma",
+   "title": "Lilly combines global markets under new leadership role as 36-year veteran retires",
+   "link": "https://www.fiercepharma.com/pharma/lilly-combines-global-markets-under-new-leadership-role-36-year-veteran-retires",
+   "date": "2026-10-28T15:57:19.463774+00:00",
+   "snippet": "Eli Lilly is consolidating its U.S. and international commercial divisions into a unified department, tapping current U.S. head Ilya Yuffa in a newly created role as president of Lilly Global Markets.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "aea27018c90e",
+   "source": "Fierce Pharma",
+   "title": "GSK vows not to ‘park crap on Page 41’ in transparency push",
+   "link": "https://www.fiercepharma.com/marketing/gsk-vows-not-park-crap-page-41-transparency-push",
+   "date": "2026-10-28T15:57:19.463774+00:00",
+   "snippet": "GSK CEO Luke Miels has committed to a transparent communication strategy, telling analysts that “we are not going to park crap on Page 41 of a press release and hope none of you notice it.”",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6f6bd1013cba",
+   "source": "Fierce Pharma",
+   "title": "Blue Matter ‘turbocharges’ global reach of comms agency Cognite with acquistion",
+   "link": "https://www.fiercepharma.com/marketing/blue-matter-turbocharges-global-reach-comms-agency-cognite-acquistion",
+   "date": "2026-10-28T15:57:19.463774+00:00",
+   "snippet": "The deal stands to \"turbocharge\" Cognite's global reach and growth opportunities, chief business officer Sean Cush pointed out.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d74da38aef64",
+   "source": "Fierce Pharma",
+   "title": "Amgen hit with FDA warning letter for ‘misleading’ Vectibix promotion",
+   "link": "https://www.fiercepharma.com/marketing/amgen-hit-fda-warning-letter-misleading-vectibix-promotion",
+   "date": "2026-10-28T15:57:19.463774+00:00",
+   "snippet": "Amgen has been handed an FDA warning letter over a video promoting its cancer drug Vectibix, but the company said the issues stemmed from an “inadvertent” submission and was not made available publicly.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bccb808d8dd4",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Entry Should Trigger a Fresh Look at Biologic Access - The American Journal of Managed Care",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUg0bUFTcnpfR3k5bGEyRTEzRkljT3R1YUJ4ZnVLVGRWczM4ay12cC1JQ1Fqbi1pSlZPRlpSbkVzZWhLSW1sTWZaSjE3U1ByTmI3R2dLNUJtMXdDRVhKa0szTG1Vb2lEckEzY1E4YTliZVdIS3k2SUd3dlVtbUFQbDB0ZTBNdGJRWGljbTIxdkYtYkk?oc=5",
+   "date": "2026-10-28T15:40:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "dc7b3c9656de",
+   "source": "Endpoints News",
+   "title": "Analysts press Biogen on lupus drug litifilimab ahead of pivotal readouts",
+   "link": "https://endpoints.news/analysts-press-biogen-on-lupus-drug-litifilimab-ahead-of-pivotal-readouts/",
+   "date": "2026-10-28T15:25:26+00:00",
+   "snippet": "Scrutiny of Biogen’s late-stage pipeline is intensifying ahead of several Phase 3 readouts that are pivotal to CEO Chris Viehbacher's turnaround efforts. Analysts lobbed numerous questions at Viehbacher and other Biogen execs about the trials ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9abc19fd0a80",
+   "source": "Endpoints News",
+   "title": "Pfizer India site closure risks exacerbating cancer drug shortages",
+   "link": "https://endpoints.news/pfizer-india-site-closure-risks-exacerbating-cancer-drug-shortages/",
+   "date": "2026-10-28T15:15:11+00:00",
+   "snippet": "Pfizer has been forced to temporarily close a cancer drug factory in India. The factory won’t reopen for up to two years and is already contributing to cancer drug shortages. In July, heavy monsoon rain ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e253bcfa9173",
+   "source": "BioPharma Dive",
+   "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
+   "link": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
+   "date": "2026-10-28T15:15:00+00:00",
+   "snippet": "The plan advances recent agency moves to accelerate “personalized” treatments by offering an approval framework for therapies that can benefit different subsets of patients with the same disease.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "31a8160c3e97",
+   "source": "Endpoints News",
+   "title": "Beijing-based BioGeometry gets $100M+ for AI drug R&D",
+   "link": "https://endpoints.news/beijing-based-biogeometry-gets-100m-for-ai-drug-rd/",
+   "date": "2026-10-28T14:08:53+00:00",
+   "snippet": "A Chinese biotech startup has raised more than $100 million in Series A funding for its AI-driven protein design. BioGeometry, a 4-year-old company headquartered in Beijing, said in a statement Wednesday ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "eb200542854e",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz reports strong biosimilar growth but overall sales disappoint - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmZPOUM1MVpIT1hxTE94UXoyZWEzaEtiNVp0RElRYVV1Z3BUTjU5c3VOeUFLMWIta0k3S3d1d0E5dlQ3aU1jWWk1c3dJc1pTQ3VmLTU5SHJ2b1Z0WWRhMURvOXU1RmlucWFybmd5RlFLZk16RHRtYjA0WXhtdWlZUUVzV2x2b3VERGk5Q01tcFJwZjYyUzY3RkxxMHdGVmQ4azlfb0gyMHFmVk5DV3FNZEJVRlV5QQ?oc=5",
+   "date": "2026-10-28T14:03:45+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "552cd00691db",
+   "source": "BioPharma Dive",
+   "title": "Lilly shuffles business structure; Novartis writes off part of Avidity deal",
+   "link": "https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/",
+   "date": "2026-10-28T13:27:00+00:00",
+   "snippet": "Lilly intends to merge its U.S. and international divisions when a top executive retires. Elsewhere, Astellas closed in on what it believes to be a “best-in-class” cancer immunotherapy prospect.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "ac45c19bd60a",
    "source": "Fierce Biotech",
@@ -133,6 +275,18 @@
    "watch": []
   },
   {
+   "id": "568646a93a07",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz erlebt Biosimilar-Boom mit Lieferproblemen - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jem0tbzlta0E3OHhkRXozc1pnY1paVGt5SDB1SlNLcW9mY3FVakFGaHFGZElONWhURkpNaXRDenVJNUJzR1dLM0JfZGVhc2QzbmFDU1cyM1BQSVpvMWpDWFBpWQ?oc=5",
+   "date": "2026-10-28T12:49:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
    "id": "90c0db531c55",
    "source": "Google News: biosimilar",
    "title": "Adalvo expands biosimilars portfolio through acquisition of romiplostim biosimilar program from Enzene - News-Medical",
@@ -143,10 +297,32 @@
    "watch": []
   },
   {
+   "id": "7697c4326ef4",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Epis Holdings Reports Third Quarter 2026 Financial Results and Business Update - BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWdkREVnRjVvd3Q1bGZfOUxNM0cxMFoxdkItZEtSRXRnOUM2X0lMa2ZIcHJFYndOU0ZnNVlmNEVtRFM5Z3FDSFJwYzNHZU5VV29sMEk1MWdPNEZNc0NKQXlXTV8xMTlNUHJNVnhFY2pIWDZUeHRUUF9obThibTlSRDlQMVNCb3A0QzhFMzRSV0dDS1h4WExBNmpTcE1xd3pFb1lBYTN2TDI2Tnl1dTRsMENsQmpRN1FzTHdWM0d2bTBpV0ww?oc=5",
+   "date": "2026-10-28T11:17:08+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "c7aa2d76e7cc",
    "source": "Google News: biosimilar",
    "title": "A new Sandoz analysis reveals the next wave of affordable medicines is coming; will Canada be ready? - Yahoo! Finance Canada",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXJFdUljLXhNMmVxSmJULTAtMi04bXZBcllUUXFRSjl4bDdZY0h2ektxQkl1Rk1KdURBOV84Q04zb1Fpb1NBdEJYbk8xdEFBcThBUnVVOXNBbTlELUpMTGxKMmFZYkh4TXlkbjB1MlY4RXdYUnRhUFR1WGN5dXJiMmpPMjRXQlZ3Umc?oc=5",
+   "date": "2026-10-28T11:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "9d242acfc8b0",
+   "source": "Google News: biosimilar",
+   "title": "A new Sandoz analysis reveals the next wave of affordable medicines is coming; will Canada be ready? - Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSjdjN204aVpGRjVXckxTSXB0RzY3QjJWQTRsUjNrbl9RdmotV3p6bXh5QlJFM1JhMk1wX0JodlUtUElRb3VxaVNzQVY1V1JqcFBnUlJoUUcxQzhwb21USS1wZ3FDREV4VUZZVzB4anN6RWhrWWY0ZXZ3cDBBWEJBRHBNVWtpR1JWX2c?oc=5",
    "date": "2026-10-28T11:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -319,6 +495,18 @@
    "watch": []
   },
   {
+   "id": "e0677307039f",
+   "source": "Google News: biosimilar",
+   "title": "Generic drugmaker Sandoz lowers sales outlook, lifts profit forecast - Charlotte Observer",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Jb2w5bTNTTkxpOTl3aEN1SFR1SWxmR0w1ZGdlc3NDQXhvWW81NWpMVHk1U08wSzNDUmhIWDZvM2k3ZV8yWXVPMDF4WHAxdjN0Q003V2k1a1RxeGR4ODE4MlRUd3NycG1xMG5MMzNtTV9keFJNZHlzVQ?oc=5",
+   "date": "2026-10-28T06:59:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
    "id": "df19e2df28a1",
    "source": "Google News: biosimilar",
    "title": "Generic drugmaker Sandoz lowers sales outlook, lifts profit forecast - StreetInsider",
@@ -353,6 +541,28 @@
    "watch": [
     "Sandoz"
    ]
+  },
+  {
+   "id": "b8419880736f",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz reports strong biosimilar-sales momentum; narrowed full-year net-sales range and upgrade to margin guidance - Sandoz",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmMzbWFMSjJEdlIyTjdoZGxod1J4MVBIN0p5a1FNOGdhbkExN20ta1gzdVJtV0NJSlFuWFFZTGJWOXVPVFNFNVFETmwzSnNIbHhZdU9LNFVjVEZnS0V3RTFOQllaNkJ5dkdObktSdkNvNWdtVVdNRGRMSG5WR0NUanpxUEZTeTQyMlhueW9CQ1RrNFA1WjdkZG9Rd24yUUZTMmNYWEc4VXVOd211QzNfaTdnZEdzY1h2VlE?oc=5",
+   "date": "2026-10-28T06:24:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "3fb24cc49844",
+   "source": "Google News: biosimilar",
+   "title": "SDZ: Biosimilar momentum lifts Q3 sales as margin guidance rises and sales guidance narrows - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeXBvc1NvaEVNT3ZzejY0S2ltcFltSUNYaXVYaXYtdkFZNFY1eUZGYlJfdFBNMG5qMExJU2JZaXl0UFlwcjFFMVFhck05Wm9jSVFrQml1eWRrdU5jY1dZOTZqY2FaVE1pQ25icHB4N3B5ejJscEI1TVQtdW9Hbk5JcmhRRDhXSU1pYTZWSENqbFZkMkF4RjNBY3RMUDJTaWFDTDBfNm1seEdMV0xiOWFKMEJPTlhqN2tFWk5kUURidlRVYmpQTkxZbkZCYW1XSWlqWDJBMVV6WWdyc19ra3psNi1iOENVNUpQd2xiTjZqalNKU1B6SW1vdGtfWmM4VUtYc2NV?oc=5",
+   "date": "2026-10-28T06:13:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "fd28686f1555",
