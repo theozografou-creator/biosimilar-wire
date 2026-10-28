@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T06:59:51.917805+00:00",
+ "updated": "2026-10-28T09:54:45.674767+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,11 +53,145 @@
  ],
  "items": [
   {
+   "id": "75d1dd143229",
+   "source": "Fierce Pharma",
+   "title": "Eli Lilly surges up diabetes reputation rankings to close in on Novo",
+   "link": "https://www.fiercepharma.com/marketing/eli-lilly-surges-diabetes-reputation-rankings-close-novo",
+   "date": "2026-10-28T09:54:45.674767+00:00",
+   "snippet": "Eli Lilly has jumped up a ranking of the corporate reputations of diabetes drugmakers, putting it hot on the heels of Novo.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1f1921a291f8",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilars Breaking High Cost Barriers to Cancer Immunotherapy - The Indian Practitioner",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzVYMG9tNW1tU0FRTGZIWUliSmN1VVJlRUZtLWd5d0FYUmZvemZRcGkwd0c0ek12RFVGTWN5R0ZYLW5YZ0pyVkNqOXpqcm1rZEg4YWRqNG1LcEM3S2FvVHZ1SUpNZ0w0eGtmZ042eUY2UG5WaG55MlM4TVNTVzdjWkUtVC04RXlRUzZ5dkpVazVBLUo5NVFURkhPdVRhM28?oc=5",
+   "date": "2026-10-28T09:24:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "58772f465f44",
+   "source": "Google News: biosimilar",
+   "title": "Adalvo acquires romiplostim biosimilar programme from Enzene to enter biologics - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUptQkhJbHY4TGZqSHl4a05VTy1xVUtFVnlUV251UXh6SU5Oa0c4UTdpVlNtcVIwMUZWeDdVdDNOM2FnYlRxVi1iZExMcWJwQzBSUFd0ZDFqemVLN3p5bU9OZ0Y4c01lRDAwRm9EbWNIZ1FzS3dfdGVwbjFmNlBmVUd4NzBlUG1YWEowZXVyZVBTeVJnZmhCVjBDbnhtdXpmWHNRamdrYW9TRTlCX25kOVNSTQ?oc=5",
+   "date": "2026-10-28T08:14:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "7c0df76f03d3",
+   "source": "Google News: biosimilar",
+   "title": "Remicade Biosimilar Market Research Reveals Strong 22.2% CAGR Outlook Through 2030 - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGNXaUNFSEcwVHRtYTBuaXlDcklJaWtVNXVwQnNqWFd5SUE0NnBwdkJUMElsWGpxNXpwNGwxT2tlLUFKRHpBaTZGc2FwZ01tTllRRHdqYTBpZEdyMEZOcF84MGcxTmZsWEt3aDNmeGdIbnVnRU8tQV9QYXlEZ1RjNFM1eExUejFzTG5aZ3ZtTm9CdnNBNEltUnZsckc?oc=5",
+   "date": "2026-10-28T08:01:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "758c5bb67282",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis lifts Q3 profit on global biosimilar sales, advances pipeline - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORml2V19uZFdQdHUyb0lTcTg1Y1dkWHRNbzlsQnBpWHhNeUZpcEw5NmFEX0d4R3lVdUhfeXZsanV1S0t4RGJyY1UtSzE3cXd5TnRnZ28tUURSelN4NjFLX2dFTzNNTzZBTldVQm5OS1hoM094b3BqWUQ4alE2dUdCWtIBlAFBVV95cUxObDdrQ09XMEt3WHBVSVhlTFdYQk0xdXgtLW9Wc0FYN2s0VGRCRmpDRFN5SU82aXVwU2UtX2ZfWnd4VkhpNGptX2hGRmRxd2N2T3JrbWxHZ3M1aU9OSXhCejhuVHhhdkc5c1NxTi1fWGlYanFIYjBabkJqeFJfVkhmT3VxZC1BcXBiQUxKVmRYMENXZm4t?oc=5",
+   "date": "2026-10-28T07:56:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "b7d7aae4afa3",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Biologics Epix: Solid Similar Performance… On Track for Leap to 'World-Class' Status - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcE5XLXFJdE9qaGRZbFJfaFNZUTFKOGJMMzV3amFaQzh4b2pwLXR2Znp0bnRSTzN2MUpmdTI3WnVnWDNTYWZGbXlIdVVGMnhsOS1NVDhza3NVRWU4V2pJUFU1ZnN1U3BoNkVyVmln?oc=5",
+   "date": "2026-10-28T07:46:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "34a800bed7b4",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz cuts sales outlook, raises profit margin forecast after biosimilar supply constraints - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSkVzb2VMNTZSbVcza0UtT1JTMG9LTGVid2VodktBQzM4MFNuSTRFMG5zTmRuMENpTGRSR0UzdzJ6TEE4eGwxLVkxMUQ4QXdsVzJSTmZ0ZjZsaFozMGctYXhXa1c1MTFkaEQ4MkVOSTZRVktmY2xXNlp3NjRITld2YzcyNGsza2JlWVFGemR4NGZmUzlaRzNxY211VEVadw?oc=5",
+   "date": "2026-10-28T07:10:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "5b632a2dba60",
+   "source": "Google News: biosimilar",
+   "title": "Generic drugmaker Sandoz lowers sales outlook, lifts profit forecast - The Mighty 790 KFGO",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUZGWGRYMVFXSkJxRGRVTVFWbUk0eEY5WDV1bjBpUGpJTWxMUzNzMzNNNmxfenRVenJxT2twdUJraTJkQ1lBU0J4RU1DS1R5RzhIc3MwZTJVelJYbDkxNFY4N1JIelhZdXNjNWJ4eTBITXl4WW9oYzNEbnAxWTJEN3loVEF1bTBMczJyUmZfZ0E1cVdtV1h4dFZ1ZUE?oc=5",
+   "date": "2026-10-28T07:09:06+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "ed32b4e6f7ce",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis achieved 97% of its annual operating profit last year by the third quarter of this y.. - 매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5Yk11ZnRTQWUycmpRUnNmdUNyTkY2YzNOZ1dLNU1aUDdISnYtR1FsRXJKbm4wa3dVaV9WYWN6bDFtTlJhSWl3S3VhYw?oc=5",
+   "date": "2026-10-28T07:01:45+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "c8a4d1a6f067",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis posts Q3 operating profit of KRW 132.6 billion... Product sales rise - 아시아경제",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04TzM2eHpoQTdDZXRDdUpoSXFsRzAxczlEdXczQmc5YnR5dXg1ZXdaNjlmZzVTb3NDalFPRDJkMzFuYTN4RXhWYXhDQnVNVHZvS250c25GcldCVmRYaWVQc0ZDdmhFbnlBMmt4WkJVTDhRclU?oc=5",
+   "date": "2026-10-28T07:01:27+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
    "id": "df19e2df28a1",
    "source": "Google News: biosimilar",
    "title": "Generic drugmaker Sandoz lowers sales outlook, lifts profit forecast - StreetInsider",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVp2LWRwX0p6M0E4dWVRc2szLVQ5aDJiODItQWpKeWVVVGU0Y2JKUDl6ZWU1eFFSZE1TWW93UzRLVUZNMFNoWlJBZlh4ZllqRTVVYmZmTlZEcThFS2dBTjlMdHJMSGd1aW1BWGhXbjk1R1BIMHhCOGhSc002ZHpVdXdEYThhUFNvOEREY3RwWFdhQzdvVGNHb21kYnRvWFZGeERDWDFHQXNzdlM4d0JUaHc5QzUyeTVSYkRLWEpOWQ?oc=5",
    "date": "2026-10-28T06:55:18+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "8c00c658d563",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz Raises Margin Forecast After the First Nine Months - blue News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXpycjJvZlJSdWQzT0JXd21abUdUYV9nMGFXT1ZCUmlMSHZVVU9xUndiUlJyM09NOFJFekpOSmpSTFdERDlnRkx2cmU2T3dFeTNnZGp4RXNMaExHTkVwUXQtLXhZTjlsb2FOVEJCYUU0eW9qbjc3OHBEWEE1ZWxYdi01SjktQjdYUV9qVUkxeDBBTzkzREZOTUV4dw?oc=5",
+   "date": "2026-10-28T06:39:46+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "fd28686f1555",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz reports strong biosimilar-sales momentum; narrowed full-year net-sales range and upgrade to margin guidance - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcUJ6QU1XaFJ4RHNzQ3QwWC04bWtmT2wtVklMVWtULUN4ekpoXy1TR2NXNmhNRTlWWXlaREppUXBuS3lubFVCNE00Y1RTNHhPSTZLNGZDamZZNnBaSnZoZnU3U014UUxRS3JidjA5ck5wVFRteXZBblFLcWNiVG5yT3NUVXJiTkhTSE04TGlyT3o3VGVDbkhuYklaRkJyNXBzZUU5LU9xcHRXVGk2eXVEdXVHdUZYa3EybDJyNHJzdk8zelVHdl8wOVhBR0JtaEV5LUNkVk5ReExHZWo4S0hoRXJUZDhrTEU1RTFxM1EtTGc5U0x4dFJkN19iVQ?oc=5",
+   "date": "2026-10-28T06:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -87,10 +221,30 @@
    ]
   },
   {
+   "id": "744d48d301e8",
+   "source": "Google News: biosimilar",
+   "title": "Cipla’s US recovery, biosimilar pipeline key to future growth prospects - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWDdnVHVpX09aREM2M0ZTU3VsMGdXZXVoNkd5NjF4bHhSeXh3UnNwdjV4dEZjLVVaTG1UMVk1RHlNUU1tZ1BlYnBuVlFzRlpwekpjejhnUFNKZzVkRFRpOTlUOWtQVXFHNHdVcXhEbmlXdkdUNVY3bTVPczhWQl9OajB0VGxpUGtzcUQ5czB6bGl1aUVoVGt1ZHgxYVNJcHRvU3E0bEpmMkxUV2t5V1FfYmpHbHc5RHkwd0kxS1Y2OVRuN3lEX1VpSVVWWlFfQWNMS1FMZU0zWmlHSmZpd2NELVdqdmk4UdIB6wFBVV95cUxPbDJfVmQ5aGM1SExqTGlnekFsREZNcGNMR0JTaVptVk51dDJtREkxOVA0aDlhMmQ0bnhjQkR0V3g0UkF5S1ZJVkdwWDdLbjFHWmJkNFF0OEd4Um5tdHNSU2hsUDhsMVlFalRkbDRpdGNZR29fbTFDb084WU4yNjltNm1GSkkwUU9qUFl4d0daVWZpaXNXU3VOVDN2bzJUQWpqOTJjdndySnZpbWFicDRyMF9NcHFBNEhhTGVKcHg0R011clA0TTBUWGlUSFM0UDNtXzUwRDI1eDBiRDVDN1pHVFd3RmpDWUt2OTE0?oc=5",
+   "date": "2026-10-28T00:19:51+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "fd46798672af",
    "source": "Google News: biosimilar",
    "title": "Cipla targets first wave launch for Keytruda biosimilar; sees 5% monthly gain in Yurpeak sales - pharma.economictimes.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNa1FiYnpGaUx6VGFiVTIwaU5Cek8wbkx3Y3hvM3h4TkY4d3pMcHM3c3FEeXNvNnZoUEFTX2lvbG1OLVpuaWF3cTROdzlsTlMzcnJPM1BjMWwycER3RS1hd3NxbDF3WnhZSDdKaERqZUNKZHJkbTk0SnIzM1ZSWVBaWmxQeXhBSGpEc2swa0JMdE9VWkZ1M1dobVRXTDBaUERubEZ0VC1hN3VaM1Bxd0U2emdsR1dqT1c0MzlhSF9RblladDVrQzJEb2s4RjU1U3VsaFJZUmJDU0dFTmdfTlVCZE4xUlp2aGVRNGNpQnZIekNqN3FZazJEOTI4QXZRcnhT0gGAAkFVX3lxTE1rUWJiekZpTHpUYWJVMjBpTkJ6TzBuTHdjeG8zeHhORjh3ekxwczdzcUR5c282dmhQQVNfaW9sbU4tWm5pYXdxNE53OWxOUzNyck8zUGMxbDJwRHdFLWF3c3FsMXdaeFlIN0poRGplQ0pkcmRtOTRKcjMzVlJZUFpabFB5eEFIakRzazBrQkx0T1VaRnUzV2htVFdMMFpQRG5sRnRULWE3dVozUHF3RTZ6Z2xHV2pPVzQzOWFIX1FuWVp0NWtDMkRvazhGNTVTdWxoUllSYkNTR0VOZ19OVUJkTjFSWnZoZVE0Y2lCdkh6Q2o3cVlrMkQ5MjhBdlFyeFM?oc=5",
+   "date": "2026-10-27T23:36:06+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "256c2b8044ad",
+   "source": "Google News: biosimilar",
+   "title": "Cipla targets first wave launch for Keytruda biosimilar; sees 5% monthly gain in Yurpeak sales - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV2ZfM3lEMkhPbV9RRzRmbDhucmNvOVNVWkI4LTNqN1hoZWRfa05UQnFIa2xhSkVLenBlQ2xnWjdPMTRJN1lhd3FBd2prRXkwSlB5dHJnUkdTWmxZeHR0TWtkbFRaMW9XQnFjaWxkNkxGRTRmcWZ0OTZoQVVNd3NMaWlMQlc0TTdtbzIwNUo3MmVTdUJVc0k5Y1p0SkcwTHUtLVJybHZETjZvUkJfSnlFYmZrWWRadEVtWUd5YmZrRkQwbUZ3THdwNk5GVkw4ckU0VjVXNF9FUHdwRHdQMUFyd0NvdDFGYnQxMVpLS1YzQmRjYnYxVEZHWDB2UdIBgAJBVV95cUxNa1FiYnpGaUx6VGFiVTIwaU5Cek8wbkx3Y3hvM3h4TkY4d3pMcHM3c3FEeXNvNnZoUEFTX2lvbG1OLVpuaWF3cTROdzlsTlMzcnJPM1BjMWwycER3RS1hd3NxbDF3WnhZSDdKaERqZUNKZHJkbTk0SnIzM1ZSWVBaWmxQeXhBSGpEc2swa0JMdE9VWkZ1M1dobVRXTDBaUERubEZ0VC1hN3VaM1Bxd0U2emdsR1dqT1c0MzlhSF9RblladDVrQzJEb2s4RjU1U3VsaFJZUmJDU0dFTmdfTlVCZE4xUlp2aGVRNGNpQnZIekNqN3FZazJEOTI4QXZRcnhT?oc=5",
    "date": "2026-10-27T23:36:06+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -111,6 +265,16 @@
    "source": "Google News: biosimilar",
    "title": "Regeneron, Amgen Further Narrow Lawsuit Over Eylea Biosimilars - Bloomberg Law News",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObU14RHpFRzFaZExvZjNWUExHckZ2VmhnTEFwOVA1YVZqZnpVWnhGbkhYUHZQeVh0eEV6Y2czSXA5dkItNkVQNTZuWVFvUkw5Z1ZSV3JJQVRGZU1jQ1p5U2dLY19ndWlKX3o5Z2EwLTY3Sk50emRmcHg5Wk5tMkllbmRGYkhQYVFtTU5HWk4zemw0MUszR0lMTFJxRF9uZUUxSmdIMU16bnY1QUg2bU5Fa290dHZ1MVU?oc=5",
+   "date": "2026-10-27T21:54:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "db042a181892",
+   "source": "Google News: biosimilar",
+   "title": "Regeneron, Amgen Further Narrow Lawsuit Over Eylea Biosimilars - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUkxRENhb1JBNnZ3ZGpCYUotVDMtVG1Vbl9fUGFOeEd3ZTdTRHBlVHNNcjNydmpsd1NCWlhBa0hhM2JwengwbWZBQ0lHU3NxQlBzaWV0U1N6VTU1RlJzUy1hcm4wVWQxRHZ5RGVLSkUyeEdVeVFySW5NTXZBOWxzVDRnQXFKZk5GSERDUnF6Mnc1Z0RwN3lWS1lQVl9iQ3M?oc=5",
    "date": "2026-10-27T21:54:00+00:00",
    "snippet": "",
    "biosimilar": true,
