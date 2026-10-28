@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T18:55:00.301318+00:00",
+ "updated": "2026-10-28T21:47:49.595290+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": ""
   },
   {
@@ -52,6 +52,46 @@
   }
  ],
  "items": [
+  {
+   "id": "5a3495574796",
+   "source": "Fierce Biotech",
+   "title": "Genmab's $8B Merus bet delivers as bispecific combo halves risk of death in phase 3",
+   "link": "https://www.fiercebiotech.com/biotech/genmabs-head-and-neck-cancer-bispecific-cuts-risk-death-half-ph3",
+   "date": "2026-10-28T21:47:49.595290+00:00",
+   "snippet": "Capping off a busy few days in Spain, Genmab reported results from the first interim analysis of a phase 3 trial showing that adding its bispecific antibody petosemtamab to Merck & Co.'s Keytruda cut the risk of death by 50% compared with Keytruda alone in patients with ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b5811fec32eb",
+   "source": "Fierce Biotech",
+   "title": "FDA’s rare disease framework aims to ‘stand the test of time’",
+   "link": "https://www.fiercebiotech.com/biotech/fdas-rare-disease-framework-aims-stand-test-time",
+   "date": "2026-10-28T21:47:49.595290+00:00",
+   "snippet": "During a public hearing Wednesday to discuss a newly proposed rare disease framework, FDA center director Michael Davis, M.D., Ph.D., said the agency aims to design a scheme that “stands the test of time.”",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ba68a6e60899",
+   "source": "Endpoints News",
+   "title": "Why Zocdoc is clearing the way for AI personal agents",
+   "link": "https://endpoints.news/why-zocdoc-is-clearing-the-way-for-ai-personal-agents/",
+   "date": "2026-10-28T19:16:37+00:00",
+   "snippet": "Amazon, Delta Air Lines and major US banks have blocked people from using personal AI agents to shop, book flights and manage transactions. But as agents start handling patients' healthcare tasks, at least one company ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "87908bb50f28",
+   "source": "Google News: biosimilar",
+   "title": "Opportunities Remain as US Biosimilar Adoption Advances - The American Journal of Managed Care",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN285dVY3OTlrbUppU09lT0trSl9JOHJDeHh4YlF1azVBMDZrTHRGdUVBdXFobUluMXdOSUc1djFRWVk2NnFNUWwzZ2wxSmQxR0RyNXlIWW1BYzMxZ185a3pSYmlJenpxUG9JSlJHaTVGbVQzcHN1VG1xQTZGbXVSSTNBRHM1Wkdr?oc=5",
+   "date": "2026-10-28T18:59:37+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "e3c52e8eb017",
    "source": "Fierce Pharma",
