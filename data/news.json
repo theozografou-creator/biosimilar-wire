@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T15:57:19.463774+00:00",
+ "updated": "2026-10-28T18:55:00.301318+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": ""
   },
   {
@@ -52,6 +52,66 @@
   }
  ],
  "items": [
+  {
+   "id": "e3c52e8eb017",
+   "source": "Fierce Pharma",
+   "title": "'Numbers speak for themselves': Biogen's Apellis buyout fuels best quarter since 2020",
+   "link": "https://www.fiercepharma.com/pharma/biogens-claims-return-growth-q3-earnings-boost",
+   "date": "2026-10-28T18:55:00.301318+00:00",
+   "snippet": "Biogen CEO Chris Viehbacher said, \"We're dramatically changing Biogen\" on third quarter earnings call where the biotech announced revenue increase 11% year-over-yera.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "90dc23a6f459",
+   "source": "Endpoints News",
+   "title": "Formation Bio unveils $600M fund tied to existing model",
+   "link": "https://endpoints.news/formation-bio-unveils-600m-fund-tied-to-existing-model/",
+   "date": "2026-10-28T18:40:59+00:00",
+   "snippet": "Formation Bio, an AI-focused biotech that acquires outside assets, develops them and then hands them off, has raised a $600 million investment found to double down on that strategy. The new fund will help it ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "53ae29a12a9b",
+   "source": "Endpoints News",
+   "title": "FDA charts path for approval of individualized gene editing therapies",
+   "link": "https://endpoints.news/fda-charts-path-for-approval-of-individualized-gene-editing-therapies/",
+   "date": "2026-10-28T18:21:40+00:00",
+   "snippet": "The FDA has outlined steps drugmakers can take to seek regulatory approval for gene editing medicines tailored to fix a single person's disease-causing mutation. The announcement is part of an ongoing ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9f424fee6d93",
+   "source": "Google News: biosimilar",
+   "title": "What Could MariTide Mean for Amgen (NASDAQ:AMGN) Going Forward? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkVGU0dEY0pUT2l3UUJQY2w3Vkl6Tm10RmlLOHJxRVBXQWVPNWc3Mm1ReXdkV2k0Tjlyd0s3WVkydzdJamFHQnJyY2JOcVhXQ19GYngxeDdZU2lSZ1NVMzdFR2pta1JxenQ3MVlyMWVadDI3d0dEb29uZXZJcXFldmRSSVFnMU1PRlo2a2FJNUlMZGZXSWtRb1ltRG8zQVRWYkY2SlhaZ2E?oc=5",
+   "date": "2026-10-28T18:08:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "213bf759fd79",
+   "source": "Endpoints News",
+   "title": "AstraZeneca’s bruising summer raises the stakes for 2027",
+   "link": "https://endpoints.news/astrazenecas-bruising-summer-raises-the-stakes-for-2027/",
+   "date": "2026-10-28T18:04:01+00:00",
+   "snippet": "When one of AstraZeneca’s medicines, Wainua, failed a major late-stage heart disease trial in July, it was a jarring setback for a drugmaker whose research pipeline had become one of the most admired in the ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fa77b61ceafb",
+   "source": "Endpoints News",
+   "title": "Citing 'safety' and 'freedom,' HHS will allow compounding of certain wellness peptides",
+   "link": "https://endpoints.news/citing-safety-and-freedom-hhs-will-allow-compounding-of-certain-wellness-peptides/",
+   "date": "2026-10-28T17:04:59+00:00",
+   "snippet": "HHS on Wednesday said it will stop enforcing a ban on the compounding of certain popular peptides used for wellness purposes while the FDA works on rulemaking to address the substances. The federal agency released ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "36194d58a62a",
    "source": "Fierce Biotech",
@@ -123,6 +183,16 @@
    "watch": []
   },
   {
+   "id": "250f439060a2",
+   "source": "BioPharma Dive",
+   "title": "Lilly’s ‘triple-G’ drug tops Novo’s Ozempic in diabetes trial",
+   "link": "https://www.biopharmadive.com/news/retatrutide-ozempic-diabetes-trial-results-lilly-novo/873016/",
+   "date": "2026-10-28T15:53:00+00:00",
+   "snippet": "The highest dose of retatrutide beat Ozempic on measures of blood sugar and weight loss, but was also associated with higher side effect rates and treatment discontinuations.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "bccb808d8dd4",
    "source": "Google News: biosimilar",
    "title": "Biosimilar Entry Should Trigger a Fresh Look at Biologic Access - The American Journal of Managed Care",
@@ -161,6 +231,18 @@
    "snippet": "The plan advances recent agency moves to accelerate “personalized” treatments by offering an approval framework for therapies that can benefit different subsets of patients with the same disease.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "33e69112f60f",
+   "source": "Google News: biosimilar",
+   "title": "Bio-Thera Announces Chinese Approval For The First Secukinumab Biosimilar - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMGtJTW9mdTM4R0JSLWVjZU82VDEwOXJ4dldURFRxQnptV1oxTGNqUW5VMjZVbTVVVWQtazZweWtNZE5vT2NQaEt2d1JfR2JmN1pLN3lqTFg5UUJ3dEhvZGVZd0N3NlFrYlZGSDJWcEtZOFBidlhjUDF4Sy1UYnhhLWdKekVnX0p6a0YyUFIxQ0dvUXJFYW9TMkpHY1RKMmR2SnBkVEg4MWl1SFQwZjlTZS1tUUQ2Q01HVUw5dzE4UkFvTzd6WE1DRHphT1hUSXJJVC13NUFVXzhiVzNKZ0NMaEJXZm9jeGc0bG1Gc0F5bEZLMHRxUW5xNkY0SmNlTEk?oc=5",
+   "date": "2026-10-28T14:35:54+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Bio-Thera"
+   ]
   },
   {
    "id": "31a8160c3e97",
@@ -287,6 +369,18 @@
    ]
   },
   {
+   "id": "a8aa60b2bdf7",
+   "source": "Google News: biosimilar",
+   "title": "A new Sandoz analysis reveals the next wave of affordable medicines is coming; will Canada be ready? - Tolerance.ca",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIT3FKbHpRc3BJLU1XZTI0eUZKbjFmOWR2bjk4WlV4R01QakhNYUlTY1R2Rkl3VHZ5SGlLSzZoM2cyWUg4UTFtZEZnLUtfTUowdHVQSFB6VE4wSy15WmF2bzNhRVlkMkZpeG41akJGRWJkdlhjYTNZ?oc=5",
+   "date": "2026-10-28T12:04:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
    "id": "90c0db531c55",
    "source": "Google News: biosimilar",
    "title": "Adalvo expands biosimilars portfolio through acquisition of romiplostim biosimilar program from Enzene - News-Medical",
@@ -302,6 +396,16 @@
    "title": "Samsung Epis Holdings Reports Third Quarter 2026 Financial Results and Business Update - BioSpace",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWdkREVnRjVvd3Q1bGZfOUxNM0cxMFoxdkItZEtSRXRnOUM2X0lMa2ZIcHJFYndOU0ZnNVlmNEVtRFM5Z3FDSFJwYzNHZU5VV29sMEk1MWdPNEZNc0NKQXlXTV8xMTlNUHJNVnhFY2pIWDZUeHRUUF9obThibTlSRDlQMVNCb3A0QzhFMzRSV0dDS1h4WExBNmpTcE1xd3pFb1lBYTN2TDI2Tnl1dTRsMENsQmpRN1FzTHdWM0d2bTBpV0ww?oc=5",
    "date": "2026-10-28T11:17:08+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "18fee1d07d72",
+   "source": "Google News: biosimilar",
+   "title": "Cancer drug price cap: Generics up to 93% cheaper, but price of 65 costly single-source medicines unchanged - ThePrint",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTDNmTFBlVFMyZHZPVGh1RkFtTFFTWUVOM1Fjb3F0YkpzZzlwTzlZdk94SGNvUkh0RmdEYmlTbG5wYWVYVjNYcE1CTHBFSWI3eWxVSUpvcXZXeWp3dEU4amhlYmVWMWQ1ZUJrRHNUcGphSVBJUHd3cERvZW84MlVvQkZQWVk0R3p3a1J4ZFlFSlVkOTZoUEpRRDUzWlYxVXFuNTI3ZC1rMlNMSmxtcjBDck9XSUFrS21kSEozTDhnVEtmcmQ4Njh3X2s5MFJFcWRtSElsRnpya9IB3AFBVV95cUxNYlhtMTBkVXJheFc0SnZ3cExqekVxbTR0RC14WXo3QUQ4M05Vd0V1LS1IM3lFcS1zOEFEcm9tZjQxZmFlQXdCencyWGNNSkp1TnMwNnc3Zms5b0JqZEszRUtHQXdlRHlnUUlfNEl4c0JBR2U5eEwwMlFYTUdZYWhMWlpFYmsydzJlOEtXTVI0UUF0NXRBX25lczQwTkNmQkotazd0UVc0Q01CSGNacjdrcHFCVDlUZ01qdUpiaWgtbUxleFZzbDNGLU1aVTZhWTBqNWU0Yjh0a256Y3Yz?oc=5",
+   "date": "2026-10-28T11:12:23+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -351,6 +455,18 @@
    "watch": []
   },
   {
+   "id": "24c15cc8283f",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz 9M 2026 slides: biosimilars hit 34% of sales, guidance narrowed By Investing.com - Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM25Tc2d1SnpZd0lJOG5RRmRfXzkzZWtmOHhxeEM0a1pCRGs0NzlEYjE3RFFYZlp5a2RBMkR0cFpzeVViVDh4VkI2NE92T3dnNlQwcWxvbno3cUFPamFzWnNoREp2VGpEckoycVdmZG5KRFczNUFxYnY0WlV4Y2J4SE43MHhKWHlpWlJycW9RekFKQ3NRQ2dFdEN0NWJUcGFEQUxvLUhpN1E2SGtHNWM0bllFVFZOLUxQdnBTbzlUc1dfandCclVR?oc=5",
+   "date": "2026-10-28T09:59:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
    "id": "75d1dd143229",
    "source": "Fierce Pharma",
    "title": "Eli Lilly surges up diabetes reputation rankings to close in on Novo",
@@ -369,6 +485,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "b33a13820c18",
+   "source": "Google News: biosimilar",
+   "title": "South Korea's Samsung Bioepis Posts Q3 Operating Profit of 132.6 Billion Won, Already at 97% of Last Year's Full-Year Result - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tY0V5Q2p3SHpqc245Zjk1Vk54NUdHMXN2Y251RzFTTUVwRVZxVnhzY0FNUGl2SkJyOUJvZG03RDNDMjBFTF85N2FlSG9JZE83eEpLMmQzZUhhTE9wbkgzRndkQUprNEF0d0N3aC1CMkhuRWp1emc?oc=5",
+   "date": "2026-10-28T08:25:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
   },
   {
    "id": "58772f465f44",
