@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T09:54:45.674767+00:00",
+ "updated": "2026-10-28T13:01:04.543005+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 5,
+   "count": 7,
    "error": ""
   },
   {
@@ -52,6 +52,128 @@
   }
  ],
  "items": [
+  {
+   "id": "ac45c19bd60a",
+   "source": "Fierce Biotech",
+   "title": "Lilly’s retatrutide bests Ozempic on blood sugar, weight loss in phase 3 diabetes showdown",
+   "link": "https://www.fiercebiotech.com/biotech/eli-lillys-retatrutide-tops-ozempic-phase-3-diabetes-showdown",
+   "date": "2026-10-28T13:01:04.543005+00:00",
+   "snippet": "Eli Lilly’s triple-G drug candidate retatrutide has beaten Novo’s Ozempic in a head-to-head phase 3 trial, driving deeper reductions in blood sugar and body weight across the 80-week study.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "893aa22d3c07",
+   "source": "Fierce Biotech",
+   "title": "GSK predicts ‘some limited impact’ to UK roles as restructuring rolls on",
+   "link": "https://www.fiercebiotech.com/biotech/gsk-predicts-some-limited-impact-uk-roles-restructuring-rolls",
+   "date": "2026-10-28T13:01:04.543005+00:00",
+   "snippet": "GSK’s global restructuring plan is likely to see “some limited impact” to roles on the Big Pharma’s home turf of the U.K., executives have confirmed.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "96093b80308e",
+   "source": "Fierce Biotech",
+   "title": "The 2026 Biotech Graveyard",
+   "link": "https://www.fiercebiotech.com/biotech/2026-biotech-graveyard",
+   "date": "2026-10-28T13:01:04.543005+00:00",
+   "snippet": "Fierce’s biotech graveyard is an annual tradition in which we remember all the companies we lost over the past year. While we're embracing the spooky spirit of Halloween, we hope the sad stories of drug developers shutting up shop won’t haunt the industry for too long.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a4277478ae72",
+   "source": "Fierce Biotech",
+   "title": "Astellas makes $1.3B bet on Audax’s preclinical push to reverse decades of IL-12 woes",
+   "link": "https://www.fiercebiotech.com/biotech/astellas-makes-13b-bet-audaxs-preclinical-push-reverse-decades-il-12-woes",
+   "date": "2026-10-28T13:01:04.543005+00:00",
+   "snippet": "Astellas has struck a deal for Audax Biosciences’ IL-12 program, committing up to $285 million in upfront and option fees to secure a chance to license the preclinical immuno-oncology program.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1bfd8fbfdee8",
+   "source": "Fierce Pharma",
+   "title": "Supernus shreds ADHD stigma with Olympic snowboarder Chloe Kim",
+   "link": "https://www.fiercepharma.com/marketing/supernus-shreds-adhd-stigma-olympic-snowboarder-chloe-kim",
+   "date": "2026-10-28T13:01:04.543005+00:00",
+   "snippet": "The Olympic athlete and Qelbree user is the new face of Supernus' \"Ms. Represented\" campaign as it looks to reach a younger audience with its ADHD awareness messaging.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c7056699d26c",
+   "source": "Fierce Pharma",
+   "title": "Eversana combines forces with UK-based AI health economics research firm Estima in acquisition",
+   "link": "https://www.fiercepharma.com/marketing/eversana-combines-forces-uk-based-ai-health-economics-research-firm-estima-acquistion",
+   "date": "2026-10-28T13:01:04.543005+00:00",
+   "snippet": "Estima's AI and automation capabilities for health economics and outcomes research will help Eversana further leverage the \"technology-first solutions\" infused into its platform.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fdc68e545336",
+   "source": "Fierce Pharma",
+   "title": "GSK predicts ‘some limited impact’ to UK roles as restructuring rolls on",
+   "link": "https://www.fiercepharma.com/biotech/gsk-predicts-some-limited-impact-uk-roles-restructuring-rolls",
+   "date": "2026-10-28T13:01:04.543005+00:00",
+   "snippet": "GSK’s global restructuring plan is likely to see “some limited impact” to roles on the Big Pharma’s home turf of the U.K., executives have confirmed.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c9daaf44db73",
+   "source": "Endpoints News",
+   "title": "Now 78% of scientists say AI will speed drug discovery this year: Signal Survey",
+   "link": "https://endpoints.news/now-78-of-scientists-say-ai-will-speed-drug-discovery-this-year-signal-survey/",
+   "date": "2026-10-28T13:00:06+00:00",
+   "snippet": "A year ago, Endpoints Signal surveyed almost 1,500 biopharma insiders about the very near-term prospects of AI accelerating drug discovery. Scientists, interestingly, were the most skeptical. Now, as we revisit the question in our",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "90c0db531c55",
+   "source": "Google News: biosimilar",
+   "title": "Adalvo expands biosimilars portfolio through acquisition of romiplostim biosimilar program from Enzene - News-Medical",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU0VNeEFyOUZSSmFqR0NkRlVVQXFHWE5aTk51VnlVdFdDNjg3S1JpT0k2VXF0dnB0dE9zYklKQkp3cHVXVjBKMmNqeXdjWWdRODdiVDBnYlcyVkxQUnY0UzJzYXV5SFRBTDM4bFFwVVp3UFNpSF9kVDB1LTJqWjBxbl8yWFhDVVBpT05GYllQWm82TDkzTEFfU1dzc2wzbWRCclhaZ0hENkZyWU5zajJsaXhQWGFWRlh2dmRVdlpkVE1GbldVQ2pWc1VOOWNYTVI4VkFBdDVQRi1jZ3NObnp2OTFfZFM?oc=5",
+   "date": "2026-10-28T11:32:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "c7aa2d76e7cc",
+   "source": "Google News: biosimilar",
+   "title": "A new Sandoz analysis reveals the next wave of affordable medicines is coming; will Canada be ready? - Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXJFdUljLXhNMmVxSmJULTAtMi04bXZBcllUUXFRSjl4bDdZY0h2ektxQkl1Rk1KdURBOV84Q04zb1Fpb1NBdEJYbk8xdEFBcThBUnVVOXNBbTlELUpMTGxKMmFZYkh4TXlkbjB1MlY4RXdYUnRhUFR1WGN5dXJiMmpPMjRXQlZ3Umc?oc=5",
+   "date": "2026-10-28T11:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "5e6c5afe4996",
+   "source": "Endpoints News",
+   "title": "Lilly's triple-G drug retatrutide outshines Novo's Ozempic in diabetes",
+   "link": "https://endpoints.news/lillys-triple-g-drug-retatrutide-outshines-novos-ozempic-in-diabetes/",
+   "date": "2026-10-28T10:45:48+00:00",
+   "snippet": "Eli Lilly’s retatrutide, the incretin shot that has already proven its effectiveness against other assets on a cross-trial basis, has cemented its utility in a head-to-head trial, albeit in diabetes rather than obesity. The drug ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3053a17fbe95",
+   "source": "Endpoints News",
+   "title": "Astellas buys option on preclinical IL-12 cancer drug from Audax Biosciences",
+   "link": "https://endpoints.news/astellas-buys-option-to-preclinical-il-12-cancer-drug-from-audax-biosciences/",
+   "date": "2026-10-28T10:26:20+00:00",
+   "snippet": "Astellas has taken an exclusive option to license a preclinical immuno-oncology asset from Australian biotech Audax Biosciences. The deal features $285 million that covers the upfront fee and a payment that becomes due if the ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "75d1dd143229",
    "source": "Fierce Pharma",
@@ -105,6 +227,18 @@
    ]
   },
   {
+   "id": "28a568d6af00",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis lifts Q3 profit on global biosimilar sales, advances pipeline - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObDdrQ09XMEt3WHBVSVhlTFdYQk0xdXgtLW9Wc0FYN2s0VGRCRmpDRFN5SU82aXVwU2UtX2ZfWnd4VkhpNGptX2hGRmRxd2N2T3JrbWxHZ3M1aU9OSXhCejhuVHhhdkc5c1NxTi1fWGlYanFIYjBabkJqeFJfVkhmT3VxZC1BcXBiQUxKVmRYMENXZm4t0gGUAUFVX3lxTE5sN2tDT1cwS3dYcFVJWGVMV1hCTTF1eC0tb1ZzQVg3azRUZEJGakNEU3lJTzZpdXBTZS1fZl9ad3hWSGk0am1faEZGZHF3Y3ZPcmttbEdnczVpT05JeEJ6OG5UeGF2RzlzU3FOLV9YaVhqcUhiMFpuQmp4Ul9WSGZPdXFkLUFxcGJBTEpWZFgwQ1dmbi0?oc=5",
+   "date": "2026-10-28T07:56:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
    "id": "b7d7aae4afa3",
    "source": "Google News: biosimilar",
    "title": "Samsung Biologics Epix: Solid Similar Performance… On Track for Leap to 'World-Class' Status - 머니투데이",
@@ -113,6 +247,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "550b24d9e3e6",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz Cuts Sales Outlook as Biosimilar Supply Weighs on Shares - Global Banking & Finance Review",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOVVnaWx6cWlPZWU4Rm9Qd1htLUVkeTlrUjNPTXNXekdqMmJaMl9raDhMVmxJeVh4bXh3LTFJY3FmTTMwcGtLUEJZX2o0dWEwS0JMVkxtWHhScVJwZDdlUmU4aXctNFVNSEpQUTZvcE0zdkF3RllpMGh0SXhqT2RYRDhVNzZpZV95anlWUi1vXzZJbFZSWTE2WGlRejV4bTlF?oc=5",
+   "date": "2026-10-28T07:30:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
   },
   {
    "id": "34a800bed7b4",
@@ -163,11 +309,33 @@
    ]
   },
   {
+   "id": "c05ac16cb98c",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Epis Holdings Reports Third Quarter 2026 Financial Results and Business Update - FinancialContent",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdXF4Nm9PNGU4SEhqTWU3Q3ZReUVEUzVFT0JiQ055eHZkaV9sVFdKc2pwajdkbEJxVFBXQmE5ZmZVWUdHZTUwM0dLdDZKM1lqemx1TG9VVVBzc2ttdTFMMW15RDd4dEU1cTlXUVdfOUpsZ3h0aTd5a19oNHhSNThxNHhJR0VpV3hzUnFXNzFsbnlnSGExT3QxYWcwMDVwT3QtWW5nZnNldjh5UHJZLVVudmI2WG14cWhmQlM4VkRYUWN2bjlWT2Vpcy0ySXhfeGV3WTA2ekU0dXRqMjVJaGFj?oc=5",
+   "date": "2026-10-28T07:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "df19e2df28a1",
    "source": "Google News: biosimilar",
    "title": "Generic drugmaker Sandoz lowers sales outlook, lifts profit forecast - StreetInsider",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVp2LWRwX0p6M0E4dWVRc2szLVQ5aDJiODItQWpKeWVVVGU0Y2JKUDl6ZWU1eFFSZE1TWW93UzRLVUZNMFNoWlJBZlh4ZllqRTVVYmZmTlZEcThFS2dBTjlMdHJMSGd1aW1BWGhXbjk1R1BIMHhCOGhSc002ZHpVdXdEYThhUFNvOEREY3RwWFdhQzdvVGNHb21kYnRvWFZGeERDWDFHQXNzdlM4d0JUaHc5QzUyeTVSYkRLWEpOWQ?oc=5",
    "date": "2026-10-28T06:55:18+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "7d75ab0bf6fa",
+   "source": "Google News: biosimilar",
+   "title": "Generic drugmaker Sandoz's shares fall after sales outlook lowered - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYlVPbS1tUHRtY2RwMzF4VHRxY2hEeGo2dGhPd0JVcm9vWklxOTVteDFsdVQzdmRMWTV2cG5zUC1yUHBUeGVCY3NjUXNhY19BVHhyMkI5RTJ4Yy1OcV9YWTM3VWFfZmxpSXcySUFxdndhTzF4ZEVidjZxbmlPX25xS3lGNmdXYjNzcXg2R3FhYUg1ZTlhalNsTkoxR2x1NUcybm1YM2VOejlxRnl0M1ZmdjFEN2xaMVFpNjBreUM0d19OSVZ2UnlMRHJBWnp0MF84OGlEVjhn?oc=5",
+   "date": "2026-10-28T06:52:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -204,6 +372,16 @@
    "title": "Cancer drug price cap: Despite steepest cuts on generics, biosimilars, most patented, single-brand drugs keep their prices - BusinessLine",
    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVWxsZ1E1andEYW5mdHNHS3JHQ2tvRERlaDJUR1dicDFfOWtJcTVwM1B2aDdsZDRQQnViMDlkbFl5XzRlal9tQ2g3RW1ld3NMN2dXRzFpckt2WVZjTFNDUWpQblNvMFFJeHJxVVJ2a3A5Z1Bqckg1VUVEa3FKZTlZdzV1eFhXUTZrUEg1TVhiTnI1RnRzWnlCWG9Ubmk4S011QkxWM1dydENLNk55NTJKZXdJM1FWcmh6VThEVHYzVHg1bTlvOWR5cE9vV0tCMmQtWkJLZlgweldRcVFySWF0MDQ3Ym51dUVoaVpiN1lJaVRxeUk2LUNPMVQxd0hsNG83M0E5M2hUTFJIRjRS0gGTAkFVX3lxTFBwaHpIUUI2SThxcDRIWWV3R3pMWWYybXZiWWdnSVFNM0xNOGpPeXZXRXRfdklZMVpBRVMyMEhmM0R0T3Frb1BzWUVRSmZfY1RJNHQyV0hBNEM1NmRQTkY1N3VLNU1Uby1lTnlqMFpSbjh1Rk5jc2tBRzlVTXN6aXNwemVjeHoyMHB2TjM3SFd6dVMzeVVzOVdHVlE3R29DZHVFTWl3UGg4YjVtVlI1eHNWVmFybVplUGZtMllNb0ltXzVGRnNvck94SUhtbnBXR0xIUXZWWkhBcUx6QTd4YW1ldzZJTElnelJOcFg2M2lZVUJiLUVRWnZGWEx4SlRNOWI0NUI3ZzRxUTgtXzR0ZVRFalpR?oc=5",
    "date": "2026-10-28T05:58:17+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "fe25019b0a34",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar SB16 Matches Denosumab in Exhaustive Analytical Comparison - Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTjFsREV5ZXNkTzIzSjBQSUloVzdiaVlqWXdIdGppWm1hN3dDSFM0WTcycUpiQ1BqTDgzdFduOUp1U2hvTGVWSjZheGxZLVdvTzd0U2hLS2RoRHRybDRGSkhxV0ZEVWlKWkpKLW9tUDZUZkc1S254TWVWQWFra2xPdW5ncXdQT3pnR19CWFg3dXI5eDl6dUVhWXhn?oc=5",
+   "date": "2026-10-28T04:52:30+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -338,6 +516,16 @@
    "title": "Biosimilar Makers Join Forces To Fight Takeda Entyvio IP - Law360",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBadmFKa0VRQkZieHJIcHJha0VHNnVWZk1nTjBDN3VlTmVuQlpMTGZXRktsdnhudmlTUDd4c1g1N0JGQkRxREFMbC16N0gxTS15NmVocnBR0gFWQVVfeXFMUFp2YUprRVFCRmJ4ckhwcmFrRUc2dVZmTWdOMEM3dWVOZW5CWkxMZldGS2x2eG52aVNQN3hzWDU3QkZCRHFEQUxsLXo3SDFNLXk2ZWhycFE?oc=5",
    "date": "2026-10-27T20:33:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "c308136ade2b",
+   "source": "Google News: biosimilar",
+   "title": "Adalvo Acquires Enzene’s Romiplostim Biosimilar Program for ITP - BioPharm International",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0prX1d3OWtGMnVoT2RKTzEwZDVNWWUyTWlZbTZZY184dTZ1cXpNVndMcG5HNFVQc0dONkNWRm1rTmwwREZ5Nk8wOXdqdTNkWFE4dk1oYnRuTlJILTF4MXN5UFdXb2tBRUFodEV3M3pOX0tDbzhUMFBwYlozQVdkM2pzbkZIc0RsZER1LVJUc2Q1SmdCamJyRl84N0lSSGZGcFVxc1FxNA?oc=5",
+   "date": "2026-10-27T19:43:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
