@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T03:51:27.115173+00:00",
+ "updated": "2026-10-28T06:59:51.917805+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,28 @@
   }
  ],
  "items": [
+  {
+   "id": "df19e2df28a1",
+   "source": "Google News: biosimilar",
+   "title": "Generic drugmaker Sandoz lowers sales outlook, lifts profit forecast - StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVp2LWRwX0p6M0E4dWVRc2szLVQ5aDJiODItQWpKeWVVVGU0Y2JKUDl6ZWU1eFFSZE1TWW93UzRLVUZNMFNoWlJBZlh4ZllqRTVVYmZmTlZEcThFS2dBTjlMdHJMSGd1aW1BWGhXbjk1R1BIMHhCOGhSc002ZHpVdXdEYThhUFNvOEREY3RwWFdhQzdvVGNHb21kYnRvWFZGeERDWDFHQXNzdlM4d0JUaHc5QzUyeTVSYkRLWEpOWQ?oc=5",
+   "date": "2026-10-28T06:55:18+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "3205d6475bde",
+   "source": "Google News: biosimilar",
+   "title": "Cancer drug price cap: Despite steepest cuts on generics, biosimilars, most patented, single-brand drugs keep their prices - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVWxsZ1E1andEYW5mdHNHS3JHQ2tvRERlaDJUR1dicDFfOWtJcTVwM1B2aDdsZDRQQnViMDlkbFl5XzRlal9tQ2g3RW1ld3NMN2dXRzFpckt2WVZjTFNDUWpQblNvMFFJeHJxVVJ2a3A5Z1Bqckg1VUVEa3FKZTlZdzV1eFhXUTZrUEg1TVhiTnI1RnRzWnlCWG9Ubmk4S011QkxWM1dydENLNk55NTJKZXdJM1FWcmh6VThEVHYzVHg1bTlvOWR5cE9vV0tCMmQtWkJLZlgweldRcVFySWF0MDQ3Ym51dUVoaVpiN1lJaVRxeUk2LUNPMVQxd0hsNG83M0E5M2hUTFJIRjRS0gGTAkFVX3lxTFBwaHpIUUI2SThxcDRIWWV3R3pMWWYybXZiWWdnSVFNM0xNOGpPeXZXRXRfdklZMVpBRVMyMEhmM0R0T3Frb1BzWUVRSmZfY1RJNHQyV0hBNEM1NmRQTkY1N3VLNU1Uby1lTnlqMFpSbjh1Rk5jc2tBRzlVTXN6aXNwemVjeHoyMHB2TjM3SFd6dVMzeVVzOVdHVlE3R29DZHVFTWl3UGg4YjVtVlI1eHNWVmFybVplUGZtMllNb0ltXzVGRnNvck94SUhtbnBXR0xIUXZWWkhBcUx6QTd4YW1ldzZJTElnelJOcFg2M2lZVUJiLUVRWnZGWEx4SlRNOWI0NUI3ZzRxUTgtXzR0ZVRFalpR?oc=5",
+   "date": "2026-10-28T05:58:17+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "759a718e5f7a",
    "source": "Google News: biosimilar",
