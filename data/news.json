@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:03:43.912191+00:00",
+ "updated": "2026-10-28T03:51:27.115173+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,13 +35,13 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": ""
   },
   {
@@ -52,6 +52,28 @@
   }
  ],
  "items": [
+  {
+   "id": "759a718e5f7a",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion Hits Record Q3 Earnings on New Biosimilars - Businesskorea",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtX21DNW0zelREcE45dFc5eV9QOEpZNnlzeGw0MXFVdGJFUkoxdGM2REljSF9peXU5UVZWY0tOYlFzUjFMSjJiMEdFdzBWSm42QjhIODQ0QmRhM01lQjE4d2txejdzSHdYWXFPWUQ1WkF3Mzdk?oc=5",
+   "date": "2026-10-28T02:17:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "fd46798672af",
+   "source": "Google News: biosimilar",
+   "title": "Cipla targets first wave launch for Keytruda biosimilar; sees 5% monthly gain in Yurpeak sales - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNa1FiYnpGaUx6VGFiVTIwaU5Cek8wbkx3Y3hvM3h4TkY4d3pMcHM3c3FEeXNvNnZoUEFTX2lvbG1OLVpuaWF3cTROdzlsTlMzcnJPM1BjMWwycER3RS1hd3NxbDF3WnhZSDdKaERqZUNKZHJkbTk0SnIzM1ZSWVBaWmxQeXhBSGpEc2swa0JMdE9VWkZ1M1dobVRXTDBaUERubEZ0VC1hN3VaM1Bxd0U2emdsR1dqT1c0MzlhSF9RblladDVrQzJEb2s4RjU1U3VsaFJZUmJDU0dFTmdfTlVCZE4xUlp2aGVRNGNpQnZIekNqN3FZazJEOTI4QXZRcnhT0gGAAkFVX3lxTE1rUWJiekZpTHpUYWJVMjBpTkJ6TzBuTHdjeG8zeHhORjh3ekxwczdzcUR5c282dmhQQVNfaW9sbU4tWm5pYXdxNE53OWxOUzNyck8zUGMxbDJwRHdFLWF3c3FsMXdaeFlIN0poRGplQ0pkcmRtOTRKcjMzVlJZUFpabFB5eEFIakRzazBrQkx0T1VaRnUzV2htVFdMMFpQRG5sRnRULWE3dVozUHF3RTZ6Z2xHV2pPVzQzOWFIX1FuWVp0NWtDMkRvazhGNTVTdWxoUllSYkNTR0VOZ19OVUJkTjFSWnZoZVE0Y2lCdkh6Q2o3cVlrMkQ5MjhBdlFyeFM?oc=5",
+   "date": "2026-10-27T23:36:06+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "08e2ffb51c63",
    "source": "Endpoints News",
