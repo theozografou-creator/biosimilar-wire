@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T21:42:35.936913+00:00",
+ "updated": "2026-10-28T01:03:43.912191+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,17 +41,37 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": ""
   },
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 59,
+   "count": 60,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "08e2ffb51c63",
+   "source": "Endpoints News",
+   "title": "Anthropic buys a single-person biotech startup backed by Atlas Venture",
+   "link": "https://endpoints.news/anthropic-buys-a-single-person-biotech-startup-backed-by-atlas-venture/",
+   "date": "2026-10-27T22:31:54+00:00",
+   "snippet": "The AI company Anthropic has acquired a drug discovery startup called Mithril Medicine, as part of its push into the life sciences. And that's where things start to get strange. Mithril is ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8223a529f6fb",
+   "source": "Google News: biosimilar",
+   "title": "Regeneron, Amgen Further Narrow Lawsuit Over Eylea Biosimilars - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObU14RHpFRzFaZExvZjNWUExHckZ2VmhnTEFwOVA1YVZqZnpVWnhGbkhYUHZQeVh0eEV6Y2czSXA5dkItNkVQNTZuWVFvUkw5Z1ZSV3JJQVRGZU1jQ1p5U2dLY19ndWlKX3o5Z2EwLTY3Sk50emRmcHg5Wk5tMkllbmRGYkhQYVFtTU5HWk4zemw0MUszR0lMTFJxRF9uZUUxSmdIMU16bnY1QUg2bU5Fa290dHZ1MVU?oc=5",
+   "date": "2026-10-27T21:54:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "5f0721b87e12",
    "source": "Fierce Pharma",
@@ -102,6 +122,16 @@
    "date": "2026-10-27T20:52:03+00:00",
    "snippet": "LANCASTER, PA — This spring, Lorraine and Mark Martin, a Mennonite family with a tax business, adopted a stubby-legged cow named Royal Lite. Lorraine, Mark and Royal Lite all have one thing in common: They ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1be36efbfe5d",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Makers Join Forces To Fight Takeda Entyvio IP - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBadmFKa0VRQkZieHJIcHJha0VHNnVWZk1nTjBDN3VlTmVuQlpMTGZXRktsdnhudmlTUDd4c1g1N0JGQkRxREFMbC16N0gxTS15NmVocnBR0gFWQVVfeXFMUFp2YUprRVFCRmJ4ckhwcmFrRUc2dVZmTWdOMEM3dWVOZW5CWkxMZldGS2x2eG52aVNQN3hzWDU3QkZCRHFEQUxsLXo3SDFNLXk2ZWhycFE?oc=5",
+   "date": "2026-10-27T20:33:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -481,6 +511,16 @@
    "source": "Google News: biosimilar",
    "title": "17 APAC-Made Biosimilars Approved in the US or EU in 2026 - BioPharma APAC",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVktaTjlleTVZczFoQW0wSnNGalZvb09vdHk1dzUzckNxek54aVdyQjV6TjFKUXR5QmQtZGV4OTJLT21weWMxMzNtelR6UFVkNjRrd1NqeXlWMmxRa25ON21aN2pyeVQxeWc3NnZrVDZodUxCNjhnd2pSUG9MeFBfT2N5T051OG9xdHZkbXdkUkZVSkxKNEtGa01WalRuUFViN3BaRTF1bEo?oc=5",
+   "date": "2026-10-27T10:18:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "43c3dd750652",
+   "source": "Google News: biosimilar",
+   "title": "17 APAC-Made Biosimilars Approved in the US or EU in 2026 - BioPharma APAC",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWQ1YVBUQ3JxalV5dkxiYXlpRkl3MW9UMF9CXzY2Z0dldFZpWXducE4yQy1iRGJqUzF4by1wR3VkTjRpQ0JCbllBZFpVZFdtMmFYSTItbkRpRVppanl0VWlocC1GSzIyQUdKOGxORlpJSmlHbHNVUzRSSG5qUzZXQ0VkMjZVOTFyRjhWMndYT1hVR2JlYkJuQ01idjVzS29UVXNCLTZrNng?oc=5",
    "date": "2026-10-27T10:18:28+00:00",
    "snippet": "",
    "biosimilar": true,
