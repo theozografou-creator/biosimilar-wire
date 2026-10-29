@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T07:00:25.359405+00:00",
+ "updated": "2026-10-29T09:56:21.095681+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "163c0fe9709f",
+   "source": "Fierce Biotech",
+   "title": "Ascletis’ challenger to Lilly’s Foundayo hits goals in phase 2 diabetes trial",
+   "link": "https://www.fiercebiotech.com/biotech/ascletis-challenger-eli-lillys-foundayo-hits-goals-phase-2-diabetes-trial",
+   "date": "2026-10-29T09:56:21.095681+00:00",
+   "snippet": "A phase 2 trial of Ascletis’ oral GLP-1 drug candidate has hit its primary and secondary endpoints, positioning the Chinese biotech to mount a two-front attack on Eli Lilly’s Foundayo.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "134af235ac17",
+   "source": "Google News: biosimilar",
+   "title": "Adalvo expands biosimilars portfolio with Romiplostim programme acquisition from Enzene - Manufacturing Chemist",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1VoZC1tM1RjMFhDcmlwMGdsM3ZGSjBKeUgwTm9ORTd4ZkpvM2hjRWZ6VWN4endZQnQ2LXB0WUl5RkZCbVRBYUE1ejB4NHlUUEFfczdmZ1FySDBPYUhfUnNSMHQzbnlndkdPQ1A0ajZGcnFRSUNaZHhyS0F4cEdpck96TDJNUU5XZEpVTmI2bkN1SDhYVWhyclA2Y052WURZQjZEZE1CYnBOR1Nu?oc=5",
+   "date": "2026-10-29T08:48:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "6a2017b2184d",
    "source": "Google News: biosimilar",
