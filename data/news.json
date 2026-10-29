@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T01:01:36.509061+00:00",
+ "updated": "2026-10-29T03:53:04.610358+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "f5b7cedae9a3",
+   "source": "Google News: biosimilar",
+   "title": "The strict regulatory barriers, which have been considered a chronic challenge for the domestic bios.. - 매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHZjhab1RuajRSVkdWa2wzUXVBSkxpczNXUEpHdXZ3V1ZtMHk5Vm5oa055bVI1X2NnUnB4T2hrWk9sdHdPN3h3UEgzVQ?oc=5",
+   "date": "2026-10-29T01:13:19+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "121042f94c5b",
    "source": "Google News: biosimilar",
@@ -291,6 +301,18 @@
    "snippet": "The plan advances recent agency moves to accelerate “personalized” treatments by offering an approval framework for therapies that can benefit different subsets of patients with the same disease.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "e7aac81d9737",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz Earnings: Biosimilar Strength Continues To Impress As Demand Outpaces Supply - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYUczcjBLMkU5Z2s4elJ5TkZpa0ZKWmxJWGIxSlkydmpFWWpqNExSR25SZEhDTFZVdHJmU0U3WnhaVzhUTU5maFNmLV9SZlZ1b085cHNhdjdBR2p6SjZET3o0VF9tLWRyMkR5V1dMM3BMTFFPQTA3Q3RhRkNaaWJCUG9wVUJteUVDRFNUeXJYdTR3Tm5KNjhBLUZZbVZUNFp6SG1ZemJrTzZRY2hYUUtHQmhOeC1YUEFXV1A4dkFnNFFVWnE4TEs2UVlRdnBXalBKcGdQeFBjVjMxWnZOVkF2eXkycHRxT3ZK?oc=5",
+   "date": "2026-10-28T14:53:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
   },
   {
    "id": "33e69112f60f",
@@ -757,6 +779,18 @@
    "source": "Google News: biosimilar",
    "title": "Sandoz reports strong biosimilar-sales momentum; narrowed full-year net-sales range and upgrade to margin guidance - TradingView",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcUJ6QU1XaFJ4RHNzQ3QwWC04bWtmT2wtVklMVWtULUN4ekpoXy1TR2NXNmhNRTlWWXlaREppUXBuS3lubFVCNE00Y1RTNHhPSTZLNGZDamZZNnBaSnZoZnU3U014UUxRS3JidjA5ck5wVFRteXZBblFLcWNiVG5yT3NUVXJiTkhTSE04TGlyT3o3VGVDbkhuYklaRkJyNXBzZUU5LU9xcHRXVGk2eXVEdXVHdUZYa3EybDJyNHJzdk8zelVHdl8wOVhBR0JtaEV5LUNkVk5ReExHZWo4S0hoRXJUZDhrTEU1RTFxM1EtTGc5U0x4dFJkN19iVQ?oc=5",
+   "date": "2026-10-28T06:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "b00771af98a7",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz reports strong biosimilar-sales momentum; narrowed full-year net-sales range and upgrade to margin guidance - boerse.de",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ0pGaWlXS3h3ZGtmQW02NU44dko5dXM5Q05iUDlIcl9oLXRNcGxqeXJDTkNlbWU3Y1JXNUpwYXN0VWppUW14Z0R1bnF2S2Q5T01YeXZyTDBjNVQ0U3ZReEFoWVI5cDVaRzF1MGRpMlhtUE54Yl9mam85R2pkR2s4bWxpXy1VU2pjUnE4eVFlTm1qOFNCUTAyOWdocGQ0Q0dqVDZDUGJ2ZkUtMjJpdUVwREYxZi1VQms3cGpBNm56M19oZGZXQnp5VkZQSHI3UkdYamgwSi01MFpkczJsMC0tb2hSdDltTVRlejJ3Mw?oc=5",
    "date": "2026-10-28T06:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
