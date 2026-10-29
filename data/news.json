@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T13:02:06.852697+00:00",
+ "updated": "2026-10-29T15:59:42.464221+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,140 @@
   }
  ],
  "items": [
+  {
+   "id": "a01bf9651bb1",
+   "source": "Fierce Biotech",
+   "title": "Merck outlines 2027 as ‘another year of investment’ despite recent clinical wins",
+   "link": "https://www.fiercebiotech.com/pharma/merck-outlines-2027-another-year-investment-despite-recent-clinical-wins",
+   "date": "2026-10-29T15:59:42.464221+00:00",
+   "snippet": "Even as a wave of clinical trial wins bolsters its momentum, Merck & Co. is prioritizing ongoing pipeline and commercial expansions over near-term margin growth, hoping to strengthen its long-term prospects past Keytruda's loss of exclusivity.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0e227380b49c",
+   "source": "Fierce Biotech",
+   "title": "BMS walks away from $80M neurodegeneration bet after phase 1",
+   "link": "https://www.fiercebiotech.com/biotech/bms-walks-away-80m-phase-1-neurodegeneration-bet",
+   "date": "2026-10-29T15:59:42.464221+00:00",
+   "snippet": "Bristol Myers Squibb has scrapped a phase 1 program it bet $80 million on just two years ago.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "28c1dd42e2b4",
+   "source": "Fierce Biotech",
+   "title": "BioMarin inks up to $475M deal to challenge Fabry ERT incumbents",
+   "link": "https://www.fiercebiotech.com/biotech/biomarin-inks-475m-deal-expand-challenge-fabry-incumbents",
+   "date": "2026-10-29T15:59:42.464221+00:00",
+   "snippet": "BioMarin is paying $70 million upfront to license a Fabry disease drug candidate, expanding the franchise it acquired through its $4.8 billion takeover of Amicus Therapeutics.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "21d272940445",
+   "source": "Fierce Biotech",
+   "title": "Flagship brings 3 biotech platforms together to launch AI drug discovery player Etcelera",
+   "link": "https://www.fiercebiotech.com/biotech/flagship-reveals-new-causal-intelligence-merger-biotech-etcelera",
+   "date": "2026-10-29T15:59:42.464221+00:00",
+   "snippet": "Flagship Pioneering unveiled Etcelera today, a new AI-powered biotech emerging from stealth that aims to predict how potential medicines will act in patients.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "536f08c577ef",
+   "source": "Fierce Biotech",
+   "title": "Oura, UC San Diego Health collaborate to study GLP-1 outcomes using continuous smart ring data",
+   "link": "https://www.fiercebiotech.com/health-tech/oura-uc-san-diego-health-study-glp-1-outcomes-using-continuous-smart-ring-data",
+   "date": "2026-10-29T15:59:42.464221+00:00",
+   "snippet": "Oura is pushing further into clinical healthcare research with its first clinical trial to study the link between smart ring data and obesity treatment outcomes.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3d55cd1f6330",
+   "source": "Fierce Pharma",
+   "title": "Bristol Myers' Cobenfy performance called into question amid overall Q3 revenue beat",
+   "link": "https://www.fiercepharma.com/pharma/bms-cobenfys-performance-called-under-question-amid-q3-beat",
+   "date": "2026-10-29T15:59:42.464221+00:00",
+   "snippet": "BMS' novel-mechanism schizophrenia drug, Cobenfy, underwhelmed in the third quarter, pulled back by inventory issues, access barriers and side effects.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6648a0a556f2",
+   "source": "Fierce Pharma",
+   "title": "Merck outlines 2027 as ‘another year of investment’ despite recent clinical wins",
+   "link": "https://www.fiercepharma.com/pharma/merck-outlines-2027-another-year-investment-despite-recent-clinical-wins",
+   "date": "2026-10-29T15:59:42.464221+00:00",
+   "snippet": "Even as a wave of clinical trial wins bolsters its momentum, Merck & Co. is prioritizing ongoing pipeline and commercial expansions over near-term margin growth, hoping to strengthen its long-term prospects past Keytruda's loss of exclusivity.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5ab89f151cb1",
+   "source": "Fierce Pharma",
+   "title": "Lonza rounds out Swiss ADC expansion's scope with mid-scale capabilities",
+   "link": "https://www.fiercepharma.com/manufacturing/lonza-rounds-out-swiss-adc-expansions-scope-mid-scale-capabilities",
+   "date": "2026-10-29T15:59:42.464221+00:00",
+   "snippet": "Several months after telegraphing a major antibody-drug conjugate manufacturing expansion in its native Switzerland, CDMO Lonza is laying out fresh details and growing the project’s scope.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3af2d3eb590a",
+   "source": "Endpoints News",
+   "title": "UK lands £500M in biopharma pledges; Teva to shutter New Jersey site",
+   "link": "https://endpoints.news/uk-lands-500m-in-biopharma-pledges-teva-to-shutter-new-jersey-site/",
+   "date": "2026-10-29T15:31:16+00:00",
+   "snippet": "Plus, news about Esteve and Regeneron. UK pulls in £500M investment: As part of the UK’s Autumn budget, Vertex Pharmaceuticals said it will invest over £300 million in a new R&D site in Oxford, UK ...",
+   "biosimilar": false,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "6a67b77ff951",
+   "source": "Endpoints News",
+   "title": "Ono's five failures; Lenz and Molecular Partners to lay off staff",
+   "link": "https://endpoints.news/onos-five-failures-lenz-and-molecular-partners-to-lay-off-staff/",
+   "date": "2026-10-29T15:08:22+00:00",
+   "snippet": "Plus, news about GSK, Ascletis, BioMarin, Rigerna and Hisun. Ono Pharma’s endocannabinoid modulator flunks five trials: The biotech’s ONO-1110 did not meet the primary endpoint in five separate Phase 2 studies ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "86c832b539b4",
+   "source": "Endpoints News",
+   "title": "Genmab's stock rises on cancer data, while Iovance, Coherus tumble",
+   "link": "https://endpoints.news/genmabs-stock-rises-on-cancer-data-while-iovance-and-coherus-tumble/",
+   "date": "2026-10-29T15:06:45+00:00",
+   "snippet": "Cancer trial news drove a number of stock moves in both directions over the past 24 hours. Here's a summary of key results and their impact: Genmab shares rise on head and neck cancer data: ...",
+   "biosimilar": false,
+   "watch": [
+    "Coherus"
+   ]
+  },
+  {
+   "id": "816dbe1b8f4d",
+   "source": "BioPharma Dive",
+   "title": "HHS to allow compounders to make 6 unapproved peptides",
+   "link": "https://www.biopharmadive.com/news/hhs-peptides-rfk-fda-compounders/873141/",
+   "date": "2026-10-29T14:52:00+00:00",
+   "snippet": "RFK Jr. has given notice that the agency won’t take enforcement action on six peptides that controversially won a contested recommendation from outside advisers to the FDA in July.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c09be8324751",
+   "source": "Endpoints News",
+   "title": "Personal AI agents are coming to healthcare",
+   "link": "https://endpoints.news/personal-ai-agents-are-coming-to-healthcare/",
+   "date": "2026-10-29T14:49:42+00:00",
+   "snippet": "In September, I reported on the phenomenon of big tech companies and startups standing up capabilities to ingest people’s medical records and other health data, so they could interpret the ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "b8a427439ebd",
    "source": "Fierce Biotech",
@@ -158,6 +292,16 @@
    "title": "Stada secures US approval for Lucentis biosimilar Lucamzi - The Pharma Letter",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNnJRUWRzMG9sWWZZSmNUbHJTRzgzMC1rMmpnVER0cFN6eUxuTmtKaVZNSDNSWTBRM2Y3S0NpNHJhUW0xbWR3TVkycVY2eThIYWQ2MFJXVDhhQ28xWi1GblA3OTl4OHpsZkVpVjBUYjJvSUpfTlBzR3BuQ1VaZ2tGeXRwNmxUMEpzVFV3ZzI2bVpkYmpVQzJjbl84WjFjRHJIUC1kUlNIRUdKUQ?oc=5",
    "date": "2026-10-29T10:15:12+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "3b37f162aada",
+   "source": "Google News: biosimilar",
+   "title": "Another Voice: Biosimilars can drive down cots but only if managed attentively - Buffalo News",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUjBFNGxtVjRZM3JlenpXY0ZmU2xnRFVaVzhVSVZ2RG9uODRBaDlXU1lCdFFUcFJpYzNQRUp2cUhzWFhxQWNhMzk3alpBdUk3RVd3UFJSUU1OSGxXcjQ5ZjhDckNHd0VsTjBEZkpmeVQxbzBzWXozd0VjWGU5RUMtUUwwLWJBRDBJ?oc=5",
+   "date": "2026-10-29T10:15:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -1546,6 +1690,16 @@
    "title": "Rituximab Biosimilars Market Insights Highlight Segment Expansion And Market Leadership - openPR.com",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHdXYk10SFhUbUFRUjFnam53U3hFcHBJajVfQXFaQkg0Q3VkWTN3YVItQ28xMDVnQmp6bzFKbXo3cGlTb0RfVWwtS3NSYVRTa0ZieTYtejNLRlFJaUdTamI0RV9CQnRXNmxSRzRZME1YSnRDcGpPVVFVaGxZTnJuRDVFZXNpYTR2VmNqYlJva3B2eTFCZ3c?oc=5",
    "date": "2026-10-27T07:24:02+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "ee0d1c0cc800",
+   "source": "Google News: biosimilar",
+   "title": "Enzene Hands Romiplostim Biosimilar Programme to Adalvo, Will Keep Making It in Pune as Biologics CDMO - eHealth Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2h0QjBvWWNCcUg0X081Q09Ja2JBMV8wTFRWdzRsRFoxNncwWS1UMjFLZ21zNjFJaVdBYUZDZmxWOHJvY2oxMXNBUkZOSzYyV20ydkVXUEhwVHl1SWJJamtjRHdFQ3RNa05maW84WV9YY2p5QmlBdVd3emU2SkJSbVlDd2VPS1o4VGFaSUFQLTBDM3hlMEtLbUVlN20zNTd5VWJ4dWxlc2hnUTNaYW92ODZiNA?oc=5",
+   "date": "2026-10-27T07:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
