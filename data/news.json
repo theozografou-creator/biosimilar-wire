@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T03:53:04.610358+00:00",
+ "updated": "2026-10-29T07:00:25.359405+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,18 @@
   }
  ],
  "items": [
+  {
+   "id": "6a2017b2184d",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Limited Expands Global Access to Affordable Medicines Through Biosimilars and Generics - Machine Maker",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQi0yOGlndVcyZTVMTmZSVWlKMFpLbGpUcGpSRTRyTU9UTTVISTlaWlVsbnp4SnpXeWxweXRQRTlBN1UwVUhBdTliQ2ZQZDBJRkJKZ3ZxQmpIeHVSLTRfNTB4Uk5zOUpJUGFySUVkMGdqRVBSN3pSSmtXN2xaUjQ5dUE3S3czWUhpS2hxTzZoWGhpdm5RYldtcUpGdmdMZVZQaGtYSlV6UnAyaThFdUszQW93YThUSGV6bFF1STVDQ0NJbVM2WkE?oc=5",
+   "date": "2026-10-29T06:28:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
   {
    "id": "f5b7cedae9a3",
    "source": "Google News: biosimilar",
