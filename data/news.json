@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T21:47:49.595290+00:00",
+ "updated": "2026-10-29T01:01:36.509061+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "121042f94c5b",
+   "source": "Google News: biosimilar",
+   "title": "Korea Eases Biosimilar Rules, Waiving Toxicity and Phase 3 Studies - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSEYwRGhWa1FnOUdOT2tnWWZLd3phZUpyYkVfN2pmdEhYRWptbDJOdmxWRjE2WnFQMFYwbC1jZ1ZPaTRMMjdlMEVpb3NOUFRKclBCU29MVzUzbDZoZ0ctNW5yeW9iNFFUTER3NkktWC1zekN5Mzd4aUk1MXVDTXpZWGtBYWEta1ZSZGdBSFZSQ2lXNGFEdS11RzM4UDhtTXhX?oc=5",
+   "date": "2026-10-29T00:25:48+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "0ab5ebd42acf",
+   "source": "Google News: biosimilar",
+   "title": "Regeneron and Amgen call a truce on two Eylea biosimilar patents - Life Sciences IP Review",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbC1idWFKMWZMR1YtLU53NzIwSDBaYS1Iei1CZmVERkVfX0stVm9kN0xEN3Z3MllHd0JfWVhKRzRrUGNfV1A0WUVhTFljVFBiak1WazQxaUZLMml3d0tRWnF1Z3pIVTdTaWNsQm9PNm9yR3lHcVZtMmwyU0NydmM3R3hzMHpZM2Z6WVdUZGhqdW96Q2RBaC1fcWZHN2F0b0E0dHFCREVPdDlNSnhvT0E?oc=5",
+   "date": "2026-10-28T22:26:45+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "5a3495574796",
    "source": "Fierce Biotech",
