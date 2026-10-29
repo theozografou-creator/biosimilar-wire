@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T15:59:42.464221+00:00",
+ "updated": "2026-10-29T18:57:18.289256+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,86 @@
   }
  ],
  "items": [
+  {
+   "id": "ef17373869c7",
+   "source": "Fierce Biotech",
+   "title": "Eli Lilly scraps phase 2 Alzheimer's program after drug falls short of expectations",
+   "link": "https://www.fiercebiotech.com/biotech/lilly-scraps-ph-2-alzheimers-disease-drug-it-did-not-meet-high-internal-bar",
+   "date": "2026-10-29T18:57:18.289256+00:00",
+   "snippet": "Eli Lilly has dropped its phase 2 Alzheimer's disease program for mevidalen, marking another setback for the experimental drug as the Big Pharma expands its neuroscience pipeline through multibillion-dollar acquisitions.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "27ece5a35a78",
+   "source": "Fierce Pharma",
+   "title": "AZ takes a 'time out' with former teen TV star in biomarker testing push",
+   "link": "https://www.fiercepharma.com/marketing/az-takes-time-out-former-teen-tv-star-biomarker-testing-push",
+   "date": "2026-10-29T18:57:18.289256+00:00",
+   "snippet": "AZ is encouraging people impacted by cancer to \"Meet Your Mark\" with the help of biomarker testing and “Saved by the Bell” actor Mark-Paul Gosselaar.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d2613d55111c",
+   "source": "Fierce Pharma",
+   "title": "Women 'still waiting' for healthcare to earn their trust: report",
+   "link": "https://www.fiercepharma.com/marketing/women-still-waiting-healthcare-earn-their-trust-report",
+   "date": "2026-10-29T18:57:18.289256+00:00",
+   "snippet": "73% of women polled in a 1,000-person survey have felt dismissed or not taken seriously by providers due to their gender, a new report from Langrand found.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0cd896b25d44",
+   "source": "Endpoints News",
+   "title": "Bristol Myers defends pipeline, reinforces later stage BD interest",
+   "link": "https://endpoints.news/bristol-myers-defends-pipeline-reinforces-later-stage-bd-interest/",
+   "date": "2026-10-29T18:33:44+00:00",
+   "snippet": "Bristol Myers Squibb is re-emphasizing its plan to stave off one of the industry’s most daunting patent cliffs. Speaking to analysts on its earnings call on Thursday, executives at the New Jersey pharma company touted ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d6ece170cdc9",
+   "source": "Endpoints News",
+   "title": "R&D chief Dean Li says Merck outflanked rivals with its sac-TMT cancer program",
+   "link": "https://endpoints.news/rd-chief-dean-li-says-merck-outflanked-rivals-with-its-sac-tmt-cancer-program/",
+   "date": "2026-10-29T18:00:02+00:00",
+   "snippet": "Merck's head of R&D Dean Li believes he’s outfoxed his competition for the next generation of oncology drugs, jumping into a wide set of indications that could help it expand the potential of its antibody-drug ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c532be34300d",
+   "source": "Google News: biosimilar",
+   "title": "Make some medications more affordable by cutting one piece of red tape - The Hill",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CLVBKQUJMRmgxQUdBMGt2SjVGLU90c0NkaDJPRmZUU0EwdTROOWxIOWFDSm5UUExXMWMtSTk4SUFsWmQ3clRTQnBGeDlNS3RPUUFpeVhLOEpVOXFiLWRZbUFKRVVrcHdJMVppQmxMb2g4czhpWXhiQUVHWDFoY0XSAYQBQVVfeXFMT2FsaUEtZUlRRTM1aXRwSkxVZmlDNjJhcXN6cWwzSXlfLUZ4QXV6ZG1STkwtLTVTU2txRWh1M1ZLWjgzdThXSXVpS0NkV2piczBZem1ndzFQbU1WRG9tRjFycHE5ZV9PQXlLN1ljdU4xS1ZibjJieW1QZkliSXNhQVE4Mmpw?oc=5",
+   "date": "2026-10-29T17:49:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "4aca5b5a752b",
+   "source": "Google News: biosimilar",
+   "title": "Trastuzumab emtansine biosimilar shows real-world results in HER2-positive breast cancer in India - Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNTVWRWx2dWZHLTdyM2F6anVRMnJ3Tm51VW1NTXk0UE5YUExZTkRhdEpPUDZpeFZlUkVjSk50TldPMGlSUHl3UTRlSndoTU12UFdhVkFwTHZQV3l6bURXOTZOYkpnVEZkdktYdkVCQlI1Nmd0MDQwcEdCclZyWEdES09CRFdnWDNFQlZTVXJPc2NnOWVuNXRvc2ZjaUN2aTEwdXFzVTM0X3I3aFliWjdGQ2hRTUl1bkt5V1pYTzZ1VQ?oc=5",
+   "date": "2026-10-29T16:40:44+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "78676a5978e7",
+   "source": "BioPharma Dive",
+   "title": "Genmab soars to record highs after cancer drug succeeds in key trial",
+   "link": "https://www.biopharmadive.com/news/genmab-stock-soars-positive-head-neck-cancer-antibody-phase-3/873164/",
+   "date": "2026-10-29T16:06:00+00:00",
+   "snippet": "The drugmaker’s market value swelled by more than $7 billion on findings suggesting a recently-acquired medicine could become a new treatment standard for a form of head and neck cancer.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "a01bf9651bb1",
    "source": "Fierce Biotech",
@@ -339,6 +419,18 @@
    ]
   },
   {
+   "id": "53549c121a19",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Q3 revenue inches up on Epysqli, Pyzchiva sales - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVSlV0QjQ4R1o3OHI1SFExeGZiWmg4bEU0NVUwUzRPc3JDTGh0b3dZZDJyMmZqbGc0S2lGRFNySVl6MDNVYzlDQ0pqWGp3TF9paGJPa0RtNkFwaE4zRFFod21ra0dxcWItbGYwaVA0ZEFDZ9IBckFVX3lxTFBVSlV0QjQ4R1o3OHI1SFExeGZiWmg4bEU0NVUwUzRPc3JDTGh0b3dZZDJyMmZqbGc0S2lGRFNySVl6MDNVYzlDQ0pqWGp3TF9paGJPa0RtNkFwaE4zRFFod21ra0dxcWItbGYwaVA0ZEFDZw?oc=5",
+   "date": "2026-10-29T02:00:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
    "id": "f5b7cedae9a3",
    "source": "Google News: biosimilar",
    "title": "The strict regulatory barriers, which have been considered a chronic challenge for the domestic bios.. - 매일경제",
@@ -611,6 +703,16 @@
    "watch": [
     "Bio-Thera"
    ]
+  },
+  {
+   "id": "97ab54202cd1",
+   "source": "Google News: biosimilar",
+   "title": "Amgen Q3 Earnings: Will Strong Drug Sales Offset Headwinds? - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOEhBZlhBVHdJa3huNkRieXRJZGFWX29EUHRqbldmM0t4UDhzVzZvT19vQ3FTZ196M01iSVVVcUxEaUFIZDdpVUdVb2NiRWRfc0JWMWM3YW05OXdJV2pUX284Ty1nclV0TDBEQUJfNTE4b3lnTERfSGRCMG1mbkF1Z3Utb3h4dWVfNjVBZ2h1NTRXZGgwdnhrZ1R4VkNTYm8xT1JHZ05sV29pelVZclRpVkl6VQ?oc=5",
+   "date": "2026-10-28T14:20:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "31a8160c3e97",
@@ -1055,6 +1157,16 @@
    "source": "Google News: biosimilar",
    "title": "SDZ: Biosimilar momentum lifts Q3 sales as margin guidance rises and sales guidance narrows - TradingView",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeXBvc1NvaEVNT3ZzejY0S2ltcFltSUNYaXVYaXYtdkFZNFY1eUZGYlJfdFBNMG5qMExJU2JZaXl0UFlwcjFFMVFhck05Wm9jSVFrQml1eWRrdU5jY1dZOTZqY2FaVE1pQ25icHB4N3B5ejJscEI1TVQtdW9Hbk5JcmhRRDhXSU1pYTZWSENqbFZkMkF4RjNBY3RMUDJTaWFDTDBfNm1seEdMV0xiOWFKMEJPTlhqN2tFWk5kUURidlRVYmpQTkxZbkZCYW1XSWlqWDJBMVV6WWdyc19ra3psNi1iOENVNUpQd2xiTjZqalNKU1B6SW1vdGtfWmM4VUtYc2NV?oc=5",
+   "date": "2026-10-28T06:13:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "e56ec86a3f7b",
+   "source": "Google News: biosimilar",
+   "title": "SDZ: Biosimilar momentum lifted growth as FY 2026 margin guidance improved - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQV0RQd2IzLTBwdmJELVNYdEF4cVdBNDFORkFKVE9paWQtLUJSZnMzMHNEbTNTeGNGWGtVWm9ZQlhxMGdDX1JkRDIwRGFmX2p4MTctWXJ4c3hHRHFtYXByOWJxWFNxZC1DcW9hazFQbXV6S093Y2NsRlByWXQwVWJIUEE1YkZ3M1Jqa0RiTERraVd3cl9fbXlpb0tPeDJGVGNLYVNSWFpNYnh1SW1xbXY5REtteGRMOGJ2WWdDNk9weVc5UExyOW9vaVBrb3JrVFlyM3diWmpfM05EVUx2YWV0VjdCVVBpMHZQSEtJUA?oc=5",
    "date": "2026-10-28T06:13:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -1803,6 +1915,18 @@
    "source": "Google News: biosimilar",
    "title": "Samsung Bioepis presents Phase 1 trial results for Keytruda biosimilar at ESMO, confirming equivalence - 헤럴드경제",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13QWVpSzE2MTdBQzFGc2RES25UQUhwMkFiTVp6dlBTaHpIT01tUTRKSWw5TVgxdHE3WndOWnl2ZXBjbDlnenVDLXNJUDZxNVQ2SlZNTVhYYw?oc=5",
+   "date": "2026-10-27T00:01:51+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "23ad34872341",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis presents Phase 1 trial results for Keytruda biosimilar at ESMO, confirming equivalence - 헤럴드경제",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mVFpGWDM1eEdiLVhRaFJtcFZJSmtLb2lmOWxFam5XdHNRTF9pb2xhR1hVN1NHci1BTEozUHVvOGJ5cHNxMzNKNzkxVzlteG1TQU14OHVn?oc=5",
    "date": "2026-10-27T00:01:51+00:00",
    "snippet": "",
    "biosimilar": true,
