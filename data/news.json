@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T18:57:18.289256+00:00",
+ "updated": "2026-10-29T21:50:23.661104+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,56 @@
   }
  ],
  "items": [
+  {
+   "id": "eb5b6c404023",
+   "source": "Fierce Pharma",
+   "title": "Lilly breaks down Medicare Bridge boon as GLP-1 sales drive another guidance lift",
+   "link": "https://www.fiercepharma.com/pharma/lilly-breaks-down-medicare-bridge-boon-glp-1-sales-drive-another-guidance-lift",
+   "date": "2026-10-29T21:50:23.661104+00:00",
+   "snippet": "As Lilly’s tirzepatide franchise continues to deliver strong sales growth, analysts are increasingly turning their attention to new catalysts in the GLP-1 market, including the launch of oral obesity medicines and the rollout of a nationwide access program for seniors.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ae6ed88c686f",
+   "source": "Fierce Pharma",
+   "title": "Lenz reports 75% workforce cut, CEO shakeup alongside Q3 earnings update",
+   "link": "https://www.fiercepharma.com/pharma/lenz-reports-75-workforce-cut-and-ceo-shakeup-q3-update",
+   "date": "2026-10-29T21:50:23.661104+00:00",
+   "snippet": "In a massive overhaul of its operating expenses, Lenz is set to reduce staff by 75% before the new year.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3a74dac605b2",
+   "source": "BioPharma Dive",
+   "title": "Labor Department finalizes sweeping PBM disclosure rule",
+   "link": "https://www.biopharmadive.com/news/pbm-transparency-final-rule-labor-department-employer/873254/",
+   "date": "2026-10-29T20:30:00+00:00",
+   "snippet": "Starting in 2027, the controversial drug middlemen will have to share a broad swath of fee and compensation data with self-funded employer clients. Employers cheered the rule, while PBMs slammed it as government overreach.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1b58e5aa5b69",
+   "source": "Endpoints News",
+   "title": "For Lilly, cash-pay is key in the US and, increasingly, abroad",
+   "link": "https://endpoints.news/for-lilly-cash-pay-is-key-in-the-us-and-increasingly-abroad/",
+   "date": "2026-10-29T19:31:38+00:00",
+   "snippet": "Eli Lilly already knows Americans are willing to shell out hundreds of dollars a month for obesity drugs. Its bet on selling directly to patients helped it build a substantial",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b34ccd513e9a",
+   "source": "Google News: biosimilar",
+   "title": "Recon: FDA approves Stada’s Lucentis biosimilar; Lilly says ‘triple-G’ candidate bests Ozempic in diabetes - RAPS",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcDlfZEhYbnA4ZFQwUjBzUmF5ZHlEYnZlaUIxcjlDNTRsS0I4WWRRZVVwdW9zTnBEbDVTOWNYSld6ODVRZlpaaUZqXzkwRkh5ckt5RVFETWlxcXBjcy0xQzczNVIyODJvVGZ1T3YxZ3JldmhEWExpbzFKR3JzVENUaTN1NGNHWWVzV0xQcEJ5eV9uUjBqNG5hdlN2SXc3T0xvSkI4ZEdGRUtjUHJIRFo5d2VxQnY0Nmkyc0Q0aHVIaWE3RWNOQlJrX0FaX01MV2ZJMXZv?oc=5",
+   "date": "2026-10-29T19:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "ef17373869c7",
    "source": "Fierce Biotech",
