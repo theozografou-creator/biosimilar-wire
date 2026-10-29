@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T09:56:21.095681+00:00",
+ "updated": "2026-10-29T13:02:06.852697+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,116 @@
   }
  ],
  "items": [
+  {
+   "id": "b8a427439ebd",
+   "source": "Fierce Biotech",
+   "title": "Geron’s Rytelo stumbles in phase 3 as Novartis gears up for post-JAK inhibitor blood cancer bid",
+   "link": "https://www.fiercebiotech.com/pharma/geron-rytelo-stumbles-phase-3-novartis-gears-post-jak-inhibitor-blood-cancer-bid",
+   "date": "2026-10-29T13:02:06.852697+00:00",
+   "snippet": "Geron has discontinued a phase 3 trial of its Rytelo in JAK inhibitor-pretreated myelofibrosis after an independent data monitoring committee ruled that the study was unlikely to succeed, just as Novartis is gearing up for a delayed FDA approval bid for its pelabresib.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "665ffc8f018d",
+   "source": "Fierce Biotech",
+   "title": "Why researchers may have found the biological culprit behind Angelman syndrome",
+   "link": "https://www.fiercebiotech.com/research/researchers-identified-new-biological-pathway-tackle-angelman-syndrome",
+   "date": "2026-10-29T13:02:06.852697+00:00",
+   "snippet": "Scientists have known for a while that Angelman syndrome is caused by the loss of a specific gene, but they didn't understand how this gene loss leads to the failure of brain development in infants with the disease.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "54aa8735355e",
+   "source": "Fierce Pharma",
+   "title": "Geron’s Rytelo stumbles in phase 3 as Novartis gears up for post-JAK inhibitor blood cancer bid",
+   "link": "https://www.fiercepharma.com/pharma/geron-rytelo-stumbles-phase-3-novartis-gears-post-jak-inhibitor-blood-cancer-bid",
+   "date": "2026-10-29T13:02:06.852697+00:00",
+   "snippet": "Geron has discontinued a phase 3 trial of its Rytelo in JAK inhibitor-pretreated myelofibrosis after an independent data monitoring committee ruled that the study was unlikely to succeed, just as Novartis is gearing up for a delayed FDA approval bid for its pelabresib.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "80fae03f4fe2",
+   "source": "Fierce Pharma",
+   "title": "Kennedy's HHS relaxes enforcement on 6 popular wellness peptides",
+   "link": "https://www.fiercepharma.com/pharma/kennedys-hhs-relaxes-enforcement-6-popular-wellness-peptides",
+   "date": "2026-10-29T13:02:06.852697+00:00",
+   "snippet": "Stopping short of a formal declaration allowing their use, Department of Health and Human Services secretary Robert F. Kennedy Jr. has cleared the way for the compounding of six popular wellness peptides.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ac35d7ff25d8",
+   "source": "Endpoints News",
+   "title": "Anthropic pitches 'age of miracles,' gives biopharma research update",
+   "link": "https://endpoints.news/anthropic-pitches-age-of-miracles-gives-biopharma-research-update/",
+   "date": "2026-10-29T13:00:32+00:00",
+   "snippet": "A day after publishing the paperwork for what could be the business world’s largest-ever IPO, Anthropic released the most detailed look yet at its biopharma ambitions, including the possibility of bringing ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "77122bfb5f62",
+   "source": "Google News: biosimilar",
+   "title": "PM Salam announces measures to tighten oversight of biosimilar medicines - MTV Lebanon",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVFlKdkJvSmszbU5TMmd1b0NSMFZNLThhSWR0allCRDdKamxpcklEYVp4MFVaVjA5ZW5IR3ItSnZjdUFGaGlTNHd5THRkTS0wb2NZY0RzTWFPdTIzLUZGWXVCZnhzaVY2NnVDeE44aGwzM21vVGVwckJwV0h6M0o1aUo2SG9oVXVJS1ZoY1BFdFJWSlo4SXI1VUtQaVVhenZvMEtmLU4xMXgwNlg2M0h1ZlViaW1IeFlDVFBQZEVQbFVpZU1rOVY4UHNDTXhLeS1LT19zZ09tanFlVWQ0cVE?oc=5",
+   "date": "2026-10-29T12:26:32+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "f3e1dd9e0107",
+   "source": "Endpoints News",
+   "title": "Lilly again far surpasses revenue expectations",
+   "link": "https://endpoints.news/lilly-again-far-surpasses-revenue-expectations/",
+   "date": "2026-10-29T11:21:53+00:00",
+   "snippet": "Eli Lilly once again dominated revenue expectations, blowing past Wall Street's estimates by about $2 billion. The world's most valuable healthcare company posted $24.4 billion in third-quarter revenue, aided by what ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d8c675cd1d1f",
+   "source": "Endpoints News",
+   "title": "Dren Bio raises $350M to get blood cancer drug onto market in 2027",
+   "link": "https://endpoints.news/dren-bio-raises-350m-to-get-blood-cancer-drug-onto-market-in-2027/",
+   "date": "2026-10-29T11:00:08+00:00",
+   "snippet": "Dren Bio has raised $350 million, hoping to get its lead blood cancer drug onto the market by the end of 2027, the California drug developer exclusively told Endpoints News. The Thursday morning haul will ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e00e3e217eca",
+   "source": "Endpoints News",
+   "title": "Flagship Pioneering merges three of its companies for AI drug discovery",
+   "link": "https://endpoints.news/flagship-pioneering-merges-three-of-its-companies-for-ai-drug-discovery/",
+   "date": "2026-10-29T10:30:03+00:00",
+   "snippet": "Flagship Pioneering is combining three of its portfolio companies, including one that has been around for a decade, in an effort to compete in the bustling AI drug discovery field. The Cambridge, MA-based incubator and ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6fad439f7442",
+   "source": "BioPharma Dive",
+   "title": "Flagship blends three biotech startups to form Etcelera",
+   "link": "https://www.biopharmadive.com/news/flagship-etcelera-etiome-empress-cellarity-launch/872947/",
+   "date": "2026-10-29T10:30:00+00:00",
+   "snippet": "Etiome, Cellarity and Empress Therapeutics are being combined into one new AI-aided drugmaker claiming to possess the ability to better predict the way new medicines will fare in humans.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8792367229bd",
+   "source": "Google News: biosimilar",
+   "title": "Stada secures US approval for Lucentis biosimilar Lucamzi - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNnJRUWRzMG9sWWZZSmNUbHJTRzgzMC1rMmpnVER0cFN6eUxuTmtKaVZNSDNSWTBRM2Y3S0NpNHJhUW0xbWR3TVkycVY2eThIYWQ2MFJXVDhhQ28xWi1GblA3OTl4OHpsZkVpVjBUYjJvSUpfTlBzR3BuQ1VaZ2tGeXRwNmxUMEpzVFV3ZzI2bVpkYmpVQzJjbl84WjFjRHJIUC1kUlNIRUdKUQ?oc=5",
+   "date": "2026-10-29T10:15:12+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "163c0fe9709f",
    "source": "Fierce Biotech",
