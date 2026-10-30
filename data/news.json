@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T15:56:12.813335+00:00",
+ "updated": "2026-10-30T18:52:18.662845+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,66 @@
   }
  ],
  "items": [
+  {
+   "id": "24999878189b",
+   "source": "Fierce Biotech",
+   "title": "Bracco invests $230M in first US diagnostic imaging manufacturing facility",
+   "link": "https://www.fiercebiotech.com/medtech/bracco-invests-230m-first-us-diagnostic-imaging-manufacturing-facility",
+   "date": "2026-10-30T18:52:18.662845+00:00",
+   "snippet": "Bracco announced it will invest $230 million to establish its first U.S. manufacturing facility for injectable contrast media in Sanford, North Carolina.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d0f1cfbf2153",
+   "source": "Big Molecule Watch",
+   "title": "Armed Cell Therapeutics Acquires Preclinical CAR-T Portfolio from Lakefront",
+   "link": "https://www.bigmoleculewatch.com/2026/10/30/armed-cell-therapeutics-acquires-preclinical-car-t-portfolio-from-lakefront/",
+   "date": "2026-10-30T18:08:53+00:00",
+   "snippet": "On October 14, 2026, Armed Cell Therapeutics BV (“Armed Cell”) announced that it acquired a portfolio of preclinical CAR-T assets from Lakefront Biotherapeutics NV (“Lakefront”), formerly Galapagos NV. The two lead programs focus on non-Hodgkin lymphoma and small cell lung ...",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "056a6fdb71ed",
+   "source": "Google News: biosimilar",
+   "title": "Omlyclo, a New Biosimilar for Chronic Hives, Is Now Available - NewBeauty",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTBGUmwtNHdHX3oxV1JTcjJtVTI4RjNqTEEzcE0wRUxhZjNCb3JCOHNLWS0tV1lxOTJLWk53Wm1vZWVPTGJoemR6aTZVT0pSb3cwc2FsWkpJNmxxWGhFcHFzZHJpbEZLLXpxd2xvQlZSZ0VuWWNLSm9KY2RtNVNOdnBSckI1Z201SHkyTXdxNA?oc=5",
+   "date": "2026-10-30T18:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "6a73b896668c",
+   "source": "Google News: biosimilar",
+   "title": "Webinar: Beyond the Composition of Matter – AI and the Biosimilar Patent Landscape - IPWatchdog",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1Uwck9qVUNKX2tGcllRc0RSRm1jdmEwOEVPNUdJcWctY1hOQm45V0dDbHI0VUZwbnJzRWdLNVh6UXlOQllyN1MzcnBFSmM3ZURBVjROQVJ0TS1uV09JY01SaFUwWTdvU2RsZWVCaVhTZkJTQ2EtYzYzN1I4NFpxT0phMXFCQkktZ2hnR1BjZV96NGdGb0E?oc=5",
+   "date": "2026-10-30T17:34:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "f97777c902e7",
+   "source": "Endpoints News",
+   "title": "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal",
+   "link": "https://endpoints.news/sanofi-may-seek-higher-european-drug-prices-not-withhold-launches-under-trump-deal/",
+   "date": "2026-10-30T16:16:51+00:00",
+   "snippet": "While some of Europe’s biggest drugmakers have warned that President Donald Trump’s pricing policies could leave European patients waiting longer for new medicines, Sanofi is taking a different approach. ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "96ab3360ecbc",
+   "source": "BioPharma Dive",
+   "title": "This week in charts: ESMO’s winners and losers",
+   "link": "https://www.biopharmadive.com/news/biotech-charts-esmo-2026-winners-losers/873281/",
+   "date": "2026-10-30T16:00:00+00:00",
+   "snippet": "The latest installment in BioPharma Dive’s visualization-focused series looks at Wall Street’s response to a trio of closely watched presentations at a top meeting for cancer drugs.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "172c5a44341a",
    "source": "Fierce Biotech",
@@ -120,6 +180,26 @@
    "date": "2026-10-30T15:36:16+00:00",
    "snippet": "AstraZeneca’s leadership hinted at where the cost cuts and job losses from the company’s new restructuring program might fall on a call with journalists Friday. “We are losing patent protection for Farxiga ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b5378d6e10ca",
+   "source": "Google News: biosimilar",
+   "title": "Adalvo acquires Enzene’s romiplostim biosimilar program - BioProcess International",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb2RsbE1Ccmp4U204eW1SSExrZkVmWkFjNGxMUDZGQ19INmlZSjBUQTQ1Wk5TanZnZHZYWDM2ZFh5TjB0UUJUZF84MlNOSEMtUEhwRjNqR2RlRmVLdHV6N1ZBbXBwSVJhRkdtYTQxOGJvTVdZYmZSMXRKMDNmWF9IZjBrZzk5aHl6Y1FlNlRnSGdpa3g2QUNtdURvSFg2MVdhS0FBQWpEVU9YSDBEMFhTNXR6Z2h2d3M3Z1kwMGxNUkFiUU5GUlNwWU9sVQ?oc=5",
+   "date": "2026-10-30T15:32:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "e7a305c52f6c",
+   "source": "Google News: biosimilar",
+   "title": "After A Long Wait, Xbrane Gets FDA Approval For Lucentis Biosimilar - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRkVtZGhDajQ5ZzMwWTEwT0oxN2U3M1gwcmF3ZjZKNkFIcU5VaGIwYlpKTmJmVEw3LU41M1NsQ2MtRzJILWhCSnJEWlBudEVXY2tCbHZ3elpwUlNlV0htVC00cGpRV2F5SXFWVk9YN3hlOGRQb1FPNDRwT2hqa1I2dFdqaE5tZmthdTNRUTNHZlVfZ0xkQVpWaktzdlhnN05neGtZY2d2Nm9pdUtKUGNZV0drZkUtMlViWTlsNERKSDhpMEV4MWN1eVVYU0pHZHVwdXhocHRuOElhQ21yUUNmWjAyNDVNY0xkeHFlVVBlX05QSThKa2c?oc=5",
+   "date": "2026-10-30T14:44:15+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -219,6 +299,16 @@
    "link": "https://endpoints.news/setara-gets-90m-to-continue-rare-disease-pipeline-spun-out-of-jazzs-actio-deal/",
    "date": "2026-10-30T10:30:35+00:00",
    "snippet": "After shipping its precision epilepsy drug to Jazz Pharmaceuticals, Actio Biosciences has spun out the remainder of its genetics-driven pipeline into a new company called Setara Biosciences. Setara is getting a fresh $90 million to ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f310fbe45207",
+   "source": "BioPharma Dive",
+   "title": "With Setara, the team behind Actio opens its second act",
+   "link": "https://www.biopharmadive.com/news/setara-actio-charcot-marie-tooth-ion-channel-drugs/873227/",
+   "date": "2026-10-30T10:30:00+00:00",
+   "snippet": "The fledgling startup has $90 million to develop a pipeline of drugs, led by a Charcot-Marie-Tooth disease medicine, that Actio was working on when Jazz Pharmaeuticals bought its lead epilepsy program.",
    "biosimilar": false,
    "watch": []
   },
