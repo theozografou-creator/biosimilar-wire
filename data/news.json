@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:01:38.123381+00:00",
+ "updated": "2026-10-30T09:56:43.523308+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,126 @@
  ],
  "items": [
   {
+   "id": "c6bdfea9fdac",
+   "source": "Fierce Biotech",
+   "title": "AstraZeneca cuts early-phase prostate cancer pipeline",
+   "link": "https://www.fiercebiotech.com/biotech/astrazeneca-cuts-early-phase-prostate-cancer-pipeline",
+   "date": "2026-10-30T09:56:43.523308+00:00",
+   "snippet": "AstraZeneca has punted a pair of early-phase prostate cancer programs as part of its quarterly pipeline clearout.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "157003cfd908",
+   "source": "Fierce Biotech",
+   "title": "Bambusa shoots past IPO targets as Aspen trims offering",
+   "link": "https://www.fiercebiotech.com/biotech/bambusa-shoots-past-ipo-targets-aspen-trims-offering",
+   "date": "2026-10-30T09:56:43.523308+00:00",
+   "snippet": "Bambusa Therapeutics has upsized its IPO, selling more shares at the midpoint of its target range to gross $168.9 million for bispecific R&D. But Aspen Neuroscience underperformed expectations, hitting the bottom end of its target range and selling slightly fewer shares than ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0a74fa46f977",
+   "source": "Fierce Biotech",
+   "title": "Roche launches differential diagnosis test for mesothelioma",
+   "link": "https://www.fiercebiotech.com/medtech/roche-launches-differential-diagnosis-test-mesothelioma",
+   "date": "2026-10-30T09:56:43.523308+00:00",
+   "snippet": "Roche announced the global launch of its VENTANA BAP1 (SP527) test, an automated, ready-to-use immunohistochemistry (IHC) assay.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4d1d4d171e06",
+   "source": "Fierce Biotech",
+   "title": "Sanofi considering ‘moonshot’ treatments as M&A targets to survive Dupixent patent cliff",
+   "link": "https://www.fiercebiotech.com/biotech/sanofi-considering-moonshot-ma-targets-survive-dupixent-patent-cliff",
+   "date": "2026-10-30T09:56:43.523308+00:00",
+   "snippet": "Sanofi is considering “moonshot” treatments among the potential acquisition targets needed for the French pharma to urgently replenish its pipeline, Chief Financial Officer François-Xavier Roger told Fierce.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "445d6e8554f7",
+   "source": "Fierce Biotech",
+   "title": "Molecular Partners to lay off up to 44% of workforce in radiotherapy pivot",
+   "link": "https://www.fiercebiotech.com/biotech/molecular-partners-lay-44-workforce-radiotherapy-pivot",
+   "date": "2026-10-30T09:56:43.523308+00:00",
+   "snippet": "Molecular Partners plans to lay off up to 44% of its staff as it focuses its declining cash reserves on a radiotherapeutic pipeline led by an early-phase small cell lung cancer drug candidate.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ddc60ab7a898",
+   "source": "Endpoints News",
+   "title": "AstraZeneca follows GSK with $1.5B annual savings push",
+   "link": "https://endpoints.news/astrazeneca-follows-gsk-with-1-5b-annual-savings-push/",
+   "date": "2026-10-30T09:49:35+00:00",
+   "snippet": "Battered by late-stage trial failures and determined to meet its ambitious $80 billion-by-2030 revenue goal, AstraZeneca is cutting costs. The company said Friday that it was shifting resources with ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c66fe455fe32",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis files for US approval of Keytruda biosimilar SB27 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4cGxMekd0NHREV0I5WTg0MVZEbDh4NllScTRoRUxudTdKZjFFXzFyQnVycGI1bmtaSTRkY3NfVkpqa1dnbEpodDBfaEY0bEtLNWp2OUVnTURibUEzWngtMHRBMXlHT3d2aDdaYmVB?oc=5",
+   "date": "2026-10-30T08:26:35+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "ba7305e52c48",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Seeks U.S. Approval for Keytruda Biosimilar - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHV2YzNvZHNjQTRfNmdIQUs1NW81Y2JtRGRWQlA0OW9TN1J0RURrREZTT21rU3RPSHhlUVJOazgxYWtMSlNJRzlLTk1vejhXUkxXbm91bW9yTjBkWEdQeVdscmlkay1uSV8yMVRDZERMMDRORWNfWmx0a2pCVXdDdlltN0ZneTI2U2Y2Z1BhRlFlNG9FOHF4c091MXZ3WF9r?oc=5",
+   "date": "2026-10-30T08:11:57+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "c7b087632ede",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis has applied for U.S. product approval for 'SB27', a biosimilar candidate of the immu.. - 매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rWGlXTjhxRFpuZzJlanp5TXZzcEllU2JFMjMwRlhuRXNjdVlWbVJoX0RvaDA3Q0U5UDRxWW80b3pWX3k1Ml93SkNQaw?oc=5",
+   "date": "2026-10-30T08:03:51+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "af4d93ad2f26",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis seeks US approval for Keytruda biosimilar SB27 - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWngyYU9UUEtWVXNWNDZYVlhFTDZvTk5yOHpqM3l2Sk10UDFVOWZXWjF5ZzhZMG1pQ1c2UjhiQkd2bEltU1A5enFrVUhFYm5VelAzdjFxUHZaYkNFbzNSMEhDaS1nMjBxZ2JmSTU1dzVlbWl4WnBVc2w3ZlZpSzh5R9IBlAFBVV95cUxOVUpKRG1lejlLYmJPNlFtZFVVQW16Ri1jYnFYUGwwUmIzUkR3SHY3ZmM1R0VpN0lKNmFWWXhNR3BONkVWZDZGRFNfU21oQVpsR0lNLWMyTUI4Q0xnMV91dHMzNFpycnpOZGpmZGR3N2l1NndEeHJZazNzTEdMZW9fdXBqbnB4dGFqamlPWUZVa2p4T25B?oc=5",
+   "date": "2026-10-30T07:53:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "34dab6b720ac",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Files for U.S. Approval of Keytruda Biosimilar - 아시아경제",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ubXhVLXJMcHhmM0xrNlhpWDNESDAyanpjeFhoc1JKOEY0RUZWM1pGYjJjVGdxUFpOUzJ1T2RFOHlnejZJNFVrMnNWZjFCWHBXWWNsbmFPWkZjSExmLThZeVlnSjQ5TkVTaDY1Nk50ZnBkc28?oc=5",
+   "date": "2026-10-30T07:45:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
    "id": "d0858eb11c81",
    "source": "Endpoints News",
    "title": "Aspen Neuroscience lands $141M IPO, while Bambusa secures $169M",
@@ -61,6 +181,18 @@
    "snippet": "A Parkinson's cell therapy biotech and an I&I startup from former BioNTech leaders will join the public markets on Friday, extending a sizzling IPO streak for drug developers. Aspen Neuroscience will collect ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "63c16e76b622",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion Expands European Biosimilar Market Share as New Products Account for 67% of Revenue - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxUmNiSDNtemlQb01wTFhvMHNpTEJzZjBRZl9iZ2VkR2x3WnVnWXQ1UHYwUGhWNTh2VzR5WTMtSlFFMDNYeDRZQml4eVlWbWg2SVp2TkVGamcxZDJlMmQybVY4ZXlvNFZKTkZTZ0RRVFRlR2I1Mmc?oc=5",
+   "date": "2026-10-30T02:55:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
   },
   {
    "id": "9b1ac70643d6",
@@ -83,6 +215,16 @@
    "watch": [
     "Celltrion"
    ]
+  },
+  {
+   "id": "4279b3b81229",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Index-Journal",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IcXpycTBVRUp5MEdMMkIyWlVnNzFoZmVqd0NkY1Z3MlU2R1pOY0JxMjRySGp6ZGtoczhieHRFU0U1SndwaUFWQ0p1LU9aM0V1WFV3MUhtVWo5ZTk5Uk03MDFaNENGVjRhMXl2aEdiMmxTQWF1?oc=5",
+   "date": "2026-10-30T01:03:59+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "eb5b6c404023",
@@ -396,6 +538,16 @@
    "date": "2026-10-29T13:00:32+00:00",
    "snippet": "A day after publishing the paperwork for what could be the business world’s largest-ever IPO, Anthropic released the most detailed look yet at its biopharma ambitions, including the possibility of bringing ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "61132a65754e",
+   "source": "Google News: biosimilar",
+   "title": "PM Salam announces measures to tighten oversight of biosimilar medicines - MTV Lebanon",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BVkxqZklCbXlhdzljVnRuM3hQUVdNYXp0N1ZyTGszNElnZHV1dUhTV0RzNmJnY3BEN1VzTENRWFVBNG5zbDN5QnFLVHdKTFU?oc=5",
+   "date": "2026-10-29T12:33:45+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
