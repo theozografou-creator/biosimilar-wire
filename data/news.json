@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T03:53:22.924011+00:00",
+ "updated": "2026-10-30T07:01:38.123381+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "d0858eb11c81",
+   "source": "Endpoints News",
+   "title": "Aspen Neuroscience lands $141M IPO, while Bambusa secures $169M",
+   "link": "https://endpoints.news/aspen-neuroscience-lands-141m-ipo-while-bambusa-secures-169m/",
+   "date": "2026-10-30T06:11:31+00:00",
+   "snippet": "A Parkinson's cell therapy biotech and an I&I startup from former BioNTech leaders will join the public markets on Friday, extending a sizzling IPO streak for drug developers. Aspen Neuroscience will collect ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "9b1ac70643d6",
    "source": "BioPharma Dive",
