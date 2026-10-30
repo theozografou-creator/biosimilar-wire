@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T01:03:50.621337+00:00",
+ "updated": "2026-10-30T03:53:22.924011+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": ""
   },
   {
@@ -52,6 +52,28 @@
   }
  ],
  "items": [
+  {
+   "id": "9b1ac70643d6",
+   "source": "BioPharma Dive",
+   "title": "Aspen raises a $140M IPO in pursuit of a cell therapy for Parkinson’s",
+   "link": "https://www.biopharmadive.com/news/aspen-neuroscience-parkinsons-ipo-pricing/873050/",
+   "date": "2026-10-30T02:38:00+00:00",
+   "snippet": "The San Diego biotechnology startup is one of several firms working on a cutting-edge technique with the potential to slow or even halt the neurodegenerative condition.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "66aeb189d48e",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion grows Europe biosimilar sales as new drugs drive 67% of revenue - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdG1kRkk4VWpKYi1lVWFnRFBBYjVRZTdVQXJBcXJkbFU2ODYzbkNIRkdiVHYwdkcwbTZiUFd5MGNkWXdUSW9WRHFnSlhzS29XSHowYXZwQUNZWWFudDYtVjdfU0VxbGQ1Mm5kMkNJRk9qZGhmTHJfLUNnYm1VbFczOdIBlAFBVV95cUxPTUpva0xKWVB4MWFMbUxvVHJPWE9JTkluUVRNa19ha1BhM2lCV0tzWFcta29aQkVhb3gzeTB2Z3ZaNTZYS2lRTzI2TDhEcXNtWFJudXd4MTZBRXI1MTdTOUFva05mSkR1cElSX3Z5X0ZNUjRUOW5NdlItd0NpUC1UaFV3NTJhOFZiQ2xPOFhmYS1SQkkz?oc=5",
+   "date": "2026-10-30T02:24:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
   {
    "id": "eb5b6c404023",
    "source": "Fierce Pharma",
