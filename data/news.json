@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T13:00:08.161728+00:00",
+ "updated": "2026-10-30T15:56:12.813335+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,96 @@
   }
  ],
  "items": [
+  {
+   "id": "172c5a44341a",
+   "source": "Fierce Biotech",
+   "title": "Gilead reveals partial clinical hold on 2 CAR-T cell therapy trials",
+   "link": "https://www.fiercebiotech.com/biotech/gileads-kite-reveals-partial-clinical-hold-2-car-t-cell-therapy-trials",
+   "date": "2026-10-30T15:56:12.813335+00:00",
+   "snippet": "Gilead Sciences announced on its third-quarter earnings call Oct. 29 that the company has placed a partial clinical hold on two studies for the CAR-T cell therapy KITE-753 in diffuse large B-cell lymphoma (DLBCL).",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5085989fa43e",
+   "source": "Fierce Biotech",
+   "title": "When drug development gets personal",
+   "link": "https://www.fiercebiotech.com/biotech/when-drug-development-gets-personal",
+   "date": "2026-10-30T15:56:12.813335+00:00",
+   "snippet": "When Third Rock Ventures partner Jigar Raythatha was diagnosed with brain cancer, he found himself relying on a drug originally developed by Agios, a biotech his firm backed years before he joined. On \"The Top Line,\" he shares how the experience changed his perspective on drug ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f743ef531124",
+   "source": "Fierce Pharma",
+   "title": "As Dupixent keeps sales churning, Sanofi doubles down on R&D re-work",
+   "link": "https://www.fiercepharma.com/pharma/dupixent-keeps-sales-churning-sanofi-doubles-down-rd-re-work",
+   "date": "2026-10-30T15:56:12.813335+00:00",
+   "snippet": "Amid a push to win back investor confidence in its R&D trajectory, Sanofi still has significant commercial powder to burn with Dupixent, as illustrated in a third-quarter showing that looked strong by the numbers and lifted the French drugmaker’s share price nearly 4% Friday ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "32820b40fa09",
+   "source": "Fierce Pharma",
+   "title": "AstraZeneca launches $1.5B savings plan to fuel pipeline growth, says workforce won't shrink",
+   "link": "https://www.fiercepharma.com/pharma/astrazeneca-launches-15b-restructuring-fuel-pipeline-growth-promises-no-net-reduction-jobs",
+   "date": "2026-10-30T15:56:12.813335+00:00",
+   "snippet": "Facing looming patent cliffs, AstraZeneca has launched a restructuring initiative aimed at saving $1.5 billion annually by 2029. But executives said the overhaul won't result in a net reduction in jobs.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dae348d48773",
+   "source": "Fierce Pharma",
+   "title": "Pfizer looks to reroute supply after flooding sidelined India injectables plant",
+   "link": "https://www.fiercepharma.com/pharma/pfizer-eyes-multi-year-repairs-after-flooding-sidelined-india-injectables-plant",
+   "date": "2026-10-30T15:56:12.813335+00:00",
+   "snippet": "A Pfizer joint venture with Zydus Cadila in India that manufactures sterile injectables, including chemotherapy drugs for U.S. cancer patients, remains closed after severe flooding in July, with the company estimating that new supplies could begin returning in mid-to-late 2028 ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "21da547f08a4",
+   "source": "Endpoints News",
+   "title": "Gilead CAR-T on partial clinical hold; Agios' PDUFA date pushed back",
+   "link": "https://endpoints.news/gilead-car-t-on-partial-clinical-hold-agios-pdufa-date-pushed-back/",
+   "date": "2026-10-30T15:47:13+00:00",
+   "snippet": "Plus news about Acumen, Bristol Myers Squibb, Regeneron, Aer Therapeutics and Hemay Pharmaceutical. Gilead pauses CAR-T after ICANS: After several cases of the neurological condition known as ICANS, Gilead said in ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "615779af01dd",
+   "source": "Endpoints News",
+   "title": "AstraZeneca says reorg could mean R&D cuts and trials shifted to emerging markets",
+   "link": "https://endpoints.news/astrazeneca-says-reorg-could-mean-rd-cuts-and-trials-shifted-to-emerging-markets/",
+   "date": "2026-10-30T15:36:16+00:00",
+   "snippet": "AstraZeneca’s leadership hinted at where the cost cuts and job losses from the company’s new restructuring program might fall on a call with journalists Friday. “We are losing patent protection for Farxiga ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "38c202769ac6",
+   "source": "Google News: biosimilar",
+   "title": "Keytruda biosims are coming — but they face an uphill battle - Pharma Voice",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlpQa0lnODVvLV94UEloMDJpV1NkQkdEVXBfY2FKalVpOGtVX0poSTdwVnB2RFhZMUdsaThhTEZhUDQycm9aVk5vQVJtc1ppcmNBR21rbkVud2pheEFVWnVrcGJPNmhleXpBWWVGRGprOU4xMGhnWjR2alEybGk4cWVWbXhJYmFjcHNFUHhTWUc?oc=5",
+   "date": "2026-10-30T14:32:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "1f1ebf7ee5d0",
+   "source": "Endpoints News",
+   "title": "Anthropic's Nathan Frey on biopharma partners, M&A and pipeline",
+   "link": "https://endpoints.news/anthropics-nathan-frey-on-biopharma-partners-ma-and-pipeline/",
+   "date": "2026-10-30T13:00:09+00:00",
+   "snippet": "Nathan Frey has stayed busy since Anthropic acquired his biotech startup Coefficient Bio this spring. The former Genentech machine-learning scientist now leads drug discovery and development research at the tech giant. Endpoints News exclusively interviewed ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "3126e0dec04e",
    "source": "Fierce Biotech",
