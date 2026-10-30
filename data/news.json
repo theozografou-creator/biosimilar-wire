@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T09:56:43.523308+00:00",
+ "updated": "2026-10-30T13:00:08.161728+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,96 @@
   }
  ],
  "items": [
+  {
+   "id": "3126e0dec04e",
+   "source": "Fierce Biotech",
+   "title": "Chutes & Ladders—Lilly unifies global markets as 36-year vet Patrik Jonsson retires",
+   "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-lilly-unifies-global-markets-36-year-vet-patrik-jonsson-retires",
+   "date": "2026-10-30T13:00:08.161728+00:00",
+   "snippet": "Lilly will unite its U.S. and international commercial units as a long-time exec retires. Enanta's CEO will hang up his hat after 23 year at the helm. Estrella has tapped a new a CEO to lead it through a clinical trial.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ea6110414e4d",
+   "source": "Fierce Biotech",
+   "title": "Jazz's $820M Actio buyout gives rise to Setara, armed with $90M series A",
+   "link": "https://www.fiercebiotech.com/biotech/setara-raises-90m-series-carrying-actio-torch-following-jazz-acquisition",
+   "date": "2026-10-30T13:00:08.161728+00:00",
+   "snippet": "Setara Biosciences, a privately held spinout formed following Jazz Pharmaceuticals' acquisition of Actio Biosciences in September, has raised $90 million in series A financing to advance its clinical-stage neuroscience drug candidate and earlier-stage pipeline.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d0636066446c",
+   "source": "Fierce Pharma",
+   "title": "Fierce Pharma Asia—The hunt for Enhertu’s successor; ESMO data from Merck, BMS, Takeda and more",
+   "link": "https://www.fiercepharma.com/pharma/hunt-enhertu-successor-esmo-data-merck-bms-takeda-and-more",
+   "date": "2026-10-30T13:00:08.161728+00:00",
+   "snippet": "Next-generation ADCs, bispecifics, radiopharmaceuticals, TKIs ... Fierce provides a deep dive into the hunt for the next Enhertu in breast cancer. ESMO 2026 data featured Chinese assets backed by Big Pharma. Gilead and Astellas struck $1 billion-plus deals for immunology and ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "18d045a3d850",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves Xbrane Biopharma's Lucentis biosimilar - Glance by Eyes On Eyecare",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQjVWbzNJVWVnb0NDUGZiTXlSbmthZnlMdXl5Q3BJenhCNXdrSnF3X0E1Nm12ektScEN5a05hbkJGMml0cm5yNDJ0dVBnNmw2eWtEYTBMZjFGblhNRGthRkVxX1U5UW9pc193RDNjMTlnQS0zdC1POGt6SkdoOFFWRjV5WTRubW5pWE8xVnRoanZ0WjQwS2RpMkVfSFlGeVBpWERTU2YxRQ?oc=5",
+   "date": "2026-10-30T12:01:45+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "aa8d9b28e068",
+   "source": "BioPharma Dive",
+   "title": "Earnings roundup: Lilly’s unwavering momentum, Novartis’ rebound and GSK’s waiting game",
+   "link": "https://www.biopharmadive.com/news/biopharma-earnings-q3-2026-lilly-novartis-gsk/873167/",
+   "date": "2026-10-30T11:50:00+00:00",
+   "snippet": "Lilly’s better-than-expected results allayed concerns — for now — over GLP-1 pricing pressure. Elsewhere, Novartis withstood a tumultuous quarter and GSK battled investor angst.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d6d957518893",
+   "source": "Endpoints News",
+   "title": "Sanofi has no plans for a 'major' overhaul as Dupixent's patent cliff looms",
+   "link": "https://endpoints.news/sanofi-has-no-plans-for-a-major-overhaul-as-dupixents-patent-cliff-looms/",
+   "date": "2026-10-30T11:12:36+00:00",
+   "snippet": "It’s been six months since Belén Garijo took over as the CEO for Sanofi, and the French drugmaker said Friday it is not planning “major” changes to its business or R&D pipeline as the early ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "043147bc9566",
+   "source": "Endpoints News",
+   "title": "After Be Bio shutdown, its CEO heads to Orbis; Enanta's longtime chief Jay Luly to retire",
+   "link": "https://endpoints.news/after-be-bio-shutdown-its-ceo-heads-to-orbis-enantas-longtime-chief-jay-luly-to-retire/",
+   "date": "2026-10-30T11:00:55+00:00",
+   "snippet": "→ Former Be Biopharma chief Joanne Smith-Farrell has landed at Orbis Medicines, an Eli Lilly- and Novo-backed startup that's developing oral macrocycles. Smith-Farrell replaces co-founder Morten Graugaard as CEO of Orbis ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7fe7a82175c2",
+   "source": "Endpoints News",
+   "title": "Setara gets $90M to continue rare disease pipeline spun out of Jazz's Actio deal",
+   "link": "https://endpoints.news/setara-gets-90m-to-continue-rare-disease-pipeline-spun-out-of-jazzs-actio-deal/",
+   "date": "2026-10-30T10:30:35+00:00",
+   "snippet": "After shipping its precision epilepsy drug to Jazz Pharmaceuticals, Actio Biosciences has spun out the remainder of its genetics-driven pipeline into a new company called Setara Biosciences. Setara is getting a fresh $90 million to ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f7b55347a84a",
+   "source": "Endpoints News",
+   "title": "Post-Hoc Live: Is biotech’s future full of zero- and one- employee startups?",
+   "link": "https://endpoints.news/post-hoc-live-is-biotechs-future-full-of-zero-and-one-employee-startups/",
+   "date": "2026-10-30T10:00:25+00:00",
+   "snippet": "🎙️Watch today at 10:30 am ET 🦾 After Endpoints News’ AI event in New York this month, I had dinner with some of our guests. Over a few ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "c6bdfea9fdac",
    "source": "Fierce Biotech",
@@ -332,6 +422,16 @@
    "title": "Make some medications more affordable by cutting one piece of red tape - The Hill",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CLVBKQUJMRmgxQUdBMGt2SjVGLU90c0NkaDJPRmZUU0EwdTROOWxIOWFDSm5UUExXMWMtSTk4SUFsWmQ3clRTQnBGeDlNS3RPUUFpeVhLOEpVOXFiLWRZbUFKRVVrcHdJMVppQmxMb2g4czhpWXhiQUVHWDFoY0XSAYQBQVVfeXFMT2FsaUEtZUlRRTM1aXRwSkxVZmlDNjJhcXN6cWwzSXlfLUZ4QXV6ZG1STkwtLTVTU2txRWh1M1ZLWjgzdThXSXVpS0NkV2piczBZem1ndzFQbU1WRG9tRjFycHE5ZV9PQXlLN1ljdU4xS1ZibjJieW1QZkliSXNhQVE4Mmpw?oc=5",
    "date": "2026-10-29T17:49:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "26d1baa9bd37",
+   "source": "Google News: biosimilar",
+   "title": "Make some medications more affordable by cutting one piece of red tape - The Hill",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYWxpQS1lSVFFMzVpdHBKTFVmaUM2MmFxc3pxbDNJeV8tRnhBdXpkbVJOTC0tNVNTa3FFaHUzVktaODN1OFdJdWlLQ2RXamJzMFl6bWd3MVBtTVZEb21GMXJwcTllX09BeUs3WWN1TjFLVmJuMmJ5bVBmSWJJc2FBUTgyanDSAYQBQVVfeXFMT2FsaUEtZUlRRTM1aXRwSkxVZmlDNjJhcXN6cWwzSXlfLUZ4QXV6ZG1STkwtLTVTU2txRWh1M1ZLWjgzdThXSXVpS0NkV2piczBZem1ndzFQbU1WRG9tRjFycHE5ZV9PQXlLN1ljdU4xS1ZibjJieW1QZkliSXNhQVE4Mmpw?oc=5",
+   "date": "2026-10-29T17:30:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -1575,6 +1675,16 @@
    "watch": []
   },
   {
+   "id": "794bd1eb6943",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Makers Join Forces To Fight Takeda Entyvio IP - Law360",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVjlJdVhoQmU0ek5vR185UFN6U2V3N05ZbHR4M1ZUOXhvZlgzeDJCcHpTcnE5b2p2TUo4bUhuYTlCTGhYRzVpYlNrN0x6UjlUZzROSU1Pc296ZlNqaTJpUGk1ZGlyUE1QNFpEUTJHUnBDeGlpZERnYlV5akZMNFFod0lyMS1UcW9JTVUxcVRDRFNCQS1wb1FSVW81bDnSAVZBVV95cUxQWnZhSmtFUUJGYnhySHByYWtFRzZ1VmZNZ04wQzd1ZU5lbkJaTExmV0ZLbHZ4bnZpU1A3eHNYNTdCRkJEcURBTGwtejdIMU0teTZlaHJwUQ?oc=5",
+   "date": "2026-10-27T20:33:20+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "1be36efbfe5d",
    "source": "Google News: biosimilar",
    "title": "Biosimilar Makers Join Forces To Fight Takeda Entyvio IP - Law360",
@@ -2650,6 +2760,18 @@
    "title": "Biocon Expands Stelara Biosimilar Access To Nine More Markets - APAC Media",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODZtQUFzdkFEN2lIUC1sTVFhNDhPekZkS3JmSFBXMkNwcElrV1l1YzhRUjRMcDVXdEd0ZWs2Z2cyWE5qeHhkQVVTaTRCZzhQWlJIOWVNZzltVVczeWRfQWxvcGwwdzhnaWNpMDgxc3JwQjE0UUZxWnhSYmRzQ2ZhSWx1enNDbGNmWVBKeTFLVk9vYkFyamUwU1Mxclo2elU?oc=5",
    "date": "2026-10-26T06:11:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "32538fe65828",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Limited Secures Market Entry For Yesintek, A Proposed Biosimilar To Stelara®, In Additional Global Markets Through License Agreement With Janssen Sciences Ireland - www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON3VZSVJCY3hkU2ZySnBsWERHdFVQRnNOZ3ByX0J2WUNHaVNRN3BpQWpBVk1zQ3lkeTBOS0hWTHlnendwc2dUYVZwcVFHVTYwbHlKd2JwOW04UTFnVmR5Y3UtQTB1aXU4a0dsT25ZcmN5dmVyZUg2ZXdHTjNqRV9GRWFGOG91NlptQlR2eWkyekNQLVFOVk11eDdrVTB0R0RLNFJBWjdXak9HVThyWl9IUy1DV1dKSk4wVlZRcjk5VXEyVk53cVhpdXBCVThNN0lLZVhNYkpHTjZXUV9GUi1uTzhCR2c?oc=5",
+   "date": "2026-10-26T05:53:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
