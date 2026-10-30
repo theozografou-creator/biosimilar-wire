@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T18:52:18.662845+00:00",
+ "updated": "2026-10-30T21:44:27.253147+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,16 @@
  ],
  "items": [
   {
+   "id": "ccbe5db9876a",
+   "source": "Fierce Pharma",
+   "title": "As Skyrizi and Rinvoq dominate AbbVie's Q3, analysts ask what's next",
+   "link": "https://www.fiercepharma.com/pharma/skyrizi-and-rinvoq-dominate-abbvie-q3-investors-question-whats-next",
+   "date": "2026-10-30T21:44:27.253147+00:00",
+   "snippet": "Analysts were eager to learn more about AbbVie's plans beyond immunology as Rinvoq and Skyrizi headlined the Chicago drugmaker's third-quarter earnings.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "24999878189b",
    "source": "Fierce Biotech",
    "title": "Bracco invests $230M in first US diagnostic imaging manufacturing facility",
@@ -88,6 +98,16 @@
    "title": "Webinar: Beyond the Composition of Matter – AI and the Biosimilar Patent Landscape - IPWatchdog",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1Uwck9qVUNKX2tGcllRc0RSRm1jdmEwOEVPNUdJcWctY1hOQm45V0dDbHI0VUZwbnJzRWdLNVh6UXlOQllyN1MzcnBFSmM3ZURBVjROQVJ0TS1uV09JY01SaFUwWTdvU2RsZWVCaVhTZkJTQ2EtYzYzN1I4NFpxT0phMXFCQkktZ2hnR1BjZV96NGdGb0E?oc=5",
    "date": "2026-10-30T17:34:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "e209f4f35a33",
+   "source": "Google News: biosimilar",
+   "title": "AAM Comments on Department of Labor PBM Transparency and Disclosure Rule - Association for Accessible Medicines",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS29EQ3l6TF9SdG9wWlhCTEhZc1UzUkphNnIyWDRIX3ZuWnJnejVGOGNaMlRsX2l4M0IzcU9UZVM2bkRsOGt6SDA0VW9wNkJZa3YzM3FmY0J2WWZrMmtqOXRmV09IeFBIeVlWWF9lSmRSVzY1NWNmRlJGUVd6ekVpTFZ6NXQtdjNGOHdfb3dQUXl2U3FkSDBoTGVISE5zRER6NmxBYWZVR2xkLWNSd3UwSGs4MXg4Zw?oc=5",
+   "date": "2026-10-30T16:21:38+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
