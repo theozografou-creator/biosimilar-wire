@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:53:45.498677+00:00",
+ "updated": "2026-10-31T15:41:40.517881+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": ""
   },
   {
@@ -431,6 +431,18 @@
    "snippet": "Battered by late-stage trial failures and determined to meet its ambitious $80 billion-by-2030 revenue goal, AstraZeneca is cutting costs. The company said Friday that it was shifting resources with ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "0d762a623e5f",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz stock: Sales outlook cut as biosimilars lift margin view - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUVR2QWl6eUxibFhJOURZdkFZTFhzZEhWdTFhbGpGOWRFelNUM0g0VlU4Q2h2cTdLXzVfSG50eDJfOVhWbEg5c0w0YTVBa190WEY5aE9IMng5OHlBYXhrcDREWXZaaTBXWXAzMnVobU5qQUV1cURrQVgtOUo0cmRTTHhzRmVKY3lmV3VjMFhwVzd4a3ZGRG1Sclg1X0wzaXVrSGN4U1o3UlpFeW1UcHMteWR0dEZBVFRZVExCc0RkYVdMc2c?oc=5",
+   "date": "2026-10-30T09:40:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
   },
   {
    "id": "c00b6398caf5",
