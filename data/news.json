@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T18:49:22.910190+00:00",
+ "updated": "2026-10-31T21:40:50.902544+00:00",
  "ai": false,
  "feeds": [
   {
@@ -267,6 +267,16 @@
    "watch": []
   },
   {
+   "id": "1f4854537fb1",
+   "source": "Google News: biosimilar",
+   "title": "AAM comments on Department of Labor PBM Transparency and Disclosure Rule - Chain Drug Review",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNmNCS1B2YmVTSjB0UWZXdGFfT2JaR3lUbnBxaXl3Mnl4enk5TnY5RG5JZTlobXhaR3pSSHlUQUFLWUJldE00MllMbVN0a09hdXRydjNzOVFKbm9aX2pHSlhRZG5DNlZid1lXdTl6bXhPSjlxQ1RPTVEwOVowS3FYQnVpM0FkX2NJQmZQTTY4dUg0TlUtTDFyTWZvM3I0RGNtZmpz?oc=5",
+   "date": "2026-10-30T15:05:57+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "e7a305c52f6c",
    "source": "Google News: biosimilar",
    "title": "After A Long Wait, Xbrane Gets FDA Approval For Lucentis Biosimilar - insights.citeline.com",
@@ -467,6 +477,16 @@
    "watch": [
     "Sandoz"
    ]
+  },
+  {
+   "id": "4159818e6848",
+   "source": "Google News: biosimilar",
+   "title": "Iceland Plans to Revise Maximum Wholesale Price of Certain Prescription Medicines - NAVLIN DAILY",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZnZ5Z041d3hBMUw3dXVJUGZiRC1iSURnMk8zUmJ4aU1VSUgxWXp3Vl85bGVlOFo1ZjgtbmVWOHJOMVZMVEZibGhtNDBram9OdEVGTFFPbi1OcGFFSU9xYzlxRUJtd3c4bjFOYjlUZDJ1WkpSQW85RnJuN3RMVk1zQjZBcHc1TDJqNTlfai1zdlB6eXpVSW9SUWJqSHpyUXdTa2kyQmtjM2VNZmYwTE5sUldCeXR3UU5xQndmSzZTV2I?oc=5",
+   "date": "2026-10-30T09:39:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "c00b6398caf5",
@@ -2366,6 +2386,16 @@
    "date": "2026-10-27T12:51:44.886566+00:00",
    "snippet": "Novartis CEO Vas Narasimhan has insisted that the phase 3 fail for del-desiran is just a “bump” in the Swiss pharma’s wider plans for the drug, despite costing the company an estimated $1.9 billion.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c46d03505972",
+   "source": "Google News: biosimilar",
+   "title": "Japan to Launch First Biosimilar of Novartis’ Xolair in December - NAVLIN DAILY",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbW1INEhiejhuOGNkYmpzbU03eG5BMjhkLVBLYzI4cUpNNEI0MEdqdDlSYTVXU0VRcmcydkVzZS12T3BMWEt0SkNPUVRzcE9SVkhEc0lWNkRNYnRmUy1SUnRNY3RzQXpBT2JzblFvUVZQaHlqcnpGalFveDZaeVR3aDNPaWh2bFRmNlZPeldPTVFwODd5dzVwLWpBSzVzMHVXZFdkWV9aSjg?oc=5",
+   "date": "2026-10-27T11:20:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
