@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T09:46:14.125096+00:00",
+ "updated": "2026-10-31T12:53:45.498677+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "194a6719b9b2",
+   "source": "Endpoints News",
+   "title": "Anthropic’s one-person biotech buy; Jake Van Naarden’s dealmaking strategy; and more",
+   "link": "https://endpoints.news/anthropics-one-person-biotech-buy-jake-van-naardens-dealmaking-strategy-and-more/",
+   "date": "2026-10-31T10:00:28+00:00",
+   "snippet": "Hello and welcome back to a spooky Halloween edition of Endpoints Weekly! Sorry to all the candy corn lovers out there, but just noting that they’re actually made with bug secretions. The Atlantic has all ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "10159e720922",
    "source": "Google News: biosimilar",
