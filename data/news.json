@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T15:41:40.517881+00:00",
+ "updated": "2026-10-31T18:49:22.910190+00:00",
  "ai": false,
  "feeds": [
   {
@@ -61,6 +61,18 @@
    "snippet": "Hello and welcome back to a spooky Halloween edition of Endpoints Weekly! Sorry to all the candy corn lovers out there, but just noting that they’re actually made with bug secretions. The Atlantic has all ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "9994b8a1584f",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz stock gains 4.91% weekly as margin outlook improves - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTdqUnlWekhwWElXMnRodm0yQ1BCUVJCWHYyRVJNNm5PWTJwOE9BV09vT2ZzQkV5OTkxS3hReFpyWVB5eTV0TkJiYTVlNm55NFM2bDU2MFE2c0diX0ZkUE0weFloMmh1TWxiQ0JCVktBbXVmenBrVHMwTUcyN3NOUFNNV0cyV3RsYThYdlVRQUItV08xRFRtR0RRVFVKcG92MjlhVWZrYS05bG9VMlJrbHhCV2o3U01wbmJzeQ?oc=5",
+   "date": "2026-10-31T09:42:38+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
   },
   {
    "id": "10159e720922",
@@ -221,6 +233,18 @@
    "snippet": "Plus news about Acumen, Bristol Myers Squibb, Regeneron, Aer Therapeutics and Hemay Pharmaceutical. Gilead pauses CAR-T after ICANS: After several cases of the neurological condition known as ICANS, Gilead said in ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "5d0dc643bbff",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz stock: Margin outlook rises as 2026 sales view narrows - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUC1mcUtGWnpFTnlONXpQclpjSGYtWlNyal9jMHZFaHRwbEZNWjNrM2g2TG1EN0dNLVZYRnZjYU55QmdBOHBUU1FEdTFnZWdxWWY5M3hpTXNHeGpGMWdnOWs1dEpiSlBPTkZocUVJd2ZpRU1EdzRXLURxSmxQd0V6Q0RtUDFMUmp4cTlGa3o5eWZwWHd3b3FQdDl5aDJOTndRYlhfdzV4RXI4TS13UzN0dDVSVHJGczQxaXpJTVZDTXE?oc=5",
+   "date": "2026-10-30T15:40:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
   },
   {
    "id": "615779af01dd",
