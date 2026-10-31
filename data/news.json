@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:02:44.387453+00:00",
+ "updated": "2026-10-31T03:50:36.008882+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "10159e720922",
+   "source": "Google News: biosimilar",
+   "title": "Sudoku - www.the-messenger.com",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZnVhUENqeVlIVHF3QU8wNDIyX0JGaUpqLUxlTjZYZ01SVVhWOXMwUE1sU1pXaTV2ZS1MUi1YQWY2d1BPT0dtSS1YN1hidldZbXY1X0FjOXo3aVM2Tld6SjZ5SFVCS0RndWF4MWhndV9WT003V1EwbTdoWjhZbUJyeEx3?oc=5",
+   "date": "2026-10-31T01:52:14+00:00",
+   "snippet": "Sudoku www.the-messenger.com",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "0fa08a8b9b94",
+   "source": "Google News: biosimilar",
+   "title": "Cancer drug price cuts average 50.8%, but reduction is just 13.8%, say access groups - The South First",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamt5TE9rd3R0Mzd4OTNLVE1UY0syX1pGSzRUUERleHFibkh3cjFManktN0ZYSjU5dzRxeWtfSFdlM1g5c1JQYnpKdmlVMlRJYzF3QnZSWUhJU0VCZ0hnSUdhdFgwV3hwd2RVRl9ZUGJvazk3Mk5IOHZ2U1d4TWp0bk13UWlQZkdmcldVUVhfeFR6bnVodkpUQU5ybWkyYU40eV96UnhqUmZnU0E4UTVIZ2FxQWEwWnIyZTJB?oc=5",
+   "date": "2026-10-31T01:31:15+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "ccbe5db9876a",
    "source": "Fierce Pharma",
@@ -401,6 +421,18 @@
    "snippet": "Battered by late-stage trial failures and determined to meet its ambitious $80 billion-by-2030 revenue goal, AstraZeneca is cutting costs. The company said Friday that it was shifting resources with ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "c00b6398caf5",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Seeks U.S. Approval for Keytruda Biosimilar SB27 Across 18 Cancer Indications - 헬스조선",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQejk3amUzY2NfZTVTV21JYU4zVk1pdnNuNzdXMWp2a21NWWVwdWZSMzZPMVFfMy13VTF1VlZHRTZlazBOYzdPOWtmWTZEOE5ZUjcyVVVmSXI1a3hEekJ6OUhsbnA2dC15aWs2VzROOFJnZGphY1lvU2FBMjlDNG5PZzZ3YWZsVHViM1E?oc=5",
+   "date": "2026-10-30T08:38:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
   },
   {
    "id": "c66fe455fe32",
@@ -1034,6 +1066,16 @@
    "date": "2026-10-28T21:47:49.595290+00:00",
    "snippet": "During a public hearing Wednesday to discuss a newly proposed rare disease framework, FDA center director Michael Davis, M.D., Ph.D., said the agency aims to design a scheme that “stands the test of time.”",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5255d0e71e5f",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Cost Cutting: Saving on Humira, Remicade, and Stelara - GoodRx",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQVBlR3JnaHdmelQ4Q0hleEFFZkh3SmFhX2FiUHpPVW9hTXRfWEF5MGZ6U1ZBRzMxaHFwZDlseEdDU2pmaTVPcU1WdkJ6RTJDWGxwNjlramxXemJNeGl4WUpOclEwRHFtbGtDQ3BPZ05SSV9iNTIzSjEwelVMWnRDd1pJaw?oc=5",
+   "date": "2026-10-28T21:19:23+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
