@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T21:44:27.253147+00:00",
+ "updated": "2026-10-31T01:02:44.387453+00:00",
  "ai": false,
  "feeds": [
   {
@@ -451,6 +451,18 @@
    ]
   },
   {
+   "id": "0ae414fb395f",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis files for US approval of Keytruda biosimilar - 헤럴드경제",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyY05aNk9YUGU3ejdNbnFQZFlEYW5pYkNWQ1ZpSFdBWmN2M0Q4NlgzQ19LWUlEM0JOQXdlb3FZRmd4dl90NUJZZFRrOXVuUHg5N0s3TFZIUQ?oc=5",
+   "date": "2026-10-30T07:46:05+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
    "id": "34dab6b720ac",
    "source": "Google News: biosimilar",
    "title": "Samsung Bioepis Files for U.S. Approval of Keytruda Biosimilar - 아시아경제",
@@ -512,6 +524,16 @@
    "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Index-Journal",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IcXpycTBVRUp5MEdMMkIyWlVnNzFoZmVqd0NkY1Z3MlU2R1pOY0JxMjRySGp6ZGtoczhieHRFU0U1SndwaUFWQ0p1LU9aM0V1WFV3MUhtVWo5ZTk5Uk03MDFaNENGVjRhMXl2aEdiMmxTQWF1?oc=5",
    "date": "2026-10-30T01:03:59+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "093e6fb93863",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilars: Are They Covered by Health Insurance Plans? - GoodRx",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44b3hEZmNBTk85bzVSdjBYTXE5Nm1tTlZDb1ZBMTBNbVNsSDNnVGlkMHc2V2FBMWpsc2Z4YTFPUzBJSFdHaEQxcnJKN1dkeVJkcUR2ZnpPcWVQX2lhRzNOa2RnTWxRbTEtQUYzN2oyVEFZN1dKQWF0MA?oc=5",
+   "date": "2026-10-29T22:22:55+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
