@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T15:40:54.424635+00:00",
+ "updated": "2026-11-01T18:49:16.655991+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": ""
   },
   {
