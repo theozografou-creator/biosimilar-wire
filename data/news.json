@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T01:13:03.843997+00:00",
+ "updated": "2026-11-01T03:56:05.356978+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "eabe685ec99e",
+   "source": "Google News: biosimilar",
+   "title": "Korea biosimilar approvals stall as India and China gain U.S., EU wins - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEFEaXBPY1dFVDdoX2FzbkVKSGJYSGEwY1Z1N3FNcUExT3J6SVVNVXoza1ZWY0ExZW9LVjE4WXVSX0ctODQtRmpzNlVxa0xRM205WFBWRkVHRnJrRVV2amlleFQxUVZTeHVoeC1hZEVXY081alZVV0lXU2NDdEtxSNIBlAFBVV95cUxNVjVBWGFJRWI4OGFfTXZ0aGhWX0N2SnhWdlFOaFRBYUNWRkdyUGpWQjFaYjIta3ZoNGlvNDhic093Y2Ntblk5YnhJNm9GVHpHcDRuVWFSeXV2TGo2c1RMaDZjZlVIYm01QlB2aTQzY1J2Y2h0bjlXTjN0R2RwMDNCdGU2YWlOdUVXckVVNkJTcEFiQTZ0?oc=5",
+   "date": "2026-11-01T01:17:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "194a6719b9b2",
    "source": "Endpoints News",
