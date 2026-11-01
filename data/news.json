@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:49:16.655991+00:00",
+ "updated": "2026-11-01T21:42:05.258603+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "fb734a5d5dc9",
+   "source": "Google News: biosimilar",
+   "title": "Viatris stock trades at 17.06 euros on October 31 - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQm4wM0NXQjAtRzNxZmdGRXgwaHNyT181VXhuS1B3S3BoTkRocE1Vbkk2WWIzcDJEdTJNdFU3MXFrMm9jaFhnTS1XalU5NU5sNldsWGpfcUxsUng4UzN0d01aSXhma1FYWG0yTFFUbFJNcFpRZ29tZy03RkpRczRlTHcwZ2lBUm1LMmI3b25HOGxFVjg4dGJmM3FvckJQZ2pEaFdCVkVJaUl4dkdBbjZCMDJB?oc=5",
+   "date": "2026-11-01T12:38:23+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "c3dabfbd3b03",
    "source": "Google News: biosimilar",
@@ -504,6 +514,16 @@
    "title": "Iceland Plans to Revise Maximum Wholesale Price of Certain Prescription Medicines - NAVLIN DAILY",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZnZ5Z041d3hBMUw3dXVJUGZiRC1iSURnMk8zUmJ4aU1VSUgxWXp3Vl85bGVlOFo1ZjgtbmVWOHJOMVZMVEZibGhtNDBram9OdEVGTFFPbi1OcGFFSU9xYzlxRUJtd3c4bjFOYjlUZDJ1WkpSQW85RnJuN3RMVk1zQjZBcHc1TDJqNTlfai1zdlB6eXpVSW9SUWJqSHpyUXdTa2kyQmtjM2VNZmYwTE5sUldCeXR3UU5xQndmSzZTV2I?oc=5",
    "date": "2026-10-30T09:39:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "8a973f35f66e",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius stock gains full control of mAbxience in EUR 750 million deal - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMHF3cFJMOGJqZ2hnRFBCZFRjcU1xMkhNLXdidUE5czNNT2pCV1laNWc1dDMySlBGR2F5M1YzeEppVXhmZm0wc3g3Z2tIalF0ZjVDZ0FibFlBVV92SnVPM1NKNmhCdWtYVzBMRUV6MmNQWU93VlBHRW96RTM2RDg0RWRRNmZNV0RUVGcyajh2cm5fMlQxaVRpT0NkejVCUTlmVUFjcjk1aU1OcTZka3pPR1lEQU1sOXlGVGt1RTAxV0ZwMmZwU1lJbFZBbHRBa3M?oc=5",
+   "date": "2026-10-30T09:21:31+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -1701,6 +1721,18 @@
    "source": "Google News: biosimilar",
    "title": "Samsung Bioepis lifts Q3 profit on global biosimilar sales, advances pipeline - Chosunbiz",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObDdrQ09XMEt3WHBVSVhlTFdYQk0xdXgtLW9Wc0FYN2s0VGRCRmpDRFN5SU82aXVwU2UtX2ZfWnd4VkhpNGptX2hGRmRxd2N2T3JrbWxHZ3M1aU9OSXhCejhuVHhhdkc5c1NxTi1fWGlYanFIYjBabkJqeFJfVkhmT3VxZC1BcXBiQUxKVmRYMENXZm4t0gGUAUFVX3lxTE5sN2tDT1cwS3dYcFVJWGVMV1hCTTF1eC0tb1ZzQVg3azRUZEJGakNEU3lJTzZpdXBTZS1fZl9ad3hWSGk0am1faEZGZHF3Y3ZPcmttbEdnczVpT05JeEJ6OG5UeGF2RzlzU3FOLV9YaVhqcUhiMFpuQmp4Ul9WSGZPdXFkLUFxcGJBTEpWZFgwQ1dmbi0?oc=5",
+   "date": "2026-10-28T07:56:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "0950183fd7af",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis lifts Q3 profit on global biosimilar sales, advances pipeline - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORml2V19uZFdQdHUyb0lTcTg1Y1dkWHRNbzlsQnBpWHhNeUZpcEw5NmFEX0d4R3lVdUhfeXZsanV1S0t4RGJyY1UtSzE3cXd5TnRnZ28tUURSelN4NjFLX2dFTzNNTzZBTldVQm5OS1hoM094b3BqWUQ4alE2dUdCWg?oc=5",
    "date": "2026-10-28T07:56:00+00:00",
    "snippet": "",
    "biosimilar": true,
