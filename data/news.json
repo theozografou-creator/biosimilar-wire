@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T16:05:41.190520+00:00",
+ "updated": "2026-11-02T19:00:04.177578+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,86 @@
   }
  ],
  "items": [
+  {
+   "id": "69838d8a29c8",
+   "source": "Fierce Pharma",
+   "title": "Inovio’s DNA-based immunotherapy Voceryq approved by FDA for rare HPV airway disease",
+   "link": "https://www.fiercepharma.com/pharma/inovio-dna-based-immunotherapy-voceryq-approved-fda-rare-hpv-airway-disease",
+   "date": "2026-11-02T19:00:04.177578+00:00",
+   "snippet": "After an initial FDA scare that threatened its path for an accelerated approval, Inovio’s Voceryq, the first plasmid DNA-based immunotherapy, has earned a go-ahead to treat a rare HPV-driven disease.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "94e2a6e23ae7",
+   "source": "Endpoints News",
+   "title": "WuXi Biologics, Fresenius partner ahead of biosimilar boom",
+   "link": "https://endpoints.news/wuxi-biologics-fresenius-partner-ahead-of-biosimilar-boom/",
+   "date": "2026-11-02T18:44:22+00:00",
+   "snippet": "WuXi Biologics and German drugmaker Fresenius have reached one of the largest biosimilar deals to date ahead of what some in the industry have called an upcoming “golden decade” for such products. ...",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "5b94ce111083",
+   "source": "Google News: biosimilar",
+   "title": "Accord reports US bridging data for serplulimab in SCLC, and wins UK approval for ranibizumab biosimilar - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS0pzaVBicjBIcUFmRzZJQ3BWYWdjN3BVM1Jqd25uWm9xd3RyVVYxZ2hMU3FUMkowSXd3TDh4UzI3MW85QWlRNUNQMFlqZG1rT2pkODJ4dVdTWnFPM21jVTJWa0dfNnpoYkdyV1JudmxueGkzMzdNVE1jWXdZbVI4Ymh5N0hrZzEtdTlYamhQSnZGZm5LZGZ5UTNIeDBWM2pVTjNYVS1aSEFWeWduRE15TWZjMlNBTU1ULVRPMndoSEotVDVnM21HbnNvUlJhc0RBaXEwQ2V6bzFYOGg4TUZabXF3?oc=5",
+   "date": "2026-11-02T17:42:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "036e12873e17",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius and WuXi team up in 37-strong biosimilar development deal - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX3B1ZGQtajAyZ09qMTYyOFBacjdjNjR4d1FPdW42SnVzeWJDYkJIOUJjckQ2UEhuNWVuUzBwY3dOMkJNMURkeDN4aTVjM0M0Tm4wUzhtaFNEeFJPajNWVlF3RzdnQ1J4OE04Yk0xV3o4cV92aU5TQ1R4NTBIQUswdA?oc=5",
+   "date": "2026-11-02T17:35:08+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "97993810e406",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius turns to WuXi to add up to 37 biosimilars to its pipeline - European Biotechnology Magazine",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNekNRTFI1QWkwOFR5VnJpZUlkNzdMejIxblJybjJYZy1fR0ltbEpKNDJFczZPdXFlUFZHNzBuV20weGlwcGt1c01xQVFocVNGaFdpNHpWSmR4XzhkTEJUVDR1ZGQ1UF9wT3FrTGltVzVndi1hdk5NLTl5RFFBZkVlZ0FWVDR3MVhnZ1VRTmUydHViVmxGWE5HTFRvS2pzMzgtODV3Snp5bExvUnpOaHZzdXg5Q0YyQQ?oc=5",
+   "date": "2026-11-02T17:13:32+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "21d17e7c259e",
+   "source": "BioPharma Dive",
+   "title": "Karyopharm, deep in debt, to sell itself in bankruptcy",
+   "link": "https://www.biopharmadive.com/news/karyopharm-bankruptcy-chapter-11-auction-ayrmid-gamida-cell/873415/",
+   "date": "2026-11-02T17:07:00+00:00",
+   "snippet": "The parent of cell therapy maker Gamida Cell will be the lead bidder in a court-supervised auction of Karyopharm, which recently cut a forbearance deal to push off debt payments.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "aa99c11fd9b8",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves ranibizumab biosimilar Lucamzi for wet AMD | Eye Care Network - Modern Retina - Ophthalmology Times",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSkFmYWhNWVczUjVYN2xJeHNmQmhNTUNqNGIwaE9TSnNpaTRRb3FuLWpaVEliWXU5MGFpbXFMUExmT05tcnVzZFVpdTRFVklvZ04xUmZ1dWkxLWk0MTUzNzRPTVJqMC1vRThNeDh4VjBrdXBpbEJCSHlrUFdVYmVUV1JOTVFYTk1laDg2bm9pREdYQTF0VEhobkFNVQ?oc=5",
+   "date": "2026-11-02T16:32:45+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "04ca03541b90",
+   "source": "Endpoints News",
+   "title": "UniQure gets review date and adcomm; Inovia's stock surges after approval",
+   "link": "https://endpoints.news/uniqure-gets-review-date-and-adcomm-inovias-stock-surges-after-approval/",
+   "date": "2026-11-02T16:10:20+00:00",
+   "snippet": "Plus news about AbbVie, Gilead and Tiziana Life Sciences. FDA gives uniQure a review date and adcomm: The agency will decide whether or not to approve UniQure’s high-profile Huntington’s disease gene therapy by May 1 ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "88df81e4bcf8",
    "source": "Fierce Biotech",
@@ -1440,6 +1520,16 @@
    "title": "PM Salam announces measures to tighten oversight of biosimilar medicines - MTV Lebanon",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVFlKdkJvSmszbU5TMmd1b0NSMFZNLThhSWR0allCRDdKamxpcklEYVp4MFVaVjA5ZW5IR3ItSnZjdUFGaGlTNHd5THRkTS0wb2NZY0RzTWFPdTIzLUZGWXVCZnhzaVY2NnVDeE44aGwzM21vVGVwckJwV0h6M0o1aUo2SG9oVXVJS1ZoY1BFdFJWSlo4SXI1VUtQaVVhenZvMEtmLU4xMXgwNlg2M0h1ZlViaW1IeFlDVFBQZEVQbFVpZU1rOVY4UHNDTXhLeS1LT19zZ09tanFlVWQ0cVE?oc=5",
    "date": "2026-10-29T12:26:32+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "fc258e489818",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves Xbrane Biopharma's Lucentis biosimilar - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ0Robzl1a09kcF85cktsbGxwM2w0am1YSDhVWEVZQU5FNFNlZVRuczRYYXhyM0JWdHdPb2NtOFUwT0ExQ2VUd3ZhMHJrY0NpMFlVTWY2UEx0bVdFalVTVmoyT09IRnRuaTNpVlZNc1IyWE5lTUhhdDR6clZkellKdkhB?oc=5",
+   "date": "2026-10-29T12:04:38+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
