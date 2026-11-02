@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:10:29.052054+00:00",
+ "updated": "2026-11-02T03:59:49.124861+00:00",
  "ai": false,
  "feeds": [
   {
@@ -34,21 +34,21 @@
   },
   {
    "name": "GaBI Online",
-   "ok": true,
-   "count": 6,
-   "error": ""
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Center for Biosimilars",
-   "ok": true,
-   "count": 9,
-   "error": ""
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Google News: biosimilar",
-   "ok": true,
-   "count": 60,
-   "error": ""
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   }
  ],
  "items": [
