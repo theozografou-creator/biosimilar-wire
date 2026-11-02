@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T03:59:49.124861+00:00",
+ "updated": "2026-11-02T07:31:32.336054+00:00",
  "ai": false,
  "feeds": [
   {
@@ -34,24 +34,94 @@
   },
   {
    "name": "GaBI Online",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 6,
+   "error": ""
   },
   {
    "name": "Center for Biosimilars",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 9,
+   "error": ""
   },
   {
    "name": "Google News: biosimilar",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 60,
+   "error": ""
   }
  ],
  "items": [
+  {
+   "id": "b810718e4241",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius and WuXi Biologics form biosimilars deal By Investing.com - Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0FlZGVyU2JLZU42QTI4alNZcEg3Y3FXRW5aWTlCS20zSEc4T2pDRFBvZEdTY3BSbG40VUlmZ2pLdDhSVE1xUEoxSjIyczdCZGtzd0I3cGhDdDJfLVpfQzlvSEYtOTk5SnhMWjhadWdSZExLV3dkN3dsWTlxZ1ZrbTJFdVkxS01DSTA0Wjl0MmhjVzNiaFVYQnY5ZXUtQk16OHZzUk51VERscWpNQ1B1aQ?oc=5",
+   "date": "2026-11-02T06:52:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "32f77944bab1",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius and WuXi Biologics enter exclusive development agreement to expand biosimilars pipeline - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNHdfQlRiS1I4dHdYZm02T3R1VzZsc1BtWW1UM2dmRWktd2Vid2hKZWFWUHBLbkNCOHdrVnlxMm5WUEhHMjVvcWNuLUtoWG1uUk5iVWMzY3FncjhJenNBdVFMc2p5QWFxS1pmWGZ1c0YtV0puckF4Z2ZIRnRESmRud2ZpRnFORzJ4VzEwb1d5UFVUM2lZY2VuTUNFc1psak1ybXVKa1pmLWVTQVV5Ml9lcklIcVVFYVc0SGwwME5nN0lETm9zMGZUQlE4Yl9yRVlEWktFd0o1V3JZWHRJM09oTmJ2b0QzRDBhdHQwWHBHQQ?oc=5",
+   "date": "2026-11-02T06:47:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "cb8c767ccbdd",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius SE & Co. KGaA (FRE) Signs Exclusive WuXi Biologics Deal to Expand Biosimilars - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWkllNmlWbC1OQ3NsWWdjRnlGbjZrY0pDVy04MmxndnpxemV0SFk1SXYzYTRRNUdfOE5Ia3EyRUxXZzF3bXBreDJpTE92NGNMc1FERkVIRWN1MHFINHRvTm95SUN2RzhrMU43Vy1VQVZwYVk2ZlZseGZoN1RFMXJHX2lxMDRwMXFxMnVnUUJJX1F2VmZUb0hyLXAydm0xelo4UTlfbVEzcWl5bHAtNzczZUVZeUNYWVNwNVBoNlBmbmZKYUVwZHlzdWVpZUtlNXpVeGt1akpEUTM1REYy?oc=5",
+   "date": "2026-11-02T06:47:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "38990cb6b573",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius expands biosimilar business through partnership with China's WuXi - www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNajEtRkRxTnprWnF3TllkeWdGQk5ucV91WjA4Z2d6M3JFbjN2X1NzX3R6OVhQbzNnRzNWNk1ab0xjcUtZUlIzakpxRG9tM2pmRlBrZi1vRVk2Z19UWjJicVZUZUg0NHdQYWhjUEcweWMyYUUtbmt1cHdDNFlsT25Ga3QtVHY1RWduUzZ2dVVBMEszZ3VMclY5XzBpdnZmcGhWU3JuQmJPYklIejljdmFEVlVIVjg1ZUx6MTh6T2FSa0ltQjBjdkhZ?oc=5",
+   "date": "2026-11-02T06:43:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "75291e26885a",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius signs biosimilars pipeline agreement with WuXi Biologics - WSAU",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1dQUFlCOUVGdWJ1WUlmbVlPcGVFb0RtanVqOVBZUUg3OXdYNVM3djFPNE11QU8xemx3TmV4R2RzQXFfVmZiNGl6TUlqb0d6Y0Z2MVdldGU4MW9peV9Ua2FPTktySEVuVXZuQklZU1puMWtXUG1xSnYtd1NFWFNvMC04ZjlVNnZFc2ljTjJHcjBRQjVzRWpkcTBKTQ?oc=5",
+   "date": "2026-11-02T06:39:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a31cbee2a8ed",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius signs biosimilars pipeline agreement with WuXi Biologics - marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObmJiRGJGODh0ZTlEck45NDBoOTYwUzgtZkxmXy1uMVpzUE54YXBFZTRJUXZCcmZRMk9CTzB2UU1zTUI1QURqbEZfYVlFT3hRUWNuMDl1b1lpMXpUVUJWQTFWa2lmRlpZelhhTXhIcXdqNHZMZUFVM1pVZUFjeDRhRU1uUFRka25xNlYzWHJIbUFfRjdOS1ZCTnNGUGRURWVCVVFUZXhwMG9Qbk90TTRmX0h6YUFjR055NHZz?oc=5",
+   "date": "2026-11-02T06:20:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "b74ec09590db",
+   "source": "Google News: biosimilar",
+   "title": "Drugmakers race to capture Keytruda biosimilars as MSD shifts to SC - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd01FdWM5aElJdlp3S1dLWTZ1MEN5eE5ucFVhTUN4T19zT1Q2SmdUVU9scElrc0k3U2JxeC1keTJmNFU3dmRhQlpXNjZrU2ttR1ExWGtJVTVGRFowOHI0YmZSRUVNd1p3dnd5NERkU21rUERHYXMtZFp2Z0JNRE5sMdIBlAFBVV95cUxNR0RRcjRIWWNuNkNTTGZxYkxyU1BXMExleVNTT2x5ZFNGdEpXZ1QxWF9ER2FEWm4wemk3QkpkLVlQdENON0d0OHJFVnFvaHdxWkFQUVNGckxMb3Q0d0Q5NGN0U3NkOHJWRkZ3VEN1ejRwWUJGd3FydW9DQ1loMnF1TkhsWElxLXZWOERwOE9tMkIwTU5w?oc=5",
+   "date": "2026-11-02T01:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "fb734a5d5dc9",
    "source": "Google News: biosimilar",
