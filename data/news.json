@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T21:42:05.258603+00:00",
+ "updated": "2026-11-02T01:10:29.052054+00:00",
  "ai": false,
  "feeds": [
   {
@@ -3205,6 +3205,16 @@
    "watch": [
     "Biocon"
    ]
+  },
+  {
+   "id": "42b4290ee627",
+   "source": "Google News: biosimilar",
+   "title": "Dr Reddy's Bets on Semaglutide, Biosimilars for FY28 Recovery - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTy1nYkpDS1lRRHpWd3dNYVVaNUxMNXoyQjV4QUNzWkZLR1FzeFdneHgxWFpzenlMYUlmNmZBMUxKaFBhcVp4ZmpHYlZMSW5XZE5KNDdud2g0NDFLTENRekxiRkxLVDNseC1IdHlTY3VjYk92RGNQTVRJSHh1MXFWZE8wVm9uZmVLU015VEtoUWlocERmTWo4NkotUHQ5bUxpeFlSbE5ydjNiRmxINGJZcm1ESVEwZW1K?oc=5",
+   "date": "2026-10-26T04:26:34+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "94afd66c9e87",
