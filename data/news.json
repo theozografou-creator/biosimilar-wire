@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T13:13:41.196016+00:00",
+ "updated": "2026-11-02T16:05:41.190520+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,198 @@
   }
  ],
  "items": [
+  {
+   "id": "88df81e4bcf8",
+   "source": "Fierce Biotech",
+   "title": "Karyopharm files Chapter 11, lines up Ayrmid as lead bidder in planned merger",
+   "link": "https://www.fiercebiotech.com/pharma/karyopharm-files-chapter-11-and-ayrmid-agrees-make-first-bid",
+   "date": "2026-11-02T16:05:41.190520+00:00",
+   "snippet": "In an answer to Karyopharm's cash crisis, Irish biotech Ayrmid has agreed to make the first bid on the struggling biopharma's assets in a court supervised auction, teeing up a potential hematology merger.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "df8c95c0dbeb",
+   "source": "Fierce Biotech",
+   "title": "OpenAI-funded Biossil snags Theriva's unwanted antibiotic degrader portfolio for up to $91M",
+   "link": "https://www.fiercebiotech.com/biotech/openai-funded-biossil-snags-therivas-antibiotic-degrader-portfolio-91m",
+   "date": "2026-11-02T16:05:41.190520+00:00",
+   "snippet": "Canada's OpenAI-backed startup Biossil Labs has extended its pharma shopping spree with a deal worth up to $91 million for Theriva Biologics' deprioritized early- to mid-stage portfolio of antibiotic-degrading enzymes.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c58ed3114910",
+   "source": "Fierce Biotech",
+   "title": "Teva ends trial of one of its original line-up of innovative meds over futility",
+   "link": "https://www.fiercebiotech.com/biotech/teva-ends-trial-one-its-original-line-innovative-meds-over-futility",
+   "date": "2026-11-02T16:05:41.190520+00:00",
+   "snippet": "Teva has given up on a key trial of one of its original line-up of innovative medicines.",
+   "biosimilar": false,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "279485d7e260",
+   "source": "Fierce Biotech",
+   "title": "FDA dims Bright Minds’ outlook with partial hold on seizure trial over toxicity in mice",
+   "link": "https://www.fiercebiotech.com/biotech/fda-dims-bright-minds-outlook-partial-hold-seizure-trial",
+   "date": "2026-11-02T16:05:41.190520+00:00",
+   "snippet": "The FDA has put a partial hold on Bright Minds Biosciences’ seizure study application over preclinical toxicity data and concerns about its preparations for enrolling children.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5f3bb4880fc1",
+   "source": "Fierce Biotech",
+   "title": "Lower dose of Tiziana's MS drug reduces neuroinflammation, while higher dose struggles",
+   "link": "https://www.fiercebiotech.com/biotech/tiziana-sees-lower-dose-intranasal-ms-drug-hit-neuroinflammation-goal-while-higher-dose",
+   "date": "2026-11-02T16:05:41.190520+00:00",
+   "snippet": "Tiziana Life Sciences’ intranasal drug has hit the dual endpoints of a phase 2a study in patients with a form of multiple sclerosis (MS), although the win was slightly marred by the higher dose missing on a key neuroinflammation goal.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4cc905dfcf96",
+   "source": "Fierce Biotech",
+   "title": "Connected clinical research: from fragmentation to progress",
+   "link": "https://www.fiercebiotech.com/sponsored/connected-clinical-research-fragmentation-progress",
+   "date": "2026-11-02T16:05:41.190520+00:00",
+   "snippet": "Mike Novotny examines the funding, technology and operational challenges shaping clinical research, and why connected systems matter.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "94ea872a43a8",
+   "source": "Fierce Biotech",
+   "title": "The cost of waiting: What reaching clinical proof-of-concept sooner means for biotech cash burn",
+   "link": "https://www.fiercebiotech.com/sponsored/cost-waiting-what-reaching-clinical-proof-concept-sooner-means-biotech-cash-burn",
+   "date": "2026-11-02T16:05:41.190520+00:00",
+   "snippet": "Explore how delays before clinical proof-of-concept increase biotech cash burn, and how connected drug development can preserve capital and runway.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "958f4090c4d3",
+   "source": "Fierce Pharma",
+   "title": "Karyopharm files Chapter 11, lines up Ayrmid as lead bidder in planned merger",
+   "link": "https://www.fiercepharma.com/pharma/karyopharm-files-chapter-11-and-ayrmid-agrees-make-first-bid",
+   "date": "2026-11-02T16:05:41.190520+00:00",
+   "snippet": "In an answer to Karyopharm's cash crisis, Irish biotech Ayrmid has agreed to make the first bid on the struggling biopharma's assets in a court supervised auction, teeing up a potential hematology merger.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a90da742718e",
+   "source": "Fierce Pharma",
+   "title": "Compass points to unmet need in depression as landmark psychedelic nears market",
+   "link": "https://www.fiercepharma.com/marketing/compass-points-unmet-need-depression-landmark-psychedelic-nears-market",
+   "date": "2026-11-02T16:05:41.190520+00:00",
+   "snippet": "Compass Pathways has published survey data showing how treatment-resistant depression affects patients and their caregivers, laying the groundwork for the launch of its psychedelic therapy.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9d19816d8301",
+   "source": "Fierce Pharma",
+   "title": "Dexcom taps celebrities, influencers for ‘A Letter to Diabetes’ campaign",
+   "link": "https://www.fiercepharma.com/marketing/dexcom-launches-letter-diabetes-campaign-enlisting-celebs-influencers-and-hcps",
+   "date": "2026-11-02T16:05:41.190520+00:00",
+   "snippet": "Dexcom is marking National Diabetes Awareness Month and World Diabetes Day in November with a new campaign asking people affected by diabetes to write a letter to the condition.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b65860dcd2f8",
+   "source": "Fierce Pharma",
+   "title": "Fresenius strikes WuXi biosimilars deal for up to 37 assets, targeting €370B market",
+   "link": "https://www.fiercepharma.com/pharma/fresenius-expands-biosimilars-pipeline-37-asset-wuxi-deal-targeting-eur370b-market",
+   "date": "2026-11-02T16:05:41.190520+00:00",
+   "snippet": "Fresenius has inked a broad deal with WuXi Biologics to scale its biosimilars portfolio to as many as 66 molecules targeting a combined originator market worth over 370 billion euros ($415 billion).",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "5d7362f2b053",
+   "source": "Fierce Pharma",
+   "title": "How AI turns field conversations into actionable insights",
+   "link": "https://www.fiercepharma.com/sponsored/how-ai-turns-field-conversations-actionable-insights",
+   "date": "2026-11-02T16:05:41.190520+00:00",
+   "snippet": "See how STEM AI turns real-world HCP conversations into personalized coaching, strategic insights and stronger field execution.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2a17c5db1d99",
+   "source": "Endpoints News",
+   "title": "Karyopharm plans to merge with Ayrmid, the company that tried buying bluebird",
+   "link": "https://endpoints.news/karyopharm-plans-to-merge-with-ayrmid-the-company-that-tried-buying-bluebird/",
+   "date": "2026-11-02T15:28:10+00:00",
+   "snippet": "With few options remaining, a commercial-stage blood cancer biotech will go through a bankruptcy process and plans to merge with another drugmaker in the blood disorder field. Karyopharm Therapeutics, maker of the multiple myeloma drug ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4e118cc93764",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius inks biosimilars deal with WuXi Biologics - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelFHSEtGNk9Ea04wWFd1c1dTQVhkMlJsT0tDLTVzeTBHRF9zRFMyZ29ZOXJxeVRHTEJJOTIwaXRmdkIwcU5IRVJvTW5tY1ZueWlwWFJ5bTVrcEQzWHphTm1MaVZ2TDNGUDNMelQ3Wkt3b1hqUGltbENpdjRPbTBxMDF4SWJNYWZDYzlYY3JhX2ZWWFcxbkVPcWpoeFNSMGxjWnc?oc=5",
+   "date": "2026-11-02T15:22:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a33fe965ab01",
+   "source": "Endpoints News",
+   "title": "FDA puts Bright Minds drug on partial hold, stock tanks",
+   "link": "https://endpoints.news/fda-puts-bright-minds-drug-on-partial-hold-stock-tanks/",
+   "date": "2026-11-02T15:11:58+00:00",
+   "snippet": "The FDA placed an experimental seizure drug from Bright Minds Biosciences on a partial clinical hold, the company announced Monday. Regulators issued the hold for BMB-101 after identifying toxicity issues in preclinical mouse models, Bright ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4289b6a47dfe",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius strikes WuXi biosimilars deal for up to 37 assets, targeting €370B market - Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV21OYmdBTnlFX1pSc0RfajFiSTdpSE5xaURuZElvckJuSG1DWHc0SzJiV1Rnd1hYV0xuWGk0SjNUTGhZRXQxQllZMVBPWXN2cUdPYk90S2p2TVA1WXpSZjA3UFVFdUxRRWVMV0t4Sk1iXzRRYVR0SkVVcno3RlpXZVJGR0tLYXZ0Vjd3eGd1T3dEUFhDRExKc0VTWS1YbE1ndm54ZHRoREhsRVFkSU5MX0dFSklUajlHa2c?oc=5",
+   "date": "2026-11-02T14:43:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "ce8637a451d8",
+   "source": "BioPharma Dive",
+   "title": "Keytruda biosimilars are coming — but they face an uphill battle",
+   "link": "https://www.biopharmadive.com/news/keytruda-biosimilars-fda-pbm-market-share-drug/873424/",
+   "date": "2026-11-02T14:34:00+00:00",
+   "snippet": "A patent cliff is fast approaching for Merck’s flagship blockbuster, but the deck might be stacked against its biosimilars gaining widespread traction.",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "da394017ed71",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius, WuXi Biologics Sign Biosimilars Deal - Contract Pharma",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYmVuZ2NOVzNoM0Y3a29meDI1WHVkeHlxd2Q4a2FnZ3hzU1pQVVFaZVM5N2FBLU9oZEs1WFUtLTZmbjlCRXBCNDVnZkJuMjJheG1xVThtZ0FJTUx3d0tnX3lmaXhkdXJfVExLUllpaWEweXlBNGk3Y2l0d3RlNGZXeVVaVE03RldnOWNfM21sQ3pjcExWTk4w?oc=5",
+   "date": "2026-11-02T14:30:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "79b075cc8466",
+   "source": "BioPharma Dive",
+   "title": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience",
+   "link": "https://www.biopharmadive.com/news/astrazeneca-alnylam-regeneron-3q26-earnings-analysis/873410/",
+   "date": "2026-11-02T14:00:00+00:00",
+   "snippet": "AstraZeneca will “redeploy resources” through a new restructuring program. Meanwhile, Alnylam shares sold off on fears surrounding a top drug and investors rewarded Regeneron for a record quarter.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "df448c0ba0c5",
    "source": "Fierce Biotech",
@@ -14988,26 +15180,6 @@
    "watch": [
     "Biocon"
    ]
-  },
-  {
-   "id": "9c560d61b8a4",
-   "source": "Big Molecule Watch",
-   "title": "Eli Lilly to Acquire Merida Biosciences",
-   "link": "https://www.bigmoleculewatch.com/2026/09/03/eli-lilly-to-acquire-merida-biosciences/",
-   "date": "2026-09-03T14:35:13+00:00",
-   "snippet": "On August 31, 2026, Eli Lilly and Merida Biosciences (“Merida’) announced that they have entered into a definitive agreement for Lilly to acquire Merida. Under the terms of the agreement, Eli Lilly will pay up to $2.875 billion in cash, inclusive of an upfront payment and ...",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "f127f45920dc",
-   "source": "Big Molecule Watch",
-   "title": "AbbVie Submits Regulatory Application to EMA for Subcutaneous SKYRIZI®",
-   "link": "https://www.bigmoleculewatch.com/2026/09/03/abbvie-submits-regulatory-application-to-ema-for-subcutaneous-skyrizi/",
-   "date": "2026-09-03T14:28:24+00:00",
-   "snippet": "On August 27, 2026, AbbVie announced that it submitted an application to the European Medicines Agency (“EMA”) seeking approval for SKYRIZI® (risankizumab) for subcutaneous (“SC”) induction for the treatment of adult patients with moderately to severely active Crohn’s disease. ...",
-   "biosimilar": true,
-   "watch": []
   }
  ]
 }
