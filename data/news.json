@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T10:12:41.121743+00:00",
+ "updated": "2026-11-02T13:13:41.196016+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,76 @@
  ],
  "items": [
   {
+   "id": "df448c0ba0c5",
+   "source": "Fierce Biotech",
+   "title": "China's InventisBio delivers competitive TYK2 data in phase 3 psoriasis win",
+   "link": "https://www.fiercebiotech.com/biotech/inventisbio-delivers-competitive-tyk2-data-phase-3-psoriasis-win",
+   "date": "2026-11-02T13:13:41.196016+00:00",
+   "snippet": "A phase 3 trial of InventisBio’s nomelcitinib has hit its primary endpoint, delivering evidence that the TYK2 inhibitor can hold its own against rival psoriasis drugs.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "66689dd0ccb5",
+   "source": "Fierce Pharma",
+   "title": "HCPs Aren’t Ignoring Your Science. They’re Ignoring How (and When) You Deliver It",
+   "link": "https://www.fiercepharma.com/sponsored/hcps-arent-ignoring-your-science-theyre-ignoring-how-and-when-you-deliver-it",
+   "date": "2026-11-02T13:13:41.196016+00:00",
+   "snippet": "Make your congress investment work harder. Discover how the right format can deliver 180% more engaged sessions.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fbf5a9b971a0",
+   "source": "Fierce Pharma",
+   "title": "Proof Over Promise: What a DTP Program Actually Looks Like When It's Working",
+   "link": "https://www.fiercepharma.com/sponsored/proof-over-promise-what-dtp-program-actually-looks-when-its-working",
+   "date": "2026-11-02T13:13:41.196016+00:00",
+   "snippet": "The DTP space is full of providers making bold claims. But claims aren’t outcomes. Find out what a high-performing DTP program actually delivers.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1fa86ded3e4b",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius targets more than doubling of biosimilar drugs in WuXi Biologics deal - MedWatch",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sYVlPRUNFZFVUeDBPd0ZtY3NtTnRjOXdoZWFJS2ZKeFpSWk9jaFdBbThJNDQzWVpPaG9qTXlKaEREZHViOXVzM1I2M3pUR29EUnREbTVnZjMzVkdUVnp0S2FRZWhJSFE0dkNDY2k5aw?oc=5",
+   "date": "2026-11-02T12:14:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "7692aaa32803",
+   "source": "Endpoints News",
+   "title": "CinRx teams with Sam Waksal's Graviton on ROCK2 for PAH, other cardio conditions",
+   "link": "https://endpoints.news/cinrx-teams-with-sam-waksals-graviton-on-rock2-for-pah-other-cardio-conditions/",
+   "date": "2026-11-02T12:00:45+00:00",
+   "snippet": "Sam Waksal is doubling down on ROCK2 after his first work on the target led to the chronic graft-versus-host disease medicine Rezurock. Now, the Graviton Bioscience CEO is teaming up with a cardio drug development ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f359ad7d9b4a",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius doubles down on biosimilars with big WuXi alliance - pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORm9kWkI0cV81aUF6eTJOVGVnUTk5OXZOY0JvcU5XTjhMa3NEUzFQU3lOSnhoTlhVT1RzNlRETk5FcW9XWUREVE4xck54SUVXNjg1ZGVRdlI3SC01Mm1lMFpKblRmQ3c4R2QybzNXeFFqLTlNb0EwMHI3dWdnWWZNWE1rT2FQMXp5OXc?oc=5",
+   "date": "2026-11-02T10:51:29+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "8e7566f90c4d",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - The Mountain-Ear",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hTWVUazFESWZUYjRvOXgwR01yTW4wckZXSFVUQmxnTUdkWVpncmxVdFE4MXdzUmx2bGR2bHpHcTlPdkpyY1hhczVpYmJwY0lUd2xCV1FMNEVSNWQ1Y3RDd2h3?oc=5",
+   "date": "2026-11-02T10:34:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "27d8e87cb968",
    "source": "Fierce Pharma",
    "title": "Sanofi tips Dupixent to reap most rewards from Eli Lilly’s Ebglyss ad push",
@@ -73,11 +143,31 @@
    "watch": []
   },
   {
+   "id": "1f8d3a471367",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius Taps China’s WuXi to Expand Biosimilar Drug Portfolio - Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0swZXZMelZ2azdUQUJkR1J6aUNNT3RiUzk5UDc3ZlAweWNPR1Z3a25KXzIxdGxzdHZEdlZZMjVOS1o5Uy1jcHpSUkxYUTZXeXQyV0dUeXRXMjRkX1N4ZFBwSnZNOWlYTnpvb2dNaU51cnQwYTczS09Mb3lPVFVSdk5ySlBVVEs4Rl9ad01UMnR4S2xNcU1MakxSbkpOLVRCUDhnUkQxVEFkSEFhWlNCbXRndXI?oc=5",
+   "date": "2026-11-02T09:59:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "d912cd2eca31",
    "source": "Google News: biosimilar",
    "title": "Samchundang Pharm Swaps Japan Sales Network for Eylea Biosimilar, Secures Marketing Authorization in Its Own Name - BigGo Finance",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RcnRhZ1dEN1JHVlF0bVUzdkprMTR3V0ZPbEtBZHFRTHFDSTF4NzMtcjJYWDV3UHhnclBWanJZdF9JdjkyUkhmQ1dRaURiSWtualE3U0l6Mkl2MjFHaGMzSXlRMFNicld0dmtyT3lGZURzWVNtdWc?oc=5",
    "date": "2026-11-02T09:35:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "2b4cb50bc701",
+   "source": "Google News: biosimilar",
+   "title": "Sam Chun Dang Pharm inks Japan deal to supply Eylea biosimilar - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONTRRSERfbFZ3ekpZOG1FakhQQ3AxZGJWSDd6cHF4NVV2X202cXNZWlI0TTItTElJSDN3NTAzRUpXVVI5TmFteTZKM2tOb19ma09UdUZJT204RGl6MjljTDlURGZaZGNhdzd3V0d1Z0F6bFRMRUx2YV9tODFPU1RoSNIBlAFBVV95cUxNZy1Vd1hFVm9MTFE0WXRrelZ6UlYtaS14UmlfSnNRM1hDMlI3bVYyVHBJOUhmUFpMNy1HSW1aQU1qV3lMSXhoQjJEUlJ1dGxiNzlxcVJxcERqZEhHX1lSTkFpZlZMZkpOdGlqcVV2cHJiX2ZXUmNGckRPN2pYUWV6M0g5ajZPSUlreWZJNHl1SlhEUGwy?oc=5",
+   "date": "2026-11-02T08:01:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
