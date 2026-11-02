@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T19:00:04.177578+00:00",
+ "updated": "2026-11-02T21:47:56.937962+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,46 @@
  ],
  "items": [
   {
+   "id": "1c61d7de81bf",
+   "source": "Fierce Biotech",
+   "title": "FDA grants uniQure’s Huntington’s gene therapy priority review, teeing up ‘defining milestone’",
+   "link": "https://www.fiercebiotech.com/biotech/fda-grants-uniqure-review-its-huntingtons-drug-approval-would-be-defining-milestone",
+   "date": "2026-11-02T21:47:56.937962+00:00",
+   "snippet": "The FDA has accepted uniQure’s priority review and application for its gene therapy treatment for Huntington’s disease.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c110cac2224d",
+   "source": "Fierce Pharma",
+   "title": "Hansoh, Samsung Biologics hit with FDA write-ups after inspections",
+   "link": "https://www.fiercepharma.com/pharma/hansoh-and-samsung-face-fda-write-after-inspections",
+   "date": "2026-11-02T21:47:56.937962+00:00",
+   "snippet": "In a pair of recently disclosed reports, the FDA outlined manufacturing concerns at separate facilities run by China's Hansoh Pharma and Korea's Samsung Biologics, with sterilization issues and data falsification among the agency's chief complaints, respectively.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c924421f8fd0",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius picks the biosimilars, WuXi Biologics builds them in a deal covering up to 37 candidates - www.drugdiscoverytrends.com",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaUp4UzZXVllUVnRiSXVIVnh0b2xLQ2NMbVRCOFZpZVJtMWtiZlV5SXJ6TFlUTGZoRktleFY4Y1pmYk9hbHBZUnJoYVdmVktVYURxeEtJLUthSHhLdzhQZmpkYUM1NFJDVGxpaFhOT05IZ2p0dzQ2aE5NVzc0MV9ETDZHR3dvT2FzMF9rMDR6SVhjVXlMVWJaVVBsVVlva2xMSGE5am1pcjNnb1p4NGJCOE9yRHg5eVVteEdGcmx3d0JnZTZoQkEwYnkzMFNTT2M?oc=5",
+   "date": "2026-11-02T20:57:57+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "491f3d7dcb7c",
+   "source": "Endpoints News",
+   "title": "AbbVie, Brise disclose deal for two preclinical migraine meds",
+   "link": "https://endpoints.news/abbvie-brise-disclose-deal-for-two-preclinical-migraine-meds/",
+   "date": "2026-11-02T19:43:03+00:00",
+   "snippet": "AbbVie has agreed to a discovery and commercialization deal with Brise Pharma for two preclinical migraine programs. The Beijing-based partner said Monday the agreement actually stemmed from 2024. An investor relations ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
    "id": "69838d8a29c8",
    "source": "Fierce Pharma",
    "title": "Inovio’s DNA-based immunotherapy Voceryq approved by FDA for rare HPV airway disease",
@@ -78,6 +118,16 @@
    "title": "Accord reports US bridging data for serplulimab in SCLC, and wins UK approval for ranibizumab biosimilar - The Pharma Letter",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS0pzaVBicjBIcUFmRzZJQ3BWYWdjN3BVM1Jqd25uWm9xd3RyVVYxZ2hMU3FUMkowSXd3TDh4UzI3MW85QWlRNUNQMFlqZG1rT2pkODJ4dVdTWnFPM21jVTJWa0dfNnpoYkdyV1JudmxueGkzMzdNVE1jWXdZbVI4Ymh5N0hrZzEtdTlYamhQSnZGZm5LZGZ5UTNIeDBWM2pVTjNYVS1aSEFWeWduRE15TWZjMlNBTU1ULVRPMndoSEotVDVnM21HbnNvUlJhc0RBaXEwQ2V6bzFYOGg4TUZabXF3?oc=5",
    "date": "2026-11-02T17:42:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "bcc0a9686fab",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius and WuXi Biologics Sign Exclusive Agreement Covering Up to 37 Biosimilar Candidates - BioPharm International",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZEx2V3g1czkwVmd2U0JWWkdlNlZaZEtOa2ZzenpOWnVOSENXZ1M4U1pkZ1JXU1NiTE1YNGduZnl4WUhXZGtyeVFPa2lveUJkQm9VQnJaRU10WEV6bGs5RFZUa3J5S1ZRYUEzdHRacEpoOGsxb3FWQ0habGRVLUxYZndOd3BGVDdtRUM0bWh2ZnN1TmE1UE5DUUxRY2FiTkVaN25XUEVjRXgxdXg2VHRwZzhqWTVtVm4zS3ExaDYzYzNPeG02SWhueUtlTENXVElWRHlUag?oc=5",
+   "date": "2026-11-02T17:37:04+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -118,6 +168,16 @@
    "title": "FDA approves ranibizumab biosimilar Lucamzi for wet AMD | Eye Care Network - Modern Retina - Ophthalmology Times",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSkFmYWhNWVczUjVYN2xJeHNmQmhNTUNqNGIwaE9TSnNpaTRRb3FuLWpaVEliWXU5MGFpbXFMUExmT05tcnVzZFVpdTRFVklvZ04xUmZ1dWkxLWk0MTUzNzRPTVJqMC1vRThNeDh4VjBrdXBpbEJCSHlrUFdVYmVUV1JOTVFYTk1laDg2bm9pREdYQTF0VEhobkFNVQ?oc=5",
    "date": "2026-11-02T16:32:45+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "e333bc3eb402",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius taps WuXi Bio to develop and manufacture up to 37 biosimilar candidates - AllSci",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMVFmS3IyM01KYkhIaU55MXgwTHYyd0dEVkFnWVRad1hXa3hia3NlTEQtMEtoOXZRclFmRUYzVkIyQkhRZUN0ZnBkb0pES2V5OVhlTnpBNjRISXQxZ3hXNXlXbFFuV0REb2hUelFnOTV5bkJ4UTRqZXRPZXRPYUUzWF9MbW5LdFB6U2NkY1hsb0kxUWJFa3FOQUdzSlo?oc=5",
+   "date": "2026-11-02T16:30:30+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -290,6 +350,16 @@
    "title": "Fresenius strikes WuXi biosimilars deal for up to 37 assets, targeting €370B market - Fierce Pharma",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV21OYmdBTnlFX1pSc0RfajFiSTdpSE5xaURuZElvckJuSG1DWHc0SzJiV1Rnd1hYV0xuWGk0SjNUTGhZRXQxQllZMVBPWXN2cUdPYk90S2p2TVA1WXpSZjA3UFVFdUxRRWVMV0t4Sk1iXzRRYVR0SkVVcno3RlpXZVJGR0tLYXZ0Vjd3eGd1T3dEUFhDRExKc0VTWS1YbE1ndm54ZHRoREhsRVFkSU5MX0dFSklUajlHa2c?oc=5",
    "date": "2026-11-02T14:43:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "d7b9b791d24e",
+   "source": "Google News: biosimilar",
+   "title": "Keytruda biosimilars are coming — but they face an uphill battle - BioPharma Dive",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVZJUGQxanN5YTAwLW00eDZxZkRjM1JrNHo3a1FmWkQtOU8zWkVoSzlLR2dQTUVwVHRvMU1VbnFnTXNidUg3a25PcklnOENnVDZyQjl2RVpaUkQyVExmLV9FYWt6aWY0a2Q4eEs2Ylp2SkVaaFdIYVpSYmEzazNqMFpQT1I1aXdNQTNKTzg0Z1o3S00?oc=5",
+   "date": "2026-11-02T14:41:59+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
