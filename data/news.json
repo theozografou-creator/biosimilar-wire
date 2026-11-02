@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T07:31:32.336054+00:00",
+ "updated": "2026-11-02T10:12:41.121743+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,11 +53,61 @@
  ],
  "items": [
   {
+   "id": "27d8e87cb968",
+   "source": "Fierce Pharma",
+   "title": "Sanofi tips Dupixent to reap most rewards from Eli Lilly’s Ebglyss ad push",
+   "link": "https://www.fiercepharma.com/marketing/sanofi-tips-dupixent-reap-most-rewards-eli-lillys-ebglyss-ad-push",
+   "date": "2026-11-02T10:12:41.121743+00:00",
+   "snippet": "Sanofi has predicted that Dupixent will receive “the majority of the benefit” from the direct-to-consumer marketing campaigns that Eli Lilly is running to support its rival drug Ebglyss.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d336a9126a8a",
+   "source": "BioPharma Dive",
+   "title": "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond",
+   "link": "https://www.biopharmadive.com/spons/breaking-the-silos-what-effective-scenario-modeling-looks-like-in-2026-and/872840/",
+   "date": "2026-11-02T10:00:00+00:00",
+   "snippet": "Explore how integrated scenario modeling helps pharma leaders navigate pricing uncertainty and the complexity of global launches.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d912cd2eca31",
+   "source": "Google News: biosimilar",
+   "title": "Samchundang Pharm Swaps Japan Sales Network for Eylea Biosimilar, Secures Marketing Authorization in Its Own Name - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RcnRhZ1dEN1JHVlF0bVUzdkprMTR3V0ZPbEtBZHFRTHFDSTF4NzMtcjJYWDV3UHhnclBWanJZdF9JdjkyUkhmQ1dRaURiSWtualE3U0l6Mkl2MjFHaGMzSXlRMFNicld0dmtyT3lGZURzWVNtdWc?oc=5",
+   "date": "2026-11-02T09:35:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "1e21331bd17d",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius Partners with WuXi Biologics to Expand Biosimilars Pipeline to 66 Candidates - finance.biggo.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQcjd3OTJiTmUzdEZZc1RPa2pSZ05KRnEydVFUUTExTWNhaEhTVm5USUZURTh5SVp2TjdiS2gtTVlWSjZjdU11SVdpcGNTZ1I3OEZsVlIxMF9iSUlOOWhRS0JxSFRzRG9FRUItMzYxSEpOSDJJa2c?oc=5",
+   "date": "2026-11-02T07:25:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "b810718e4241",
    "source": "Google News: biosimilar",
    "title": "Fresenius and WuXi Biologics form biosimilars deal By Investing.com - Investing.com India",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0FlZGVyU2JLZU42QTI4alNZcEg3Y3FXRW5aWTlCS20zSEc4T2pDRFBvZEdTY3BSbG40VUlmZ2pLdDhSVE1xUEoxSjIyczdCZGtzd0I3cGhDdDJfLVpfQzlvSEYtOTk5SnhMWjhadWdSZExLV3dkN3dsWTlxZ1ZrbTJFdVkxS01DSTA0Wjl0MmhjVzNiaFVYQnY5ZXUtQk16OHZzUk51VERscWpNQ1B1aQ?oc=5",
    "date": "2026-11-02T06:52:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "bda0df3a1c15",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius and WuXi Biologics form biosimilars deal - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQck1taXJ0UXFRQnAzS1B0bjZzSmFwS2RZNmloNnEwRzVVZDA5OEhMa1o3UUhrWjZkalBrOFFfSjlHM0hfR1ZsWldkLUE4elA5dExCQXkyUzY0akxPdlUxWG1GY2p4NGQwNDFpbW1Ic3lpeGNYUkRVUFRlRzRVLUtHRnA4bmE3Vms5emJUTjktMDVNdU5XUEl2bGJmTHg1Zk9jSGhVWXZIV1hWUGZYcDFqTFZB?oc=5",
+   "date": "2026-11-02T06:47:23+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -98,6 +148,16 @@
    "title": "Fresenius signs biosimilars pipeline agreement with WuXi Biologics - WSAU",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1dQUFlCOUVGdWJ1WUlmbVlPcGVFb0RtanVqOVBZUUg3OXdYNVM3djFPNE11QU8xemx3TmV4R2RzQXFfVmZiNGl6TUlqb0d6Y0Z2MVdldGU4MW9peV9Ua2FPTktySEVuVXZuQklZU1puMWtXUG1xSnYtd1NFWFNvMC04ZjlVNnZFc2ljTjJHcjBRQjVzRWpkcTBKTQ?oc=5",
    "date": "2026-11-02T06:39:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "b9a1d6a37762",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius baut Biosimilar-Geschäft durch Partnerschaft mit chinesischer WuXi aus - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByZlpMejVRNGpmZDVoWXE0T1owN2MweVkxbTE4NFNOM01wMFBfVXY3S3FyR2JCeW9IRThGM2pZV3AtUHdQeG1BN1YyRnFJcTE4UWNpYU42Z1RFVFQ2UVc5RE85MTIzOHRQdDhJY3A0bHEzc0k3bGtVSQ?oc=5",
+   "date": "2026-11-02T06:20:50+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
