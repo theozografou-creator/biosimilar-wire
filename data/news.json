@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:56:47.247670+00:00",
+ "updated": "2026-11-03T07:15:47.562500+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "50c558c13864",
+   "source": "Google News: biosimilar",
+   "title": "PanGen seeks European partners for EPO biosimilar, CDMO business - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qQ21ka080dER5aFVRQVdsU2lTaFFUbzYwb1JTY3RpX2pCSUkzdUExeXMzT0lMenNrcVNjbWN0bjNkMjdSNlpSbWVJMGxnQ1dFS2pHdUZucFMyU2ZRNlZhZjVtdjZKUXRVV1FSakRn0gFyQVVfeXFMT3JfenhSTHRxUDExOFJfeDExR0hvX2tZWE5JN0FoVWk1eVlKYWRnajM3M2NVUUZNOUFNZUhsVVNtdGZqdlJPR1RpNFZLZVRYaUZOQ19pdHBtQTJEWmxSYXk1YS16MXUwMTJaZ0o5VEJrRldR?oc=5",
+   "date": "2026-11-03T02:40:52+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "7ab5bf998ed3",
    "source": "Fierce Pharma",
