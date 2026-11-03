@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T21:47:56.937962+00:00",
+ "updated": "2026-11-03T01:08:44.560113+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "7ab5bf998ed3",
+   "source": "Fierce Pharma",
+   "title": "Sumitomo's Gemtesa power couple takes the wheel in road-trip themed overactive bladder awareness push",
+   "link": "https://www.fiercepharma.com/marketing/sumitomos-gemtesa-power-couple-takes-wheel-road-trip-themed-overactive-bladder-awareness",
+   "date": "2026-11-03T01:08:44.560113+00:00",
+   "snippet": "Actress Holly Robinson Peete and her husband, former professional quarterback Rodney Peete, are hitting the road for another starring role in Sumitomo Pharma America’s Gemtesa campaign, “Time To Go.”",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d4d240ebab56",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius and WuXi team up in 37-strong biosimilar development deal - Pharmaceutical Technology",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTzBhVXdMVEdfNm44WGh2bFRndVYxV0o4blJWekxMa1o1eFhVYjBoVGRNYkFLLWFEcWtzNVlmY1BqQXhOMjJTS0xVaTM0QjFmb2IyTlVMN1lWOUhZc0NkejVzRTlIcDZQbFBfN1JGak9uX1dyOTZWZzFYMWh5cEpDOUQ4VUJrM3hYZWhoU0lTbkpCYk5CZ29XYUxoYk9BdWdyWW1pRXFwT1BDOEhoWnhkYTZlaWJWVG8?oc=5",
+   "date": "2026-11-02T23:02:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "1c61d7de81bf",
    "source": "Fierce Biotech",
