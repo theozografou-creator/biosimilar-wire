@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T07:15:47.562500+00:00",
+ "updated": "2026-11-03T09:58:55.612302+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "5c958f0e1152",
+   "source": "Endpoints News",
+   "title": "Merck KGaA to exit CDMO business, divesting US sites to Lonza",
+   "link": "https://endpoints.news/merck-kgaa-to-exit-cdmo-business-divesting-us-sites-to-lonza/",
+   "date": "2026-11-03T09:54:12+00:00",
+   "snippet": "Merck KGaA is selling its CDMO business to Lonza. The deal covers five manufacturing facilities and about 1,100 employees. While the finer financial details of the pact were kept under wraps, Merck KGaA",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "50c558c13864",
    "source": "Google News: biosimilar",
@@ -139,6 +149,16 @@
    "link": "https://endpoints.news/wuxi-biologics-fresenius-partner-ahead-of-biosimilar-boom/",
    "date": "2026-11-02T18:44:22+00:00",
    "snippet": "WuXi Biologics and German drugmaker Fresenius have reached one of the largest biosimilar deals to date ahead of what some in the industry have called an upcoming “golden decade” for such products. ...",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "6e1f544e802c",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - USA Today",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlBxUWxmcDVuTzBfbVA0S0RKREZTaGFLbXg5aXY5MnQzYW9yb3QxZGw5NWo4UVFOWWVNa3ZJenU1cnNiMnkzS1k1czZTX3lCUkdldThnTXBLVEVDSFNTb2Z6LVhqYzdQTWZnOWs0azFfUzJlamVKTHNQcFhWaGtrbEtLV0RFUUctM3ltUGJSZnhpRWNmLVctWHp0ZVdOUmdqS0NTYjZ1VVp5WUFJV0NuRi1oSGFxT0EzelJXX3UzVQ?oc=5",
+   "date": "2026-11-02T18:34:05+00:00",
+   "snippet": "",
    "biosimilar": true,
    "watch": []
   },
