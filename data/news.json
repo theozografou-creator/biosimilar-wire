@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T09:58:55.612302+00:00",
+ "updated": "2026-11-03T13:08:20.007405+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,77 @@
  ],
  "items": [
   {
+   "id": "37ab08fbddfe",
+   "source": "Fierce Biotech",
+   "title": "BioArctic left out in the cold as Novartis walks away from $800M neuro collab",
+   "link": "https://www.fiercebiotech.com/biotech/novartis-scraps-800m-bioartic-neuroscience-collab-after-barely-year",
+   "date": "2026-11-03T13:08:20.007405+00:00",
+   "snippet": "Just 14 months after Novartis signed an $800 million biobucks neuroscience partnership with BioArctic, the Swiss pharma has walked away from the deal.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a3f2dad2018f",
+   "source": "Endpoints News",
+   "title": "Bayer CEO says company is ‘working on’ MFN in the US",
+   "link": "https://endpoints.news/bayer-signals-it-is-working-on-mfn-deal-in-the-us-ceo-says/",
+   "date": "2026-11-03T12:01:37+00:00",
+   "snippet": "Bayer CEO Bill Anderson said the drugmaker is “working on” a most favored nation agreement, signaling that it is in talks with President Donald Trump’s administration. The German drugmaker was not part ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a6cbbfc0b934",
+   "source": "Google News: biosimilar",
+   "title": "Teva signs deal for two FDA-approved biosimilars - grafa.com",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2R4UUZOdEZ1VC1FTEJwVzlNc2QtMmhVc2d6SGlKdk5XYVJ4Z3JLU2NpQ19FOTNzcUxfUWN3cEh6aWoxNVBuWkJfc2Z2bXl3Slp4VVcwekRpbFlILXlhaENhakFXSk9iUmt3OGV2TURzYVVfNGxFN0ZwUjIweG42d3pxLWR6RHlrVWhGUENITkVrSHlyN0xZa2dR?oc=5",
+   "date": "2026-11-03T10:57:08+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "b57aea34cda5",
+   "source": "Google News: biosimilar",
+   "title": "Teva, Samsung Bioepis Sign US Biosimilar Commercialization Deal - marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeHNqOU9LQk04NVRqQnI2WUhvREc0M3k5b0JLelRrQkExZ3JaNHVjTDN1cjE5dzJjTFhXX2I3cXZHRDNneXJISVJMbGViRDZsVkViVFBKZzNqMnl1UmI3bzJRWVEwcFJhS09Hb0Y4OG5ranNGVjNBQm9hQTRYUWdTdUpBLVhoaGRRRERnbkJsMXE0aVgwQlBSRkpiWko4Umx3TzBnZ2JJejNmay1sSWNpcHQtUkdEUQ?oc=5",
+   "date": "2026-11-03T10:40:52+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
+   "id": "9cb5275f0436",
+   "source": "Google News: biosimilar",
+   "title": "Teva, Samsung Bioepis Sign US Biosimilar Commercialization Deal - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHNZQVJ2dUR1N0IwWjNMSHZkcDkzd1I5REZfLWpCWVJ4Q1FJaVFKR3VfMENuUFc4b21aX2tESkdKaWhFSnAzQWwxR3VlZk1NalBqZTVlN3IxRnF3d3FPRkJBSkJXOW0zSUNBZnVQempmZEl5Z2Nud3VGb0J6REdCWVhvRkdwNlViWkVzNjNITG1rR1k?oc=5",
+   "date": "2026-11-03T10:39:15+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
+   "id": "4819a67d1457",
+   "source": "Google News: biosimilar",
+   "title": "Teva and Samsung Bioepis Commercialize Two FDA-Approved Biosimilars in the U.S. - Businesskorea",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iTVgwWDROZkM3ZFdwdlR6SkU5R2VtcU52Zkg5aE5DMjB3N3ZVaHBzb0VvY0pfT250YUZjZDN6X2xncXhpR0NYRFYwQ2lSbW1udFJscXNEbExkQ2ZYZjF4Tm1JYXFKY3Y3SVp4SjlibWJYQ1dk?oc=5",
+   "date": "2026-11-03T10:18:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
    "id": "5c958f0e1152",
    "source": "Endpoints News",
    "title": "Merck KGaA to exit CDMO business, divesting US sites to Lonza",
@@ -61,6 +132,32 @@
    "snippet": "Merck KGaA is selling its CDMO business to Lonza. The deal covers five manufacturing facilities and about 1,100 employees. While the finer financial details of the pact were kept under wraps, Merck KGaA",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "e322f77524e0",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis teams with Teva to sell two US biosimilars - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcjE1UmZRMm1US0pFaDlzS3VLTmdRckZORGY4aUlGamRjMTNyUnhMdUFaUjNJd3JiZVNZRUpIQUROaHpHLTJMc2xITll0SmJOVmNFZl9pZU00czlEZWRMRE1IZXdjcEotMG03LXlsbFAzbWxKQVV3R2hkdGVDcGxPRNIBlAFBVV95cUxQRE1mVkhkQkI4Q3luN19aTlByRzZZQmFSajktWGNoVG5HYVlpV2NtVUdTMnBmcXZXVzluRlUyV2ZPUmcxc0EzZ2h2SjI0cFVVRU92aGdWejlBMEZpWDBoNFBGRGFGMnZZcXRyNjZRLVVvMHNaSUxqcnlZazVfRThfNkFOWEl4bGlOdkFvOURWY3BlTnls?oc=5",
+   "date": "2026-11-03T08:49:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
+   "id": "898d4839857b",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Signs Up to $420 Million U.S. Biosimilar Deal With Teva - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObEFjcUdfOGZKdkxsWUtlSHozRnBjN2tYTjAzWFA4R3VkYk9pekVXTlBXZGppOE9TWXhINnBjQTU1QjA2dWNfQzZzWDh2Sjc0UWo0MG5nenNrVDVyQnV3VDVsMjhvbHhRc18wc3MzTWhtdnpSZnVncWgxa1pyV3B4M0lkUVR6bmlBcU54UHZTOVdJVlhnaXNPYnUwUERhQ1VJbnc?oc=5",
+   "date": "2026-11-03T08:27:33+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
   },
   {
    "id": "50c558c13864",
