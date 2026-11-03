@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T13:08:20.007405+00:00",
+ "updated": "2026-11-03T20:57:38.919796+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 6,
+   "count": 8,
    "error": ""
   },
   {
@@ -52,6 +52,293 @@
   }
  ],
  "items": [
+  {
+   "id": "27f007d1fe59",
+   "source": "Fierce Biotech",
+   "title": "Philips sets aside $322M for proposed DOJ settlement over sleep apnea device recall",
+   "link": "https://www.fiercebiotech.com/medtech/philips-books-322m-payment-proposed-doj-settlement-over-sleep-apnea-device-recall",
+   "date": "2026-11-03T20:57:38.919796+00:00",
+   "snippet": "Philips’ Respironics division has reached an “agreement in principle” with the U.S. Department of Justice to settle a long-running investigation into its recall of potentially defective sleep apnea devices.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7aede2225fbf",
+   "source": "Fierce Biotech",
+   "title": "Rhythm doubles down on LG obesity license, raising payout to as much as $855M",
+   "link": "https://www.fiercebiotech.com/biotech/rhythm-doubles-down-lg-obesity-license-raising-payout-much-855m",
+   "date": "2026-11-03T20:57:38.919796+00:00",
+   "snippet": "Rhythm Pharmaceuticals and LG Chem have rewritten the terms of their licensing agreement for the oral obesity and hyperphagia drug bivamelagon, growing to $855 million in scheduled payments from the earlier milestone-based deal of $305 million.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "58b8bc699f3f",
+   "source": "Fierce Biotech",
+   "title": "AbbVie abandons phase 2 solid tumor drug over ‘limited benefit’",
+   "link": "https://www.fiercebiotech.com/biotech/abbvie-abandons-phase-2-stage-solid-tumor-drug-over-limited-benefit",
+   "date": "2026-11-03T20:57:38.919796+00:00",
+   "snippet": "AbbVie has scrapped a phase 2 solid tumor drug after deciding that the monoclonal antibody was unlikely to best the current standard of care, Fierce has learned.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0627a3df86d2",
+   "source": "Fierce Biotech",
+   "title": "Pfizer pares back obesity pipeline, drops phase 2-stage lung disease candidate",
+   "link": "https://www.fiercebiotech.com/biotech/pfizer-drops-phase-2-lung-disease-candidate-pares-back-obesity-pipeline",
+   "date": "2026-11-03T20:57:38.919796+00:00",
+   "snippet": "Pfizer has axed a phase 2 pulmonary arterial hypertension program on business grounds, dealing a setback to a long-running effort to treat the lung disease by targeting BMP9.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "aca8ba9df002",
+   "source": "Fierce Biotech",
+   "title": "Abbott's Tectonic test looks to shift artery disease treatment with ‘early’ win",
+   "link": "https://www.fiercebiotech.com/medtech/abbotts-tectonic-test-looks-shift-artery-disease-treatment-early-win",
+   "date": "2026-11-03T20:57:38.919796+00:00",
+   "snippet": "Abbott has posted positive 30-day results from its Tectonic trial of the investigational SonicForce Coronary IVL System in coronary artery disease (CAD), but analysts urge caution on results.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5bb40396c401",
+   "source": "Fierce Pharma",
+   "title": "Madrigal’s Rezdiffra storms past blockbuster milestone as CEO hails ‘accelerating’ MASH market",
+   "link": "https://www.fiercepharma.com/pharma/madrigal-rezdiffra-storms-past-blockbuster-milestone-ceo-hails-accelerating-mash-market",
+   "date": "2026-11-03T20:57:38.919796+00:00",
+   "snippet": "To Madrigal CEO Bill Sibold, “it’s hard to find a more attractive growth opportunity in biotech” than MASH, as the company’s Rezdiffra, the first FDA-approved MASH therapy, crossed the $1 billion mark in annual sales.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dc82e6bb9562",
+   "source": "Fierce Pharma",
+   "title": "Amgen's quality chief to retire as internal successor steps up",
+   "link": "https://www.fiercepharma.com/pharma/amgens-quality-chief-heads-retirement-her-deputy-take-reins",
+   "date": "2026-11-03T20:57:38.919796+00:00",
+   "snippet": "Jackie Elbonne, Ph.D., announced her retirement after 35 years in the biopharma industry, leaving Amgen's chief quality officer role to her deputy, Aine Hanly, Ph.D.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bbab1ad74f0c",
+   "source": "Fierce Pharma",
+   "title": "Pfizer delivers Q3 beat as post-COVID comeback gains momentum",
+   "link": "https://www.fiercepharma.com/pharma/pfizer-post-q3-beat-post-covid-comeback-gains-momentum",
+   "date": "2026-11-03T20:57:38.919796+00:00",
+   "snippet": "Pfizer's third-quarter performance bested Wall Street estimates thanks to an Eliquis beat and 37% growth from acquired products.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2bad2c94e4dc",
+   "source": "Fierce Pharma",
+   "title": "As Bayer spots pharma recovery, questions resurface over potential crop science split",
+   "link": "https://www.fiercepharma.com/pharma/bayer-spots-pharma-recovery-questions-resurface-over-potential-crop-science-split",
+   "date": "2026-11-03T20:57:38.919796+00:00",
+   "snippet": "Bayer’s pharmaceutical business may finally be entering a long-awaited growth cycle, but CEO Bill Anderson still can’t quite escape the lingering questions around a potential crop science split.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e0f4141211f0",
+   "source": "Fierce Pharma",
+   "title": "Lonza bets big on US growth, snaps up Merck KGaA’s CDMO business",
+   "link": "https://www.fiercepharma.com/manufacturing/lonza-bets-big-us-growth-snaps-merck-kgaa-cdmo-business-amid-industry-consolidation",
+   "date": "2026-11-03T20:57:38.919796+00:00",
+   "snippet": "Lonza will purchase the German Merck’s U.S.-based CDMO network for mid-triple-digit million euros. Besides five sites, the deal will bolster Lonza’s prowess in rapidly growing sectors such as cell and gene therapy, bioconjugates, viral vectors and advanced drug-delivery ...",
+   "biosimilar": false,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "100760dceae6",
+   "source": "Endpoints News",
+   "title": "Servier's $1.5B bet on Edgewise drug fails five months in",
+   "link": "https://endpoints.news/serviers-1-5b-bet-on-edgewise-drug-fails-five-months-in/",
+   "date": "2026-11-03T19:27:54+00:00",
+   "snippet": "The muscular dystrophy drug that Servier bought for $1.55 billion upfront has already failed its pivotal trial. The drug, called sevasemten, failed the primary and secondary endpoints in the GRAND CANYON pivotal ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b308aecd631a",
+   "source": "Endpoints News",
+   "title": "Bourla expects no changes to MFN deals after midterms",
+   "link": "https://endpoints.news/bourla-expects-no-changes-to-mfn-deals-after-midterms/",
+   "date": "2026-11-03T19:18:32+00:00",
+   "snippet": "Pfizer CEO Albert Bourla said he doesn't expect likely Democratic gains in Congress to affect the pricing deals made between drug companies and the Trump White House. “I don't think that many things can move ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "05710b728112",
+   "source": "Endpoints News",
+   "title": "Post-Hoc Live: What the US midterm elections mean for biopharma",
+   "link": "https://endpoints.news/post-hoc-live-what-the-us-midterm-elections-mean-for-biopharma/",
+   "date": "2026-11-03T18:44:00+00:00",
+   "snippet": "🗳️ Live Wednesday at 1:30 pm ET! 🎙️ It’s Election Day in the US, and the results could have wide-ranging implications for biotech and pharma. Democratic control of Congress would mean ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "de7f46a462e8",
+   "source": "Google News: biosimilar",
+   "title": "Teva gains rights to biosimilars from Samsung Bioepis - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeTdITGtPbWZEQURUTGJEZXFHamdNTmJBWS1YVDRJanhnYWtVamFtMzdVZHhLYUpzcFNzODJ4cHd1WWt2YzlBM0l0enVSUnZLRUlRUWlkQ2ZYcVFLMmpXRUU0OW1fNGtLZkY2WXIzLWkyVjdDV1RFUVo5azROQUE3SjRyb2FxYmk2MnUxd0F6am1RQV9hbmVHUDZyNmxnYndnRjYySA?oc=5",
+   "date": "2026-11-03T18:38:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
+   "id": "03d9a53d9c48",
+   "source": "BioPharma Dive",
+   "title": "Vertex, ahead of FDA decision, calms fears surrounding kidney drug",
+   "link": "https://www.biopharmadive.com/news/vertex-earnings-q3-2026-povetacicept-iga-nephropathy-kidney/873600/",
+   "date": "2026-11-03T17:32:00+00:00",
+   "snippet": "On a conference call, executives expressed conviction in the coming launch of an IgA nephropathy medicine viewed by Wall Street investors as important to Vertex’s future.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "efb90a54cb28",
+   "source": "Google News: biosimilar",
+   "title": "Teva Licenses US Rights to Samsung Bioepis TNF Inhibitor Biosimilars - BioPharm International",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXNrZE5RZGM2S1Y1dXZBcTh1VFYtWHlCRkdGTkVOWENlUEFMS0VuaGxYb283RktZd3pobmRZUzhKQlRycG5xMnBzWWZHMThuc2FPR3lMbTU4LTBwOTlFRHJQcnRudkhYOW5DaXA0X05tbHNwUDdvUDBtRzVWTjZJdl9NVXN1RTFabXh6NGJRSTZlVXlFRFcxVktwSlk3VzRLa3lxTEt5UVJlNlZmSnBHZlVtcXJoQ3BZd3c?oc=5",
+   "date": "2026-11-03T16:28:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
+   "id": "289afbac19ad",
+   "source": "Endpoints News",
+   "title": "The biggest conversations in health tech",
+   "link": "https://endpoints.news/the-biggest-conversations-in-health-tech/",
+   "date": "2026-11-03T15:37:30+00:00",
+   "snippet": "Tomorrow, I’ll hop on a plane for what has become my favorite day of the year. On Thursday, we’re hosting our second-ever Endpoints Health Tech Day, with a virtual daytime ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ce8622bb70d6",
+   "source": "GaBI Online",
+   "title": "FDA approves denosumab biosimilar Degevma - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUtoMk5WUUdvZHBRa1BhQ2o1SmtUMmdGR3p0VkFsVDVtbi1JUGlUdlB5S21BbXhibU5FNlNNOXdJdjVHb3pxU2prNkp1UjkwZ1pRYlRtVUlDbGVnd1FISHBGa2tpSldLWFZOM0VwTVRrSTk2N1VrNnphN3ExQzBvVEVzOWVuN3Bz?oc=5",
+   "date": "2026-11-03T15:17:19+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "3bef81016ce9",
+   "source": "Endpoints News",
+   "title": "Pfizer lifts 2026 guidance as cancer, migraine sales offset Covid slide",
+   "link": "https://endpoints.news/pfizer-lifts-2026-guidance-as-cancer-migraine-sales-offset-covid-slide/",
+   "date": "2026-11-03T15:04:17+00:00",
+   "snippet": "Pfizer raised its 2026 financial guidance as strong growth in its oncology and migraine businesses helped it weather sharp sales drops in its Covid products. The company reported third-quarter sales and ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a45ae5a68aa7",
+   "source": "Endpoints News",
+   "title": "Novartis ends BioArctic pact; Two VC firms raise inaugural funds",
+   "link": "https://endpoints.news/novartis-ends-bioarctic-pact-two-vc-firms-raise-inaugural-funds/",
+   "date": "2026-11-03T14:56:47+00:00",
+   "snippet": "Plus news about Teva, Ultragenyx and Specific Biologics. Novartis cans BioArctic collab: The Swiss pharma axed its discovery-stage work with the Swedish biotech, which created the Alzheimer’s drug Leqembi. The neurodegeneration-focused ...",
+   "biosimilar": false,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "a0504f2a65a8",
+   "source": "Google News: biosimilar",
+   "title": "Teva Licenses U.S. Rights to Infliximab, Etanercept Biosimilars - Pharmaceutical Executive",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWlyZ2oyRTlPSTRsNGZWcDRvLWxEVTRaNHgtWGFvdkhjeTg4LUtLdjM0cDlTMlFUUG15SlU1d1RIaW0tdWJYaVJEVkNTTWlQN2VmZVZnbjBsd1Ribkk4eFVJWFg4RDlkY2hNbFZyLTNWeXBFQWpKeDc3WnFfS3FQeG1UU1c0Mko2Y1UwWkFidVRKRVg3?oc=5",
+   "date": "2026-11-03T14:48:24+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "f6e8ca92324c",
+   "source": "Google News: biosimilar",
+   "title": "Teva buys U.S. rights for Samsung Bioepis biosimilars (TEVA) - Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXVERDN5dnJUUFBpNXlFZ3dqQVhuUEhfc0xYcW5hN2d3c2kxd01GQTQxZ3NjUmxwT0MwSDJBTk5EeFFpT0RIWEphcUdFbzNuMThXZmVyX1l5RWxDMVVqemZqWmgybzJ2MjdlX3FVeE9ucWg4dEJQVy1Oc0VoMnVmTmlFellVRUxvUFFoSVdR?oc=5",
+   "date": "2026-11-03T14:16:06+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
+   "id": "ef4fdfa71296",
+   "source": "Google News: biosimilar",
+   "title": "Christine Johnston on the biosimilar pipeline and PBM formularies - Managed Healthcare Executive",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdlRwRmNYZGk3Y0hrYU9ZR0E4TTN2dFFlblNEZjBxNk1UOW5EZG9nYklySm5ZTHByYVBfYjcwSUpjS1FKZU9KakxGT01rU0w1azZ0RnpMRWtHNzBkbG1IbXAxWFlZU0hja1pzNG44VzFRMWRBU09pOXE4YW1vVTRBTExMaWVHekFXY1BfenY1MVhleVZhWTNmQ2VydkcwMW16TWl2NA?oc=5",
+   "date": "2026-11-03T13:52:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "428e516d59b3",
+   "source": "GaBI Online",
+   "title": "Compounding Oversight Bill advances amid FDA warnings on unapproved retatrutide - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQODZGYkZFemhwc3JUWWx1UHp4eHBsY1NMaEpCWkx0QnVlT2tWY3NHTmwyaXVFeWc4VWZYUGhYUVpSTEhGQ2lKSGdNVm5QRHRDSVkxVjJNZGc1RlZsS251ZEZwYmFGX2stV1JmdGRMWE5PcnNjLWFPLVBhdUtqdWdEYmN5dVZTQVkyZnZ6QTlQcDZFU01BODNENFktUmtKblZKRHpfVDlwb3RZdWxCYkU2b0tDaVM?oc=5",
+   "date": "2026-11-03T13:47:17+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "f2c2dfdaed30",
+   "source": "BioPharma Dive",
+   "title": "Medicare Part D premiums are spiking 50% on average next year, KFF finds",
+   "link": "https://www.biopharmadive.com/news/medicare-part-d-premiums-skyrocket-2027-kff/873552/",
+   "date": "2026-11-03T13:46:00+00:00",
+   "snippet": "The health policy think tank urged seniors to shop carefully for prescription drug coverage during Medicare open enrollment, given skyrocketing premiums and wide variance in costs between plans.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "37bdd0421b68",
+   "source": "BioPharma Dive",
+   "title": "UniQure gets an FDA decision date; Teva scraps brain drug study",
+   "link": "https://www.biopharmadive.com/news/uniqure-fda-bright-minds-specific-teva-cinrock/873455/",
+   "date": "2026-11-03T13:41:00+00:00",
+   "snippet": "The FDA appears likely to hold an advisory committee for UniQure’s closely watched Huntington’s disease gene therapy. Elsewhere, a biotech’s share price was cut in half following a regulatory setback.",
+   "biosimilar": false,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "f998b16d0ded",
+   "source": "GaBI Online",
+   "title": "Swissmedic aligns biosimilar guidance with EMA’s tailored clinical approach - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWh1bTFNSHZDcFYtSHl4ZjhJSGVZLWNiUFhISG91UkJJVTg3UHZRenlCVGh6TFBwQ1A1SlJzNi1FLWFFdTNWQzJ4Z3JtcDVsYU0wZTJkWUNqSTdsMjdrRVVoQ3dJX0ItSWpjLThkc1JfNWhfdkVNYndjOEdNcU1RQUdmNXRKRUloZ0JRcnBCWGtnQ2xZbjBiZGZVRUxNWnpVU20tRy1CSXBTUVZoUmc?oc=5",
+   "date": "2026-11-03T13:32:16+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "37ab08fbddfe",
    "source": "Fierce Biotech",
@@ -71,6 +358,30 @@
    "snippet": "Bayer CEO Bill Anderson said the drugmaker is “working on” a most favored nation agreement, signaling that it is in talks with President Donald Trump’s administration. The German drugmaker was not part ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "d1e497ebd649",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Ramps Up Profits As It Confirms US Keytruda Biosimilar Filing - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNb3ppUEszSlFPRmx0NU12QXlaSFFqdGdZUy14MXJnMUxvWjlXZUp3eG5rTVZ1LTktOGctMl9JdVBVR1U5VTY3Sy0zdzZpaXlRd3pMN1JvMVdaeU1oUGVISXlNWkdMdDh0eGMyMDVLSFBWRWRORTdYQ0N2eEhjY0ZHOGN5VnR4eGRTSE81LXVmekdrdi1fR192ZjFLSUxkb2dxOURzWVllNjdtWjF2bXlOZndHdWl4REJ0M2NtNzIxdnQ2Vko1SGlGbkFCMVhISzQxM3ZQd0tYMVN4MWg2UDU0TzVkQ3k4bzg1TUR0SWtIczFKbWdHUVBBM0d1OWh2OVNQ?oc=5",
+   "date": "2026-11-03T11:56:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "f703690aa1ec",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz Cut Its Sales Outlook But Lifted Margins - Finimize",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZFV1Y2pWak5QZHV3cjJqVXJzNHRyeDBFUktxR29OWEl6YlFHdzhDZmIybkdIVlF4ZWttcE13ZW9BeTU3TGdOa2Jad0w2dV9Md1dKam9WalFxMm1FbU9QWjJ6b3oxV0tYODNIMnM4X28xS0hKWEFEbDdJWUlrZFBGV25B?oc=5",
+   "date": "2026-11-03T11:06:31+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
   },
   {
    "id": "a6cbbfc0b934",
@@ -11845,6 +12156,16 @@
    "date": "2026-10-07T09:30:02.695199+00:00",
    "snippet": "The Bay Area biotech is discontinuing all clinical development activities and implementing a \"substantial reduction in workforce.\"",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dfacef759211",
+   "source": "GaBI Online",
+   "title": "Contact - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1lYTZvMkVUNkNlODZ5Y09TOXpXaTR1TmM0ZUJ2ZXVMakVwMWs3WGhSWjFoUXdXS0xkc3V4Q1Y3MmlRTFk?oc=5",
+   "date": "2026-10-07T08:30:12+00:00",
+   "snippet": "Contact Generics and Biosimilars Initiative",
+   "biosimilar": true,
    "watch": []
   },
   {
