@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:57:38.919796+00:00",
+ "updated": "2026-11-04T01:19:14.784743+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": ""
   },
   {
@@ -52,6 +52,68 @@
   }
  ],
  "items": [
+  {
+   "id": "1e4fdc91c62d",
+   "source": "Big Molecule Watch",
+   "title": "Global Biosimilar Market Update: Secukinumab Biosimilar Approval in China and Expanded Ustekinumab Licensing Rights",
+   "link": "https://www.bigmoleculewatch.com/2026/11/03/global-biosimilar-market-update-secukinumab-biosimilar-approval-in-china-and-expanded-ustekinumab-licensing-rights/",
+   "date": "2026-11-03T23:10:15+00:00",
+   "snippet": "On October 26, 2026, Bio-Thera Solutions announced that China’s National Medical Products Administration (“NMPA”) approved BAT2306, its biosimilar to COSENTYX® (secukinumab). BAT2306 will be marketed as YOUZHUOMEI® and is approved for psoriasis, ankylosing spondylitis, and ...",
+   "biosimilar": true,
+   "watch": [
+    "Bio-Thera"
+   ]
+  },
+  {
+   "id": "090cb19edb41",
+   "source": "Endpoints News",
+   "title": "Ultragenyx to lay off 20% of employees, scrap a Wilson disease gene therapy",
+   "link": "https://endpoints.news/ultragenyx-to-lay-off-20-of-employees-scrap-a-wilson-disease-gene-therapy/",
+   "date": "2026-11-03T21:55:33+00:00",
+   "snippet": "After a whirlwind third quarter that saw two FDA approvals but a major setback in Angelman syndrome, Ultragenyx is laying off staff for the second time this year. The California biopharma",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ae0dbe6fafd3",
+   "source": "Google News: biosimilar",
+   "title": "Amgen beats estimates but shares dip on biosimilar concerns - Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmluWk4wLWV3dTRRUVJkeTRrdHg3czFDWlZMTVoxWVRscG5CeDAxTkZTX3RsUXBvOFZxUWlnc2I2QXlmWGV0dWVodjVySmZZVDVXbnQxUDRzN2FSREJrZF9Yd2d4cEd4RHo1ZW9HQ0Robm8wTWVYeGZOLVc3bWpEbUduemRCeW1S?oc=5",
+   "date": "2026-11-03T21:40:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "29418485bdd4",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilars: Europe faces the threat of another area of dependence on China - Table.Briefings",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMTg3UUZqekYyRE93aFB1a0xDU3FqVFFheHdGVzBzMndITG1UNU9hc2JWVWFrOXd4ZldudjJXWmNkVDIteVpKck93ZXZ3ZUFzeTN0RU5lUlZMbXh6OEZZLTFxV3p0RzVobnBxc0VBQUlNNF9XRWRPb3ROYVBpRW1DWW9ObmRtWGNfWDlQZjBSSnBXSER4Nk1sTUNWSThISTZJT0VoVXpnQlhId2gyWUhLRkM1X1ptX2x3Q0hpUA?oc=5",
+   "date": "2026-11-03T21:20:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "102c00bc674b",
+   "source": "Google News: biosimilar",
+   "title": "From cost advantage to value advantage: The next frontier for generic manufacturers - Drug Discovery & Development",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlI0d1ZoRWExOVpjZFFyQkVXbUU2RHE1aXYwN0pmX3d3QXhBXzVMV1k0aUNXMzZoRW50enhJT09Fd1ZJM0lGV1dEclBmcGRKVG84Y1BTWmJ3QXlSaW5ndjJUWkdIcjZ1RTItcXdOeHlvYldEZFdCWmJ0SjF5a2pMOGRXSjZYbE1TbUE?oc=5",
+   "date": "2026-11-03T21:16:57+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "5424559f5125",
+   "source": "Google News: biosimilar",
+   "title": "AMGN: Revenue grew 8%, while product momentum offset biosimilar and pricing pressure - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeEhnWHExZEdNcWFLNi0xLWhNT2ZXUU0wemNiRmtJZ0w4VjJ0LWJIRDhOdlVyM0V2cjM3RWVRZXlpNlFWMTg0RXBrRVd1LUt5Z2h3NVQ5MlJYSEFOYTlLSGxEUThTaXhWdjlHZWNXUV9DbXExc2FtUFMyQVZzMGE1a3kwNjcyLXZSZ2ctS083S2xOYmVwSm9NR2JtRXpfYzhNcTlJTGZMdFVoR2dHZjNOYXl4WmZaT3pQa09wR2llLUNuMFFaMVU2SV9jZlBnQlZoT05pcmNTdHFIWFNsN2tkNldBX0dwdUwxclA2R3MtaTBGczRaUXFN?oc=5",
+   "date": "2026-11-03T21:08:21+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "27f007d1fe59",
    "source": "Fierce Biotech",
@@ -155,6 +217,16 @@
    ]
   },
   {
+   "id": "425ceb51f7fb",
+   "source": "Center for Biosimilars",
+   "title": "How the Biosimilars Access and Affordability Act Redefines IRA Delays - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWl0UTVidGZqczlBSUs4Nnl4SXVnLXVqTDJWa3ZMVW9IYkZpYThoYl9MX1d6ckRpUWo0QVdsbGVGSHU2Q0xNWWkyTmxuaE03OVZyUnF6ck1UYmhtdXFqTmQtVHp5cEFHdEZjaHMxd3J0VTNhbVFKVTRrbWtzckNlMnZ2dm1XWGM2SzVhaEtlOGZhVTktY08tamlRaEtKSTcyeTRza1pKQU1zQzU1aFNtYw?oc=5",
+   "date": "2026-11-03T20:24:53+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "100760dceae6",
    "source": "Endpoints News",
    "title": "Servier's $1.5B bet on Edgewise drug fails five months in",
@@ -219,6 +291,16 @@
     "Samsung Bioepis",
     "Teva"
    ]
+  },
+  {
+   "id": "b3bbb49d07f8",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius taps Wuxi Biologics for up to 37 biosimilars - BioWorld News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONWo3Y0RjMFMwb3plM2VMWDQ4Q0RiSkhHMVNJTmpUbFk1eWp1MUJaQUQ5elVIZmxiZ3VfcFh1ejc2azlRMzd3SWZuUE4yby03Q2U1VG5hQzVtOEYxcGkyRGtkcjctaF80ZEI2RGw4OXNwT094VlhVX0FRRzJZR0ttbXpiMFY0bmRfS3lTZ1UxTlJORHctNEhFSlItOA?oc=5",
+   "date": "2026-11-03T16:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "289afbac19ad",
@@ -450,6 +532,19 @@
    "title": "Samsung Bioepis teams with Teva to sell two US biosimilars - Chosunbiz",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcjE1UmZRMm1US0pFaDlzS3VLTmdRckZORGY4aUlGamRjMTNyUnhMdUFaUjNJd3JiZVNZRUpIQUROaHpHLTJMc2xITll0SmJOVmNFZl9pZU00czlEZWRMRE1IZXdjcEotMG03LXlsbFAzbWxKQVV3R2hkdGVDcGxPRNIBlAFBVV95cUxQRE1mVkhkQkI4Q3luN19aTlByRzZZQmFSajktWGNoVG5HYVlpV2NtVUdTMnBmcXZXVzluRlUyV2ZPUmcxc0EzZ2h2SjI0cFVVRU92aGdWejlBMEZpWDBoNFBGRGFGMnZZcXRyNjZRLVVvMHNaSUxqcnlZazVfRThfNkFOWEl4bGlOdkFvOURWY3BlTnls?oc=5",
    "date": "2026-11-03T08:49:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
+   "id": "f264b985b889",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis taps Teva to sell Remicade, Enbrel biosimilars in US under up to $420M deal - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UaWRteGk1SHA1eHF0Qk9RbWlGQUs1RjdGXzlPOEFyckRWME5lQ3YxeExPUDhSRkxLYmpkV0xfWVZCRUNDdksxbXJwZkxZVktma3c1eWlJQ1F4ZXRxXzVvNWE3b0JFOUtPOHRqbEdB0gFyQVVfeXFMTXJkckV4bE1iS1RfR1hSOGxnd0FiOWViT2o5d0VrcXlsY2pvTXd1UDNiY0lvVzRqWW5KNnZFT3RTRjMyQzRGYWdsY2JnekRCSDc4ZVZYb3JLZ21qOTVybWxxX2x0SmdLZ0JyeFJhdTBwcDN3?oc=5",
+   "date": "2026-11-03T08:30:32+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
