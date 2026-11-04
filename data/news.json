@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:19:14.784743+00:00",
+ "updated": "2026-11-04T10:52:12.669936+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": ""
   },
   {
@@ -52,6 +52,89 @@
   }
  ],
  "items": [
+  {
+   "id": "902ff4326f37",
+   "source": "Fierce Biotech",
+   "title": "Sanofi scraps STAT6 degrader from Nurix just 2 months after entering clinic",
+   "link": "https://www.fiercebiotech.com/biotech/sanofi-scraps-stat6-degrader-nurix-just-2-months-after-entering-clinic",
+   "date": "2026-11-04T10:52:12.669936+00:00",
+   "snippet": "Sanofi has decided to end work on a STAT6 degrader from Nurix just two months after taking the inflammatory disease drug into the clinic.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f204071e570b",
+   "source": "Fierce Biotech",
+   "title": "Novo’s CEO still looking for deals to ‘close some of the gaps,’ as misfires hit profits",
+   "link": "https://www.fiercebiotech.com/biotech/novos-ceo-still-looking-deals-close-some-gaps-misfires-hit-profits",
+   "date": "2026-11-04T10:52:12.669936+00:00",
+   "snippet": "Novo’s CEO has told Fierce that the company remains on the hunt for deals that “close some of the gaps” in its pipeline, as the Big Pharma reports billions of dollars in impairment charges from a string of recent clinical misses.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2ff8daea962c",
+   "source": "Fierce Biotech",
+   "title": "AbbVie invests £120M in UK, including new R&D headquarters",
+   "link": "https://www.fiercebiotech.com/biotech/abbvie-invests-ps120m-uk-including-new-rd-headquarters",
+   "date": "2026-11-04T10:52:12.669936+00:00",
+   "snippet": "AbbVie is investing 120 million pounds ($160 million) to expand its U.K. R&D presence, in a show of faith in the country’s life sciences sector.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9c91e7068e10",
+   "source": "Endpoints News",
+   "title": "Novo forecasts flat 2026 sales as finance chief departs",
+   "link": "https://endpoints.news/novo-forecasts-flat-2026-sales-as-finance-chief-departs/",
+   "date": "2026-11-04T10:30:55+00:00",
+   "snippet": "For most biopharmas, guiding to flat growth for the year would be a disappointment. For Novo, it’s an upgrade. The drugmaker said Wednesday that its 2026 sales would be between 2% ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "85ff5974ae19",
+   "source": "Endpoints News",
+   "title": "China biotech Minghui does thyroid eye disease deal for $110M upfront",
+   "link": "https://endpoints.news/china-biotech-minghui-does-thyroid-eye-disease-deal-for-110m-upfront/",
+   "date": "2026-11-04T07:04:40+00:00",
+   "snippet": "A Chinese biotech is selling the Japanese rights for its Phase 3 thyroid eye disease drug to a 106-year-old specialty pharma long known for its thyroid hormone business. Shanghai-based Minghui Pharmaceutical will ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "25521eefeee4",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar development key to strengthen national manufacturing: BPOM - ANTARA News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekVSbTJMQklab1BSQ3VlWnVRalBiMFZCbDVkckh5SXJPbFBWcVdGaVp2MGI2em9zdEEzUnlQTnFNSTFHdl9SMzA3czdkWmJ5bEVpTDBHWDFrZ0l0UHlkaURsWktTbm4tMlpmRjVsSXBTdmdmTTFXWWtlTXN2amx2S3ZSa2YxS1BtMHB5d082X0dpN1VaTlA0alp0ZEFOdlNjZnFHdDZzY0VRZ1dNampJ0gGvAUFVX3lxTE16RVJtMkxCSVpvUFJDdWVadVFqUGIwVkJsNWRySHlJck9sUFZxV0ZpWnYwYjZ6b3N0QTNSeVBOcU1JMUd2X1IzMDdzN2RaYnlsRWlMMEdYMWtnSXRQeWRpRGxaS1Nubi0yWmZGNWxJcFN2Z2ZNMVdZa2VNc3ZqbHZLdlJrZjFLUG0wcHl3TzZfR2k3VVpOUDRqWnRkQU52U2NmcUd0NnNjRVFnV01qakk?oc=5",
+   "date": "2026-11-04T06:48:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "34c14880e6df",
+   "source": "Google News: biosimilar",
+   "title": "Key facts: Fresenius lifts outlook; WuXi deal expands biosimilar access - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGVIV2RMdVZZcHh0VGt3d0lWa1A0azFnVHB0R3I2R0ZRQmxaekhsbnJrQ3FHTHFQWU1zVW9US0JaVXFFMkV4cmFoSURQVnFyNEg3NVdPemdGa0k4Z2VNNGg3dEJMYTdFbGJqMEpJaUJMZ1R4SnNKZVZvY1BrOWxhRkIwTG1vNmFCbzNtQi1BX2hsRTRoT0JScUtFUzQyMVBiSWxJazNMSXg5ejFocFlNNVNsQ3dtZGtDdS1Cc21aVnRZMG15M0xkR3JsUQ?oc=5",
+   "date": "2026-11-04T06:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "425a97a6456c",
+   "source": "Google News: biosimilar",
+   "title": "Teva expands US drug portfolio in Samsung Bioepis deal - Ynetnews",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IZmprQndJb2EzYW9ELVVHaHh0TTR5Z18zUlg3UTNQM09fRUU0QXB5NS0xZ0tkSHBWSzVLVzVaVFdSaHdvUGNlTG5nYkoyYTc4YTNHZE9WRjBTd1B2LURmT3BB?oc=5",
+   "date": "2026-11-04T02:15:57+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
   {
    "id": "1e4fdc91c62d",
    "source": "Big Molecule Watch",
@@ -267,6 +350,18 @@
    "watch": [
     "Samsung Bioepis",
     "Teva"
+   ]
+  },
+  {
+   "id": "300364e1986a",
+   "source": "Google News: biosimilar",
+   "title": "What Amneal Pharmaceuticals (AMRX) Said on Its Q3 Earnings Call - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFJFSVNWWElXWGR4SDE0X0psQkNFak9kYzNJcHZpQTdEWDI3aGo2UTFqdG5iNEZvSXd5cGl6eXBpb3pVeW9ucl9YN3pEd0ZiNXhYQ25QRElpZGpvR003QmxvN2NRSDUwM3FLLXVNUGFiZVlPdXJsU0ZYYnNYZG13T19sVmRjcFJYU2ljYWt1VjJuTVFNTGZRNDhIbl9FMDdXZ251MjU0aUp5VzVKV3dteDRFLVdCb0tWbW5VbGhaaw?oc=5",
+   "date": "2026-11-03T18:14:50+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
    ]
   },
   {
@@ -621,6 +716,16 @@
    "title": "Fresenius picks the biosimilars, WuXi Biologics builds them in a deal covering up to 37 candidates - www.drugdiscoverytrends.com",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaUp4UzZXVllUVnRiSXVIVnh0b2xLQ2NMbVRCOFZpZVJtMWtiZlV5SXJ6TFlUTGZoRktleFY4Y1pmYk9hbHBZUnJoYVdmVktVYURxeEtJLUthSHhLdzhQZmpkYUM1NFJDVGxpaFhOT05IZ2p0dzQ2aE5NVzc0MV9ETDZHR3dvT2FzMF9rMDR6SVhjVXlMVWJaVVBsVVlva2xMSGE5am1pcjNnb1p4NGJCOE9yRHg5eVVteEdGcmx3d0JnZTZoQkEwYnkzMFNTT2M?oc=5",
    "date": "2026-11-02T20:57:57+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "e146453bd03a",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius and WuXi team up in 37-strong biosimilar development deal - Pharmaceutical Technology",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0ZHWUhmN1g4MXR2UFJ5OHVLbGQzMEZfTVhUT3pQUXpQLUJRbU5XUnk0b3Mwak1nRWRvNU5nazlmR0ZSc3pZMWtnZ0QtNjRBYlJ1aFk5MW53b1JJeGEwWnEwR1gxUDdPeGxhUkluaXZCNWVQZk9iR1FXSjZyMTRLcXNSQ2NLWW9UY1VLSjVPd0paQ2lnaTZXNFp2YlQ1RjAzY3dub1NlOFA2a0lVZ1hzcjQxZkdYZw?oc=5",
+   "date": "2026-11-02T20:07:58+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -1186,6 +1291,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "3dfa33713716",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz Cuts Sales Growth Outlook as Biosimilar Supply Issues Hit Quarterly Results - Medical Dialogues",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZVBNNXp1SGtJS0swOERuUmpOeE5GX3Vjc3o5U0ZvSVZKdXZhSm5iOFNudFZ2dWt5X0dDZVR6UERzZjBrWmdGNzBzQlZsUk5OV3dsMjFlRWpVSllKMVlBajVibmJYOHFFelVFNTNSRzFpVHgtQU9mSGUwcDB4OFM2Y25HWVRONy1uWEluMmRMbHRMQ1BzVC1vaVVIUjI5cENvS3IzSUtLNmEwXzJTanIwbUE4N1htcUctdTFNeXFWVE9JVXNXLTBjM1ZLVFkwX3VTbGdNetIB2gFBVV95cUxQOUJVWTEtZXVNaVRaUWtKUHBMNm5FRW05dHdyaktjNzVETWdxYmU0VlpSVHVhc2tTSWhXVVN0MWU4eWoxMlpwX0NZQnBLd3RrMWtNVWxHc0p6SWx2NE1KSF9ucTF2MkpmYnVJemIxZEY4MHliemZSMTdFVzJ0X2R4Qm1MWW83NFlDcW1kZFphV2x3R1BnN0pSQl9LMFN2WFVreEJwNUZVUm1mY01uWWgwajlGaUdBM1Rrc2tzMllsT0ROQ2pYQU1Udm9Ud1htZjVYeHp5U2pwWlJ6UQ?oc=5",
+   "date": "2026-11-01T05:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
   },
   {
    "id": "eabe685ec99e",
