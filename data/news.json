@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T10:52:12.669936+00:00",
+ "updated": "2026-11-04T19:43:07.131087+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,382 @@
   }
  ],
  "items": [
+  {
+   "id": "98c51c72882d",
+   "source": "Fierce Biotech",
+   "title": "Charles River teams up with Ipsen to use virtual control groups in toxicology studies",
+   "link": "https://www.fiercebiotech.com/cro/charles-river-teams-ipsen-use-virtual-control-groups-toxicology-studies",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "Charles River Laboratories’ virtual control group (VCG) database will be used in a toxicology study run by French biopharma company Ipsen.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d72ac1bbe55f",
+   "source": "Fierce Biotech",
+   "title": "Madrigal’s former clinical development head files whistleblower lawsuit alleging Rezdiffra safety cover-up",
+   "link": "https://www.fiercebiotech.com/pharma/madrigal-former-clinical-development-head-files-whistleblower-lawsuit-alleging-rezdiffra",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "Madrigal Pharmaceuticals is facing a whistleblower lawsuit alleging that senior leadership censored serious liver-injury data related to its breakthrough MASH drug Rezdiffra and retaliated against the firm’s top clinical development head who tried to sound the alarm.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c7351353a5ca",
+   "source": "Fierce Biotech",
+   "title": "Smith+Nephew held failed talks with J&J over potential orthopedics combination",
+   "link": "https://www.fiercebiotech.com/medtech/smithnephew-held-failed-talks-jj-orthopaedics-biz-combination",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "Smith+Nephew held talks with Johnson & Johnson’s hip-and-knee replacement unit DePuy Synthes aimed at a potential combination with its orthopedics unit.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "88ba24e53fcf",
+   "source": "Fierce Biotech",
+   "title": "Minghui grants ASKA Japanese rights to sub-q TED candidate in $440M deal",
+   "link": "https://www.fiercebiotech.com/biotech/minghui-grants-aska-exclusive-japanese-rights-sub-q-ted-candidate-440m",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "China’s Minghui Pharmaceutical has licensed its late-stage thyroid eye disease candidate to ASKA Pharmaceutical for up to $440 million, granting the Japanese drugmaker exclusive development and commercialization rights in its home country.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "54b4dc9fda93",
+   "source": "Fierce Biotech",
+   "title": "Blackstone Life Sciences teams up with Boston Scientific in $455M heart pump deal",
+   "link": "https://www.fiercebiotech.com/medtech/blackstone-life-sciences-teams-boston-scientific-455m-heart-pump-deal",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "Blackstone Life Sciences has penned a $455 million collaboration with Boston Scientific to co-fund the development of the medtech’s next-generation miniature heart pump system.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "089e7eb33de6",
+   "source": "Fierce Biotech",
+   "title": "Boehringer returns to Sino Biopharma in $7.4B deal for preclinical TCEs, ADCs",
+   "link": "https://www.fiercebiotech.com/biotech/boehringer-returns-sino-biopharma-74b-deal-preclinical-tces-adcs",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "Boehringer Ingelheim has returned to China to satisfy its appetite for antibody-drug conjugates and T-cell engagers.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0b71f91138fb",
+   "source": "Fierce Biotech",
+   "title": "nPhase rakes in $30M to expand AI-native clinical data platform",
+   "link": "https://www.fiercebiotech.com/cro/nphase-rakes-30m-expand-ai-native-clinical-data-platform",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "Clinical research company nPhase has closed a $30 million series D financing round to expand its AI-native clinical data platform.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "46cb58fa782b",
+   "source": "Fierce Biotech",
+   "title": "AbbVie pens $1.4B deal for deprioritized IBD drug from Nxera",
+   "link": "https://www.fiercebiotech.com/biotech/abbvie-pens-14b-deal-deprioritized-ibd-drug-nxera",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "AbbVie has added another angle to its relationship with Nxera, with the Big Pharma paying $100 million upfront for a phase 1 inflammatory bowel disease candidate.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d29c4fafb615",
+   "source": "Fierce Biotech",
+   "title": "Ultragenyx shrinks workforce and axes assets to halve R&D spend",
+   "link": "https://www.fiercebiotech.com/biotech/ultragenyx-shrinks-workforce-and-axes-assets-halve-rd-spend",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "Ultragenyx is laying off 20% of its workforce and axing drug development programs to cut its annual R&D budget to half of the amount it spent in 2025.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "39b4724db844",
+   "source": "Fierce Biotech",
+   "title": "Servier’s $1.6B muscular dystrophy bet on Edgewise delivers quick-fire pivotal failure",
+   "link": "https://www.fiercebiotech.com/biotech/serviers-155b-muscular-dystrophy-bet-delivers-quick-fire-pivotal-failure",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "Servier’s decision to bet $1.55 billion on Edgewise Therapeutics’ muscular dystrophy program ahead of pivotal data has backfired. Five months after striking the deal, the French drugmaker has reported that a Becker muscular dystrophy trial missed its primary and secondary ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "354eda1e5efd",
+   "source": "Fierce Biotech",
+   "title": "Insulin pump maker MiniMed names David Segal chief medical officer",
+   "link": "https://www.fiercebiotech.com/medtech/diabetes-insulin-maker-minimed-hires-david-segal-new-chief-medical-officer",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "MiniMed has hired David Segal, M.D., as its new chief medical officer, bringing in a diabetes care and digital health veteran as the company enters its next chapter as an independent business.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "23f0a7107660",
+   "source": "Fierce Biotech",
+   "title": "GE HealthCare debuts ceiling-mounted AI image guidance system",
+   "link": "https://www.fiercebiotech.com/medtech/ge-healthcare-debuts-ceiling-mounted-ai-image-guidance-system",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "GE HealthCare has debuted Allia Celeo, a ceiling-mounted image guiding system, at the Transcatheter Cardiovascular Therapeutics (TCT) 2026 conference.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5877bd09da75",
+   "source": "Fierce Pharma",
+   "title": "Sanofi runs emotive RSV campaign zeroing in on a baby’s bronchiolitis breathing sounds",
+   "link": "https://www.fiercepharma.com/marketing/sanofi-runs-emotive-rsv-campaign-zeroing-babys-bronchiolitis-breathing-sounds",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "Would you know the difference between a normal cold and one that has turned into something more serious? Sanofi is raising awareness of bronchiolitis, a potential complication of RSV in young children, with a new a tough-to-watch PSA video.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "15e335470b12",
+   "source": "Fierce Pharma",
+   "title": "Samsung Bio union vows strike as labor negotiations stall",
+   "link": "https://www.fiercepharma.com/pharma/samsung-bio-union-vows-strike-labor-negotiations-stall",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "Samsung Biologics' labor negotiations have stalled out amid mounting tension between union members and management. In response, the union says 400 employees will strike starting November 6.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e1f1ef89a897",
+   "source": "Fierce Pharma",
+   "title": "Novo catches Wegovy pill tailwind in Q3 as CEO eyes new launch horizons in 2027",
+   "link": "https://www.fiercepharma.com/pharma/novo-catches-wegovy-pill-tailwind-q3-ceo-eyes-new-launch-horizons-2027",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "With a modest improvement to guidance and rosy launch expectations for 2027 girding a solid quarter for its GLP-1 franchise, Novo appears to be gradually winning back the confidence of some of its shareholders.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "34f0ff0c1608",
+   "source": "Fierce Pharma",
+   "title": "Madrigal’s former clinical development head files whistleblower lawsuit alleging Rezdiffra safety cover-up",
+   "link": "https://www.fiercepharma.com/pharma/madrigal-former-clinical-development-head-files-whistleblower-lawsuit-alleging-rezdiffra",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "Madrigal Pharmaceuticals is facing a whistleblower lawsuit alleging that senior leadership censored serious liver-injury data related to its breakthrough MASH drug Rezdiffra and retaliated against the firm’s top clinical development head who tried to sound the alarm.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "881af236c58a",
+   "source": "Fierce Pharma",
+   "title": "BMS Canada teams with TANK Worldwide, Ogilvy Health to turn autumn leaves into melanoma awareness campaign",
+   "link": "https://www.fiercepharma.com/marketing/bms-canada-teams-tank-worldwide-ogilvy-health-autumnal-melanoma-messaging",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "Bristol Myers Squibb Canada is partnering with TANK Worldwide and Ogilvy Health on a new “What Summer Leaves Behind” skin cancer awareness campaign.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4d2f68fad468",
+   "source": "Fierce Pharma",
+   "title": "Rising Stars: Publicis Health’s Ariel Rabinowitz knows what it takes to 'meet people where they are'",
+   "link": "https://www.fiercepharma.com/marketing/rising-stars-publicis-healths-ariel-rabinowitz",
+   "date": "2026-11-04T19:43:07.131087+00:00",
+   "snippet": "Publicis Health’s Ariel Rabinowitz learned lessons about health literacy, trust and access firsthand while teaching at a school in the Bronx.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a223bc73b81a",
+   "source": "Endpoints News",
+   "title": "Novo’s race to catch Eli Lilly may already be lost",
+   "link": "https://endpoints.news/novos-race-to-catch-eli-lilly-may-already-be-lost/",
+   "date": "2026-11-04T18:47:01+00:00",
+   "snippet": "A year ago, the rivalry between Eli Lilly and Novo was the fiercest in the industry. Now, it looks increasingly one-sided. The best evidence might be investors' reactions to each company's third-quarter results. Both stocks ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "60ce32ddcab9",
+   "source": "BioPharma Dive",
+   "title": "Sanofi stops development of Nurix-partnered immune drug",
+   "link": "https://www.biopharmadive.com/news/sanofi-discontinue-development-nurix-stat6-degrader-eczema/873697/",
+   "date": "2026-11-04T17:18:00+00:00",
+   "snippet": "The decision sparked a sell-off in Nurix shares as well as analyst debate about the prospects of drugs designed to degrade a tough-to-reach protein called STAT6.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bb9a6acc45de",
+   "source": "Google News: biosimilar",
+   "title": "Biocon banks on new biosimilar launches, insulin franchise to drive stronger H2 FY27 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa2xzYXVndTZtdDJFVDM0a19LRFB0TklHTWVkNmxCbjY4Z0p0dEpCOHpWRXRLc2lIWUx6V1JCbG80NWZQUUIzTUN6ZU50Zl91Xy1hdUxZQnFxdDlRZkhyRVJySXBXcFBFek00LUt5T19tWVRjTGdRMW52MmpFV1ZqcTBnRmdhUWRjbWVpVXl2QjBvU2dlb05OZ2pmZ2Zpakh1bDJvaDExd2V4cmo1NWlUMUw0dXc3VUZZd3M4MmRxb3hqamxWU0pCNUhBVDQwdjNlX2Vnb3ltcnBka2RocGpR?oc=5",
+   "date": "2026-11-04T16:23:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "1d027c55eab8",
+   "source": "BioPharma Dive",
+   "title": "Novo gets much-needed lift as Wegovy pill tops Wall Street forecasts",
+   "link": "https://www.biopharmadive.com/news/novo-wegovy-pill-sales-3q-2026-earnings-cfo/873693/",
+   "date": "2026-11-04T16:13:00+00:00",
+   "snippet": "The drug’s third-quarter sales numbers came in well above consensus estimates, widening Novo’s early edge over Eli Lilly in the latest battleground for weight loss medicines.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "18da05795244",
+   "source": "Endpoints News",
+   "title": "Sanofi ends development of Nurix's STAT6 degrader",
+   "link": "https://endpoints.news/sanofi-ends-development-of-nurixs-stat6-degrader/",
+   "date": "2026-11-04T16:05:02+00:00",
+   "snippet": "Sanofi is dropping an experimental drug targeting a pathway that many analysts see as a potential pillar of the next generation of immunology medicine. The company will no longer pursue the program known as SAR448272 ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a22780fdd4e6",
+   "source": "BioPharma Dive",
+   "title": "CVS to split into two companies in stunning strategic about-face",
+   "link": "https://www.biopharmadive.com/news/cvs-split-two-companies-strategic-about-face/873742/",
+   "date": "2026-11-04T15:47:46+00:00",
+   "snippet": "The breakup, which will separate Aetna and Caremark from CVS’ retail pharmacies, is an indictment of the dogma that bigger is always better in the healthcare industry.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ba36a2b9590e",
+   "source": "Endpoints News",
+   "title": "CVS to break up, splitting pharmacy business from insurance",
+   "link": "https://endpoints.news/cvs-to-break-up-splitting-pharmacy-business-from-insurance/",
+   "date": "2026-11-04T15:38:13+00:00",
+   "snippet": "CVS Health is splitting into two publicly traded companies as the healthcare giant fights rising costs, retail competition, regulatory scrutiny and other pressures. The first company, to be named CVS Health, will host its insurance ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "35c44c6c93d6",
+   "source": "Endpoints News",
+   "title": "China climbed biotech's worry list, while Big Pharma kept shopping",
+   "link": "https://endpoints.news/china-climbed-biotechs-worry-list-while-big-pharma-kept-shopping/",
+   "date": "2026-11-04T15:35:37+00:00",
+   "snippet": "In the months leading up to the Treasury Department's release of draft rules that would limit US investment in Chinese biopharma, the industry's view of China was already in a downward sentiment ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c1ff12c701df",
+   "source": "BioPharma Dive",
+   "title": "Biopharma likely to climb higher after ‘blue wave,’ analysts say",
+   "link": "https://www.biopharmadive.com/news/biotech-pharma-midterm-elections-impact/873667/",
+   "date": "2026-11-04T15:28:00+00:00",
+   "snippet": "Historical data suggests the sector outperforms after midterm elections. And Democrats, newly in control of Congress, have “bigger fish to fry” than drug pricing, analysts said.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "19f9da93cb0c",
+   "source": "Endpoints News",
+   "title": "First wave of #ASH26 abstracts is here, with data from J&J, Servier and AstraZeneca",
+   "link": "https://endpoints.news/first-wave-of-ash26-abstracts-is-here-with-data-from-jj-servier-and-astrazeneca/",
+   "date": "2026-11-04T14:42:50+00:00",
+   "snippet": "The American Society of Hematology's annual meeting is just a little over a month away. This year's edition will be in New Orleans, LA, and Endpoints News will be covering the meeting in person. For ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "00ab5f536cbf",
+   "source": "Endpoints News",
+   "title": "Spyre’s arthritis misses; Ideaya ends eye cancer trial",
+   "link": "https://endpoints.news/spyres-arthritis-misses-ideaya-ends-eye-cancer-trial/",
+   "date": "2026-11-04T14:39:42+00:00",
+   "snippet": "Plus news about United Therapeutics. Spyre Therapeutics reports additional trial failures: The biotech said its long-acting anti-TL1A drug, codenamed SPY072, did not meet the primary endpoints in the psoriatic arthritis or ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c240a0757b3c",
+   "source": "Google News: biosimilar",
+   "title": "Christine Johnston on why Medicaid leads in biosimilar adoption - Managed Healthcare Executive",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWF9pa1RUbkZHc1A4Xy1aY19qWkJhMnJDRmVWVDVQcXNlcERuZ3FTLXdTak83VzBSMGo1RGs2N3BtTG1zZWcyNWtBSGdUU0RPYkhRYnFTOTY0N0hNS1ZhOE5IUF9TQXR0YmZJWVB4ZmJDbXBoSXhlRy1zZldPUzEyS1gyazA5TmNuRGJRaFQ1ZUZnM05EbEFDMzdhX2RMMVFlVlJwV3hWVjg?oc=5",
+   "date": "2026-11-04T14:02:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "4a76c7128d24",
+   "source": "Endpoints News",
+   "title": "Boehringer Ingelheim strikes $7B backloaded ADC, TCE cancer deal with China's Sino",
+   "link": "https://endpoints.news/boehringer-ingelheim-strikes-7b-backloaded-adc-tce-cancer-deal-with-chinas-sino/",
+   "date": "2026-11-04T13:57:21+00:00",
+   "snippet": "Germany's Boehringer Ingelheim is further planting its stake in China, teaming up with Sino Biopharmaceutical in a cancer drug development deal that could balloon past $7 billion. Boehringer is delivering $358 million ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "96ebcbeba175",
+   "source": "Google News: biosimilar",
+   "title": "BIOCON: Stronger H2 outlook rests on biosimilar momentum, improving generics, and Syngene recovery - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPeFUzMlA3Z0Y0bS1oT2VjYkNxQ3RZbFB5OEFWVW4zRnBiX29ITzF4MkxILTB4M2ktaERHY0MxWG1hdGJ6NjhJNkF1MkxiNnVLX0J3cXlLX1VxMDZnSEN4aGV4N0pqWW1OOE80bUxBV0Y5ZDZrU3VlUWdFOXBKcW83OGVmTm5XNklnelVpTERTRHhfTHpITl9NVTJNZi0wTFF2T0NnbVpfSGJMeF9BR2NMc3VVMnRfTWtlZlQ1a3pxQXlVd1FzcjJ5WmNsYzdXQXZlUkhhd2hQTWw5azItSHlFay0weFp5a0liVUVMU1FUMF9lMFdKcDB3UGZ6b25EdDRsRjZXemwzT0VsdnR1Rm00?oc=5",
+   "date": "2026-11-04T13:43:59+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "29bff3943794",
+   "source": "Google News: biosimilar",
+   "title": "Amgen lifts 2026 outlook as Repatha and Imdelltra offset biosimilar hit to Prolia - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVJieHJESU16TmFoMUg2LTFfNy1tejlKZUZSS2liQVctT0NPN0g2R2stRlp3VmIwMUFrTlpLMHo5eUhkYW1KdzlkeFZEV2o5V0dHWXhZeEJPQVlESVozcXpPdkxkY29WcnRmWU0xSlpQdktidzRNUk5wenZfQ3U1SFlHSWJkcDhIeE1hMFZ3MVA0Q2lsVEtrUFNrMjUzVmRQSjVNSEJDSFdINFNISTAyYnZLTG1KWXBjcFZFMUhzMzA0NjhI?oc=5",
+   "date": "2026-11-04T12:44:18+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "bdef8ce7dafe",
+   "source": "Google News: biosimilar",
+   "title": "AMGN Stock Down Despite Q3 Earnings & Sales Beat, Raised Guidance - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1Y4NjJRSzZTanFjUWoxNEJDX0xhbF9QRWNlWDJZZHFnVVZzaUJvLWZ1OWpRZTRBYWxVREdaSlY1aXljWUdWanJTTzF4bGRZTGt3ODBxRDBlQ1kzbi1BUm80UzNfcTIzVEFJc0VSQ3gyTEFQc3BPMDZHOUQ0REVPWU4yWUwzcmdHSFkwY293c0hEYnZyZWNQYXNjeU9lUWxvVmttaGRMLW5CVHFMMUJrX01aR0FpY2pDT0E?oc=5",
+   "date": "2026-11-04T12:19:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "7f9b6d49d41b",
+   "source": "Endpoints News",
+   "title": "Novo won't launch CagriSema in Europe for 'a couple of years,' CFO says",
+   "link": "https://endpoints.news/novo-wont-launch-cagrisema-in-europe-for-a-couple-of-years-cfo-says/",
+   "date": "2026-11-04T12:03:29+00:00",
+   "snippet": "Novo won't launch its big obesity hope CagriSema in Europe for another “couple of years,” Novo’s outgoing CFO Karsten Munk Knudsen told Endpoints News in a Wednesday interview. “For CagriSema, the clear ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "82df3b87bc5e",
+   "source": "Endpoints News",
+   "title": "AbbVie bets up to $1.47B on Nxera's gut-targeting IBD program",
+   "link": "https://endpoints.news/abbvie-bets-up-to-1-47b-on-nxeras-gut-targeting-ibd-program/",
+   "date": "2026-11-04T11:47:26+00:00",
+   "snippet": "AbbVie is licensing Nxera Pharma’s EP4 receptor agonist program for $100 million upfront, with up to $1.37 billion at stake in development and commercial milestones. Through its UK subsidiary, Tokyo-based Nxera will hand over global ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c5c87ed49c91",
+   "source": "Google News: biosimilar",
+   "title": "ACT Brief: Community Research Financing Gaps, Neuroscience Endpoint Data, and Teva’s Biosimilar Deal - Applied Clinical Trials Online",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdVZleUg4VGgyVVg0ZDZNbk16Z1UzeHdnUTVZdFcyVF9aOWpSckdkOGF1YTFvVDUzQ2M5OWU2RWZmdzVDM1BUVTZVWFlyUHBheVBBbFN3dWFucU1hcUhqZ3NnZ2pkSWZfR3hYdkhGZE9LXzhPei1RQ2kwU201TWtzdGFWSllSOHBRMjJkc2pGdEZIRTJkUFFscDVvYTlzUVdOcnBHT052bWdFeUNJYmVFOHVhWU1fVy05enZKeEpNNGJrcHlkMWxNQklB?oc=5",
+   "date": "2026-11-04T11:43:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
+  },
   {
    "id": "902ff4326f37",
    "source": "Fierce Biotech",
@@ -134,6 +510,16 @@
     "Samsung Bioepis",
     "Teva"
    ]
+  },
+  {
+   "id": "bf9e7ffbde29",
+   "source": "Google News: biosimilar",
+   "title": "Neion Bio Hires BioMarin Veteran John Maga to Take Its Egg-Based Platform Beyond Biosimilars - SynBioBeta",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPanc0U3h6RHB0NFdKdFJ4cGh3NUFKNDlDVlRUb0NfajlyTEN1WDl6X09PWUlVMlJsaVllblZwcFpfZ1Z5VjRIWkthbGJVZldTNHN5NFJSZEY4d0EwekxZUUEzay1PYjh0cTFUQUdkVzNyTHZzNDRrSGU5Uk8tdmpPWEp4YmJBdlU0anF6czgyeGEzM0FORlJob2hSREJoMmIwczd2enpUVllqamtvRzN3Rm1rY25EZmxVSEVIdW55czl4QQ?oc=5",
+   "date": "2026-11-04T00:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "1e4fdc91c62d",
@@ -515,6 +901,19 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "75f99d4d4c2b",
+   "source": "Google News: biosimilar",
+   "title": "Teva, Samsung Bioepis ink deal for Remicade, Enbrel biosimilars - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN1BNdVZ3enY5X0xwVDJmVS1MSFRnNThkZFk2RE5NQVE1LVhHVTF1ZGZlTEl2cDVGSjlPRWRtUDJKV3hRME1FbHZwYi1nSTJ3WEZRbFROWjdoLUVVemdYSXFjZVVWTDBKWEFVV0FRRmNFVFhFb2QzVC1xQVpxUDVvWEtkVDZUdDEwbHZR?oc=5",
+   "date": "2026-11-03T13:18:31+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
   },
   {
    "id": "37ab08fbddfe",
@@ -1158,6 +1557,16 @@
    "title": "Samchundang Pharm Swaps Japan Sales Network for Eylea Biosimilar, Secures Marketing Authorization in Its Own Name - BigGo Finance",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RcnRhZ1dEN1JHVlF0bVUzdkprMTR3V0ZPbEtBZHFRTHFDSTF4NzMtcjJYWDV3UHhnclBWanJZdF9JdjkyUkhmQ1dRaURiSWtualE3U0l6Mkl2MjFHaGMzSXlRMFNicld0dmtyT3lGZURzWVNtdWc?oc=5",
    "date": "2026-11-02T09:35:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "c8afe37d4e41",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius signs biosimilars pipeline agreement with WuXi Biologics - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONjJHMmQ1bkc2eDMyRDRXa2VRM05XOGNvTnpzSXprV1htQThHekFIWE1GM1d6a281akxuT0dvT0o5V3FxTWc2YWtzbjQxSHJlVnNwTndPZ1ptX21nRWhPTW5oRDFfNXpTUHl6WUxpcWIzVm5aWnlaX3R0aEpXVGN0UnlzcVk5aDFDaGpxLXptejk3X1RuZnljMUo0S005Tlh6UGJ4RVh5SHltXzJwTUJLOHhMdlB3cGNlNDU4bDMtU0Vxa3h0LUs4NEVSc2JMWXVfeVlJZzRhQkjSAd4BQVVfeXFMTlNGVmNHRkl2LUx5QjhZVVBCVGtzbFJoLUF3bF9IaVdjdjlwN2toLWhRMVM5dkR1dHZfbUFNUWhnY3g5SWhwR2o2UFotODJxbmhNUlpESWpWYzBTZnljMVU1dzVMcWdDMXV1UmRWZDdoRlRaR3VWd1h4YWxtTkc0S2tpT0ZWWk5wclo1YVhkTnh6SDlnc0FXcWt6X3dsZkNGaFE2THJ5N1RNdDFkMk81X1VYUGU0b1VDVk12Q1BOQzQzQnpTTFNXZmhPUEpNXzFka2xncHVRbk56bWdrMGJn?oc=5",
+   "date": "2026-11-02T08:21:23+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
