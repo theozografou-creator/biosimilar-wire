@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T01:27:07.710220+00:00",
+ "updated": "2026-11-05T10:50:00.370965+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": ""
   },
   {
@@ -53,6 +53,66 @@
  ],
  "items": [
   {
+   "id": "e04720cdbe69",
+   "source": "Fierce Biotech",
+   "title": "T-Therapeutics raises $133M series B for bispecific pipeline with Big Pharma backers in tow",
+   "link": "https://www.fiercebiotech.com/biotech/t-therapeutics-raises-133m-series-b-big-pharma-backers-tow",
+   "date": "2026-11-05T10:50:00.370965+00:00",
+   "snippet": "T-Therapeutics has pulled in a $133 million series B financing round that will be used to fund the biotech’s lineup of T cell receptor CD3 bispecific drug candidates.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "02149fe235a4",
+   "source": "Fierce Biotech",
+   "title": "Cloudbreak posts phase 3 eye disease win amid IPO storm",
+   "link": "https://www.fiercebiotech.com/biotech/cloudbreak-posts-phase-3-eye-disease-win-amid-ipo-storm",
+   "date": "2026-11-05T10:50:00.370965+00:00",
+   "snippet": "A phase 3 study of Cloudbreak Pharma’s eye disease drug candidate has hit its co-primary endpoints, boosting a biotech embroiled in an IPO investigation.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4c1242567155",
+   "source": "Endpoints News",
+   "title": "Alethio clinches $90M to advance antibody for essential thrombocythemia",
+   "link": "https://endpoints.news/alethio-clinches-90m-to-advance-antibody-for-essential-thrombocythemia/",
+   "date": "2026-11-05T08:00:50+00:00",
+   "snippet": "About a year after emerging from stealth, University of Oxford spinout Alethio Therapeutics has collected $90 million in a Series A raise to support its lead rare blood cancer program through ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0ce41ec542ca",
+   "source": "BioPharma Dive",
+   "title": "Alethio raises $90M to target rare blood cancers",
+   "link": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
+   "date": "2026-11-05T08:00:00+00:00",
+   "snippet": "The startup is working on a medicine one of its investors claimed could have a broader reach than other approved drugs for a group of conditions known as myeloproliferative neoplasms.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9fb642c4d399",
+   "source": "Endpoints News",
+   "title": "T-Therapeutics secures $133M for cancer, autoimmune TCRs",
+   "link": "https://endpoints.news/t-therapeutics-secures-133m-for-cancer-autoimmune-tcrs/",
+   "date": "2026-11-05T07:00:00+00:00",
+   "snippet": "Johnson & Johnson, Merck KGaA and Eli Lilly are joining Sanofi in backing a UK biotech working on T cell receptors for autoimmune conditions and cancer. The pharma companies or their corporate ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a57ab799efbf",
+   "source": "Google News: biosimilar",
+   "title": "Key facts: Fresenius raises EPS guidance; top-three biosimilar goal - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRVlHbk1aaGpkV2ZCbDZUZWd1UXZ3RVVBRWxXWGJmOFVnYWgxdXljVkxKZEZmeEhTdW9fOHhtLXp5NFFZbjA0bzFGbm1Id0l3bGhMWU9Dd0lpT2YxbzFOdUtDMUx1ME9OU1RiWWFtY3FSMXJOMnpJMkdFS3N4YUVMeHpPQ1lSYmY0UFVRcHZhQVcwYUdPTXRmdEd6MWFRMDJiRWJ2VWVQZjZhdzIxNWw3WDdtZGFOUjgxNnlrS2E4aWs0dEJtQkE?oc=5",
+   "date": "2026-11-05T06:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "b4092f3b40c0",
    "source": "Fierce Pharma",
    "title": "With oncology pipeline at ‘inflection point,’ Merck puts finish line in focus with new corporate campaign",
@@ -68,6 +128,16 @@
    "title": "FDA official urges sponsors to use alternatives to clinical efficacy studies for biosimilars - RAPS",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR25vMXR3cDJqTWI2Y0pQN3lIMjg0NzBldDZPWHZLVWpwVmFuc3N6c19iUnhQZ3h2X1pOelZXMWFBT2FDMUhPYUdwaUxtN3UtNmwzd3NaY25pSXZxT3FaNE10SEhVZmwyVzE1NnZ4cU12MFpjX21kUFJwVFlKdjNvTW1FWHI1ckluTzdlQTVJcTFVX1pVM3pHRnFNWXBmRGNTc2pkV3p3WDlRdExCc2JYUjIwVUNQaGNYN0o5VllSaEp0LS04RWc?oc=5",
    "date": "2026-11-04T22:37:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "9c6a0ef93b6c",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - WBOC TV",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYXJwc3JhUF8wQlJSc1pBY1RQeE1DdnZSRjNWWklYMkU5SmdpNlBYUnhfVTZ4ckszUFJvOTg1em9lbnNUNW9aaW9WVklHRmxlU1kwS0c2NXJGclJBZkNTaWVQenJWaGF2ejJ1TFd2b20yaHVDVEM4TjN0WE5JNTFFQkFDbXNXNUpVeVZjSGQyTEJxLXNvS2YwenhBODU3N3ZLMmx0dGQ5SFZkenVnNFVHbFNCYjlRNmEySGx0Rm0wSWs3a3hPQ1lVVzlseTlKRUNiYmp1bUc1Z1ktdEJHcFRPYjc2YS1tNm83SW9UR295UUNDS2J1aHJNTXBWaGVxOWNZX043VS1nOGU?oc=5",
+   "date": "2026-11-04T22:02:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -1177,6 +1247,16 @@
    "date": "2026-11-02T19:43:03+00:00",
    "snippet": "AbbVie has agreed to a discovery and commercialization deal with Brise Pharma for two preclinical migraine programs. The Beijing-based partner said Monday the agreement actually stemmed from 2024. An investor relations ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5e22c5911844",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves ranibizumab biosimilar Lucamzi for wet AMD - Optometry Times",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWjlpVzBSaUVyaXJOOUtKdmF1UGh5Tm9OR242OHB6SnlGbXdDZjh2dnlpN3pISWJXeklER0lHZVY2akkxSEozSTRxVmpxTFpZc0RpOWhnSTN5Szkzb28xOFRLWjJvNTdBVE55ZVJpM2Zfc280WmJ3WUhmSFJSdWtHb3VEWGV0WTNMQjBSMVpiaWM?oc=5",
+   "date": "2026-11-02T19:25:58+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
