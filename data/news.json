@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:43:07.131087+00:00",
+ "updated": "2026-11-05T01:27:07.710220+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,36 @@
   }
  ],
  "items": [
+  {
+   "id": "b4092f3b40c0",
+   "source": "Fierce Pharma",
+   "title": "With oncology pipeline at ‘inflection point,’ Merck puts finish line in focus with new corporate campaign",
+   "link": "https://www.fiercepharma.com/marketing/oncology-pipeline-inflection-point-merck-maps-out-finish-line-focus-new-corporate",
+   "date": "2026-11-05T01:27:07.710220+00:00",
+   "snippet": "In “From Our Pipeline to the Finish Line,” Merck highlights its vision of a cancer-free future and the role it hopes its pipeline will play in achieving that goal.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e66a0bddcb7d",
+   "source": "Google News: biosimilar",
+   "title": "FDA official urges sponsors to use alternatives to clinical efficacy studies for biosimilars - RAPS",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR25vMXR3cDJqTWI2Y0pQN3lIMjg0NzBldDZPWHZLVWpwVmFuc3N6c19iUnhQZ3h2X1pOelZXMWFBT2FDMUhPYUdwaUxtN3UtNmwzd3NaY25pSXZxT3FaNE10SEhVZmwyVzE1NnZ4cU12MFpjX21kUFJwVFlKdjNvTW1FWHI1ckluTzdlQTVJcTFVX1pVM3pHRnFNWXBmRGNTc2pkV3p3WDlRdExCc2JYUjIwVUNQaGNYN0o5VllSaEp0LS04RWc?oc=5",
+   "date": "2026-11-04T22:37:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "e72c0e7b7765",
+   "source": "Endpoints News",
+   "title": "Kamau shares first data from revamped sickle cell gene editing therapy",
+   "link": "https://endpoints.news/kamau-shares-first-data-from-revamped-sickle-cell-gene-editing-therapy/",
+   "date": "2026-11-04T20:05:28+00:00",
+   "snippet": "Kamau Therapeutics, which has stayed relatively quiet since its 2023 emergence, is sharing clinical data from its revamped sickle cell gene editing program for the first time. The startup is giving a ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "98c51c72882d",
    "source": "Fierce Biotech",
@@ -392,6 +422,16 @@
    "title": "AMGN Stock Down Despite Q3 Earnings & Sales Beat, Raised Guidance - TradingView",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1Y4NjJRSzZTanFjUWoxNEJDX0xhbF9QRWNlWDJZZHFnVVZzaUJvLWZ1OWpRZTRBYWxVREdaSlY1aXljWUdWanJTTzF4bGRZTGt3ODBxRDBlQ1kzbi1BUm80UzNfcTIzVEFJc0VSQ3gyTEFQc3BPMDZHOUQ0REVPWU4yWUwzcmdHSFkwY293c0hEYnZyZWNQYXNjeU9lUWxvVmttaGRMLW5CVHFMMUJrX01aR0FpY2pDT0E?oc=5",
    "date": "2026-11-04T12:19:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "25484158c780",
+   "source": "Google News: biosimilar",
+   "title": "EyeDock debuts AI clinical assistant for ECPs - Glance by Eyes On Eyecare",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2J4NnY5bkRkUlNxUHZzeWxEZ2VkbFhBdjY1UmxzSE1wQS13dFNsd3VQb3dvTXJzbzBNc0JOSmZoZUdiMDlQcXpFVjE1dk9NZjBsVFNxbFBIalF6RXlmNktsNkVyMXhvWENvdElSM1Z4NUwwWjlNNS1tTEtnczh4S2Q3cWh2TzlDVllMTk00WnlzMm8yUXRPR0tRTUZpM3c?oc=5",
+   "date": "2026-11-04T12:14:06+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -7357,6 +7397,20 @@
    "biosimilar": true,
    "watch": [
     "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "4793bbb42046",
+   "source": "GaBI Online",
+   "title": "Biosimilar race: Sandoz expands pipeline with Henlius, Teva secures ocrelizumab candidate - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU3dRdEM5QmEzeURKRklpam5zSDk5UDFWeWNQQzNld2ZxZHh6RXRYRUNvNlUtXzVFQThFcjlBaWJlb2hjQmpNVHhhR3h2TE1objVSOFdxVk96Q18tbEhZdkhvdUxWUHZSbmxCUGlaOGhEeEJpdXVBRXFJb1NLdm9seEowQ2ZKOERvd1Z1alJydGRHd3cyRTdKaS02UkQ5QXdmZkQ0TmI5UllGNVNZSkgwWEhPaExpTnh6em0xa0ktZw?oc=5",
+   "date": "2026-10-20T10:25:12+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz",
+    "Henlius",
+    "Teva"
    ]
   },
   {
