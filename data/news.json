@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T10:50:00.370965+00:00",
+ "updated": "2026-11-05T19:54:41.981869+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,236 @@
  ],
  "items": [
   {
+   "id": "e9a0539daa4c",
+   "source": "Fierce Biotech",
+   "title": "Rezera revs up for $181M IPO to fund phase 3 trial of NLRP3 inhibitor",
+   "link": "https://www.fiercebiotech.com/biotech/rezera-revs-181m-ipo-fund-phase-3-trial-nlrp3-inhibitor",
+   "date": "2026-11-05T19:54:41.981869+00:00",
+   "snippet": "Rezera—the new name for NodThera—is aiming for a $181 million IPO to take its NLRP3 inhibitor into phase 3 trials for a cardiovascular disease.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a2d74786959d",
+   "source": "Fierce Biotech",
+   "title": "MetaVia sees GLP-1 shed liver fat and body weight in phase 1, takes aim at specific liver disease",
+   "link": "https://www.fiercebiotech.com/biotech/metavias-glp-1-sheds-liver-fat-and-body-weight-phase-1-fails-wow-investors",
+   "date": "2026-11-05T19:54:41.981869+00:00",
+   "snippet": "MetaVia has linked its GLP-1/glucagon receptor agonist to reductions in liver fat and body weight in a phase 1 trial. Encouraged by the data, MetaVia plans to start a phase 2 trial in alcohol-associated liver disease next year.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "85101ab8f79e",
+   "source": "Fierce Biotech",
+   "title": "AstraZeneca said to offer $10B to acquire Rhythm, analysts whisper of a bidding war",
+   "link": "https://www.fiercebiotech.com/pharma/astrazeneca-offers-10b-acquire-rhythm-analysts-whisper-bidding-war",
+   "date": "2026-11-05T19:54:41.981869+00:00",
+   "snippet": "AstraZeneca has made a roughly $10 billion offer to purchase rare obesity disease player Rhythm Pharmaceuticals, The Wall Street Journal reports. At least three teams of analysts suggest a bidding war could be brewing and that Rhythm is unlikely to settle for AZ’s current pitch.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fdc732fce536",
+   "source": "Fierce Biotech",
+   "title": "Agios aims to shed over 100 R&D roles this year ahead of hoped-for sickle cell disease approval",
+   "link": "https://www.fiercebiotech.com/biotech/agios-aims-shed-100-rd-roles-year-ahead-hoped-scd-approval",
+   "date": "2026-11-05T19:54:41.981869+00:00",
+   "snippet": "Agios Pharmaceuticals has been shrinking its R&D headcount over the course of 2026 as the commercial-stage company looks to eliminate more than 100 roles by year-end.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f12e1db0df6c",
+   "source": "Fierce Biotech",
+   "title": "Cash-strapped Vivoryon regains China rights to kidney disease prospect from Simcere",
+   "link": "https://www.fiercebiotech.com/biotech/cash-strapped-vivoryon-regains-china-rights-kidney-disease-prospect-simcere",
+   "date": "2026-11-05T19:54:41.981869+00:00",
+   "snippet": "Vivoryon Therapeutics has regained the China rights to its kidney disease prospect as the German biotech’s cash reserves begin to dry up.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "145d7ea180e7",
+   "source": "Fierce Biotech",
+   "title": "Evommune signs $1B deal with China’s Hinova to enter same molecular glue niche as Novartis",
+   "link": "https://www.fiercebiotech.com/biotech/evommune-signs-1b-deal-chinas-hinova-enter-same-molecular-glue-space-novartis",
+   "date": "2026-11-05T19:54:41.981869+00:00",
+   "snippet": "Evommune has paid $30 million to China’s Hinova Pharmaceuticals to get stuck into a niche of preclinical molecular glue degrader development that’s also being pursued by Novartis.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3e39974a9c9d",
+   "source": "Fierce Pharma",
+   "title": "ANI makes $560M play for Egetis and its approved orphan drug Emcitate",
+   "link": "https://www.fiercepharma.com/pharma/ani-makes-560m-play-egetis-and-its-orphan-drug-emcitate",
+   "date": "2026-11-05T19:54:41.981869+00:00",
+   "snippet": "ANI Pharmaceuticals is handing over $560 million to expand its rare disease business with the proposed buyout of Swedish drugmaker Egetis Therapeutics and its lead asset Emcitate, the first and only approved treatment for MCT8 deficiency.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f7d2b05d1053",
+   "source": "Fierce Pharma",
+   "title": "RevMed’s Rasonque debut nets ‘eye-popping’ $198M in 5 weeks, even as exec tempers expectations",
+   "link": "https://www.fiercepharma.com/pharma/revmed-wows-analysts-eye-popping-rasonque-debut-even-management-tempers-expectations",
+   "date": "2026-11-05T19:54:41.981869+00:00",
+   "snippet": "After roughly one month on the market, Revolution Medicines’ RAS inhibitor daraxonrasib is living up to its much-hyped potential, with an initial sales performance that more than one group of analysts considers “eye-popping.”",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "47ad39bfde0d",
+   "source": "Fierce Pharma",
+   "title": "Boehringer Ingelheim brings liver health education push to the NASCAR fast lane",
+   "link": "https://www.fiercepharma.com/marketing/boehringer-ingelheim-brings-liver-health-education-push-nascar-fast-lane",
+   "date": "2026-11-05T19:54:41.981869+00:00",
+   "snippet": "\"Driving Good Health\" takes liver disease awareness to three NASCAR races this fall, with the last coming up at the Homestead-Miami Speedway Nov. 6 weekend.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c30fa5cbf5bf",
+   "source": "Fierce Pharma",
+   "title": "VintaBio assets go on auction block as CGT viral vector demand slows",
+   "link": "https://www.fiercepharma.com/manufacturing/vintabio-assets-go-auction-block-cgt-production-sector-slows",
+   "date": "2026-11-05T19:54:41.981869+00:00",
+   "snippet": "VintaBio, which debuted in 2023 as a CDMO focused on cranking out viral vectors for cell and gene therapy production, is having its manufacturing facility and intellectual property put up for sale.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "15cecb970ffc",
+   "source": "Fierce Pharma",
+   "title": "AstraZeneca said to offer $10B to acquire Rhythm, analysts whisper of a bidding war",
+   "link": "https://www.fiercepharma.com/pharma/astrazeneca-offers-10b-acquire-rhythm-analysts-whisper-bidding-war",
+   "date": "2026-11-05T19:54:41.981869+00:00",
+   "snippet": "AstraZeneca has made a roughly $10 billion offer to purchase rare obesity disease player Rhythm Pharmaceuticals, The Wall Street Journal reports. At least three teams of analysts suggest a bidding war could be brewing and that Rhythm is unlikely to settle for AZ’s current pitch.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "134cccc0fedc",
+   "source": "Fierce Pharma",
+   "title": "Agios aims to shed over 100 R&D roles this year ahead of hoped-for sickle cell disease approval",
+   "link": "https://www.fiercepharma.com/biotech/agios-aims-shed-100-rd-roles-year-ahead-hoped-scd-approval",
+   "date": "2026-11-05T19:54:41.981869+00:00",
+   "snippet": "Agios Pharmaceuticals has been shrinking its R&D headcount over the course of 2026 as the commercial-stage company looks to eliminate more than 100 roles by year-end.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ff1b49ebba4d",
+   "source": "Fierce Pharma",
+   "title": "Alnylam seeks new commercial leader as Tolga Tanguler exits amid faltering Amvuttra trajectory",
+   "link": "https://www.fiercepharma.com/marketing/alnylam-seeks-new-commercial-leader-tolga-tanguler-hits-exit-amid-faltering-amvuttra",
+   "date": "2026-11-05T19:54:41.981869+00:00",
+   "snippet": "Alnylam Pharmaceuticals is seeking a new chief commercial officer as the biopharma announced that its six-year CCO veteran, Tolga Tanguler, is leaving the company.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "00413350b90d",
+   "source": "Fierce Pharma",
+   "title": "Vanda drives straight into FDA trouble with fast-paced Nereus ad",
+   "link": "https://www.fiercepharma.com/marketing/vanda-drives-straight-fda-trouble-fast-paced-nereus-ad",
+   "date": "2026-11-05T19:54:41.981869+00:00",
+   "snippet": "Vanda Pharmaceuticals’ action-packed TV ad for motion-sickness drug Nereus has irked the FDA, which accused (PDF) the company of creating a misleading impression of the drug’s safety and effectiveness.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "910b442c6a16",
+   "source": "Endpoints News",
+   "title": "Head of family physician group seeks ACIP 'guardrails'",
+   "link": "https://endpoints.news/head-of-family-physician-group-seeks-acip-guardrails/",
+   "date": "2026-11-05T19:19:22+00:00",
+   "snippet": "After more than a year of turmoil for CDC’s panel of vaccine experts, one external member is calling on Congress to fortify it. Shawn Martin, CEO of the American Academy of Family Physicians, plans to ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "37f0b0a95ff3",
+   "source": "BioPharma Dive",
+   "title": "At ASH, drugmakers to showcase early data for three-pronged cancer therapies",
+   "link": "https://www.biopharmadive.com/news/ash-2026-trispecific-multiple-myeloma-johnson-johnson-abbvie/873852/",
+   "date": "2026-11-05T17:09:00+00:00",
+   "snippet": "J&J and AbbVie are among the companies advancing “trispecific” antibodies that could become another step forward in treatment for multiple myeloma.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2cce21382bfd",
+   "source": "BioPharma Dive",
+   "title": "Revolution’s Rasonque off to best cancer drug launch ‘in history’",
+   "link": "https://www.biopharmadive.com/news/revolution-rasonque-sales-3q-2026-pancreatic-cancer/873839/",
+   "date": "2026-11-05T16:21:00+00:00",
+   "snippet": "Wall Street analysts are already resetting projections for Rasonque — but company executives cautioned that it’s too early to draw conclusions about the pancreatic cancer drug’s launch trajectory.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "44c9ede9e622",
+   "source": "Endpoints News",
+   "title": "Rasonque sales drive RevMed's stock; whistleblower sues Madrigal over MASH",
+   "link": "https://endpoints.news/rasonque-sales-drive-up-revmeds-stock-whistleblower-sues-madrigal-over-mash/",
+   "date": "2026-11-05T15:59:19+00:00",
+   "snippet": "Plus news about Rezera, ANI Pharmaceuticals, Cloudbreak Pharma and Anaheim Bio. RevMed’s stock jumps on early Rasonque sales: The RAS drug developer reported sales of its pancreatic cancer therapy Rasonque for the first time, netting ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fe1ccde23466",
+   "source": "Endpoints News",
+   "title": "Caldera, Evommune sign China licensing deals for autoimmune drugs",
+   "link": "https://endpoints.news/caldera-evommune-sign-china-licensing-deals-for-autoimmune-drugs/",
+   "date": "2026-11-05T15:27:30+00:00",
+   "snippet": "The biopharma industry was already on pace for one China deal per week for the entire year. Now, another two biotechs have snagged assets from the world's busiest shopping mall for new ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2db94da07b3b",
+   "source": "Endpoints News",
+   "title": "#AASLD26: Merck unwraps biopsy data for MASH drug it got from South Korea's Hanmi",
+   "link": "https://endpoints.news/aasld26-merck-unwraps-mash-biopsy-data-for-drug-it-got-from-south-koreas-hanmi/",
+   "date": "2026-11-05T15:00:22+00:00",
+   "snippet": "Merck reported Thursday its dual GLP-1/glucagon agonist cleared a mid-stage trial in the liver disease called MASH, sharing biopsy data on a drug it licensed from Hanmi Pharmaceutical in 2020 for $10 ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "90417c2e05cc",
+   "source": "Endpoints News",
+   "title": "Ellipsis Health buys Kouper Health to act on AI voice calls",
+   "link": "https://endpoints.news/ellipsis-health-buys-kouper-health-to-act-on-ai-voice-calls/",
+   "date": "2026-11-05T14:00:40+00:00",
+   "snippet": "Ellipsis Health, a startup developing voice AI for healthcare, has acquired another company as demand for AI that can call patients heats up, Endpoints News learned exclusively. Ellipsis, which uses voice AI to screen and ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7f3c83b7c28d",
+   "source": "BioPharma Dive",
+   "title": "T-Therapeutics reloads with a $133M megaround for bispecifics",
+   "link": "https://www.biopharmadive.com/news/t-therapeutics-series-b-tces-bispecifics-cancer-autoimmune/873786/",
+   "date": "2026-11-05T12:52:00+00:00",
+   "snippet": "The startup is built around technology it claims can help get after known, but undruggable cancer targets and design particularly selective autoimmune disease treatments.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d3b4ef7c1a49",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius and WuXi Biologics announce agreement to expand biosimilars pipeline - PMLiVE",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZU5taktlVFJyZW81SVhSbk9lUnQ4RG1CdVllMnB4eXdiRjRuYU5QbGQ0cEFxdXdoQUxGeFBveTZaWkx4TlEyWmVCS04tbXAzeEhFQUZVY213cHNKQkpUd053YzhFYl9WWGFNbnFjNzVnN1BIb1UyY0ZNNng3UTBSUG83VkQweXA2RV9VamYyS0tYdTdBY3ItS20xaXBwR2VqcWpfLW95REVYbW5EVmdz?oc=5",
+   "date": "2026-11-05T11:59:32+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "e04720cdbe69",
    "source": "Fierce Biotech",
    "title": "T-Therapeutics raises $133M series B for bispecific pipeline with Big Pharma backers in tow",
@@ -100,6 +330,16 @@
    "date": "2026-11-05T07:00:00+00:00",
    "snippet": "Johnson & Johnson, Merck KGaA and Eli Lilly are joining Sanofi in backing a UK biotech working on T cell receptors for autoimmune conditions and cancer. The pharma companies or their corporate ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "035b017ebd94",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius, WuXi Biologics Strike 37-Biosimilar Deal - Zenopa",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcDlucjJtN1hkTjdWTTN3YTRscUxHRWMwZUI0bkVPTHVuU2lXX3pkQzFxNnU0N0NzdHZiYUpZRzhITHJCRXl5MVBRZHRYY2kxZVB6a1lqcEZWa2VVQ3lVczV1eXFCei0zdzU0cE9hN2pVTFpEQVZIVW1VUjdKblRHTkNIaw?oc=5",
+   "date": "2026-11-05T06:44:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -365,6 +605,18 @@
    ]
   },
   {
+   "id": "97f976b5b0b3",
+   "source": "Google News: biosimilar",
+   "title": "Biocon banks on new biosimilar launches, insulin franchise to drive stronger H2 FY27 - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc1pNQUNrVk5WODlyVk5kaXlQRlMyWjBLcVJmNTdwZFN4eXhfdzJ4Mm1LN1RSSTVKZHcxSFZjRkJVWU5WeE95SWRvd1NPcUdrbTk5OVpfS3hZeVQ1bzZYR3JhY1ROdmtTNVctY2I2ZTFWeXVtLWdGSWFGTk02NVpMUTBYdXlhdFktbjZ2WERQUEpoYV9yeWUyaGM4bzdIWmhiWnlZRnhHdG1xUXNiZWJvRmE0U1k0djE3QjZNeVRBNlRubG9zcU50MEpuZGg2TXd4RDBqYy1kczUxMkxDT3lWQVFKNNIB6AFBVV95cUxNNE9zRWtydTR1MnRJSkl5UlNaVXVvM0xSTDZ6WWNpdDFaaUl3NVg2UTVIQlI0eWUtSzJmZ2I1ZzNjRTFSWHFtNHB6OE1ZSFdUT1NKWVQ5ZUpzY2U5WHpNLThDZXpEdUUzV3c3bC16NmNLMkJBRnZWVmtkN2RtelY1VFhreWZ6TzFIXzd6ZlpVR0wtb2VOWks3T2JiMndRR1o0aGszRHh2U0wzYUZkNUg0cnBOdGdvQVBYS2pySGxFWk9Pd0VNSVowTzJmbWVPZVFORGtGYkx2a3RjTXJ5NnlaSHV4VDFmdVFG?oc=5",
+   "date": "2026-11-04T16:23:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "1d027c55eab8",
    "source": "BioPharma Dive",
    "title": "Novo gets much-needed lift as Wegovy pill tops Wall Street forecasts",
@@ -607,6 +859,19 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "c6be05d584f8",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis signs $420 mn U.S. biosimilar deal with Teva - 매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iaTMxTi12WlNDdkNRNWE3VEI0bmxsQ1oxMkVOOTAxUWljMjlCaHZDVHVzODc1a0x6NklOR2p4YkJTUFVTNUhZVV84WVcxTzlhQ0ZNOU9pWQ?oc=5",
+   "date": "2026-11-04T05:36:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
   },
   {
    "id": "425a97a6456c",
@@ -1117,6 +1382,18 @@
    "biosimilar": true,
    "watch": [
     "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
+   "id": "7ce3dc226bad",
+   "source": "Google News: biosimilar",
+   "title": "Two FDA-approved drugs treat chronic inflammatory conditions. Teva's deal covers U.S. rights. - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1NKOXBweUZtXzZ0cFhPU3U5bWNpTlN1aEo5VTJSRlJmWVd1QWhWNXozSlRkTFEtbzBoem5BSnp1S19CdlZKSHJCZWZ3ZkNzVFVxOWZvY05HdlhQTXUyQkhtMHRGbkg5MmlGQjhTc3REeGVqTEdxM2NUZ0hFS0VhZVFjN1RoT2s1cVl4U2wwRE5OZUhvaTFfTGlobmVzaHhSNTlJRk9jYl9YeHpzdDhaMTEycXJlbjhjSnRMRW5KMUg?oc=5",
+   "date": "2026-11-03T10:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
     "Teva"
    ]
   },
