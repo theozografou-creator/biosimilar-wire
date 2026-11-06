@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:54:41.981869+00:00",
+ "updated": "2026-11-06T01:31:42.727266+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,13 +35,13 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 10,
+   "count": 9,
    "error": ""
   },
   {
@@ -52,6 +52,48 @@
   }
  ],
  "items": [
+  {
+   "id": "e4b0292c7228",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion nears annual target on biosimilar surge - Korea JoongAng Daily",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkNCSEF4UmxIZ09ONUpmSWlJUDdKc29GLUFsX1lPX3E0OTlPSGJJaHoxNVlJM014OVRYRlhlTzZYaVlxaE1Zc1RhQ3dLQ3pBWWxhNWZxRVN5UVhKWFJENHBQdlVtSmhYTEMwMjNfWDA3LTZUVlEtVHNOMXM5clUyZEFZLWtzbnF6TE15TE1LSFY1S0hWWElLbC04ZEt4UVp2dnZRbw?oc=5",
+   "date": "2026-11-06T00:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "3abcd3148bd4",
+   "source": "Endpoints News",
+   "title": "Seven new tumor cases reported in Zolgensma patients",
+   "link": "https://endpoints.news/seven-new-tumor-cases-reported-in-zolgensma-patients/",
+   "date": "2026-11-05T21:08:43+00:00",
+   "snippet": "Nine patients who have received Novartis' spinal muscular gene therapy Zolgensma have developed tumors following their treatment, the company confirmed Thursday. Seven of those cases were disclosed for the first time. Two may be linked ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a21e1f9b8626",
+   "source": "BioPharma Dive",
+   "title": "Medicare will cut billions from 340B, expand site-neutral payments in 2027",
+   "link": "https://www.biopharmadive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873909/",
+   "date": "2026-11-05T21:06:00+00:00",
+   "snippet": "Regulators finalized a rule Wednesday that would slash payments for drugs in the controversial 340B program and equalize some payments between care sites. Hospitals railed against the rule.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1ddfea363f17",
+   "source": "Endpoints News",
+   "title": "Preeclampsia almost took her life and her baby's. Drugs are finally underway",
+   "link": "https://endpoints.news/preeclampsia-almost-took-her-life-and-her-babys-drugs-are-finally-underway/",
+   "date": "2026-11-05T20:52:52+00:00",
+   "snippet": "LAS CRUCES, NM — Emily Chaddock had hired a photographer to capture her in the classic maternity pose. But days later, at 27 weeks pregnant, she developed severe preeclampsia. Her blood vessels narrowed and her vision ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "e9a0539daa4c",
    "source": "Fierce Biotech",
@@ -1766,6 +1808,16 @@
    "date": "2026-11-02T16:05:41.190520+00:00",
    "snippet": "See how STEM AI turns real-world HCP conversations into personalized coaching, strategic insights and stronger field execution.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bb177cf6aa55",
+   "source": "Google News: biosimilar",
+   "title": "FDA approves STADA’s Lucentis biosimilar - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtM052QlBrLTBZWUU4VHVwdUc1XzBQMUVkUkFaaGpXVGFkUFozT2dNN0tOLXVzLVp2c1hVdlBKdWQtTFFZb2dkbElTSlMtT3FoVmgzUmtJWlZudjR4N1htd0xGZ1hINjVZdm9TdExKTm00ekU?oc=5",
+   "date": "2026-11-02T15:39:16+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
