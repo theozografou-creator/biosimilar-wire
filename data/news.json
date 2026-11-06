@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T10:49:04.139835+00:00",
+ "updated": "2026-11-06T19:21:59.359141+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,304 @@
   }
  ],
  "items": [
+  {
+   "id": "c1213fb12936",
+   "source": "Fierce Biotech",
+   "title": "Looking Beyond the First Answer Towards Delivering Impact",
+   "link": "https://www.fiercebiotech.com/sponsored/philippe-lopes-fernandes-executive-vice-president-chief-business-officer-ipsen",
+   "date": "2026-11-06T19:21:59.359141+00:00",
+   "snippet": "Science rarely moves in a straight line. Philippe Lopes-Fernandes explores how an unexpected turn can reveal a credible path to progress.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2c08d3e6f9e7",
+   "source": "Fierce Biotech",
+   "title": "Chutes & Ladders—Novo's longtime CFO to hang up gloves as Galderma exec steps in",
+   "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-novos-longtime-cfo-hang-gloves-galderma-exec-steps",
+   "date": "2026-11-06T19:21:59.359141+00:00",
+   "snippet": "Novo's CFO of the past 8 years is taking his leave at the end of the year. Alnylam is on the hunt for a new commercial chief amid news of Tolga Tanguler's departure. Amgen has looked within to replace its head of quality.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f9ccb888fe64",
+   "source": "Fierce Biotech",
+   "title": "There's more than one way to build a biotech",
+   "link": "https://www.fiercebiotech.com/biotech/theres-more-one-way-build-biotech",
+   "date": "2026-11-06T19:21:59.359141+00:00",
+   "snippet": "Axiom Biosciences is taking an unconventional approach to raising capital and developing new therapies. In this episode of \"The Top Line,\" founder and CEO Remo Moomiaie-Qajar joins Fierce Biotech's Marissa Russo to discuss the company's financing strategy, drug development ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "24de8f2187bd",
+   "source": "Fierce Biotech",
+   "title": "Generate CEO sees ‘huge opportunity’ from using Claude to shorten CAR-T cell engines",
+   "link": "https://www.fiercebiotech.com/research/anthropic-extends-its-biological-footprint-generates-car-t-cells",
+   "date": "2026-11-06T19:21:59.359141+00:00",
+   "snippet": "Generate Biomedicines' CEO has hailed the “huge opportunity” offered by AI tools after the Flagship-founded company used Anthropic's Claude AI platform to reduce the size of CAR-T cell engines.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "94c6ae8aa158",
+   "source": "Fierce Biotech",
+   "title": "Moderna’s norovirus vaccine plans in limbo in wake of phase 3 miss",
+   "link": "https://www.fiercebiotech.com/biotech/modernas-norovirus-plans-limbo-after-ph3-miss",
+   "date": "2026-11-06T19:21:59.359141+00:00",
+   "snippet": "Moderna has scrapped plans to enroll a new cohort in a phase 3 trial of its norovirus vaccine and instead will meet with regulators to decide on next steps.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1ff1f621de94",
+   "source": "Fierce Biotech",
+   "title": "Merck abandons Sutro-partnered IL-2 drug in ‘routine pipeline prioritization’",
+   "link": "https://www.fiercebiotech.com/biotech/merck-abandons-sutro-partnered-il-2-drug-routine-pipeline-prioritization",
+   "date": "2026-11-06T19:21:59.359141+00:00",
+   "snippet": "Merck & Co. has called time on a Sutro Biopharma-partnered IL-2 agonist that was being tested for solid tumors.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1c0fc22cef82",
+   "source": "Fierce Biotech",
+   "title": "Siemens Healthineers rebrands and carves out in vitro diagnostics biz",
+   "link": "https://www.fiercebiotech.com/medtech/siemens-healthineers-rebrands-and-carves-out-vitro-diagnostics-biz",
+   "date": "2026-11-06T19:21:59.359141+00:00",
+   "snippet": "Siemens Healthineers will carve out its in vitro diagnostics business as a standalone company operating under the name Olyrian Diagnostics.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d14473b6c26c",
+   "source": "Fierce Pharma",
+   "title": "Actor Jeremy Pope joins ViiV's 'PrEP Wisdom' campaign to educate on long-acting PrEP options",
+   "link": "https://www.fiercepharma.com/marketing/actor-jeremy-pope-joins-viivs-prep-wisdom-campaign-continuing-long-acting-injectable",
+   "date": "2026-11-06T19:21:59.359141+00:00",
+   "snippet": "ViiV Healthcare has tapped a new mind for its “PrEP Wisdom” campaign, with Tony Award-winning actor and fashion icon Jeremy Pope joining in on the education and awareness messaging around long-acting injectable pre-exposure prophylaxis options.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cff0bff0b4b8",
+   "source": "Fierce Pharma",
+   "title": "Moderna's COVID vaccine carries stellar Q3 revenue beat",
+   "link": "https://www.fiercepharma.com/pharma/modernas-covid-vaccine-carries-stellar-q3-revenue-beat",
+   "date": "2026-11-06T19:21:59.359141+00:00",
+   "snippet": "Moderna posted $1.3 billion in third quarter revenue, vastly surpassing analyst estimates and avoiding a predicted loss. The Q3 results suggest COVID can still make for a strong business plan.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5eb526a1fdb9",
+   "source": "Fierce Pharma",
+   "title": "Novartis confirms more reported tumor cases in Zolgensma patients as SMA groups seek details",
+   "link": "https://www.fiercepharma.com/pharma/novartis-confirms-more-reported-tumor-cases-zolgensma-patients-sma-groups-seek-details",
+   "date": "2026-11-06T19:21:59.359141+00:00",
+   "snippet": "Novartis has confirmed a number of new cases of tumors that developed in children treated with its gene therapy Zolgensma after a series of notices from spinal muscular atrophy advocacy groups this week.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3bb878301c07",
+   "source": "Fierce Pharma",
+   "title": "Fierce Pharma Asia—Boehringer’s $7.4B SBP deal; Fresenius’ sweeping biosim pact; A $1B molecular glue bet",
+   "link": "https://www.fiercepharma.com/pharma/boehringer-74b-sbp-deal-fresenius-wuxi-bio-sweeping-biosim-pact-evommune-molecular-glue-bet",
+   "date": "2026-11-06T19:21:59.359141+00:00",
+   "snippet": "Boehringer Ingelheim entered a potential $7.4 billion oncology-focused deal with China's SBP Group, as Fresenius formed a 37-asset biosimilar development collaboration with WuXi Biologics, and Evommune licensed an inflammatory disease molecular glue candidate from China's Hinova ...",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a15fc72e88c1",
+   "source": "Fierce Pharma",
+   "title": "Eli Lilly forces compounding rival to shed weight loss claims",
+   "link": "https://www.fiercepharma.com/marketing/eli-lilly-forces-compounding-rival-shed-weight-loss-claims",
+   "date": "2026-11-06T19:21:59.359141+00:00",
+   "snippet": "Eli Lilly has successfully challenged Good Life Meds’ claims about the health benefits and personalization of a compounded tirzepatide product.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1657d174c9db",
+   "source": "Big Molecule Watch",
+   "title": "Adalvo Expands Biosimilars Portfolio Through Acquisition of Romiplostim Biosimilar Program from Enzene",
+   "link": "https://www.bigmoleculewatch.com/2026/11/06/adalvo-expands-biosimilars-portfolio-through-acquisition-of-romiplostim-biosimilar-program-from-enzene/",
+   "date": "2026-11-06T19:14:19+00:00",
+   "snippet": "Adalvo announced on October 27, 2026 that it acquired Enzene’s romiplostim biosimilar program. The program references Amgen’s NPLATE®, which is indicated to treat adult and chronic pediatric immune thrombocytopenia (ITP). Romiplostim, a Fc-peptide fusion protein (peptibody), is ...",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "d53f5dab4d97",
+   "source": "Big Molecule Watch",
+   "title": "FDA Approves Xbrane’s LUCAMZI™, a Biosimilar to LUCENTIS®",
+   "link": "https://www.bigmoleculewatch.com/2026/11/06/fda-approves-xbranes-lucamzi-a-biosimilar-to-lucentis/",
+   "date": "2026-11-06T18:15:24+00:00",
+   "snippet": "On October 29, 2026, Xbrane Biopharma announced that the FDA approved LUCAMZI™ (ranibizumab-blrz), a biosimilar to LUCENTIS® (ranibizumab). Ranibizumab is an anti-vascular endothelial growth factor (VEGF) therapy used to treat retinal vascular disorders, including neovascular ...",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "41f6eb23cd2e",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Testing Services Market Analysis by The Business Research Company, Emphasizing Upcoming Industry Trends - EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNWh2ODBnbzMwQUhOblRZb0NiRHpRVGNnN0IzQ25NdGpRdGMtaHJic2ZMeFdxTS1aaUZDeXkyd3JLcWpCNEtHUmJTbm9XY3pCakxfb1V4U3FXbjhnUUtlSXBVbXM3UWF0amQ5aG5PRlhvOHlWMGFUYzJaVFhROGRvOTRiMHFSVWo5TjNfUUFXckVralFaQ1RURk1EbjRBWkdDT05mVjh2VXBUaTJqdlUyRzEtSFJuUndzNm1Ba2dYNXJ5MU9IcDdHaVlmNWtoZERFM2tuVlR5SU1PWUptTzJKUnl0Q3FraTJlTE9sMGFZMXoyZw?oc=5",
+   "date": "2026-11-06T18:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "287f88981cef",
+   "source": "Google News: biosimilar",
+   "title": "EyeWorld Weekly, November 6, 2026 - EyeWorld",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16S245TFN0eUhkcGM1Y3R3OVhXajJ0bkZ6TjZ4aU9fNUpZSEVqZG9XeVZWLU56QnBrNktvUzNvQUxRLXNQcnQ1eE9MeTBZSmlMV2sxRVk3Um5taUFmR2hIcmIxUEtfN0VFLUIyN1E4QQ?oc=5",
+   "date": "2026-11-06T17:02:38+00:00",
+   "snippet": "EyeWorld Weekly, November 6, 2026 EyeWorld",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "00cf5a85686d",
+   "source": "Endpoints News",
+   "title": "#SITC26: Immunocore reports early data for brenetafusp plus Kimmtrak in uveal melanoma",
+   "link": "https://endpoints.news/sitc26-immunocore-reports-early-data-for-brenetafusp-plus-kimmtrak-in-uveal-melanoma/",
+   "date": "2026-11-06T17:00:22+00:00",
+   "snippet": "In an early test of two bispecific T cell engagers combined in a solid tumor, Immunocore said an estimated 70% of certain uveal melanoma patients were alive at two years after receiving the doublet in ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6a213b70881e",
+   "source": "Endpoints News",
+   "title": "J&J’s Rybrevant nets FDA approval in head and neck cancer",
+   "link": "https://endpoints.news/jjs-rybrevant-nets-fda-approval-in-head-and-neck-cancer/",
+   "date": "2026-11-06T16:53:33+00:00",
+   "snippet": "The FDA has granted accelerated approval to Johnson & Johnson’s cancer shot Rybrevant in head and neck cancer that’s come back after previous chemotherapy and immunotherapy. The approval is the first in a decade for ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7f227d60c0f1",
+   "source": "BioPharma Dive",
+   "title": "Novartis reveals cancer cases possibly linked to gene therapy Zolgensma",
+   "link": "https://www.biopharmadive.com/news/zolgensma-tumor-report-novartis-sma-spinal-muscular-atrophy/873990/",
+   "date": "2026-11-06T16:51:00+00:00",
+   "snippet": "The occurrence of cancer in nine recipients — two of which involved evidence that a viral delivery tool integrated into patient DNA — could raise new questions for the gene therapy field.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "959099e6a855",
+   "source": "Endpoints News",
+   "title": "Satellos' new Duchenne study endpoint; Amgen's Repatha cuts heart attack risk",
+   "link": "https://endpoints.news/satellos-new-duchenne-study-endpoint-amgens-repatha-cuts-heart-attack-risk/",
+   "date": "2026-11-06T16:08:42+00:00",
+   "snippet": "Plus, news about MetaVia, Agios Pharmaceuticals and Inovio. Satellos Bioscience changes Duchenne study primary endpoint: The company is studying a small-molecule drug called forazapadin aimed at helping muscle repair and growth in boys with Duchenne ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b7358238dab7",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis’ Keytruda biosimilar meets equivalence endpoint in Phase III lung cancer trial - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeHhJeXd6dDBNT1JTLU1PTVhsTWVuUGdtTmJSbklQWXFlX0htd1puSDlCSXB5a01WUU1YeDI2VlFpZ3RYb2piTFl4WUZNTVF3WGljdTM4dVpFLUFqS201MkhDRnZiN1paRFVlbWJOZjhXWnBmdWp3YUxKRmx5NGkxWlhZMUFaUi1KRFd3cXc0OThKVGZXZGxaMFRELVotNGJtemlXaUNRWW9XOGlPM3o0b29rcW53am13M3NPbnNLcllGRGk5MTBya1V4Y0gxZDdZV2hDZV84b21fQQ?oc=5",
+   "date": "2026-11-06T15:18:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "f0db0538820f",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis, Phase 3 Study of Proposed Pembrolizumab Biosimilar at SITC 2026 - Businesskorea",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40ZHlieUdKZU9DYkUtaThWTFFtSUkxUDNldmNYYjNjMkxZVFVqZkNIVkh2XzV5UDdsamR4TEZtOGhBbHd2RFN2UGRWUmdiSHRIZnMwbjNTZU5vNGhzSEtnd29TZ1lnT180bHpyS29XWXpuRzN2?oc=5",
+   "date": "2026-11-06T14:15:44+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "e5cb4a68a512",
+   "source": "Endpoints News",
+   "title": "Sarepta quits enrolling for confirmatory Phase 3 trial of Elevidys",
+   "link": "https://endpoints.news/sarepta-quits-enrolling-for-confirmatory-phase-3-trial-of-elevidys/",
+   "date": "2026-11-06T14:10:47+00:00",
+   "snippet": "Sarepta Therapeutics won’t enroll more patients in the Phase 3 trial of its Duchenne muscular dystrophy gene therapy Elevidys, a test that was meant to act as confirmatory evidence for an approval in older boys. ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7b1589522efc",
+   "source": "Google News: biosimilar",
+   "title": "Bio-Thera Wins China Approval for First Golimumab Biosimilar - Contract Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdERfN3FVa0RYWHNSX214TXZuQjBIZzBELU5GU19SX2R6azBfVk5KZVN2YjZzVC15UTc3Tm9IRkNPZUl2MkN2WWVyRXhkV0M0N2JNdVFCWTZ1WUxtdlNqbVRLSlhRY2tDcm1xaGpwS29yTnAyLUJfbUNETkpWQ3V3YWRJalMxTlVPQVVMYnZITjJuNXIxTHJCeWRadkVhTThvNDB6eDBTRFNFUQ?oc=5",
+   "date": "2026-11-06T14:04:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Bio-Thera"
+   ]
+  },
+  {
+   "id": "c3664113f017",
+   "source": "BioPharma Dive",
+   "title": "Lilly, Hims reach GLP-1 deal; Alnylam sales chief to step down",
+   "link": "https://www.biopharmadive.com/news/lilly-hims-alnylam-boehringer-ultragenyx-sevasemten-ani-egetis/873843/",
+   "date": "2026-11-06T13:13:00+00:00",
+   "snippet": "The deal is part of a course change for Hims, which had previously sold knockoff GLP-1 drugs. Elsewhere, a medicine Servier recently acquired failed a key trial and Ultragenyx announced staff cuts.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "104079478588",
+   "source": "Endpoints News",
+   "title": "Moderna notches small profit as it prioritizes work on cancer vaccines",
+   "link": "https://endpoints.news/moderna-notches-small-profit-as-it-prioritizes-work-on-cancer-vaccines/",
+   "date": "2026-11-06T13:02:48+00:00",
+   "snippet": "International Covid-19 vaccine sales helped propel Moderna to its first profitable quarter in two years, as its return to cancer leaps forward. “I don't normally use a lot of hyperbole, but it was a great ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "145e52f126cd",
+   "source": "Endpoints News",
+   "title": "Novo, Pfizer make CFO hires; Alnylam's chief commercial officer exits as struggles continue",
+   "link": "https://endpoints.news/novo-pfizer-make-cfo-hires-alnylams-chief-commercial-officer-exits-as-struggles-continue/",
+   "date": "2026-11-06T12:00:44+00:00",
+   "snippet": "→ As Endpoints News previously reported, Novo will soon have a new finance chief to help guide it as it tries to turn a corner. Luigi La Corte said in a ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bcf55bd60756",
+   "source": "BioPharma Dive",
+   "title": "This week in charts: 3 drug launches Wall Street is watching",
+   "link": "https://www.biopharmadive.com/news/biotech-charts-drug-launches-sales-wegovy-rezdiffra-auvelity/873549/",
+   "date": "2026-11-06T12:00:00+00:00",
+   "snippet": "The latest installment in BioPharma Dive’s visualization-focused series features a look at investors’ response to a trio of medicines highlighted in quarterly earnings this week.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f157de1de4a7",
+   "source": "Google News: biosimilar",
+   "title": "Bio-Thera Announces NMPA Approval of BAT2506, the First Golimumab Biosimilar Approved in China - PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRDZDckFydGZGT2dPcGJpdXhISnRXX3hxOW5RR241UXNlSWNGQXZyamZwcDNPcnFqbWlRTUF5d3huWmFHTndNYkJ1Wm5JdTJIamcwX0UyZkVzMUNlX0pPdnN0Z1ZQcTR0RzNDS2poRzhzd2xnNEdYR2R1UUZ5ZkFkRW1TOENxRm9xVXhqUFhVNVYzd01uU2dZcFJyU3U4M1hVdmxaV1BFZFd5UWFiY2NGenljMjJzX3dwTTZ5OGFQSHdwc3I5bndjNTN4ZUhlREwtalh5dHZZZ2c4SFlVanlaVDJ6SQ?oc=5",
+   "date": "2026-11-06T12:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Bio-Thera"
+   ]
+  },
   {
    "id": "7555e4679dde",
    "source": "Google News: biosimilar",
