@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T01:31:42.727266+00:00",
+ "updated": "2026-11-06T10:49:04.139835+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": ""
   },
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "7555e4679dde",
+   "source": "Google News: biosimilar",
+   "title": "Could Late Biosimilar Launches Slow Amgen Stock? - Trefis",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYks4RGxRa2Z0UzZyOV9CZDJHS1g3dUdtdmd2a3d0VnFrV0t5bzRFOUs4ZHBKZHB4SmtHcmJBU1RXS0lydFYtaVhoSjRrcjRpMXhyNEJzYlhGdnpxRlM5eE9lYUVFYUNTTXhEZlFxaldGc19haGZlcHEzRTF3TExtcUUwN1hrYTQtSG5PTFQ1SGt6Wno4WXZ5SlhUWTVJcGR1VnlhWl9wVE5nQndX?oc=5",
+   "date": "2026-11-06T09:49:35+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "e4b0292c7228",
    "source": "Google News: biosimilar",
@@ -295,6 +305,16 @@
    "watch": []
   },
   {
+   "id": "414eca3d9627",
+   "source": "Google News: biosimilar",
+   "title": "Alembic Eyes US Exclusivity For Venetoclax After FDA Approval - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbnE0MVBMcFBBY0lBakl1WGlwNHNrWmdsb2ZlSjN5Mk5Uak1YZEZmbEZaOEFYT1VnQlZaMDlTM1JQZExxblFvRi1tY1ZmTENpaXFVYjFHWjAtcE1uWGR0TGwwRkhiQkpubThkblpodmxYN1NhTzE4WDRTMDhtZmx3UUhJcUNod2ZfYVU5dWkwV0hnV1RJSG9Ha3JhYXNwVU5GZVFsd2pGQjBrVEIwbmlTNnllVU5BMVB6UGxEdDBYc1pnT0x4azY2TThRdVpkVjdDT2xvTFU1Sl9oS3I0cDRweEJQcEFVOFJyQktz?oc=5",
+   "date": "2026-11-05T14:31:31+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "90417c2e05cc",
    "source": "Endpoints News",
    "title": "Ellipsis Health buys Kouper Health to act on AI voice calls",
@@ -365,6 +385,18 @@
    "watch": []
   },
   {
+   "id": "2822ac13641b",
+   "source": "Google News: biosimilar",
+   "title": "Biocon biosimilars margin falls to 22% on shipment timing - Multibagg AI",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNXzlpRWowaTFDaV95eFJjZVdRQlY1VkJQWHBzeENmSlZ4SzZiZEpQbngyWjdFUGozVm5FaTBxVjJlalJVbmw5cUF5UnBHNV9ObWUyNUhMem1xNHVXMDVKaXpoUnlNSDczeHVTWlRTRWtTVnRCelFTM2NrTWQydzU2NHdabl9oQzVQazMtZ05uV04xZjBqRmJLLXdWQW5DTVlZR0xiTDBOaEIxbXJ1a2t1VXp6VFRnOVdwdmc?oc=5",
+   "date": "2026-11-05T07:12:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "9fb642c4d399",
    "source": "Endpoints News",
    "title": "T-Therapeutics secures $133M for cancer, autoimmune TCRs",
@@ -393,6 +425,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "45f374b44bd5",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion launches three new biosimilars in Brazil - 매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZT1llTFhPY2gwREJKVVMwRjFOUDhJendWSENCNGNDc0pfTnJZVXpPdGVrWlgyeXp3amtHMVN1QWljRWhfWUllY0JrS2dELVZDVEpkSEYtYw?oc=5",
+   "date": "2026-11-05T01:42:58+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
   },
   {
    "id": "b4092f3b40c0",
@@ -679,6 +723,18 @@
    "watch": []
   },
   {
+   "id": "e00596b9f42b",
+   "source": "Google News: biosimilar",
+   "title": "Biocon's Q2 net profit plunges 57% to Rs 56.7 cr; biosimilars launch to fuel stronger H2 - Rediff",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZktNVUlzaE9PTGR6SkRYZEU5ZkRwT1MyX0tqR3dRbTZJOGZqQU5jX3NHYXRfc1MwVDNjbXYyNi1wNHg3d3dkdDNTYWJqY0ZHc01xdzZWT2VWLVhJYUJMQzFUbmRvM3ZrQUV0TF82RmNyQXdmWGFpZjBqVEdUV0oyV1dldDlEd0R6ck1DUHJGNlM2N3hULVdCdWwyMWVtRkUxSmdOZlViWEJycXE3OXhES3Y2dlRGcmk3LWpuNVlMSW85cVk3VEJhTk5lVGNFLTlxczN0YkNR0gHYAUFVX3lxTE5xOUEwV2R3aWpDY2VWNWVYbm16aDVhTzl3Qkl4UlcxMURCSzBNNHJPOTFNWVJ5QTduRlZ3RV9jUHRWcUwtTWxhOW43N3ZQd3ozeUdnOFdfRm1hZWZZNVdWRTM4U3hGVWZnZlZOYmt1dFhBQWt0ZWRBLXBXb2w1dlMxeU9iX0hFTlZnQldvanc4Yll1WDl4YlVIdU9rRURrbHAzVW9nNUZxb1o1cVlxMUF5eGRUSmVGUkk2NHJaOVA2VXRVSmNIUU5rMjBtR2p6cVNDOUVSdTlTcw?oc=5",
+   "date": "2026-11-04T15:48:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "a22780fdd4e6",
    "source": "BioPharma Dive",
    "title": "CVS to split into two companies in stunning strategic about-face",
@@ -871,6 +927,18 @@
    "snippet": "For most biopharmas, guiding to flat growth for the year would be a disappointment. For Novo, it’s an upgrade. The drugmaker said Wednesday that its 2026 sales would be between 2% ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "2bb5c9ec2ad1",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Q2 Profit Falls 52% YoY 41 Crore; Co. Secures USD 400 Million Brazil Biosimilar Deal - APAC Media",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaEhQTjF0cmEtcm1VWTI4YnNZWEdFRWxJb1dzTjFzeVZpZEsyLWp6dTVvaDJ1MHYzNzFndWxKOW4tR2xGRzVrYS1WZjJHOVVTS0Y2UHh1TkJVWVZSTG5HZlI2TVNBb3loLTF2akRnZnpRZGFKUmpXMFBveXBSR01OUnF1Y290eV9tT19reHVWcEROcHNU?oc=5",
+   "date": "2026-11-04T10:05:15+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
   },
   {
    "id": "85ff5974ae19",
@@ -1211,6 +1279,16 @@
    "watch": []
   },
   {
+   "id": "c8784ceeecdc",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius SE KGaA (XTRA:FRE) Expands Biosimilars With WuXi As Undervalued View Holds - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMWFfTkk5TlVQS2tFUTVHRlZPclM0WHNfTGdsNFgwWUNwX1ZONllpV2JuZWFFVmJNTGJJeFNZNTE5WWFjWmpPdUhST3puaDdDQW9PQ1UtUlo4eTEzczZ5XzluSlliWmlfMTBYY3pHMjJHNFpfR2JnUnp1dTB0UGpJMkM4dlRWcHdocmNnZFhMYmozU0xhWmQ3Qkt2d1RHSjBZYjZGU0tGWmR3RG5xeUUzZ0hINHM3UXpwNUtVamJyWjZHdkdaN0dLLWk2Yl9CaU01UW1WUVpyY0HSAd4BQVVfeXFMTUlhUjg2X1RpTjRkaWlVZmJMalQzQmZkMkxmWmZnbktlUjFQVnBhZ1BBblRJekRzYm5vSlFCdWh5QlJEN3FkV1pGUk5neUlEdEpMcEloaDRVYVp2dWM1REVLa1pzWHRWc1JGcHpyUklUR21RMkJTMk9CbDk5SmxzMGVGUUZGT3VYdlBFcGd0Nmo1bkJZdENZaS1SazZhY0Ewa1BuM0J0VGR0UzExU0NoWXk0RGVCNmc4cmJlZHI4bGtaOUd0MEhzNVVENkhrNV9VYmE3Y3pnSUIzcVFnLWJ3?oc=5",
+   "date": "2026-11-03T15:36:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "ce8622bb70d6",
    "source": "GaBI Online",
    "title": "FDA approves denosumab biosimilar Degevma - Generics and Biosimilars Initiative",
@@ -1436,6 +1514,19 @@
    "snippet": "",
    "biosimilar": true,
    "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "0b3c324fe904",
+   "source": "Google News: biosimilar",
+   "title": "Teva and Samsung Bioepis Announce Agreement to Commercialize Two FDA-Approved Biosimilars in the U.S. - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeEZ6TVBBcUZ3SkMtQnQwRjMtLXlwWUh0Xzk4OXZHUngwT04zcnFZTDc3Nkk0QzZjeHQ4VUVaVjIzYm9JTmZyZHZVXzBLcFd5ejJFWjNNSHJlWDc3bVhCRFVCbU9zbktZZWUtS3pJXzNYd0YxNUhENnR0UEltRGhvSDYySURReko3YXcwei1Fd0Q2QzlSN25kVkpBSmhsem5NYUE?oc=5",
+   "date": "2026-11-03T10:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
     "Teva"
    ]
   },
@@ -1819,6 +1910,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "0979b878d834",
+   "source": "Google News: biosimilar",
+   "title": "Amneal earnings on deck: Can biosimilars offset margin pressure? By Investing.com - Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSnpjZlp4Z1RWRjg0dnJvSFpQWU9RVk9aLThucTZLeERSWno0X3FrTXM3eENDbkM1Z0JTYl93Ry1DVjcxSFVHVnRYdmVzTTV5ZEdkZHRiTUN6TC1KMmdhMklPbmp1T2tqSGNUUFJycFpsdnliVFFEMUFRQll3Q0IzN2JMaGNSX1RJNFZGdHhSVFM0SEFteDRDRXktRTBZTEQ2ZEFIUm05ZDk1T0VaVlZIUE52U18xY0hKM0lkQmxBcTk?oc=5",
+   "date": "2026-11-02T15:37:52+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
+   ]
   },
   {
    "id": "2a17c5db1d99",
