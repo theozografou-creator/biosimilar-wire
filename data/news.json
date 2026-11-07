@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T19:21:59.359141+00:00",
+ "updated": "2026-11-07T00:54:44.192241+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,36 @@
   }
  ],
  "items": [
+  {
+   "id": "162908498cbf",
+   "source": "Endpoints News",
+   "title": "Church quits role at AI startup Radical, claims ‘sleazy’ behavior stole credit from partner",
+   "link": "https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/",
+   "date": "2026-11-07T00:52:09+00:00",
+   "snippet": "George Church, the famed Harvard scientist, has advised startups pursuing everything from resurrecting extinct species to putting pig organs in humans. But he hasn’t witnessed anything quite like a bizarre fight to steal scientific credit ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "914275a2d04d",
+   "source": "Big Molecule Watch",
+   "title": "Theriva Biologics Sells Antibiotic-Degrading Enzyme Portfolio to Biossil Labs",
+   "link": "https://www.bigmoleculewatch.com/2026/11/06/theriva-biologics-sells-antibiotic-degrading-enzyme-portfolio-to-biossil-labs/",
+   "date": "2026-11-06T21:27:47+00:00",
+   "snippet": "On November 2, 2026, Theriva Biologics, Inc. (“Theriva”) announced the sale of its portfolio of antibiotic-degrading enzymes to Biossil Labs Inc. (“Biossil”), a privately held, Toronto-based, AI-native biopharmaceutical company. Biossil acquired all of Theriva’s rights, title, ...",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a5b2a408f0fb",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Testing Services Market Analysis by The Business Resea - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGUzNEJYcHR0ZF94a0VHN0Z2Q0VjX285Wnhubng0V3VsbDRob1ZJX3h0dG9WWG9Gbi1yd3ZYN29ZVHRheVVJb0hKZlhkOUxOU0tyMU1QMU9vWElrbjI0dG1JUTVOdWktckV6bXVwTUxRcVAtdmxjdFN5Rk0xUkhEempmRWlvT1ZweS0xN0FTa0txYjloZVNhZXBRcVM4SVhZUTNSWFc5RnJGVG12eFE?oc=5",
+   "date": "2026-11-06T19:33:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "c1213fb12936",
    "source": "Fierce Biotech",
@@ -356,6 +386,16 @@
    "title": "Could Late Biosimilar Launches Slow Amgen Stock? - Trefis",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYks4RGxRa2Z0UzZyOV9CZDJHS1g3dUdtdmd2a3d0VnFrV0t5bzRFOUs4ZHBKZHB4SmtHcmJBU1RXS0lydFYtaVhoSjRrcjRpMXhyNEJzYlhGdnpxRlM5eE9lYUVFYUNTTXhEZlFxaldGc19haGZlcHEzRTF3TExtcUUwN1hrYTQtSG5PTFQ1SGt6Wno4WXZ5SlhUWTVJcGR1VnlhWl9wVE5nQndX?oc=5",
    "date": "2026-11-06T09:49:35+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "938447c9f7c9",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilars Deal Might Change The Case For Investing In WuXi Biologics (Cayman) (SEHK:2269) - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUl84eHFqNnprRDNXcHZLU284Nnl5X0VBTFJKZzhWQlpWQVQ5WWtmamR6OTlocGRZX3BLZzBEZzJXcC1yT2pIa3B4VXVpNmZlMmZOcUFMZVhaUW1KR05zak9tVkdlaWFsaTRTUXlzLTlvVWpsa1o0bklNd3RGRVo0YlgtQTFhdG9RRmpxVGN6aG0xSkxqT0NjNUdfWjNqQkJYQWxhVmR5aDcyT0tscUp5dU13MGtRMW5yZXY4NWhVeWVMYVRfWDJGSDM0NGFnT2k3UHJuN2lReG5FSE5BeklLXzZUTWxtd3dyeGNLMkRfOHPSAfYBQVVfeXFMT0NFWnJuWWJ5WnNIYzMzWjVlZUZkU2JHVC1ud3dyeWxHcE1PemhTYVQwMmNQVDR2aXJkNnZHRE9RUHNGT0p3UXF0cUZMUXZaeDhQMmg0VVRzZUVfalBJWVc4RzF5TkpDLW5IWEdWRF8xeXp2aWhfSENQZ3hSZ0F2cjVMT3dpZmJUS3dMU1BUM1JZeWZ6X3hhTzJzRjU1OFdXX3hNa1NJSnFtM2UyemI3YmJ4TU94Um1Za2k5TjExbjEzT01OOW9WZFB6N2NpN3llOWdHRHVZLW5QZGRzTVg4TkRXVkxjN1JseEUyUVZWMU9xcDFxUUtn?oc=5",
+   "date": "2026-11-06T08:25:47+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -729,6 +769,18 @@
    "source": "Google News: biosimilar",
    "title": "Celltrion launches three new biosimilars in Brazil - 매일경제",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZT1llTFhPY2gwREJKVVMwRjFOUDhJendWSENCNGNDc0pfTnJZVXpPdGVrWlgyeXp3amtHMVN1QWljRWhfWUllY0JrS2dELVZDVEpkSEYtYw?oc=5",
+   "date": "2026-11-05T01:42:58+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "5fd6122f8488",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion launches three new biosimilars in Brazil - 매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56RWpYRHFZYWwxWkZNQllkX19GUlJyMmZreXQ5dTJqSjJQYWpWU1E4djNLZlk5YTFLcm5NeTd5QXhtT3lnNHZvVmVRWlNvN2ZiY1lPcg?oc=5",
    "date": "2026-11-05T01:42:58+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -1239,6 +1291,16 @@
    ]
   },
   {
+   "id": "82f99f32d627",
+   "source": "Google News: biosimilar",
+   "title": "Canada can’t afford to keep lower-cost medicines off the market - National Newswatch",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGVFNF9pTEVuUktPQzQ2N2d2R1ljZmlhZnNVVDRGeURveHVRdkFueGdKMElfRzlOcTRoVlRJZnNrOTkwNldoM2pabXRvZHFVR045TlNoeUdFUVFfTXA0anJwbjA3bDBNd19zOWtKd1RBaW14WkotV3NvTEwzLXBIT1pxVWZ3cTdMVU5sV3JVV3NuaFp1Z0xxaG5kX2lWOTVrbmJwbk1R?oc=5",
+   "date": "2026-11-04T08:50:59+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "85ff5974ae19",
    "source": "Endpoints News",
    "title": "China biotech Minghui does thyroid eye disease deal for $110M upfront",
@@ -1253,6 +1315,16 @@
    "source": "Google News: biosimilar",
    "title": "Biosimilar development key to strengthen national manufacturing: BPOM - ANTARA News",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekVSbTJMQklab1BSQ3VlWnVRalBiMFZCbDVkckh5SXJPbFBWcVdGaVp2MGI2em9zdEEzUnlQTnFNSTFHdl9SMzA3czdkWmJ5bEVpTDBHWDFrZ0l0UHlkaURsWktTbm4tMlpmRjVsSXBTdmdmTTFXWWtlTXN2amx2S3ZSa2YxS1BtMHB5d082X0dpN1VaTlA0alp0ZEFOdlNjZnFHdDZzY0VRZ1dNampJ0gGvAUFVX3lxTE16RVJtMkxCSVpvUFJDdWVadVFqUGIwVkJsNWRySHlJck9sUFZxV0ZpWnYwYjZ6b3N0QTNSeVBOcU1JMUd2X1IzMDdzN2RaYnlsRWlMMEdYMWtnSXRQeWRpRGxaS1Nubi0yWmZGNWxJcFN2Z2ZNMVdZa2VNc3ZqbHZLdlJrZjFLUG0wcHl3TzZfR2k3VVpOUDRqWnRkQU52U2NmcUd0NnNjRVFnV01qakk?oc=5",
+   "date": "2026-11-04T06:48:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "d04d29549d9d",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar development key to strengthen national manufacturing: BPOM - ANTARA News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFNCSzZycnJhMEtITklncDhrMkZGTzIzS2o5TWR0N3d6MWJDR3dtWG5HSTRBbEY3QVdIY3Vvb2g3THNnNTI0MlZQRDdLa2ZJekNjX0FmNVNsd09KRjlveHR0Z2Z2M2tVLUgtYllDUTA3VGZYSDNMV2dHQnJXTEhzU2NELWdfSlpJODgxcmYtRFpqdGFFR3hXQm9CWFl6LXpkYWZrY25WVDB4d9IBrwFBVV95cUxNekVSbTJMQklab1BSQ3VlWnVRalBiMFZCbDVkckh5SXJPbFBWcVdGaVp2MGI2em9zdEEzUnlQTnFNSTFHdl9SMzA3czdkWmJ5bEVpTDBHWDFrZ0l0UHlkaURsWktTbm4tMlpmRjVsSXBTdmdmTTFXWWtlTXN2amx2S3ZSa2YxS1BtMHB5d082X0dpN1VaTlA0alp0ZEFOdlNjZnFHdDZzY0VRZ1dNampJ?oc=5",
    "date": "2026-11-04T06:48:04+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -2476,6 +2548,16 @@
    "source": "Google News: biosimilar",
    "title": "Fresenius SE & Co. KGaA (FRE) Signs Exclusive WuXi Biologics Deal to Expand Biosimilars - TradingView",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWkllNmlWbC1OQ3NsWWdjRnlGbjZrY0pDVy04MmxndnpxemV0SFk1SXYzYTRRNUdfOE5Ia3EyRUxXZzF3bXBreDJpTE92NGNMc1FERkVIRWN1MHFINHRvTm95SUN2RzhrMU43Vy1VQVZwYVk2ZlZseGZoN1RFMXJHX2lxMDRwMXFxMnVnUUJJX1F2VmZUb0hyLXAydm0xelo4UTlfbVEzcWl5bHAtNzczZUVZeUNYWVNwNVBoNlBmbmZKYUVwZHlzdWVpZUtlNXpVeGt1akpEUTM1REYy?oc=5",
+   "date": "2026-11-02T06:47:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "77d3e5f387aa",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius and WuXi Biologics enter exclusive development agreement to expand biosimilars pipeline - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWx2N04zSXFYWmg0LU1QeFlFWnY2YzgyOXlBcFpYR0NpX1l5aGdhTTZuMDBiX0RoT042YnZ2WU1wcDR5TzdhbzIwbTJWcVdfUFBkdkthV2JjMnJOVjVzTFl3R29zWk1CMDU5TUNrQnEtMl9TWWFxdFNPaXJTdmpXVE0wcnNycFBrblRYTDRxWHNWc3lvRVBMcUlnTnpOdEhCb3dn?oc=5",
    "date": "2026-11-02T06:47:00+00:00",
    "snippet": "",
    "biosimilar": true,
