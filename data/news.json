@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:54:44.192241+00:00",
+ "updated": "2026-11-07T10:01:44.935798+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,13 +35,13 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": ""
   },
   {
@@ -52,6 +52,38 @@
   }
  ],
  "items": [
+  {
+   "id": "a1791b921861",
+   "source": "Fierce Pharma",
+   "title": "Hims & Hers inks deal with Eli Lilly to offer branded weight loss drugs",
+   "link": "https://www.fiercepharma.com/health-tech/hims-hers-inks-deal-eli-lilly-offer-branded-weight-loss-drugs",
+   "date": "2026-11-07T10:01:44.935798+00:00",
+   "snippet": "Hims & Hers struck a deal with Eli Lilly to offer the drugmaker’s branded obesity treatments through its online health and wellness platform.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b2257b3e76cb",
+   "source": "Fierce Pharma",
+   "title": "CMS makes it official, codifying Medicare drug price negotiations established under IRA",
+   "link": "https://www.fiercepharma.com/pharma/cms-makes-it-official-codifying-medicare-drug-price-negotiations-rolled-out-under-ira",
+   "date": "2026-11-07T10:01:44.935798+00:00",
+   "snippet": "Against a backdrop of repeated industry challenges in court, the Centers for Medicare and Medicaid Services is locking in the drug price negotiation framework established under the Biden-era Inflation Reduction Act.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "83bff745d5ab",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Puts Keytruda Biosimilar Into FDA Review With Full Phase 3 Lung Cancer Trial Data - Tech Times",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUklXTlA2a2dQOFJYZzRoOTUwdG9JVFlnTkZLZEtoTER5WWg4NEZzLTBZN0JuNFFZVXFSb3ZINWpmRlVhZXNPc0FUM2hxdGs5QkQwUnNscFBmYWJhbklSX2pvbW52NjNSckM3QVc2NzFDLUloRnNQNWV5bzRmbUhrVFE2bE0xNTFMdzAwX0EyNkNMNHhLWENmZE9ZUENiVk9DQTMwMmpZX1djOUMtVDRoTU9Rd0tVYi02M1NwbzlNT2x1Uml0NG11LU1oLWFOOVFEMndadGNqSUNYQQ?oc=5",
+   "date": "2026-11-07T04:38:02+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
   {
    "id": "162908498cbf",
    "source": "Endpoints News",
@@ -213,6 +245,18 @@
    "watch": []
   },
   {
+   "id": "cf60f5bcd7c1",
+   "source": "Google News: biosimilar",
+   "title": "China Approves First Golimumab Biosimilar as Bio-Thera Clinches Unprecedented US-EU-China Triple in 2026 - Tech Times",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONHhfdHhsM0VHR0VDdzVmdDY0bFF1RGkxRUUxNnVVZ3MxSExzTTNKZS1qaE9YVTg4MVY3d05hbFRuTFR4NjJqdDlXaVBuaE9UNEFyVW50Y2pNYkRfMF9YZVpJckhkR3pIcElDWVhDb3hUTzBKZ1pUb004bnROczkxc2M3elhER2ZPNDhpYWh3V1FaS0kzYl9ZLU1LWndhTVVtUFBGdjEyV0JrNTdsci0yTDRvc0o1aDRVbEVoNGlXUW5IbUZyYVBmT0lNOUF3SDFNN0swdjZvajdIOV9FSGMzSXFscVhjR1ZZ?oc=5",
+   "date": "2026-11-06T18:56:20+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Bio-Thera"
+   ]
+  },
+  {
    "id": "d53f5dab4d97",
    "source": "Big Molecule Watch",
    "title": "FDA Approves Xbrane’s LUCAMZI™, a Biosimilar to LUCENTIS®",
@@ -349,6 +393,18 @@
    "watch": []
   },
   {
+   "id": "61890de4fabb",
+   "source": "Google News: biosimilar",
+   "title": "Bio-Thera Wins China Approval for Golimumab Biosimilar ASHULI - Securities.io",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmxpZF9NSTZLdWdQeHNzcGtuRGFkYVh4bjNaRENGTUJpb2FRSFFjN0xKWGZiMUlxWWpaR1ctbHQwa2VJdThrQ3Q3SDFoM3VvTm8ydlE4cTNUZ0x5SVBqMHhZWnR1TllXX2JOZjJvVTQtenM2bHJ3LWlKeWZwV3RLaVlkNGh2RzFwZ1VEMll4di14dw?oc=5",
+   "date": "2026-11-06T12:27:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Bio-Thera"
+   ]
+  },
+  {
    "id": "145e52f126cd",
    "source": "Endpoints News",
    "title": "Novo, Pfizer make CFO hires; Alnylam's chief commercial officer exits as struggles continue",
@@ -378,6 +434,18 @@
    "biosimilar": true,
    "watch": [
     "Bio-Thera"
+   ]
+  },
+  {
+   "id": "ba4ecc8ba8de",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz stock outlook narrows as margin target rises - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbm5WYWI1WmdsU0xvdVZaNFBLQUh5U0ZiSW5ySm1GWElFRVZIcW1POFM5aVd6cjhqaVVhMjlfcUtLQ2kyeUNUVGxUa1J0SW00dUdBeW5UUm05dXFld3lURnRKZjB5SXJ0czB3MXNKRDBPU3RieTN1UF8tSzRDX3BNbGg3OE4xbE5kVEJha21GcWhKRC14NmYwRHl2a19vYWVOQ0JaWkwwV09ZMDMwTGNuNjYzdFA?oc=5",
+   "date": "2026-11-06T10:29:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
    ]
   },
   {
@@ -411,6 +479,16 @@
    "watch": [
     "Celltrion"
    ]
+  },
+  {
+   "id": "1a828497bad3",
+   "source": "Google News: biosimilar",
+   "title": "What Comes Next For Amgen (NASDAQ:AMGN) After Its Guidance Upgrade? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcVZGWkZHWVlLMm1qRk13dkcwMFVZTDhfUDlVazZMZXhTS1JMU1NWMTl5UWcwRjZaZGxJOVBETUNycU5BSjNoZ0RyaFVIRU9Rd1lkS255V1NQdHJTRmRIbVNoaFlrbmF0c201aFNza1hyVEZOMlVhcGtCRDZTdXNZSzBDUF9YbTNlUEJUSWtFdjN0eThfMlp4RjNNUEpqWlViUVBzVUk5VXJZc0JjbXc?oc=5",
+   "date": "2026-11-05T22:01:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "3abcd3148bd4",
@@ -670,6 +748,26 @@
    "date": "2026-11-05T12:52:00+00:00",
    "snippet": "The startup is built around technology it claims can help get after known, but undruggable cancer targets and design particularly selective autoimmune disease treatments.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "57ab82724ce7",
+   "source": "Google News: biosimilar",
+   "title": "Shilpa’s Orion deal gives nivolumab a European commercialization route - Multibagg AI",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0oyVWgtNmJSUFUzclF1aHlHLUZ3bnU3VzBkNDg4bTlZU3B6b2I0UXp1OGo1R3JpRl9ZR0R3b0I3dXFjX0JPN0VNZk14MXRpRDZPUklIQWZNX0JvaUpaUElteERoTWprWlFpTUxKdHl3bHRVbF9HQlVWRFBfUXNXQzR1S0pLTVg0ZjVrczlPbkJCelp5MTJEM2piS2N1OTNLZTVwYlZyZ3pHV2pzejJKeVdyYmpWU1lxOHc?oc=5",
+   "date": "2026-11-05T12:46:48+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "3f8048a0f45c",
+   "source": "Google News: biosimilar",
+   "title": "Viatris stock trades at 17.24 euros ahead of results - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNV9SalNyQjV5ekpUQng1R1pEeG83YS1NUGNiWEQ1eUhsallVLWxnNC00OGVNSEdQV01YcWt4MDFwdTUwZkIyTmlHRmhFajc4S3J1NUpFYWxMTnpGX2F6dDhuZjJhQ1RYQUNWa1cxZ1NCaGd0bzM2dHhuNVBDVnFLaUxsRnNSb3NZeGtxZm5QV25CUXNlVFJQTS0wWUItZVBVN3lFNDluQkVRbW9pckU0eHBfSlhfZw?oc=5",
+   "date": "2026-11-05T12:44:29+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -1009,6 +1107,18 @@
    "watch": []
   },
   {
+   "id": "e5e6902d7053",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Targets Stronger H2 FY27 Driven By Expanded Insulin Production Capacity - Sahi",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRktldFRjc01tM1R5a0pfM2xXSG1RRHlLYVBYVmQtX0s5d2pfcjU3VU1sc2JOenBxcFhrWFkxZnlIQ3hHNGNjVVpIOHZBM0lLdEFJdzFHOFlaZjMxTkpuMkZYdjcyQWZJTVhsYXU1NmQzS1VrejNINV84bFd6Nm5ZbGlTU1lVc0wzODdKUVVuQWE1TlRzZ3ZqWVpCZHllaDZhNXhRWEZDSQ?oc=5",
+   "date": "2026-11-04T19:03:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "a223bc73b81a",
    "source": "Endpoints News",
    "title": "Novo’s race to catch Eli Lilly may already be lost",
@@ -1291,6 +1401,18 @@
    ]
   },
   {
+   "id": "a15f33bd7e09",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Q2 results: Profit, EBITDA miss estimates; biosimilars business posts modest growth - CNBC TV18",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLXJIQmNPTlFBSEw5ZllIMk9UYWFjVVZUYWFnOXdjUkh2RE9nWXNMc0QzZ0JuT0ZQTHJWVlY0ajlRbXNWQjdRRFJ1SVBJRGFkNkpHdVdpd19VSEpJWEZ0MmxkQWZmUUZxLTJvNTczVXNYMDAtNGhnTHJfZzVkSFhRRmMycklHdFNKQXFvUFA0YjdpajNkcHZleS1HOW14X2RWNGJVX0hhVFlSUUlnb2Vmb1JZVG5xVWdtcTRUMUJDbTZDU0NFLW9OM0F5aEYzSUFrZ0tuMENFZU7SAd4BQVVfeXFMUEFCTkRmZjg4akdlUFdVMDVuRXhLb09pNUdHSldITFNvUkJUbUwyeDEtRTU2WmNQTmhjemxOVnVXekp3RUdDdmQxeWl4NHEwMGxuNHg2UDNOQXFBZnF2TW8wVnlCeWRMOUFWNjNMTUhLQTVVTy13bS1QOWpCWkkwM1l4WXhDdGcxTmtLUnN1bWpTTXdIYWlUQUlyYVpDVk9ZMFk1dWtsTUZRbUI4VWNJLU1tZVVjTll6dTltdDVqaHRRTHRwRkItTjZpZ1NNMEwwS3NiUE5OVEhldlpxckJR?oc=5",
+   "date": "2026-11-04T09:09:31+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "82f99f32d627",
    "source": "Google News: biosimilar",
    "title": "Canada can’t afford to keep lower-cost medicines off the market - National Newswatch",
@@ -1346,6 +1468,19 @@
    "title": "Samsung Bioepis signs $420 mn U.S. biosimilar deal with Teva - 매일경제",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iaTMxTi12WlNDdkNRNWE3VEI0bmxsQ1oxMkVOOTAxUWljMjlCaHZDVHVzODc1a0x6NklOR2p4YkJTUFVTNUhZVV84WVcxTzlhQ0ZNOU9pWQ?oc=5",
    "date": "2026-11-04T05:36:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
+   "id": "13f843b57fe5",
+   "source": "Google News: biosimilar",
+   "title": "Teva's $420M Samsung Bioepis Deal Includes Biosimilar Banned From US Until 2029 Patent Expires - Tech Times",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbUdNOFNOaTY3RVJBTGZjWjBra0dxaWc1N2JJcGNQRmdaMThzemM0RDJXOU5wUXV2VU03TnhuSTM5dmkyVDFVU20wY3FqckRuazlvNGFUZ1o4Ulc3RUR1QXlCUTVOUGN6RmlhWEZjY0MxaWVpajRfNEl5Wkx3eHFtSy1pM1Q4azRVZ2pQSVNiSC1UclJsMUxycVlvMXpLSTJIbm5OT1lVZEZkcm1DTkxkcXM1RjIyY0JxZExwc2ZGbEtVT3RDQ25KRVZsYWNiS0YydXdDV0ZSRGxSQQ?oc=5",
+   "date": "2026-11-04T03:56:57+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -2287,6 +2422,18 @@
    "title": "Amneal earnings on deck: Can biosimilars offset margin pressure? By Investing.com - Investing.com Nigeria",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSnpjZlp4Z1RWRjg0dnJvSFpQWU9RVk9aLThucTZLeERSWno0X3FrTXM3eENDbkM1Z0JTYl93Ry1DVjcxSFVHVnRYdmVzTTV5ZEdkZHRiTUN6TC1KMmdhMklPbmp1T2tqSGNUUFJycFpsdnliVFFEMUFRQll3Q0IzN2JMaGNSX1RJNFZGdHhSVFM0SEFteDRDRXktRTBZTEQ2ZEFIUm05ZDk1T0VaVlZIUE52U18xY0hKM0lkQmxBcTk?oc=5",
    "date": "2026-11-02T15:37:52+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
+   ]
+  },
+  {
+   "id": "0be8f233a9c3",
+   "source": "Google News: biosimilar",
+   "title": "Amneal earnings on deck: Can biosimilars offset margin pressure? By Investing.com - Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY2Z5N3h4YnVKWWFCcnRFdHZBS29qM0xCOS1aMWFQVGpNMVBGLXlzdVk2RDdtMTNteDR4ekJ3a2pERUIzM3RiaUZZNS1PcXdHV1hkbzhQOWZuaFhCcjJLSWxkZk9NaVVZdEdnckFzRGNScWJNTVZsZ0xwZi1vQkVGM0EtOU9tYlVFY0xNLThyTFcxM2lGN2xoektySlF0UUV5RGx5OXlTU09tN2UtTHFOQWd5TVVpY1IyLW9UTzA4WFE?oc=5",
+   "date": "2026-11-02T15:33:13+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
