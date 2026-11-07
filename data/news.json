@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T17:44:12.155167+00:00",
+ "updated": "2026-11-07T21:46:48.878886+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": ""
   },
   {
@@ -52,6 +52,28 @@
   }
  ],
  "items": [
+  {
+   "id": "28781acf08c6",
+   "source": "Endpoints News",
+   "title": "FDA launches investigation of Novartis’ Zolgensma after cancer cases",
+   "link": "https://endpoints.news/fda-launches-investigation-of-novartis-zolgensma-after-cancer-cases/",
+   "date": "2026-11-07T21:12:08+00:00",
+   "snippet": "The FDA is looking into a “serious risk” of cancer linked to Novartis’ spinal muscular atrophy gene therapy Zolgensma, the agency said Friday. It follows Novartis' disclosure Thursday ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "01eb3954a64f",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz appoints Dragos Toma to lead Egypt and Libya - Daily News Egypt",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1RhUUhpWWI3bi0xMmpBM2U3dXc2bWZKRkduX3JPZFBiX2ZoQ2M0aHdHWTlSenlCRm1ueUhzV09ycGpYdXQwQnVmb1JSXzV6RFpydTR4dmF0YmxLcEZoSlBwU2xHckl2Rlo3ZFVVOWUtTE85WHJta29GU1dIcUw3a2o5SEJXdHAwMDNfZjFfbS1ZWndV?oc=5",
+   "date": "2026-11-07T17:46:39+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
   {
    "id": "60e1a105563d",
    "source": "Fierce Biotech",
@@ -2096,6 +2118,19 @@
    "watch": []
   },
   {
+   "id": "cbae785844e6",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis has signed a contract with global pharmaceutical company Teva to commercialize biosi.. - 매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EVTJmejh6OGItR1FaM2xmeDhKd05sV3FIUlFlLUlRdXpOaGN2U2E2cDNkQ2NiTDJPYklkdlFIUXlKX2xmLWJyMEs2RQ?oc=5",
+   "date": "2026-11-03T08:56:06+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
+  {
    "id": "e322f77524e0",
    "source": "Google News: biosimilar",
    "title": "Samsung Bioepis teams with Teva to sell two US biosimilars - Chosunbiz",
@@ -2203,6 +2238,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "15b4f4119a34",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion Adds Safety-Syringe Yuflyma Biosimilar to Korean Formulary at Lowest Adalimumab Price - Tech Times",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU0tnZTYtSEhNeDhzZEtNWmhuc0h6N1VlVVRUd3hZYXVXc2RjdFBfTWp6cnNWT29SbUF0ZE0zWllWUVFLMHFmeTVlaTZPWUNUUC0wUVhQVVdLaG1HeHRLUFoydlVWZVFfbG5mcjdITGc0SWo3TURSX2JoWDRMVXd4ZlRLM3VHNWQxa0R5d1V2QVFMUkZINDA2T3FqM2haTEl0MGVzTEdFYnZFRmtGS0pJQ3YtMlZ4Z0h2RlZwZXVjc2hyRm9VUHlvTFh4cGROb25yQVk5QjhMNS1VWTNT?oc=5",
+   "date": "2026-11-02T20:54:16+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
   },
   {
    "id": "e146453bd03a",
