@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:01:44.935798+00:00",
+ "updated": "2026-11-07T17:44:12.155167+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,51 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 60,
+   "count": 52,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "60e1a105563d",
+   "source": "Fierce Biotech",
+   "title": "Novartis’ Lp(a) drug shows zero benefit, casting shadow over Amgen and Lilly programs",
+   "link": "https://www.fiercebiotech.com/biotech/novartis-lpa-drug-shows-zero-benefit-casting-shadow-over-amgen-and-lilly-programs",
+   "date": "2026-11-07T17:44:12.155167+00:00",
+   "snippet": "Novartis has lifted the lid on data from its failed cardiovascular outcomes trial, reporting a total absence of efficacy that could intensify questions about upcoming readouts from Amgen and Eli Lilly.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f852d0f9b8b2",
+   "source": "Endpoints News",
+   "title": "#AHA26: The similar, surprising Novo and Novartis heart drug failures spelled out",
+   "link": "https://endpoints.news/aha26-the-similar-surprising-novo-and-novartis-heart-drug-failures-spelled-out/",
+   "date": "2026-11-07T14:50:59+00:00",
+   "snippet": "The heart drug whose failure knocked 9% off Novo’s share price in July had almost no effect at all in its pivotal trial. And data on a cardiovascular candidate from Novartis ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ffa5031b97a0",
+   "source": "Google News: biosimilar",
+   "title": "FDA Purple Book: Biosimilar Data and How to Search - CASRAI",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWR1dhcUpGM1U4YmkzSWY1bGstSmptUmdJOHRsQUR5Qm5NWDNCRUFURC1xWmthQ1dER3RyTlF0WlNwOWlQSTk0T2MwMW5PQQ?oc=5",
+   "date": "2026-11-07T11:28:46+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a32066128c64",
+   "source": "Endpoints News",
+   "title": "Novo’s race to catch Lilly; Q3 earnings recap; and more",
+   "link": "https://endpoints.news/novos-race-to-catch-lilly-q3-earnings-recap-and-more/",
+   "date": "2026-11-07T11:00:46+00:00",
+   "snippet": "Welcome back to Endpoints Weekly. Democrats won control of Congress in a wave election on Tuesday. What does that mean for biopharma? Endpoints News’ Max Bayer and Drew Armstrong discussed the results with policy expert ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "a1791b921861",
    "source": "Fierce Pharma",
@@ -1287,6 +1327,16 @@
    ]
   },
   {
+   "id": "4622331f2adc",
+   "source": "Google News: biosimilar",
+   "title": "U.S. Biosimilars Market Size Will Reach US$65.62 Billion by 2033 - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlRsVHVBTUt5SGtpVlBRSG9qT0tHaEJGS0x4T0hCQlJFeXJWdjF1UUZXQ0ZIOERiLW9PZzBwdFRTNzVNWXUwblYzbHpBc21UT21XZy1ER2dBWHo2dGJqRm9Ic3p6eG4tU3FVLTlMYVhXYndKaG5OQmUzU0ludW1Gc0s4THVrM0ZqN0RxQnlFRDVvT2NRdDdrdXRjbnQydF9S?oc=5",
+   "date": "2026-11-04T12:52:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "29bff3943794",
    "source": "Google News: biosimilar",
    "title": "Amgen lifts 2026 outlook as Repatha and Imdelltra offset biosimilar hit to Prolia - The Pharma Letter",
@@ -2085,6 +2135,16 @@
    ]
   },
   {
+   "id": "b41f22bb4469",
+   "source": "Google News: biosimilar",
+   "title": "What Do Late-Stage Pipeline Advances Mean for Amgen (NASDAQ:AMGN)? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaGNIMFJzemtGSmdGMmN6ejlPYVhPZ0FzSnN1bUFiRk1MVWJOTXc3LWN5VElxcHRxZFZDdDZlQUdZeVBlY0dvWnZoTUVjY2hVLXc4OWZsUGE0QVVXM3Y3Y0tmRFdCNGY5QVFxLS0tdnlvWkEwWUdaRERsMlptenY0VnI4SnZ2RDNEN1RxSFBBdklfQWxBMzBsak43WVloUWpaODRUTWgtRE9rZ0xG?oc=5",
+   "date": "2026-11-03T07:12:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "50c558c13864",
    "source": "Google News: biosimilar",
    "title": "PanGen seeks European partners for EPO biosimilar, CDMO business - Korea Biomedical Review",
@@ -2586,6 +2646,16 @@
    "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - The Mountain-Ear",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hTWVUazFESWZUYjRvOXgwR01yTW4wckZXSFVUQmxnTUdkWVpncmxVdFE4MXdzUmx2bGR2bHpHcTlPdkpyY1hhczVpYmJwY0lUd2xCV1FMNEVSNWQ1Y3RDd2h3?oc=5",
    "date": "2026-11-02T10:34:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "36f60d1c6d64",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius and WuXi Biologics Sign Exclusive Deal to Expand Biosimilars Pipeline - Voice of Healthcare",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcHk2YlpRQkwwUHNsVHRXbW84bXhSRUprQnE0VXpTQllrcDNFZ1pMUXF0NlFUQzVhVEI2WGVmRUtkaGREalBFdUJuR0NJb09LUGtmRmF5cmFFX2c2ZGdmMk0zS3Z1Y3dhWnRtMDE1VHc4NU1leHZSZzNLeVdLSUE4NjAxeHNFazhHSi03c2R3RzFES3ZpalNLV014Vmk1Y0tkQjJsLVZGdW1iMnRBUXFzQ19WRUs?oc=5",
+   "date": "2026-11-02T10:21:03+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
