@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T21:46:48.878886+00:00",
+ "updated": "2026-11-08T05:57:06.683442+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,7 +47,7 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 52,
+   "count": 60,
    "error": ""
   }
  ],
@@ -1778,6 +1778,16 @@
    "watch": []
   },
   {
+   "id": "f19eec199257",
+   "source": "Google News: biosimilar",
+   "title": "Is Amgen (NASDAQ:AMGN) Ready for Its Next Growth Chapter? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWmstVDhOQWNrOUV4TWJrRzlkdkg4RExCblZGUDhqTFJmd2NSajBZb0RvTGpBbGVGZUJhbTh3OE04YTJDU0FiUVRGaWU1cDlBVkNuT1ZjSkJKWHkwVHZvN3pNUkoyZXY3V0pZOTAzUkZQeE9HcWN6c2NoWm0xVGdFSnhJdWFVTkJ2ZWMwTWFrQmFCZzBOcGNzbnhMSU5GcGZf?oc=5",
+   "date": "2026-11-03T18:57:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "05710b728112",
    "source": "Endpoints News",
    "title": "Post-Hoc Live: What the US midterm elections mean for biopharma",
@@ -2197,6 +2207,16 @@
    "date": "2026-11-03T01:08:44.560113+00:00",
    "snippet": "Actress Holly Robinson Peete and her husband, former professional quarterback Rodney Peete, are hitting the road for another starring role in Sumitomo Pharma America’s Gemtesa campaign, “Time To Go.”",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "127aa723855b",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius Signs Largest-Ever Biosimilar Deal With WuXi Biologics; US Ban Decision Due in Six Weeks - Tech Times",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjBzR3l1YWh1ajZOckJzbHFhWVdpemVOZGNGNVlJYmt0VzFET0dLOWR4UlpTcmRTVlA4Z0MybzBXd2w0Wjl2eXpSRktNTWYzalhMWlJCNThhZEVsTldUb3FhME5kOTg0dEJxaGpsVmQ3RElsWC1pbTBCS1VqSU1RcUprZi1maWtlOTJVYXAxZjM3dXVqd0w4ZEM5RWJ3VGlSSlZFdGZMTUh5T2NsZEl1ajM1SDFNYnFpYldlcDNRRjFkczNLRzFmRkFaYWlJNXRHdkZoc2pxcUlvdXZG?oc=5",
+   "date": "2026-11-03T00:05:34+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
