@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T05:57:06.683442+00:00",
+ "updated": "2026-11-08T13:20:00.394735+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "e5b15c4ccd8f",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - Daily Inter Lake",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TUVVDNHRzMHYzX1M0czlzZGZZWHFPMlNtanR3cFlsRGNqcnF3dDFwWXpJMmRKU09vclAyaFlpMV9PNlhQVHpZa1dqNGtITFNuZGl3YkNMNlhndHpkTkJkT3VDTE0xeXpINjJSM19qNmVsQQ?oc=5",
+   "date": "2026-11-08T07:19:49+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "013567a3534e",
+   "source": "Google News: biosimilar",
+   "title": "Webinar: In Practice: Beyond the Composition of Matter - AI and the Biosimilar Patent Landscape - IPWatchdog",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqaG8tM2c5UjFvcDJPbmlEN3U5d0xpZkI5aUlyVmtHLWdpRTdyMnVUZnVySEJyQjMtc2k2Z0poYzliYXNfMjh5c2ZCcExBLXhTVUt0NF9hSHlWZmE0QUpN?oc=5",
+   "date": "2026-11-07T22:45:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "28781acf08c6",
    "source": "Endpoints News",
@@ -2688,6 +2708,16 @@
    "watch": []
   },
   {
+   "id": "7718da9a7c81",
+   "source": "Google News: biosimilar",
+   "title": "Major deal gives Fresenius access to 37 biosimilar candidates – “We are doubling down” - www.lifesciencefocus.com",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT0RKRWxUUEk2N1dfVmJoWEJFYmFxOUk4R3FreGd1bC1RdE51eWh4VHJ1aDhOU2tFTTZIT0c5Z2VESDduRDViNU1FUkVldXpnUXhzbWk4Qm9jQkxKRG1SYjdTTDRQYlhIQ21rbHlaOUduN1VhSWRiaDYzcFAycWVJVUdaWHBySGstaDdQLXNLQ3ptYkZzN3JRSklIR015ZllnZDdZbE56WkNsNlZVX2dFZmdkNWV1NlExakhVampEakVtNzhOdklncWRyVHh6MmNuOGc?oc=5",
+   "date": "2026-11-02T12:06:54+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "7692aaa32803",
    "source": "Endpoints News",
    "title": "CinRx teams with Sam Waksal's Graviton on ROCK2 for PAH, other cardio conditions",
@@ -2696,6 +2726,18 @@
    "snippet": "Sam Waksal is doubling down on ROCK2 after his first work on the target led to the chronic graft-versus-host disease medicine Rezurock. Now, the Graviton Bioscience CEO is teaming up with a cardio drug development ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "db8389ad1668",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech to Present at Upcoming Investor Conferences in November - GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV1hoLXBIOVZLd2ZMTFdBdV9IeWMyb25wTEUwZ3Z6dmJ3QXRQbjZ0bHhpNGd5UllTNXAwSXRkRkptZ3lNc01ydTFVZk9PN0ktYUNCaHlHQnhWMEwzOUhub2FyWWxhVS1fYXZQVUZnX2x6Ti04dkFKUjJPUzZUbGhqdmdIRmdOdGp0bElsTmV0bElUWHdJcWxFLWNmM0hGNEh5REo1Q1BoVlVua1NXcmNOeC1RYkc0MHdGWkpUeXBYLWRIYWtjT04tY1BHTXhZT0RkeXc?oc=5",
+   "date": "2026-11-02T12:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "f359ad7d9b4a",
@@ -2793,6 +2835,16 @@
    "title": "Fresenius Partners with WuXi Biologics to Expand Biosimilars Pipeline to 66 Candidates - finance.biggo.com",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQcjd3OTJiTmUzdEZZc1RPa2pSZ05KRnEydVFUUTExTWNhaEhTVm5USUZURTh5SVp2TjdiS2gtTVlWSjZjdU11SVdpcGNTZ1I3OEZsVlIxMF9iSUlOOWhRS0JxSFRzRG9FRUItMzYxSEpOSDJJa2c?oc=5",
    "date": "2026-11-02T07:25:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "2ec4186cb190",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius Signs WuXi Biologics Pact for Up to 37 Biosimilar Candidates - Securities.io",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUtjbTlRRFZXb1NiT2ZOcDR3ekZZaVJjQThZMGEteXFBQzJXWkdad21IZWVqRHRTbEhxWUU4Q2xsczIzS3hTajlLcVd6ZTRmbVJrWVVKMXRrUnMxeUVQMmVNYjhGY3RSOVJhblRCUzhfaUFhcno0QzJsTE5iR3h3aUFNSDlZRjhKVjMzNnU4Mk5tcTFNN2FUMHF2S29mUQ?oc=5",
+   "date": "2026-11-02T07:09:39+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
