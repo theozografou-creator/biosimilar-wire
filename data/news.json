@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T13:20:00.394735+00:00",
+ "updated": "2026-11-08T19:39:49.621947+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,7 +47,7 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 60,
+   "count": 59,
    "error": ""
   }
  ],
@@ -1317,6 +1317,16 @@
    "watch": []
   },
   {
+   "id": "a8b02458b250",
+   "source": "Google News: biosimilar",
+   "title": "Autoimmune Disease Therapeutics Market to Reach USD 233.4 - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUZtVXB6MTgzSWduUDdBSE96bGYyUGRsUHBmQ3Z6aWI0V1c4aDZFUTdWZ2VTMU1ISlY2cW1uNGxoS2FuVGl4djFqbEsydjVSQnNfaEh2anhxZnpydDVWelJQOFFvWDljdE1oY0c4NXBjRy1UWTROdDdleDZlblVOM3VWS29wbUlNQm4tbkoxd3ZDUGtOQTA5OQ?oc=5",
+   "date": "2026-11-04T15:04:38+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "19f9da93cb0c",
    "source": "Endpoints News",
    "title": "First wave of #ASH26 abstracts is here, with data from J&J, Servier and AstraZeneca",
@@ -1631,6 +1641,16 @@
    "title": "Amgen beats estimates but shares dip on biosimilar concerns - Yahoo Finance Singapore",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmluWk4wLWV3dTRRUVJkeTRrdHg3czFDWlZMTVoxWVRscG5CeDAxTkZTX3RsUXBvOFZxUWlnc2I2QXlmWGV0dWVodjVySmZZVDVXbnQxUDRzN2FSREJrZF9Yd2d4cEd4RHo1ZW9HQ0Robm8wTWVYeGZOLVc3bWpEbUduemRCeW1S?oc=5",
    "date": "2026-11-03T21:40:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "ab895a728e28",
+   "source": "Google News: biosimilar",
+   "title": "Amgen beats estimates but shares dip on biosimilar concerns By Investing.com - Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjQ2OWIxTDFtTC1fQ3FZTlRvT3ZWajdpaXNQX3lId2I4NzNBZ3pCa3p0dzdfd0M0TGtDTnk2cjVTZ3gwWUdNVWVPOFoxNHZRdzY0cjZYbGQ0MXcwX2owUk1tdjBhRmlxZ0hJNXphOXU3ajgyVl9ISHBvMklVcjJwdGloSmkzcUpfRXFKNXdQdndSRDUwVzdpcDRVbm5sNGc4WUZGQTVYQlpjZw?oc=5",
+   "date": "2026-11-03T21:23:23+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
