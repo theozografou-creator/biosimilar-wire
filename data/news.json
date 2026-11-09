@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T19:39:49.621947+00:00",
+ "updated": "2026-11-09T00:51:39.725164+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,93 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 59,
+   "count": 48,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "fd4500892ed3",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion's Steqeyma Nears Wider EU Use in Children With Bowel Disease - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNmNTZW1FbkttTGdQdUlXWDM1bkRDY3pUaFVLLTZaTzBicG4zeF9hd3RXOVZkQzVnaUZ4NkFINXBrNDZESzRmSVN5R0JFNG1rZG50M19ZLTZDWWVra3NfUm1PUmRqNmRQZGczRWU3NnZuSlhDYm5GYU9Hd0ZReHRWUkFhZU9nS2lMUWRSbWdCelk0UWJyYlk4UXlQTll1UQ?oc=5",
+   "date": "2026-11-09T00:32:44+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "3fdb18404500",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis unveils Keytruda biosimilar data, targets US and Korea markets - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1FSa2QwT19rRDlDRnJZVk9EeWdUQkl4V092ZW1WTmNsTU1EV19wRzE5Ui1mTzl0SXdQcDRpbkJTUnVOVVdpU0d3SURYNUdWMGdNdTk4SDRVYzJoR0Juc0FBRGV6QlkxbUpqal85dzJIUVJKaW5OQk1xclB5YjBSRtIBlAFBVV95cUxON1laeTNwZXJSRzFNWWd4aDlDVE5hWjhtdlpZelBYb2JrUzNtYWcyNTlwS2xxaUxnNU9VdHNnY1dxM1VrU2lQOGY1UW96c0ZON1JCanV2bzk0ZXJyX1drUmpQSHk2ZWRIanNfU0hjb3d2NEktUGRoVjBzTklkSmxCb1VtVHRpZmlJV2pkejAtdlhvUHJF?oc=5",
+   "date": "2026-11-09T00:20:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "845ee27847df",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion wins EU nod to expand pediatric IBD use for Stelara biosimilar - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMFVmNWl3MlpfbkVxTkVhcTBmRlJpYXV2TUtJZUhQcXVLY1ROUXE4NzFZYnFZQ3NISlZUWkxxMWlxOG90cE9vSEc4d1R6V1JhNWhQMFJZRkNmLWxobmFSano2Q0h1aXZ4SWRYRHMyYldGdDRQamdFaDRUajd1VnprQ9IBlAFBVV95cUxQMUVWUlFCeHNQUmlteVoxZ0hLQ19yRVV0VjFjSnh1YVR2WnlacDczR08yallTaWJrVy1Ja0ZTSlZ5UWd6eFIzSGw2UnpPOUNaUGVHZ0pGSG1vR1dUT1NBek14NzE5QWlsRTBlcXBPRHhzUXc2NkhwQ3gxM253QWh6MzhTbTNOamY5eDRJbmZjUWh4LXFl?oc=5",
+   "date": "2026-11-09T00:19:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "c703e1d1a921",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Says Keytruda Biosimilar Matches Original in Phase 3 - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPakkxc3AtejIxYm8xcUNZTmM3djQ0ZDlpcE5scl9jMFpoaVc1MGhfUGtNOWFUQjVuSXE1dGdzNXpfREd6OHd4ODk3RzZycnVNSEVVQ1dSbTM3M0VCSUN0NzY1X3dmaDM4SVZEZmRXYWZFS1RnRC05SC1rTXhXempVM2tOdWUxN0JaMFhvRzBPbGJFaXZjczFhbjZtSjRzcTBX?oc=5",
+   "date": "2026-11-08T23:49:44+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "4d7ddc6c904c",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis' 'SB27' Demonstrates Equivalence to Keytruda in Phase 3 Trial - 아시아경제",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KOExLTmFfLXFoNWRIal9DODBhSUpXcm1MVlg0ektXWEFJZzRKRzhpZFhZTS1fQV9pcVpobVBtTDBmU2tJeFVCT0lKU1VQNGdNZ1psZnJ4X2QyTVJMb3h5dXROaUg?oc=5",
+   "date": "2026-11-08T23:19:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "0d667aa8ae89",
+   "source": "Google News: biosimilar",
+   "title": "Organon (OGN) Highlights Successful Biosimilar Switch Study at A - GuruFocus",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHpDbnBhaGJ1dGRFT0I1YkZrcjhacm9hTk5wSlVtYzBrazVRZlBuQVI4NmpaRkRSemdaNmp5b3ptX3hKbFZxZlY1N1VWYy1PMEVsNi1HTHlyQTUyVkhmcjIwRUE3TnVISzBtVzk4aWZqaHM1b2pkV0VSMW1YS1IzNW9FcDRjY21GcjRrY0dHb04zaFB3T0o4b0tWNEJFdXhoQ3YyMVRwNmdiajNuYThaMQ?oc=5",
+   "date": "2026-11-08T21:42:05+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Organon"
+   ]
+  },
+  {
+   "id": "59707fa011cf",
+   "source": "Endpoints News",
+   "title": "Vir says hepatitis D drug combination succeeds in first pivotal study",
+   "link": "https://endpoints.news/virs-hepatitis-d-drug-succeeds-in-first-pivotal-study/",
+   "date": "2026-11-08T21:15:33+00:00",
+   "snippet": "Vir Biotechnology’s chronic hepatitis D treatment has succeeded in the first of three late-stage studies, stoking competition with Gilead and Mirum Pharmaceuticals. Vir said Sunday afternoon that 44% of patients who received once-monthly tobevibart and ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "e5b15c4ccd8f",
    "source": "Google News: biosimilar",
@@ -2166,6 +2248,19 @@
    "snippet": "Merck KGaA is selling its CDMO business to Lonza. The deal covers five manufacturing facilities and about 1,100 employees. While the finer financial details of the pact were kept under wraps, Merck KGaA",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "07d9dd6e600a",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Signs U.S. Sales Deal With Teva Worth Up to 563.2 Billion Won - 아시아경제",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2dVNDaGdqZFZkQUJoV21pelJYTEdlQ0ZpSnlqdmJRbktqdmFmZnE4WnR1TnRpX1RHM1ZHQnhsazk5Mi1sUEZoVzBiZnRkeTZCS2Q4UUdhMjR4SFFpNGZXTjNIOFM?oc=5",
+   "date": "2026-11-03T09:09:35+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
   },
   {
    "id": "cbae785844e6",
