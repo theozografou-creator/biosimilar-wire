@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T00:51:39.725164+00:00",
+ "updated": "2026-11-09T11:26:37.632378+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,197 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 48,
+   "count": 54,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "647de12bddd5",
+   "source": "Fierce Biotech",
+   "title": "Vir’s phase 3 hepatitis delta win fuels push to eclipse Gilead",
+   "link": "https://www.fiercebiotech.com/biotech/virs-phase-3-hepatitis-delta-win-fuels-push-eclipse-gilead",
+   "date": "2026-11-09T11:26:37.632378+00:00",
+   "snippet": "Vir Biotechnology’s phase 3 trial in chronic hepatitis delta has hit its primary endpoint, giving the biotech the first piece of the package it needs to file for FDA approval next year.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c845bd57ed92",
+   "source": "Fierce Biotech",
+   "title": "Valneva sees LimmaTech vaccine reduce Shigella infections in phase 2 test",
+   "link": "https://www.fiercebiotech.com/biotech/valneva-sees-limmatech-vaccine-reduce-shigella-infections-phase-2-test",
+   "date": "2026-11-09T11:26:37.632378+00:00",
+   "snippet": "Valneva’s Shigella vaccine has been shown to reduce cases of intestinal infection, hitting the key endpoint of a phase 2 trial.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1a59633148ca",
+   "source": "Fierce Biotech",
+   "title": "Argenx inks $1.15B Unnatural Products buyout to expand in oral peptides",
+   "link": "https://www.fiercebiotech.com/biotech/argenx-inks-115b-unnatural-products-buyout-expand-oral-peptides",
+   "date": "2026-11-09T11:26:37.632378+00:00",
+   "snippet": "Argenx has struck a deal to acquire Unnatural Products for $550 million upfront, snapping up the Merck & Co.- and Novartis-partnered biotech to add oral peptide capabilities.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "424486661064",
+   "source": "Endpoints News",
+   "title": "Argenx to acquire Unnatural Products in deal worth up to $1.15B",
+   "link": "https://endpoints.news/argenx-to-acquire-unnatural-products-in-deal-worth-up-to-1-15b/",
+   "date": "2026-11-09T11:23:25+00:00",
+   "snippet": "Argenx said Monday it will buy a macrocycle biotech that started out of a garage in a deal totaling up to about $1.15 billion. Argenx will pay $550 million upfront in cash with as much ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6015b980fd54",
+   "source": "Google News: biosimilar",
+   "title": "Organon data shows $132M in VA savings from Humira biosimilar switch - StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeklWMmhMRGdGNm54WFRDVG1wQW1iTHVBOWt6eHJDUy1JeXRoYlhhVVJLQ19CMWhpT3FHTWdjSC1SSXFvTHBrMS0wSDRwQXpMdFphazJzc0hxcGFQWnczOHJIaWRzY2JIQjI4b1VOVmFtd051Mnc0d1AxMEtqQUl5bWZuQV9UdVFtSzFsTm8zVFBmVjJuSHNSSVNjUHRBSy15Xy1iR2FFbFhlUVQ1aUh1Q1NfR084bEN6RWxVejlPSThLRUFpT251RQ?oc=5",
+   "date": "2026-11-09T11:05:21+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Organon"
+   ]
+  },
+  {
+   "id": "b1f34666a109",
+   "source": "Google News: biosimilar",
+   "title": "Bio-Thera gains Chinese approval for spondylitis and rheumatoid arthritis drug - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjdBM3JPZXNzQk5oa3hJRHcxTWhmaTZCV2lQeGk1azQ4czdfWG5yOVFTU0JHTHUwNHRySDdRYWhNMXEtVXptTmpsVG96Xzgxejlwc0lpd2NXZ0lzMHBJMVhYeG4yemhucURiOTVCZ2VkVjZNMUNlZUFkdERLRkItUHRNQXpwV3lJWW9scndRdHdyR2NkanFrMA?oc=5",
+   "date": "2026-11-09T10:40:15+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Bio-Thera"
+   ]
+  },
+  {
+   "id": "dc7235b28288",
+   "source": "BioPharma Dive",
+   "title": "State incentives for commercial-stage life sciences companies",
+   "link": "https://www.biopharmadive.com/spons/state-incentives-for-commercial-stage-life-sciences-companies/873753/",
+   "date": "2026-11-09T10:00:00+00:00",
+   "snippet": "Factor incentives into expansion plans early to improve site decisions, manage commitments and free capital for what comes next.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0e6209e39ca2",
+   "source": "BioPharma Dive",
+   "title": "Translating Phase II success into Phase III readiness takes more than scale",
+   "link": "https://www.biopharmadive.com/spons/translating-phase-ii-success-into-phase-iii-readiness-takes-more-than-scale/833059/",
+   "date": "2026-11-09T10:00:00+00:00",
+   "snippet": "The move from Phase II to Phase III is often treated as a clinical milestone, when it is actually a development-wide transition.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ffca9f08d0df",
+   "source": "BioPharma Dive",
+   "title": "Making the ‘impossible’ executable in life sciences construction",
+   "link": "https://www.biopharmadive.com/spons/making-the-impossible-executable-in-life-sciences-construction/873537/",
+   "date": "2026-11-09T10:00:00+00:00",
+   "snippet": "Why early technical expertise matters when complex life sciences projects challenge convention.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9b421fd84966",
+   "source": "Google News: biosimilar",
+   "title": "Rationalizing Drug Development and Biosimilar Science, Part 2 - BioProcess International",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMGIxaC0teWZ0ejR0Y0xjX1V4YzhvUHlSSHQ2UmZjOGhsZWRPXzE5NEhpUkpUTFpQZnFtTWU3Um5hZzZ0LUkxS2FRbURja1VUc0tJQjhuSFk3bVg5ODRsTHhhWWdxcmRpbkZsX2cyeEZRRnJVSVYtWkdzTFZTdF9WS3cyS1dMeURYdHJoLTUyenJHVmpvcTFmTmxSczZZR19KeGFfWkVHbDhyR01obmJBRThQTFJ1VHgyVEpwWDk2SGRNM2xOUE9mUW1pbXp0ODhIdTZmUTIxQzdSbl9mUG1lZXdaSHluckdNYU80Tl9lX3VHREdHcUZYNXNad1Vaa0U?oc=5",
+   "date": "2026-11-09T08:13:53+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "d9cf6e80543b",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis confirmed its equivalence to the original drug in phase 3 biosimilar clinical trials.. - 매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZSmdWU2JuaEd4NDdISVlYVVY3Q1JHSUpEOEJkb1BVN1JjbXRTOU1qNGUzcHdmRWh3cUZIa2ZpWVFCVlp2c1Q1XzAzQQ?oc=5",
+   "date": "2026-11-09T02:20:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "91928c5f2fb5",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis' Keytruda biosimilar demonstrates equivalence in global Phase 3 trial - The Korea Times",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRlZtTm5pOTZ4SC13WFIzLWJPbUR4cnF6UlkyOEhBM09TQXNsNk1RV3Ewd0JxTnU4dUxpZ3I5RmJKeTg3Mzd1cHlLQ29wRlFQZG4tZ1J2eXFDNmJBcGRIa05oNzlSVTgwWGRJVzRfYzRTMDc0WW5nYUV3S0RLX0RSVElVVTBRQmcxZHJyb0xqNzg0b3ZVTEd5Xy0xWDVrWnF0ZjJOOUhrRjFNQzdYblNhamZWUENWeHZYTmJDLTJaRDY3Zkd1R3VqMkUyNzhkNHZvVURXWDdmSlVRdEEwUkHSAd4BQVVfeXFMT0ZWbU5uaTk2eEgtd1hSMy1iT21EeHJxelJZMjhIQTNPU0FzbDZNUVdxMHdCcU51OHVMaWdyOUZiSnk4NzM3dXB5S0NvcEZRUGRuLWdSdnlxQzZiQXBkSGtOaDc5UlU4MFhkSVc0X2M0UzA3NFluZ2FFd0tES19EUlRJVVUwUUJnMWRycm9Majc4NG92VUxHeV8tMVg1a1pxdGYyTjlIa0YxTUM3WG5TYWpmVlBDVnh2WE5iQy0yWkQ2N2ZHdUd1ajJFMjc4ZDR2b1VEV1g3ZkpVUXRBMFJB?oc=5",
+   "date": "2026-11-09T02:14:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "1c06e31c41ef",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion's autoimmune disease drug SteQeyma gets boost for wider use in Europe - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fWG5mZDZEQjlZdy11NmZLZ3hFVk5qalh2X0Z3ZXBCRVVIYmtWaEl4Mk5BV212eXZMdVJzM2pxOFV6WDJQV3cxSlRNYnN4cjU1YnFYWXNGVEdIRGtQc01hOWVrbXYteGRjNnRRMHF3?oc=5",
+   "date": "2026-11-09T01:21:46+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "bf796a236e6a",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion’s Steqeyma Recommended for Expanded Pediatric Indications in Europe - Korea IT Times",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lZFkwUUhxanVwbDkyOEcwZFlDb1djaFhFM0pkREgzTlRFMEx6N0RsR1hOaWVubVJFM1JuVndUanRJYlJZSUwzNU80RkVEUmRrYlRPR0syNS1fZE9qd3B4UEw2aTZCeV9kdFVaQ2tma3U?oc=5",
+   "date": "2026-11-09T01:18:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "3ad3694195d0",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Keytruda Biosimilar Proves Equivalent Efficacy - 조선일보",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOclRNbXZKeVBYYkk3UmxFU2Z4Y1pWVkVnZ0hyVEtMejBCb09IZzZEV0xCN3BZdTFOWEpOSEpHaktMa1JNbllOQ2I2bE9wNndUQ1NCNHNiT09SQkFYcXFiOFJqZHNKa0JaUXdacW1KMkF1Z2dWVTZjbnRBY1BtUVZyMHZVTEI3Z3JE?oc=5",
+   "date": "2026-11-09T01:04:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "70a299a8eb98",
+   "source": "Google News: biosimilar",
+   "title": "GlycoNex Announces Japanese Regulatory Submission for Denosumab Biosimilar SPD8 - PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3I4UDdTejgteFJmMk5BV0JUaHozRG1WZHVWV0twekx3NkFHdmpwd1ZwaTlOS3RWZ3BPLUFfTjktUDIyNUxLTUtyNXF3WnJlVnphNkcxalFfWXZVMTUxTG1YVGNwcVR5VDFjMjM4UW9XUktwd0J1c0VMaDBRcWJGa1Q3NTduLW9zVjVKX25SRk00cE80Yy1FODdEQm5FTFFZS2k5Sks4YWdJLXU3V0twS1lUWHRIRWRraWd1QW5OR2pXY1hZQjl3QVFMc2NoVENZ?oc=5",
+   "date": "2026-11-09T01:02:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "b9bec42fd28c",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis' Keytruda Biosimilar Meets Phase 3 Equivalence Endpoint, Launching US and Korean Regulatory Reviews - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKWENBYjlEcTlJazhxaGFrd2oxWDh2X0ItN29ETkRaV3JyX2JBdnJxQ05HWlZGUTBLb01xbjFLNXZuNENoTkVMQVg0emViT3hkR3VkLXF4ZmY5TEJZc1JKQzZ5cFBQQTdpOHlMNGdxVzdpSEJCMnc?oc=5",
+   "date": "2026-11-09T00:35:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
   {
    "id": "fd4500892ed3",
    "source": "Google News: biosimilar",
@@ -106,6 +292,18 @@
    "title": "Samsung Bioepis' 'SB27' Demonstrates Equivalence to Keytruda in Phase 3 Trial - 아시아경제",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KOExLTmFfLXFoNWRIal9DODBhSUpXcm1MVlg0ektXWEFJZzRKRzhpZFhZTS1fQV9pcVpobVBtTDBmU2tJeFVCT0lKU1VQNGdNZ1psZnJ4X2QyTVJMb3h5dXROaUg?oc=5",
    "date": "2026-11-08T23:19:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "f4a9ea840b60",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis to Supply Costly Cancer Drug Free After Trial Ends - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0I2SmFvS2dNcF9fOWRjVXdIOE1sVm1JOUtjWURmb0pmQXhPRnp0Zl9RLXZMZEhOM0h2SGlIbWZBelN5YVBwNzk2bGVDSTBwQWNSXzFEZ182M0FRcTlMX01OWlQ5bHZuUG5hODFUTTNBVEtpTS1SX0VldlFZVUlPLVZQeHJUQkZNZ3J5UU9rREhHSk1Xb1lpRVlhYUliZw?oc=5",
+   "date": "2026-11-08T22:00:05+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
