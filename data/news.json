@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:13:32.886004+00:00",
+ "updated": "2026-11-10T17:00:15.343509+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,232 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 54,
+   "count": 50,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "1811d4bad33a",
+   "source": "Fierce Biotech",
+   "title": "PepGen’s stock doubles as midphase muscle dystrophy data wow analysts",
+   "link": "https://www.fiercebiotech.com/biotech/pepgens-stock-doubles-midphase-dm1-data-wow-analysts",
+   "date": "2026-11-10T17:00:15.343509+00:00",
+   "snippet": "PepGen’s phase 2 myotonic dystrophy type 1 data have met analysts’ best-case scenario, causing the biotech’s share price to more than double.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "46eae4845471",
+   "source": "Fierce Biotech",
+   "title": "AstraZeneca buys partner Omniose for bacterial vaccine technology",
+   "link": "https://www.fiercebiotech.com/biotech/astrazeneca-buys-omniose-bacterial-vaccine-technology",
+   "date": "2026-11-10T17:00:15.343509+00:00",
+   "snippet": "AstraZeneca has acquired vaccine bioconjugation specialist Omniose, securing technology and expertise that could boost its efforts to protect people from bacterial threats.",
+   "biosimilar": false,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "5bf5138f629f",
+   "source": "Fierce Biotech",
+   "title": "Mirum scores again in hepatitis D phase 3, setting the stage for brelovitug’s FDA run",
+   "link": "https://www.fiercebiotech.com/biotech/mirum-scores-again-hepatitis-d-phase-3-setting-stage-fda-run",
+   "date": "2026-11-10T17:00:15.343509+00:00",
+   "snippet": "Mirum Pharmaceuticals has kept its clinical winning streak alive in hepatitis D, meeting the primary endpoint in another late-stage trial of its antiviral monoclonal antibody brelovitug.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3da84523b925",
+   "source": "Fierce Biotech",
+   "title": "‘Flying blind’: Why experts fear Treasury’s China biotech investment crackdown will backfire",
+   "link": "https://www.fiercebiotech.com/biotech/treasury-coins-act-proposal-pharmaceuticals-china-newco-legal-maze-biotech-vc-warnings",
+   "date": "2026-11-10T17:00:15.343509+00:00",
+   "snippet": "The U.S. Treasury's COINS Act proposal aims to shield U.S. biotech from Chinese competition, but insiders warn it will backfire. As lawyers scramble to decipher an ambiguous ban on cross-border \"joint ventures,\" they flag that Washington's national security priorities have ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "963eb6c76738",
+   "source": "Fierce Biotech",
+   "title": "AbCellera becomes latest biotech to abandon dream of developing OX40 drug",
+   "link": "https://www.fiercebiotech.com/biotech/abcellera-becomes-latest-biotech-abandon-dream-developing-ox40-drug",
+   "date": "2026-11-10T17:00:15.343509+00:00",
+   "snippet": "AbCellera has become the latest drug developer to abandon its attempts to crack the OX40 code.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "de0cececc0de",
+   "source": "Fierce Biotech",
+   "title": "Coherus shrinks headcount 30% to narrow focus of cancer combo",
+   "link": "https://www.fiercebiotech.com/biotech/coherus-shrinks-headcount-30-narrow-focus-cancer-combo",
+   "date": "2026-11-10T17:00:15.343509+00:00",
+   "snippet": "Coherus Oncology is once again laying off 30% of its workforce as the biopharma narrows the focus of its CCR8-targeting antibody on esophageal cancer.",
+   "biosimilar": false,
+   "watch": [
+    "Coherus"
+   ]
+  },
+  {
+   "id": "5a43ec354c16",
+   "source": "Fierce Pharma",
+   "title": "J&J readies Caplyta for FDA label expansion after 2nd phase 3 win in bipolar mania",
+   "link": "https://www.fiercepharma.com/pharma/jj-readies-caplyta-fda-label-expansion-after-2nd-phase-3-win-bipolar-mania",
+   "date": "2026-11-10T17:00:15.343509+00:00",
+   "snippet": "J&J is gearing up to expand the commercial reach of Caplyta after scoring a second phase 3 victory in bipolar mania.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c6914b94c3af",
+   "source": "Fierce Pharma",
+   "title": "‘Flying blind’: Why experts fear Treasury’s China biotech investment crackdown will backfire",
+   "link": "https://www.fiercepharma.com/biotech/treasury-coins-act-proposal-pharmaceuticals-china-newco-legal-maze-biotech-vc-warnings",
+   "date": "2026-11-10T17:00:15.343509+00:00",
+   "snippet": "The U.S. Treasury's COINS Act proposal aims to shield U.S. biotech from Chinese competition, but insiders warn it will backfire. As lawyers scramble to decipher an ambiguous ban on cross-border \"joint ventures,\" they flag that Washington's national security priorities have ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e5ffcfbcf6a5",
+   "source": "Fierce Pharma",
+   "title": "After court win, WuXi AppTec scores removal from US list of Chinese military companies",
+   "link": "https://www.fiercepharma.com/pharma/after-court-win-wuxi-apptec-scores-removal-us-list-chinese-military-companies",
+   "date": "2026-11-10T17:00:15.343509+00:00",
+   "snippet": "Following a back-and-forth with the Pentagon this year, contracting juggernaut WuXi AppTec appears to have largely evaded its designation by the U.S. as a company with ties to the Chinese military.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a659788aee8e",
+   "source": "Fierce Pharma",
+   "title": "FDA orders new eye risk be listed on a dozen GLP-1s, including Novo's Ozempic, Lilly's Zepbound",
+   "link": "https://www.fiercepharma.com/pharma/fda-orders-new-eye-risk-be-listed-ozempic-zepbound-labels",
+   "date": "2026-11-10T17:00:15.343509+00:00",
+   "snippet": "After an internal investigation, the FDA is calling for 12 GLP-1s to add a new and rare eye risk to the \"warnings and precautions\" section of their labels.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b828a77a6d23",
+   "source": "Fierce Pharma",
+   "title": "Phillips Medisize strikes deal to expand UK inhalation production",
+   "link": "https://www.fiercepharma.com/manufacturing/phillips-medisize-expands-uk-inhalation-production-footprint-deal",
+   "date": "2026-11-10T17:00:15.343509+00:00",
+   "snippet": "Phillips Medisize, a Molex subsidiary CDMO that focuses on inhalation products and other medical and diagnostic products, is growing its manufacturing footprint in the U.K.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "01461d0ace9e",
+   "source": "Fierce Pharma",
+   "title": "Insulet, Marvel Comics smash diabetes stigma with new Omnipod-powered superhero",
+   "link": "https://www.fiercepharma.com/marketing/insulet-marvel-comics-smash-diabetes-stigma-new-omnipod-powered-superhero",
+   "date": "2026-11-10T17:00:15.343509+00:00",
+   "snippet": "Insulet's newest Marvel Comics collab looks to empower people with diabetes by representing the community through a new diabetes superhero, Gluconaut in \"Gluconaut: Strength of Stars.\"",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "187dbcaf23a4",
+   "source": "Fierce Pharma",
+   "title": "Vertex lays off 78 Crinetics staffers amid $10B integration",
+   "link": "https://www.fiercepharma.com/pharma/vertex-lays-78-crinetics-staffers-amid-10b-integration",
+   "date": "2026-11-10T17:00:15.343509+00:00",
+   "snippet": "Vertex has decided to lay off 78 employees at Crinetics Pharmaceuticals following its $10 billion acquisition of the endocrine disease drug developer.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5ed2f1009288",
+   "source": "Endpoints News",
+   "title": "Beam says base-edited sickle cell therapy succeeds in Phase 1/2 study",
+   "link": "https://endpoints.news/beam-says-base-edited-sickle-cell-therapy-succeeds-in-phase-1-2-study/",
+   "date": "2026-11-10T16:23:21+00:00",
+   "snippet": "Beam Therapeutics announced Tuesday that its base-edited sickle cell therapy succeeded in a clinical trial, meaning a third one-time therapy for the disease may soon enter the market. In Beam’s Phase 1/2 trial, known as ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bcb843f4bad8",
+   "source": "Endpoints News",
+   "title": "PepGen's oligo succeeds in Phase 2; Ionis' and ImmunityBio's stocks sag",
+   "link": "https://endpoints.news/pepgens-oligo-succeeds-in-phase-2-ionis-and-immunitybios-stocks-sag/",
+   "date": "2026-11-10T16:09:58+00:00",
+   "snippet": "Plus news about Coherus Oncology, JW Therapeutics and PsiThera. PepGen’s positive mid-stage results in DM1: PepGen said its oligonucleotide therapy PGN-EDODM1 showed positive early signals in a cohort of Phase 2 patients with myotonic dystrophy ...",
+   "biosimilar": false,
+   "watch": [
+    "Coherus"
+   ]
+  },
+  {
+   "id": "bbecae6bfd29",
+   "source": "Endpoints News",
+   "title": "Employers vs. consumers: Who stands to disrupt healthcare?",
+   "link": "https://endpoints.news/employers-vs-consumers-who-stands-to-disrupt-healthcare/",
+   "date": "2026-11-10T15:46:44+00:00",
+   "snippet": "Last week, we hosted our second-ever Health Tech Day, with an in-person happy hour in New York. Thanks so much to everyone who tuned in for the virtual portion (find recaps of those convos starting ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1577fed0af2f",
+   "source": "Endpoints News",
+   "title": "White House sticks with Overton, works senators for votes",
+   "link": "https://endpoints.news/white-house-sticks-with-overton-works-senators-for-votes/",
+   "date": "2026-11-10T15:34:19+00:00",
+   "snippet": "The Trump administration is pressing ahead with Heidi Overton’s nomination to lead the FDA, hoping to secure enough votes for the White House official to be confirmed during the narrowing lame-duck window. A source working ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "087d93b05ff8",
+   "source": "Endpoints News",
+   "title": "OpenAI's head of health talks helping patients take action",
+   "link": "https://endpoints.news/openais-head-of-health-talks-helping-patients-take-action/",
+   "date": "2026-11-10T14:08:44+00:00",
+   "snippet": "The future of ChatGPT Health could be “helping people move from better answers with context to really empowered actions,” Nate Gross, OpenAI's head of health, said in a conversation at Endpoints News’ Health ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "945ad3046376",
+   "source": "Google News: biosimilar",
+   "title": "CVS Caremark Is Expanding Access and Affordability With Biosimilars - ACCESS Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT3pOVG9wVDhDTlFERjgtMEF4dlpiUzJRdTlnTVRrdDRYZWFJczVNYlk0bThQdmdqMlNjdkg2d1FXSTFBOUNCUjl2RWRRbmdfVWR2eDZlR1VLX1hkaktfblNrU3hiQXFhM2lHLXJ4ZkhyQlh5VVhqeGhReVJVTzAta1R4REJldUFXVDBrRkV3b1ZCQmowNEdYWFFXTnNINzRfZThYYVoxR0hfQThCdWhZQXRVZ05ZaF9OUTNRdHUxeVl5eEdldUJEaEExWmMtTTU0RF9qZmVzOHpMalFIUzJtdGNR?oc=5",
+   "date": "2026-11-10T13:45:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "7507e7f30008",
+   "source": "Google News: biosimilar",
+   "title": "Jefferies initiates Alvotech stock coverage with buy rating on biosimilar pipeline - Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbmRkdUVlTndoOVc2SndwWFdITS1XZmtWWVFuNE00blBqRUM3eVB6LWZiNUZvRk9pVU9xVUZtM0FPZklpUXNXNnk0NFlfeWhmdWRmMmFlNm4yOXU3cm42X3VsalUtN0ZIemM4ZjJpMkFYLTV5aVk1d2xtaTN5aDdycVJCSXhLZDUwYkk4YzltbEdOclRPVTFCYUFhSmMxS042QzR6aC11Q1RxVkM4bFNxSUZPWkVfZldYemtNREtXS3d1dWZvUndLenlULVI3UlVEa0MwZkNHRDhYOU0?oc=5",
+   "date": "2026-11-10T11:12:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "fea2c42dbd27",
+   "source": "Google News: biosimilar",
+   "title": "Teva stock: Guidance lift meets Samsung Bioepis valuation test - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXdUZ1dDX1FvU0locmxVenVWVlhDTWxyUDllR0lfNjd3QUNnYnlSblVMQWVMaEEwNHhSNE9QSDVPLVNRWEFJWjZzUDhiN2hiY0JEcWhibmNlYzJMRVEzeUlyTm9VTmQ3eW1MSEFCbzhBaHZhQkRKWTlsX3UxdEp5VGpIWW1MY19wX0t0cnMxQTlnNVZ0SmV4N1JNUWdoNVJ1QTVfeFlGdE10b2RnWWMtX2lSSG9PcTlwRS1nQTBCT2tudw?oc=5",
+   "date": "2026-11-10T09:48:49+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis",
+    "Teva"
+   ]
+  },
   {
    "id": "bb508d3394b0",
    "source": "Fierce Pharma",
@@ -1281,6 +1502,16 @@
    "date": "2026-11-06T13:13:00+00:00",
    "snippet": "The deal is part of a course change for Hims, which had previously sold knockoff GLP-1 drugs. Elsewhere, a medicine Servier recently acquired failed a key trial and Ultragenyx announced staff cuts.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b28b0e67cc02",
+   "source": "Google News: biosimilar",
+   "title": "Fierce Pharma Asia—Boehringer’s $7.4B SBP deal; Fresenius’ sweeping biosim pact; A $1B molecular glue bet - Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcnVkdkhROXV5RFE0UEkwTURPdnhFZ0xVMXdsS2hJbEw0aTI1WnJaM2Nwd0hpUEppWjlDREJKYzUzWWQxX0lRUFE4OUEtTXF1TldLcGNXU0gtN3RJT0VadHFlZDE2MmkyWjVNTFd0LUFxZzNjd3llVVNWNGdNdmNST2UwQmJZcWZJSHFOMlNXOFVjekFET0VBRE9MZnhkWXVhbFg0ZDc3MXlSWVFYR2d4TnpSdzBYQzZIRFdnMkQtZDlhTkhLRGc?oc=5",
+   "date": "2026-11-06T13:04:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
