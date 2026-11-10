@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:18:27.231851+00:00",
+ "updated": "2026-11-10T07:13:32.886004+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,17 +41,77 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": ""
   },
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 58,
+   "count": 54,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "bb508d3394b0",
+   "source": "Fierce Pharma",
+   "title": "Bayer brings factor XIa to US stroke prevention with FDA nod for 1st-in-class asundexian",
+   "link": "https://www.fiercepharma.com/pharma/bayer-brings-factor-xia-us-stroke-prevention-fda-nod-1st-class-asundexian",
+   "date": "2026-11-10T07:13:32.886004+00:00",
+   "snippet": "Shortly after locking down a world-first approval in China, Bayer is bringing its groundbreaking stroke prevention drug stateside, with an FDA green light that honors the German drugmaker’s cardiovascular heritage and signals the sort of first-in-class opportunities it’s ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a38556556608",
+   "source": "Endpoints News",
+   "title": "London startup raises $60M for degraders aimed at Alzheimer’s protein tau",
+   "link": "https://endpoints.news/london-startup-raises-60m-for-degraders-aimed-at-alzheimers-protein-tau/",
+   "date": "2026-11-10T07:00:29+00:00",
+   "snippet": "Oyster Therapeutics has raised $60 million to develop pills that destroy pathogenic forms of tau, a brain protein implicated in Alzheimer’s disease. The Series A-2 funding was led by life-science venture capital fund 4BIO Capital ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e0c203d8f88b",
+   "source": "BioPharma Dive",
+   "title": "London biotech Oyster harvests $60M for tau-targeting brain drugs",
+   "link": "https://www.biopharmadive.com/news/oyster-venture-financing-tau-targeted-protein-degraders/874160/",
+   "date": "2026-11-10T07:00:00+00:00",
+   "snippet": "Oyster says a tweak it's made to traditional protein degrading technology can help break down tau, which has long been a focus of Alzheimer’s drug research.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f4e4ff56ec99",
+   "source": "BioPharma Dive",
+   "title": "BIO unveils plan for US to remain biotech’s ‘global leader’",
+   "link": "https://www.biopharmadive.com/news/bio-bioadvance-proposal-us-trial-competition-china/874162/",
+   "date": "2026-11-10T05:01:00+00:00",
+   "snippet": "A seven-part proposal from the prominent lobbyist lays out a series of initiatives to accelerate drug development in the U.S. and counter China’s fast rise.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d82147e4dccf",
+   "source": "Endpoints News",
+   "title": "Bayer wins FDA approval for stroke prevention drug Sunharbo",
+   "link": "https://endpoints.news/bayer-wins-fda-approval-for-stroke-prevention-drug-sunharbo/",
+   "date": "2026-11-10T00:12:58+00:00",
+   "snippet": "Bayer’s asundexian won FDA approval to reduce the risk of stroke in people who recently had a mild-to-moderate non-cardioembolic ischemic stroke or a high-risk transient ischemic attack. The agency on Monday greenlit the drug in ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5e5a91a6c6f4",
+   "source": "BioPharma Dive",
+   "title": "Bayer wins FDA nod for a new kind of blood thinner",
+   "link": "https://www.biopharmadive.com/news/bayer-sunharbo-asundexian-fda-approve-stroke-factor-xi/872837/",
+   "date": "2026-11-09T22:40:00+00:00",
+   "snippet": "Sunharbo’s U.S. approval is the first for a “Factor XIa” inhibitor, an anticipated class of medicines seen as a possible step forward in stroke prevention.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "3dd298289b13",
    "source": "Fierce Biotech",
@@ -604,6 +664,18 @@
    "source": "Google News: biosimilar",
    "title": "Confused, and you lose out: does Celltrion rise on Lazcluze news too? The two biotech stocks have different earnings models - www.theconnectmoney.com",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81eFBKRlV3WGVjVTFYMHRvVVZabHZ0RHNFRWprYjhYOVhTSF85MXdVNXZ5ZGpiWURsbkJucVNOeE02NzI1SC1pcW8wc2Q3QTl0TDdLVWMyYVJSV3JFSFJjOA?oc=5",
+   "date": "2026-11-09T03:37:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "4e2a34eabd6e",
+   "source": "Google News: biosimilar",
+   "title": "[Get it wrong, pay the price] Celltrion rises on Leclaza news? Two biotech stocks have different profit models - www.theconnectmoney.com",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzRUJadEdodTNpLWlwWlNLMGZJcURvdy1wTzRTT0R4SXA2dGdfNFhTdHNLTmZBUjAyaUxtSlA4RUVPZFkweko0QWdsdGU0ZUZMT3puaWRoMFVSYW5OV2JLeg?oc=5",
    "date": "2026-11-09T03:37:00+00:00",
    "snippet": "",
    "biosimilar": true,
