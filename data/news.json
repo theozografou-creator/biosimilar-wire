@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T17:00:15.343509+00:00",
+ "updated": "2026-11-10T23:16:22.096514+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,161 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 50,
+   "count": 44,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "df7f238757e6",
+   "source": "Fierce Biotech",
+   "title": "Beam’s sickle cell therapy results tee up potential Casgevy, Lyfgenia showdown",
+   "link": "https://www.fiercebiotech.com/biotech/beams-sickle-cell-therapy-risto-cels-phase-12-results-position-potential-casgevy-lyfgenia",
+   "date": "2026-11-10T23:16:22.096514+00:00",
+   "snippet": "Gearing up for a potential FDA filing by the end of the year, Beam Therapeutics revealed results from a phase 1/2 study of its base-edited cell therapy risto-cel, showing the potential sickle cell treatment reduced the most painful complications of the blood disease for a full ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "778bf4e7de19",
+   "source": "Fierce Biotech",
+   "title": "Oura to acquire AI virtual primary care partner Counsel Health for $625M",
+   "link": "https://www.fiercebiotech.com/digital-health/oura-acquire-ai-virtual-primary-care-partner-counsel-health-625m",
+   "date": "2026-11-10T23:16:22.096514+00:00",
+   "snippet": "The companies have worked together since June, and more recently had shared plans to partner on CMS' 10-year ACCESS Model.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e491624d5a42",
+   "source": "Fierce Biotech",
+   "title": "Novocure denied FDA approval for Optune Mya cancer device after efficacy concerns",
+   "link": "https://www.fiercebiotech.com/medtech/novocure-denied-fda-approval-optune-mya-cancer-device-after-efficacy-concerns",
+   "date": "2026-11-10T23:16:22.096514+00:00",
+   "snippet": "Novocure has been hit with a relatively rare “not approvable” letter from the FDA for its tumor-treating electric fields device.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "50680e3ffeb8",
+   "source": "Fierce Biotech",
+   "title": "Deerfield Management Partners with Amazon’s AWS for AI drive in life sciences",
+   "link": "https://www.fiercebiotech.com/medtech/deerfield-management-partners-amazons-aws-ai-drive-life-sciences",
+   "date": "2026-11-10T23:16:22.096514+00:00",
+   "snippet": "Deerfield Management announced a collaboration with Amazon Web Services (AWS) aiming to accelerate the development and scaling of AI-native healthcare and life sciences companies in its portfolio.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "50c1da5da67f",
+   "source": "Fierce Pharma",
+   "title": "Lilly’s Foundayo marketing push keeps pace with another celeb partner in comedian Leanne Morgan",
+   "link": "https://www.fiercepharma.com/marketing/lillys-foundayo-marketing-push-keeps-pace-another-celeb-spokesperson-comedian-leanne",
+   "date": "2026-11-10T23:16:22.096514+00:00",
+   "snippet": "The new celebrity partnership is the second for Lilly's oral GLP-1 Foundayo following its recent partnership with lifestyle guru Martha Stewart.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bc8780b60714",
+   "source": "Fierce Pharma",
+   "title": "Merck KGaA lands FDA nod in rare tumor disorder, portending Ono, Daiichi showdown",
+   "link": "https://www.fiercepharma.com/pharma/merck-kgaa-lands-fda-nod-rare-tumor-disorder",
+   "date": "2026-11-10T23:16:22.096514+00:00",
+   "snippet": "The FDA’s decision was based on Merck’s phase 3 Maneuver trial and follows similar approvals by other global regulators, including in China, Canada and Switzerland.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b7b230bcd6f3",
+   "source": "Fierce Pharma",
+   "title": "ImmunityBio juggles phase 3 win and 20% stock crash en route to Anktiva front-line expansion",
+   "link": "https://www.fiercepharma.com/pharma/immunitybio-juggles-phase-3-win-and-stock-crash-enroute-fda-frontline-expansion",
+   "date": "2026-11-10T23:16:22.096514+00:00",
+   "snippet": "ImmunityBio's Anktiva secured a pivotal phase 3 win in front-line non-muscle invasive bladder cancer, but lack of detailed data and disappointing third-quarter financials sent the biotech's stock tumbling by 20%.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "36cff576cbe7",
+   "source": "Fierce Pharma",
+   "title": "Summit sheds commercial leaders ahead of ivonescimab's FDA decision",
+   "link": "https://www.fiercepharma.com/pharma/summits-commercial-and-market-leadership-gaps-pdufa-decision-looms",
+   "date": "2026-11-10T23:16:22.096514+00:00",
+   "snippet": "Summit Therapeutics is gearing up for ivonescimab’s high-stakes FDA decision without its chief commercial officer following a quiet shake-up of its launch division.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b5baf020fa05",
+   "source": "Fierce Pharma",
+   "title": "AchieveRx stubs out old identity ahead of smoking cessation launch",
+   "link": "https://www.fiercepharma.com/marketing/achieverx-stubs-out-old-identity-ahead-smoking-cessation-launch",
+   "date": "2026-11-10T23:16:22.096514+00:00",
+   "snippet": "Achieve Life Sciences has rebranded to align its name and stock ticker with its focus on helping people quit smoking and vaping.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "aa1c5d359a1b",
+   "source": "Endpoints News",
+   "title": "Despite midterm losses, RFK Jr. is bullish on MAHA's future",
+   "link": "https://endpoints.news/despite-midterm-losses-rfk-jr-is-bullish-on-mahas-future/",
+   "date": "2026-11-10T22:06:43+00:00",
+   "snippet": "Rumors and speculation have swirled all year about the fate of HHS Secretary Robert F. Kennedy Jr., the political face of the Make America Healthy Again movement. But, after a bruising midterm election for the ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e08115fe017c",
+   "source": "BioPharma Dive",
+   "title": "PepGen soars on promising early data for muscular dystrophy drug",
+   "link": "https://www.biopharmadive.com/news/pepgen-myotonic-dystrophy-dm1-drug-results-freedom/874249/",
+   "date": "2026-11-10T21:48:00+00:00",
+   "snippet": "While from a small study, the findings suggest PepGen’s therapy compares favorably to other RNA-based medicines in testing at Novartis and Dyne Therapeutics.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a30b79e9c2f4",
+   "source": "Endpoints News",
+   "title": "Mirum plans FDA submission for hepatitis D treatment as competition brews",
+   "link": "https://endpoints.news/mirum-plans-fda-submission-for-hepatitis-d-treatment-as-competition-brews/",
+   "date": "2026-11-10T19:31:21+00:00",
+   "snippet": "Mirum’s hepatitis D treatment has succeeded in the second of two pivotal trials. Now comes the next challenge: competing with rivals in a growing market. The Phase 3 trial, called AZURE-4, enrolled 113 treatment-naïve patients ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "113046a7f693",
+   "source": "Endpoints News",
+   "title": "Oura to buy AI care startup Counsel Health for $625M",
+   "link": "https://endpoints.news/oura-to-buy-ai-care-startup-counsel-health-for-625m/",
+   "date": "2026-11-10T19:00:02+00:00",
+   "snippet": "Wearable ringmaker Oura is buying AI primary care startup Counsel Health. Oura is paying $625 million in cash for Counsel, which offers medical AI services as well as virtual visits with doctors. The idea is ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "eef9656653d2",
+   "source": "Endpoints News",
+   "title": "Democrats ramp up oversight of MFN deals after midterm wins",
+   "link": "https://endpoints.news/democrats-ramp-up-oversight-of-mfn-deals-after-midterm-wins/",
+   "date": "2026-11-10T17:17:29+00:00",
+   "snippet": "Congressional Democrats on Monday sent new requests to all pharmaceutical companies that have struck drug pricing deals with the Trump administration to share the unredacted versions of their agreements, a source familiar with the communications ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2e8a5a1a330b",
+   "source": "BioPharma Dive",
+   "title": "Beam’s base editing therapy for sickle cell hits goal in pivotal trial",
+   "link": "https://www.biopharmadive.com/news/beam-sickle-cell-base-editing-risto-cel-results/874242/",
+   "date": "2026-11-10T17:06:00+00:00",
+   "snippet": "The result represents a scientific milestone and positions Beam to submit a first-of-its-kind FDA application as soon as the end of the year.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "1811d4bad33a",
    "source": "Fierce Biotech",
@@ -247,6 +397,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "3c1a8f27f703",
+   "source": "Google News: biosimilar",
+   "title": "Jefferies initiates Alvotech stock coverage with buy rating on biosimilar pipeline - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUHo5OTFRTG9GbUg2VDFoZG9wM0RVUllOSjlfVmN3VUtXMEVpSjRhYldSb3RjMFBSbFpJMEJmN2lrOUNuWHlYcGVXNHZpTnRBMVVEVW5kVXQtU1prUGFUV3J1NFpmTjdnS0pEYzA4U2kzRUxEX1JyR29jRXU4eXpTRDE2UjJpMm95REJZZHk1Tk0wazRQYU1laEZXV2dzNjF6X2VNeGdKRWw4cXFHVVA5YlFmZ1lxZzdpdkJRV21ma1RpTkRESDVhU0dkNkQtUVBPX0ZpdGlPdXN0dw?oc=5",
+   "date": "2026-11-10T11:41:53+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "7507e7f30008",
