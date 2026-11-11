@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:16:24.624683+00:00",
+ "updated": "2026-11-11T21:55:10.545310+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,17 +41,185 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": ""
   },
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 39,
+   "count": 47,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "4311c148a692",
+   "source": "Fierce Biotech",
+   "title": "Valo and Montai become one as the Flagship AI-based biotechs tie the knot",
+   "link": "https://www.fiercebiotech.com/biotech/flagship-ai-based-biotechs-valo-montai-tie-knot",
+   "date": "2026-11-11T21:55:10.545310+00:00",
+   "snippet": "Two Flagship Pioneering-founded AI drug discovery and development biotechs, Valo Health and Montai Therapeutics, will join forces in a merger that aims to advance Montai’s early-stage and preclinical pipeline as well as continue a series of big-name partnerships already in tow.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2b35b36381b5",
+   "source": "Fierce Biotech",
+   "title": "Rivia launches AI-powered clinical trial data review module, with Scancell as early adopter",
+   "link": "https://www.fiercebiotech.com/cro/rivia-launches-ai-powered-automated-clinical-trial-data-review-platform",
+   "date": "2026-11-11T21:55:10.545310+00:00",
+   "snippet": "Swiss data engine Rivia has launched a new AI-powered data review module to speed up clinical data cleaning.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5fc3f64b0195",
+   "source": "Fierce Biotech",
+   "title": "Start Center for Cancer Research opens first early-phase clinical trial site in Italy",
+   "link": "https://www.fiercebiotech.com/cro/start-opens-first-early-phase-cancer-clinical-trial-site-italy",
+   "date": "2026-11-11T21:55:10.545310+00:00",
+   "snippet": "Start Center for Cancer Research has expanded into Italy, partnering with Istituti Fisioterapici Ospitalieri to open its first early-phase cancer clinical trial site in the country.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "85a2224ced1f",
+   "source": "Fierce Pharma",
+   "title": "FDA cites record request breakdowns in trio of warning letters to API makers",
+   "link": "https://www.fiercepharma.com/pharma/fda-cites-record-request-breakdowns-trio-api-maker-warning-letters",
+   "date": "2026-11-11T21:55:10.545310+00:00",
+   "snippet": "In a series of regulatory wrist-slaps now made public, the FDA has taken three manufacturers to task over record request breakdowns.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a8a18486a196",
+   "source": "Fierce Pharma",
+   "title": "Legend Biotech shares fall 16% after first earnings report under new CEO",
+   "link": "https://www.fiercepharma.com/pharma/legend-biotech-shares-fall-16-after-first-earnings-report-under-new-ceo",
+   "date": "2026-11-11T21:55:10.545310+00:00",
+   "snippet": "Legend Biotech’s shares tumbled 16% Tuesday following the CAR-T company’s third-quarter earnings report, marking a rocky debut for newly installed CEO Ingrid Zhang.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f531c37ea475",
+   "source": "Fierce Pharma",
+   "title": "Could we see 10 Chinese Big Pharmas within a decade? Some CEOs think so",
+   "link": "https://www.fiercepharma.com/biotech/will-we-see-10-chinese-big-pharmas-within-decade-some-ceos-think-so",
+   "date": "2026-11-11T21:55:10.545310+00:00",
+   "snippet": "For executives at many of the Chinese drug developers who spoke to Fierce, the real prize is a seat at the Big Pharma table. In recent years, this objective has moved from a vague aspiration to a concrete goal.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dae3dcf2b895",
+   "source": "Google News: biosimilar",
+   "title": "Iceland biosimilars maker Alvotech's nine-month revenue falls 23% - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMHJfOEIzMDdFalVsZVVFNVhmLU54T0JLc0NUUmxlNXdqWHNKY2NzeTlXT3A3WkxiNExxVzVpUjdqX1VLeUV1MjU3SmhkT2pReVhFZXo5Um9xWkU3dnA1Q2RjSEQyT0FDbXEwZDZxbE1MeE5YYXFYWEhOQVJBb19QSm1GS3dsTktRMnBqQzJubndyRnUwYW5qUFJ1TG5vUGx1bkF5cGNZWXZLWUhXU0xmVXBST3pJM0ZvYm9LSjdJTF92cWFGcXVEM0VhMTJEenc?oc=5",
+   "date": "2026-11-11T21:28:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "041f2d4c1a83",
+   "source": "Endpoints News",
+   "title": "Neurosterix pulls in $105M for schizophrenia drug, taps Cobenfy vets",
+   "link": "https://endpoints.news/neurosterix-pulls-in-105m-for-schizophrenia-drug-recruits-cobenfy-vets/",
+   "date": "2026-11-11T21:00:55+00:00",
+   "snippet": "Neurosterix, which is reuniting some key figures behind Cobenfy, has corralled $105 million in a Series B to fund its lead schizophrenia candidate that hits one of the targets of Bristol Myers Squibb’s drug. The ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4ff07fd064bd",
+   "source": "Endpoints News",
+   "title": "How Hims plans to revive its business after pivoting to branded GLP-1s",
+   "link": "https://endpoints.news/how-hims-plans-to-revive-its-business-after-pivoting-to-branded-glp-1s/",
+   "date": "2026-11-11T20:20:26+00:00",
+   "snippet": "Hims & Hers, once obsessed with delivering \"personalized care\" through compounded drug products, is now banking on brand-name treatments and the pharmaceutical giants it previously tried to undercut. Hims struck a deal with Eli Lilly ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1aacdf40fee3",
+   "source": "Center for Biosimilars",
+   "title": "Will PBM Rebate Reform Help Biosimilars Win Formulary Spots? - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVi1jcS1vYzd3T2tua1AxNUxGc2RFaGNVSDZnaXNIUURvRVkxbU9wWHIxN2k4RkxFRXhvMlplVnZtTkFYUTF3X0NuU1BZWEhrZTZINmFLVmUzMmdtRTkwWFlZOE8wZ1psSEJ0dGRERXBScmRqX0pQRXdCeUJMZmdGOFF5QTAzMkJoTF9oMWUzdUNXT2MydGMybDhGNzlmekdBMUlZ?oc=5",
+   "date": "2026-11-11T18:04:38+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "e02ae822a4c5",
+   "source": "Google News: biosimilar",
+   "title": "Biocon reports Q2 FY27 results and discusses growth strategies - InvestyWise",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWRFWXhaQzJYcHphT096bUxVRkpYSXREN3F4NDB1c3o2TDdkTVkzdmkzTzRUV3RaanJnRjI1TTdiSktNbEkwT1YyVE5nZGp6UEVhbHdpWkc2amlMazdwSjQ1WlNmaF9XVkNQaEFPWHZMZ3FQX1pzTmVsZFZ5QTV0Ym1ycw?oc=5",
+   "date": "2026-11-11T17:48:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "a4110c934ba4",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius SE KGaA (XTRA:FRE) Expands Its Biosimilars Pipeline, Is The Stock Still Cheap? - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdjdWUFRpSEJqb2YtVWgyODBHZUE2dG5LLTVfTmcwQXV4TGlXN3g3cDBMX08ycG9PQ3ZIM2NQa0FrY3BXVUZxVHJWczVFcXNUV2h4b00xNGpIZXdIcFRfTmdhQkpuekNGdDFBdTdvb21FekdqTjZuNDlYZXFtTXdWNkRoZE5jZWo5SFZWQy1acGV1c2sxbzBiNlk2M1NhZDFmcGRqLTdsYm91aUNmQ1o2TDlDMXZzY3ktUlNkVVkxTE5VX2p5eW9oSEFncVk5OUVpZ0VORDVDeEbSAd4BQVVfeXFMT002U3lhOVhIWGFPTWJIdmJmdkxRaG9VZFg4MVVJM0dabjFCUUdiSm9XY3BWZU8yc3pKa0c0OTFzQzVHUlc2T2NQLVh3VG9laC1oZUpzV0dRU25tYWp4RlJNanpHZG9aV0hkdWM0a1Q4MUdwMG9xaWk1d0JDaWV6TllpbVgyN2lvZERoZUlhcENaZktfQUdzVlpRdmRLYmthTmlZanlpTS0yZzhXZFFBYVlKbmxkeHZTM2VGNzJZeVMwVWNDZnJLY2FPZmhITmZYNHc4eHlnNllTdktrTGh3?oc=5",
+   "date": "2026-11-11T16:18:12+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "54cc575dd012",
+   "source": "BioPharma Dive",
+   "title": "Drug price hikes in Germany could push US costs higher, study says",
+   "link": "https://www.biopharmadive.com/news/germany-us-drug-price-study-healthcare-costs/874360/",
+   "date": "2026-11-11T16:11:00+00:00",
+   "snippet": "The report comes amid escalating tensions between the U.S. and Germany over drug prices, with several large pharmaceutical companies responding by scaling back investments in the country.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0a6049d99526",
+   "source": "Google News: biosimilar",
+   "title": "Teva stock: Higher guidance meets expanded biosimilars push - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOHJTOUtISHo4R21GVUZvZUVnekpueVFMdUdjWEZxenpzM0Y2SDdyUDI4MHNmQlBkal8xY1drTTNmVTdIVXpGSllRMUxPNnB4bHl6VEVMcDJ5Ynhoa1E4dEVlNkhMNTUyYkYyTFhlU25kQ05JQk93VWt6NjFjcVZncUc5RzdaOU1UREFLb2s5ajNIdElYaGlsa1Q0bTk0UktIR1EySzRmT1FHdUlZM3gzamQ1VF9qblBOVjlndnl3?oc=5",
+   "date": "2026-11-11T15:48:39+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "e09beedf5ca6",
+   "source": "Endpoints News",
+   "title": "Flagship merges two startups; J&J scores a bipolar mania success",
+   "link": "https://endpoints.news/flagship-merges-two-startups-jj-scores-a-bipolar-mania-success/",
+   "date": "2026-11-11T15:44:23+00:00",
+   "snippet": "Plus, news about AstraZeneca, BrightGene, PepGen and Prime Medicine. Another Flagship merger: Valo Health and Montai Therapeutics, two Flagship Pioneering startups, are combining into one company. The merged company will operate ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ab186e188df1",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech earnings on deck as biosimilar FDA decisions loom By Investing.com - Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQXdvbVQ4QmFpeHRpOXVna1oxOExQUEpSUnpqazdtZlFfc2VXSjNkTkg4RXB0VmlPbFprenRMckZ4d2ZhM1JnMGdqZlFfMTRhOWlQTC1TVzNwNGVXbzFfTTVXbjZKOUM1al9RSFUwM3p4RTJqWWItU0d0VUFRZDFxTHNLWE5lb1l3NnRBZjNBV2tDUmZFeU1HejRwOGkzaVkxQXdYSEMzZDhFYzAxVXVUckNaRVRmSmFCMl9R?oc=5",
+   "date": "2026-11-11T14:53:38+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
   {
    "id": "fef602ab176d",
    "source": "Fierce Biotech",
