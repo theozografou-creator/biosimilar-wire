@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T23:16:22.096514+00:00",
+ "updated": "2026-11-11T06:10:29.154021+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,55 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 44,
+   "count": 38,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "cdccdd523903",
+   "source": "Google News: biosimilar",
+   "title": "What Is CVS Health (CVS) Signaling With Its Faster Biosimilar Push? - Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLXVGVWhVUmhVV0RXOEdhbWRqbmZKa0ZGVEg2bmhSSExKbE9sS3lqRzZTbXN4TGVzQWRMQ0JpVTlha2g5aGNaU2VCZzJyUVFsSkxhLVh3YmJ3amZGT1o5a3JhdUNoeHQ3UHJjZXFpRk1vWjB4ZFdXSWtReVpqOEpIWVJCcXBEQnM?oc=5",
+   "date": "2026-11-11T03:12:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a255f00e78e3",
+   "source": "Google News: biosimilar",
+   "title": "CVS Health (CVS) Puts Biosimilars At The Center Of Drug Coverage - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTXBwaXVKYmViRTcxbHk4RlBHLXlES0NGWm1ZUDA2SWVFTUg4ZTBFNUZaNWRJNk1IWndyZjRaM0lIc1RDTFlRMmZ1WEhEcEVCcUstV1hpYkVSakdPQU5vZ1lIcVR1Ml9tZ0NGQmhfQXFWeEdweEljMUpxeHdLaHpibzVJSTR4N1d2d2pwd1VXTV9pYUhzOExQLWltN0ZKaHRfWFBQTE9ETDd3bmltSFVhT21ZSkwzQU1fZGJRU3dfZWhzRTJDZjBF0gHMAUFVX3lxTE56OThLaGpmQV9TYVJocFJjaktYNkNONGlTZ3gzSDB1UnN6NndMZXlGZUl5QXNPSHdWb0o1YUR3RGlZXzVKa0NndHdoUXV1N0V6bTk1VWdRZ3prb0RsUFMyQTl0WEt2RDdjdG1mZVdxdVBNdjNtNF9NZ0RiYWQ1M2JCZjIwM2RSU2RMMUNvR1BhS3o0LWp3UkZwajc1eEw1MnZjVjFwRDVIUGN5SEIwMjBaNjZmeWY2VTU5dmV1TnVHSnRmaXNZYTNZeWh6SA?oc=5",
+   "date": "2026-11-11T02:40:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "de92384a4c1c",
+   "source": "Google News: biosimilar",
+   "title": "“Celltrion’s Time Is Coming” ... Why Its Price Target Was Raised 25% - 파이낸셜뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iS21EQlZpQjBialU4N1dBN0NYV2lCUERoSy1IejdGQ1VvWVBjOEFYVnFORXBLdXJlSktoRjJmSUN1OUt6WGJzajhaaFlyeS1fYVhPY1ViSko?oc=5",
+   "date": "2026-11-10T23:57:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "6791da524c4c",
+   "source": "Google News: biosimilar",
+   "title": "Mirae Asset lifts Celltrion target as biosimilar boom seen driving earnings - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZVl5alVRZDFsbE9Fb2xHbUtHOVZKdDJOSWNndkZoam1CZ0ZkQTB1TDFwelJoNkRLNk5PdkhDaXIzOTVWYjh2a3BTbFppbl92azFFYjZORE5DRDVHaDhfa2pIN1daZkR3RVVOWlduQVd2UU96TS1KMDFGazVhWmV4TNIBlAFBVV95cUxOWkhhR1hjc2s4b3dFS2NMSDNKNW45aDB1VXRNTW5yRU5aQTcyNG4xRFVweGNHLXNQX1czTFczWDgzTE5wa3o1R3FUeTgwaTFUSC00RGNBZ1k1SVk5R1hPMWlVbkpRSlFjcU5WLTRfYWR1Z2Q0dzNheDI0YVZPRWk5MUFOYlIzWnF6STI3Q0k3Zlp2NTY1?oc=5",
+   "date": "2026-11-10T23:45:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
   {
    "id": "df7f238757e6",
    "source": "Fierce Biotech",
