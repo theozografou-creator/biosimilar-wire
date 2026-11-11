@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:10:29.154021+00:00",
+ "updated": "2026-11-11T14:16:24.624683+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,163 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 38,
+   "count": 39,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "fef602ab176d",
+   "source": "Fierce Biotech",
+   "title": "Could we see 10 Chinese Big Pharmas within a decade? Some CEOs think so",
+   "link": "https://www.fiercebiotech.com/biotech/will-we-see-10-chinese-big-pharmas-within-decade-some-ceos-think-so",
+   "date": "2026-11-11T14:16:24.624683+00:00",
+   "snippet": "For executives at many of the Chinese drug developers who spoke to Fierce, the real prize is a seat at the Big Pharma table. In recent years, this objective has moved from a vague aspiration to a concrete goal.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5937e25e92a6",
+   "source": "Fierce Biotech",
+   "title": "BioNTech pays $205M for FDA voucher to speed up ‘late-stage oncology pipeline’",
+   "link": "https://www.fiercebiotech.com/pharma/biontech-pays-205m-fda-voucher-speed-late-stage-oncology-pipeline",
+   "date": "2026-11-11T14:16:24.624683+00:00",
+   "snippet": "BioNTech has agreed to pay $205 million to purchase an FDA priority review voucher to support a future filing of a drug in its “late-stage oncology pipeline.” Fierce breaks down which candidate is most likely to claim the regulatory accelerator.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7ef90733f454",
+   "source": "Fierce Biotech",
+   "title": "Amgen builds Sjögren’s case with detailed phase 3 data ahead of Novartis showdown",
+   "link": "https://www.fiercebiotech.com/biotech/amgen-builds-sjogrens-case-detailed-phase-3-data-ahead-novartis-showdown",
+   "date": "2026-11-11T14:16:24.624683+00:00",
+   "snippet": "Amgen has shared more data from a phase 3 Sjögren’s disease trial that dazzled analysts, digging into the details that could shape its showdown with Novartis.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8443cb7a4da9",
+   "source": "Fierce Biotech",
+   "title": "Capricor, NextCure reveal recent layoffs as they gear up for approval decision, merger",
+   "link": "https://www.fiercebiotech.com/biotech/capricor-nextcure-shed-light-recent-layoffs",
+   "date": "2026-11-11T14:16:24.624683+00:00",
+   "snippet": "Capricor and NextCure have shed light on recent rounds of layoffs, as the biotechs brace for a hoped-for drug approval and merger, respectively.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b6e6836113cf",
+   "source": "Fierce Biotech",
+   "title": "Abbott nabs FDA approval, CE Mark for implantable cardioverter-defibrillator lead",
+   "link": "https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-ce-mark-implantable-cardioverter-defibrillator-lead",
+   "date": "2026-11-11T14:16:24.624683+00:00",
+   "snippet": "Abbott has received both FDA and CE Mark approval for its UltiSynq defibrillation lead tech, which is designed to deliver both conduction system pacing and defibrillation therapy.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c5873e8e2938",
+   "source": "Fierce Pharma",
+   "title": "BioNTech pays $205M for FDA voucher to speed up ‘late-stage oncology pipeline’",
+   "link": "https://www.fiercepharma.com/pharma/biontech-pays-205m-fda-voucher-speed-late-stage-oncology-pipeline",
+   "date": "2026-11-11T14:16:24.624683+00:00",
+   "snippet": "BioNTech has agreed to pay $205 million to purchase an FDA priority review voucher to support a future filing of a drug in its “late-stage oncology pipeline.” Fierce breaks down which candidate is most likely to claim the regulatory accelerator.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6dd73733a7d5",
+   "source": "Fierce Pharma",
+   "title": "Aurobindo unit Eugia recalls antibiotic lot, citing glass particle concerns",
+   "link": "https://www.fiercepharma.com/manufacturing/aurobindo-unit-eugia-recalls-one-lot-antibiotic-injectables-glass-particles",
+   "date": "2026-11-11T14:16:24.624683+00:00",
+   "snippet": "Eugia, a unit of Aurobindo, issued a voluntary recall for one lot of the antibiotic vancomycin hydrochloride for injection, citing the possible presence of glass particles in the vials.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "233c6e7d3173",
+   "source": "Fierce Pharma",
+   "title": "UCB continues reign as largest drug ad spender as Bimzelx once again tops the ranks",
+   "link": "https://www.fiercepharma.com/marketing/ucb-continues-reign-largest-drug-ad-spender-bimzelx-once-again-tops-ranks",
+   "date": "2026-11-11T14:16:24.624683+00:00",
+   "snippet": "UCB’s immunology drug Bimzelx has topped the pharma drug ad spending charts for the third month in a row.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "538e040ad9c0",
+   "source": "Endpoints News",
+   "title": "Beeline reveals Phase 2 lupus data from old Bristol Myers drug",
+   "link": "https://endpoints.news/beeline-reveals-phase-2-lupus-data-from-old-bristol-myers-drug/",
+   "date": "2026-11-11T14:00:48+00:00",
+   "snippet": "Beeline Medicines fleshed out an impressive mid-stage win in systemic lupus on Wednesday, setting the stage for Phase 3 trials with a former drug from Bristol Myers Squibb. At each of three doses tested, Beeline’s ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5d5fcfc9c22d",
+   "source": "Endpoints News",
+   "title": "UK science minister calls for more life sciences investment",
+   "link": "https://endpoints.news/uk-science-minister-calls-for-more-life-sciences-investment/",
+   "date": "2026-11-11T13:52:49+00:00",
+   "snippet": "Now that the UK government has increased its spending on medicines, it’s calling for life sciences companies to do their part and invest on home soil. “We are determined to ensure that the UK is ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9530570f0d57",
+   "source": "BioPharma Dive",
+   "title": "AstraZeneca buys vaccine startup; FDA issues GLP-1 safety warning",
+   "link": "https://www.biopharmadive.com/news/glp1-naion-compass-zura-abeona/874076/",
+   "date": "2026-11-11T13:42:00+00:00",
+   "snippet": "The deal gives AstraZeneca a simpler way to make conjugate vaccines. Elsewhere, a psychedelic depression drug was submitted to the FDA and an autoimmune disease-focused biotech’s shares collapsed.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e39d1181a80f",
+   "source": "Endpoints News",
+   "title": "VectorY bags $83.5M for antibody gene therapies in neurodegenerative diseases",
+   "link": "https://endpoints.news/vectory-bags-83-5m-for-antibody-gene-therapies-in-neurodegenerative-diseases/",
+   "date": "2026-11-11T13:00:05+00:00",
+   "snippet": "VectorY Therapeutics added €74.5 million ($83.5 million) to its Series A to fund a gene therapy that makes antibodies in the brain. The biotech’s lead asset VTx-002 is in a",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d77987108d08",
+   "source": "Endpoints News",
+   "title": "Merck KGaA lands FDA nod for joint tumor drug it licensed from Abbisko",
+   "link": "https://endpoints.news/merck-kgaa-lands-fda-nod-for-joint-tumor-drug-it-licensed-from-abbisko/",
+   "date": "2026-11-11T11:57:06+00:00",
+   "snippet": "Merck KGaA said Tuesday that the drug it licensed from a China-based biotech has secured FDA approval for rare noncancerous tumors that impact the joints. The German conglomerate got the",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7e0f2b23532e",
+   "source": "Google News: biosimilar",
+   "title": "Bio-Thera Claims First Simponi Biosimilar Approval In China - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTkxVZ3VsNXlDcHQ4RG5xTk9PQkNkcEtiWUt4SXE4VFBmQ0hnRG9US0FxVThKV3NrZkRzN2FZYmdTSThSUndaSDR4M2tBLWlNTmNzYkptaE82dHdWT09NLTdRX3dJODJqZGloajFEOXFLbjBRdVBVUklmNzNuMWg4X1NnYkFVYzVMTG43SC1MM3pEc3VPVlgxR3JaTFk3M1RVX0YzMHE5RHRadVZUSEVQRFd2Z2tKbzQxZ2JPeHE5UVhWSE4zalpWODgxaWtEOVhha2xkV0NDWFVMTGxVTUpJODdxWUtjZnJRZ3Vrag?oc=5",
+   "date": "2026-11-11T09:13:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Bio-Thera"
+   ]
+  },
+  {
+   "id": "0bc2dbe39c71",
+   "source": "Google News: biosimilar",
+   "title": "Is AbbVie (NYSE:ABBV) Beyond the Humira Cliff? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd1ZPaEpBaWl3TzZoU1VYTHJJcmp4S3BBSjV1WXJ2UVlqcjIzVGNZemc3VWVlZktyb2NtRFMxWlhGeHQwVk0zUF9aVFd6MXllVl9aeFpMT0kzcG9EdnkyYUhYeUVaZ05QMTNlekRKc0RSWU1xTlYwajJMOXNDYjJwWXhEWUJfSy13emEzaklHNHpUUQ?oc=5",
+   "date": "2026-11-11T06:18:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "cdccdd523903",
    "source": "Google News: biosimilar",
@@ -71,6 +223,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "6a91d00ec82f",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion Targets Biosimilar Patent Cliff; Mirae Asset Securities Raises Target Price 25% to 350,000 Won - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ONHJ3d2l2bHdNRmk2Vk54TmdLbTZ5UFp3RGVnbEtNQWJQaEJkYS1CRmh0QzNaSHI1dlBPblcxdjdsVmpEdHphVHVrMUR6Z3ZBUHhGRDhCTEQwR1pvVWVaSFUzUlpRcUYtWUcwNHpsMnJPSEJ3OVE?oc=5",
+   "date": "2026-11-11T00:25:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
   },
   {
    "id": "de92384a4c1c",
@@ -441,6 +605,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "82788d463dcc",
+   "source": "Google News: biosimilar",
+   "title": "Jefferies initiates Alvotech stock coverage with buy rating on biosimilar pipeline By Investing.com - Investing.com South Africa",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbXVUT0dxN21rS1JpQllMeEdvTnRyenZCRlZjQ3lSRS05TlhZSDVzSEJQanZERWJlU1BiaW9kRHRkcGp6UzlwellGNGtkekc0VVNkMGZvbEs1dVVWYmZlekVOZUNEVHNJcWNGQ2VDRU1wVHBDNWZKZHdkYXFtN1oyaC12MWpFTllMeWRpT0V6WHh1TVg2a3BIVVR2Z1dWQnB6a3dHQ3pSZFBjaXp5Y0gwRkpjOG0zVEJfRHVWN0t0MDJtOUxJZEk2VVJnZi0wejc1WS03VEdsZEp2bDA?oc=5",
+   "date": "2026-11-10T12:23:18+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "3c1a8f27f703",
@@ -1063,6 +1239,18 @@
    "snippet": "Why early technical expertise matters when complex life sciences projects challenge convention.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "a3619f3cb7eb",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis confirms Phase 3 equivalence of Keytruda biosimilar ‘SB27’ at SITC 2026 - 더바이오",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wWnpWZ01xQVhtSFRyajEwM3VnRFFrUjVBa2VCN3VxOUhpeE5TLW1mTC0yaGxnejFYR2JyQnlYX2ozRGdXcGw0NHRxZHBPcVpWamttMkxzRzB5Q0RmTnU1SlhXUWRKU0FmMndXU1pHa3HSAXBBVV95cUxPcFp6VmdNcUFYbUhUcmoxMDN1Z0RRa1I1QWtlQjd1cTlIaXhOUy1tZkwtMmhsZ3oxWEdickJ5WF9qM0RnV3BsNDR0cWRwT3FaVmprbTJMc0cweUNEZk51NUpYV1FkSlNBZjJ3V1NaR2tx?oc=5",
+   "date": "2026-11-09T08:17:55+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
   },
   {
    "id": "9b421fd84966",
