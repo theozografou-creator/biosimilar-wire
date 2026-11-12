@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:55:10.545310+00:00",
+ "updated": "2026-11-12T07:06:17.800156+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,87 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 47,
+   "count": 50,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "4127069e6a9d",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz launches Ranluspec ranibizumab biosimilar in Europe - TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVM0dnpCTTZuVUJ0MUY4ODR0ZzZ5dkhSeF9FNUx3OWJFWi1DZS1xQVU2SGFwdUdNbGZYdk00M3ZDLS1HYW1BNFIxcU81RjlJRVRpbFJGMWY3NllsOUtDcGRUYWhkYlVYVlA0WkRJclNSX2lnUjQteVNtSzVQSmRvNEVUX1hsR0RISG5nM09lelRGclhHS2x2aWF1cHdtb1dzUThROHltX0o3V0FNMkl3?oc=5",
+   "date": "2026-11-12T06:52:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "43fea0a87b8d",
+   "source": "Google News: biosimilar",
+   "title": "Lupin partner Sandoz launches RanluspecTM across Europe for retinal disease treatment - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNaXRUVkd1TmhGUzg2YjJUTmN1UEVpTVNFcVE1bEpiMXJFdG95eGZSMUpxdWgyYVRpcERUY3BlZjJSZG9GalVma0V0RXlhQmdsOXlKa1hoRFI1aW1SaGF3TDJhTnFfcnh0UjAwUXU4VzFGdFh1anNodjZtWDdWXy13TW1ETG82R0QtZ1Jyc1hRNGFweThoTnF2LUtlSElGXzZWNzZ5aEhFVkpUOUNtZEFmd0plOFNCaDhWeFlkNFQyaFlwaGxNMDZjZnNfRHBzZ2J4dk1tYWo0U0RxY3RZUzhxUFBEQjdDcFVFbDk1MnAtMm5wVzhKTE5HZnlZd3QzNVdPQ3N6ZC03aW81Sk5kekZidNIBlgJBVV95cUxPUVhQM3JGeFZDOFJaazRicTVhTmhuTWoxX1pGLUdPWkJ0M2EzRjM0QTJjcTVUNkt3SVlHUnE4SVNEUUcxUlp4WG91Mzh4QmJTUy1iUzAwOFozaktWbnBTV3ZTUEdpTlY0YUV0OTM5VzZKRXlXX3F0N2c5WFZpREJHdjdjWnlSVUtFVWVzLUZyWG0zd2NzN1k3TDZ6bWJCUFk3cmplQUhRc25uYTdZanBqbWdvQ29kZG5FNlRYNDB3Sm44bGo1WnNaY21WanctekRLaU5jYmY3LS1jMmZnZ0wxQjFkOExwU0VTdUVvaWpmMHdCdS1CTGVWeXk5c2ZnSkhkT3RJLWg0NVhiZ2dDQ0dkSUh3VC1Ddw?oc=5",
+   "date": "2026-11-12T06:51:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "3db5ea005f08",
+   "source": "Google News: biosimilar",
+   "title": "Lupin Announces European Launch of Biosimilar Ranibizumab - Lupin | Press Release - www.lupin.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFQ2NDgwUzF2ZlZQdXNlQ0dlNDBnaHRGb251b25WTXA5NTdURjBQWXRfMUQzQ1NqU1l4LWRpSmRxbGFVZWdoaWZWTDRHUk01TWRaTjVqRFNQS0JvWU5NTmtEUFplZHB0TEFIbXBoUzI3T1B5YXk5X3lPdjZ3bDNFUUJLcElTVmhsdzU2V3JRVmdhN1VuMGhrbEI5ZmFWREFHMXc?oc=5",
+   "date": "2026-11-12T06:45:54+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a0fa9fbf03ed",
+   "source": "Google News: biosimilar",
+   "title": "Lupin announces European launch of biosimilar Ranluspec - Business Upturn",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDBRNkU3N3NVdTFQVUh6YjJzSF9DWkk3NFpjdTlaaFVGcmFHZk40WUl3VjUzVG9yUmNOS21rR2EzLVF0eXFfb19LZlZESDNNdV9waDRMTlFTdGxmc29TVzVBakNueHVyS29pZGY1UU40Y21wb2x1enlxZDJXT2xvR1F4QVloTzBlX2VGcHRlbFZvOHFqM3pr?oc=5",
+   "date": "2026-11-12T06:19:17+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "ccdcf5e43b76",
+   "source": "Google News: biosimilar",
+   "title": "Lupin launches biosimilar Ranibizumab in Europe - InvestyWise",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcnBFV3hpYWhiMFR1WjZrdGM3RUtfc1NHUkpmZU1wZ19PcGRLdDZTY1h0ZmJzcTBTdnpvaXRUaXVYZFI1VXZDYzZ5ZXNpbFJFeHpQTE84cDgyZTNNOWZtUGRkM0JoNWRJRkp3c2RoYWcwRFFCQTJLcDd0WjUtYkowMjBB?oc=5",
+   "date": "2026-11-12T06:14:35+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "9663a9deb50e",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion files for Australian approval of Cosentyx biosimilar Viseqyma - 헤럴드경제",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NZ25Ib0lBLVFqc0tSOXJybUFYeWYwX2l3X2k2UGdTcHRsbVFmVlJBa3NyWGY1b01keVp0aTVHYVp2aEpFdW4zZlkyWG9WMDk4a0ZDZmFMbw?oc=5",
+   "date": "2026-11-12T00:15:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "fae3a594a1b7",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilars seen key to limiting Keytruda SC price hit under U.S. rules - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcWxRSWhyZ0RVZ3FIaEQ2UVFhRTNMdGhrelZSQ2NGaUl0cXpxYjZaeFhFT3BjUElUOUVxZ0dnb1E2TWc3eTRNbEpBbUQ1c1ZucWJzeUhpNlZvQ0M5SFBhVVl5MzNwR2RibjhZM1ZBUHB3TmZrZjRRc3d0ZXp6LW5tRtIBlAFBVV95cUxNOXhza3hKazFfejFsSWdTSlZqVHpJUmFqZzhpbjNUQkhvTTFhcjlQaS1LcmVSeXhBYlhwbktKMmhvVVMyUmlQRGFOSEp1M2lPbjA3QzlFQnZNeEhRelR1b1NGUmxyeG9OSEpOWVB3WDhIampKNjgxeDdwNXZ6UDlYcEU5VDcycWtXSHEtVWN1U1dGMkto?oc=5",
+   "date": "2026-11-11T22:15:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "4311c148a692",
    "source": "Fierce Biotech",
@@ -221,6 +297,18 @@
    ]
   },
   {
+   "id": "99a0a8dd3969",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech earnings on deck as biosimilar FDA decisions loom - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDdBWktSQUZ5d3ZaQ2ZKT0ZXZl9rSEtwaHFrcnY0VDdFcWRmQXF3Y2s4OG9HajhvVGs5MWZNZTFNZ3RERUtqTEdjR3lWWGZ4QV92cEV4eC1lVmprMVduZm9RYmdGb1FXRkVhOE9Pa1FFd1JJZ2YyMW1xX19ZSXhqV0ZTTFRkc3VpRUJ0dWJZOEdtQ3BPelZadk1ob2FEQ2tVVDd2SVFtbXVyTjNIUl9aUQ?oc=5",
+   "date": "2026-11-11T14:51:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "fef602ab176d",
    "source": "Fierce Biotech",
    "title": "Could we see 10 Chinese Big Pharmas within a decade? Some CEOs think so",
@@ -383,6 +471,16 @@
    "watch": []
   },
   {
+   "id": "4bf3b307d875",
+   "source": "Google News: biosimilar",
+   "title": "What Is CVS Health (CVS) Signaling With Its Faster Biosimilar Push? - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTy04Q3h6am1zQjZ5cThiZVJCQkQ1OHhtRjE1YlBnM2JMdTNlcHVSaDlpQVRJNVZRRHRFWFVzak9UVlZwU0VfSWR5eTAtUkVKdnRaZkgtcTZUSUVYR1BBSHR1Q280VHRRRzVjcnVtMFZuUVlXeTQ2MThxb0Etd2RlbW5vSVJvRGYybEpsQ0lXOFozYzZYbGVF?oc=5",
+   "date": "2026-11-11T03:12:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "a255f00e78e3",
    "source": "Google News: biosimilar",
    "title": "CVS Health (CVS) Puts Biosimilars At The Center Of Drug Coverage - Simply Wall St",
@@ -421,6 +519,18 @@
    "source": "Google News: biosimilar",
    "title": "Mirae Asset lifts Celltrion target as biosimilar boom seen driving earnings - Chosunbiz",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZVl5alVRZDFsbE9Fb2xHbUtHOVZKdDJOSWNndkZoam1CZ0ZkQTB1TDFwelJoNkRLNk5PdkhDaXIzOTVWYjh2a3BTbFppbl92azFFYjZORE5DRDVHaDhfa2pIN1daZkR3RVVOWlduQVd2UU96TS1KMDFGazVhWmV4TNIBlAFBVV95cUxOWkhhR1hjc2s4b3dFS2NMSDNKNW45aDB1VXRNTW5yRU5aQTcyNG4xRFVweGNHLXNQX1czTFczWDgzTE5wa3o1R3FUeTgwaTFUSC00RGNBZ1k1SVk5R1hPMWlVbkpRSlFjcU5WLTRfYWR1Z2Q0dzNheDI0YVZPRWk5MUFOYlIzWnF6STI3Q0k3Zlp2NTY1?oc=5",
+   "date": "2026-11-10T23:45:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "60cc145dc8aa",
+   "source": "Google News: biosimilar",
+   "title": "Mirae Asset lifts Celltrion target as biosimilar boom seen driving earnings - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWkhhR1hjc2s4b3dFS2NMSDNKNW45aDB1VXRNTW5yRU5aQTcyNG4xRFVweGNHLXNQX1czTFczWDgzTE5wa3o1R3FUeTgwaTFUSC00RGNBZ1k1SVk5R1hPMWlVbkpRSlFjcU5WLTRfYWR1Z2Q0dzNheDI0YVZPRWk5MUFOYlIzWnF6STI3Q0k3Zlp2NTY10gGUAUFVX3lxTE5aSGFHWGNzazhvd0VLY0xIM0o1bjloMHVVdE1NbnJFTlpBNzI0bjFEVXB4Y0ctc1BfVzNMVzNYODNMTnBrejVHcVR5ODBpMVRILTREY0FnWTVJWTlHWE8xaVVuSlFKUWNxTlYtNF9hZHVnZDR3M2F4MjRhVk9FaTkxQU5iUjNacXpJMjdDSTdmWnY1NjU?oc=5",
    "date": "2026-11-10T23:45:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -2158,6 +2268,16 @@
    "title": "Biosimilars Deal Might Change The Case For Investing In WuXi Biologics (Cayman) (SEHK:2269) - Simply Wall St",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUl84eHFqNnprRDNXcHZLU284Nnl5X0VBTFJKZzhWQlpWQVQ5WWtmamR6OTlocGRZX3BLZzBEZzJXcC1yT2pIa3B4VXVpNmZlMmZOcUFMZVhaUW1KR05zak9tVkdlaWFsaTRTUXlzLTlvVWpsa1o0bklNd3RGRVo0YlgtQTFhdG9RRmpxVGN6aG0xSkxqT0NjNUdfWjNqQkJYQWxhVmR5aDcyT0tscUp5dU13MGtRMW5yZXY4NWhVeWVMYVRfWDJGSDM0NGFnT2k3UHJuN2lReG5FSE5BeklLXzZUTWxtd3dyeGNLMkRfOHPSAfYBQVVfeXFMT0NFWnJuWWJ5WnNIYzMzWjVlZUZkU2JHVC1ud3dyeWxHcE1PemhTYVQwMmNQVDR2aXJkNnZHRE9RUHNGT0p3UXF0cUZMUXZaeDhQMmg0VVRzZUVfalBJWVc4RzF5TkpDLW5IWEdWRF8xeXp2aWhfSENQZ3hSZ0F2cjVMT3dpZmJUS3dMU1BUM1JZeWZ6X3hhTzJzRjU1OFdXX3hNa1NJSnFtM2UyemI3YmJ4TU94Um1Za2k5TjExbjEzT01OOW9WZFB6N2NpN3llOWdHRHVZLW5QZGRzTVg4TkRXVkxjN1JseEUyUVZWMU9xcDFxUUtn?oc=5",
    "date": "2026-11-06T08:25:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "bae3baf86a36",
+   "source": "Google News: biosimilar",
+   "title": "CVS Caremark is expanding access and affordability with biosimilars - CVS Health",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcmF4UWlpRk9Ed2ZDUXJxcHp2amczUXRkbDlYRnpjV1F4VWEwazdHT0dSdU94b3dteVZUNGlrS2hHeXh5X1VnaElTdzNmWWtabk9XZ2J6aGl4c1hzU0JHZXpDeWxPUUd4UkRJQTgzN2xsZlQ1c3ZHUDJHbE1zcG5rSU5PZXNzRXJaUjlMU0tYMkJzNXA4Q25SSnV2cw?oc=5",
+   "date": "2026-11-06T08:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
