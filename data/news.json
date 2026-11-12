@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T17:33:54.909431+00:00",
+ "updated": "2026-11-12T23:35:41.906012+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,76 @@
   }
  ],
  "items": [
+  {
+   "id": "67e16e374893",
+   "source": "Fierce Biotech",
+   "title": "ARPA-H bets $4.9 million on ibogaine for PTSD treatment in veterans",
+   "link": "https://www.fiercebiotech.com/biotech/arpa-h-bets-49-million-ibogaine-ptsd-treatment-veterans",
+   "date": "2026-11-12T23:35:41.906012+00:00",
+   "snippet": "The U.S. department of health and human services announced a $4.9 million bet to advance the development of ibogaine for post-traumatic stress disorder (PTSD).",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "95c593beca7a",
+   "source": "Fierce Pharma",
+   "title": "Pharmas should stay agile as Democrats amp up scrutiny over Trump's MFN deals",
+   "link": "https://www.fiercepharma.com/pharma/pharmas-ready-democrats-take-aim-trumps-mfn-deals",
+   "date": "2026-11-12T23:35:41.906012+00:00",
+   "snippet": "Industry experts are calling for pharma leaders to ready for heavier oversight as a newly blue Congress demands an unredacted look at President Trump's controversial MFN drug pricing deals.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "08681613f535",
+   "source": "Endpoints News",
+   "title": "HHS directs new funds, research for psychedelics work",
+   "link": "https://endpoints.news/hhs-directs-new-funds-research-for-psychedelics-work/",
+   "date": "2026-11-12T20:09:22+00:00",
+   "snippet": "Following President Donald Trump’s executive order in the spring to make psychedelics research a priority, HHS on Thursday announced a flurry of new funding and studies into the field, with a special focus on ibogaine. ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "28092b2fa6e1",
+   "source": "Endpoints News",
+   "title": "Rezera postpones a planned $200M IPO shortly before expected debut",
+   "link": "https://endpoints.news/rezera-postpones-a-planned-200m-ipo-shortly-before-expected-debut/",
+   "date": "2026-11-12T19:52:42+00:00",
+   "snippet": "Rezera, a biotech developing drugs for cardio and inflammatory diseases, has delayed its IPO that was scheduled for Friday, a company spokesperson confirmed to Endpoints News. The spokesperson cited “current market conditions” as the reason ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "00032d8b93ff",
+   "source": "Endpoints News",
+   "title": "Google's Gemini is getting in the health AI game",
+   "link": "https://endpoints.news/gemini-getting-in-the-health-ai-game/",
+   "date": "2026-11-12T19:39:53+00:00",
+   "snippet": "This week, Google launched Gemini for healthcare. Google has long been a fixture in health, helping hospitals store data in Google Cloud, selling a wellness device through Fitbit and spinning out startups such as Verily ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fd2827ae5e21",
+   "source": "Endpoints News",
+   "title": "FDA's speedy voucher program is dead: report",
+   "link": "https://endpoints.news/fdas-speedy-voucher-program-is-dead-report/",
+   "date": "2026-11-12T19:34:07+00:00",
+   "snippet": "Despite issuing no new vouchers in the six months since former FDA Commissioner Marty Makary left the agency, and a report suggesting the program has been shelved, the FDA still contends it's running the Commissioner’s ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b7ab1a5d5f51",
+   "source": "Google News: biosimilar",
+   "title": "How Biosimilars Could Lower Part D Costs for Seniors - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYkxSRVFJdTFxRTgtRzFnbzJ3UVhmdmpsUEJBblhGZFA2SHJiTjBsdkRfRGNCVkU0dlFzMFZEWlR5NU1uMnBLUmFwUUpyZ1EyS1RVcTZiR1llQkNOTGdHRTVqUkV1d3BCQnlfc1F0WEktbjZqY2FxUmpYd251ejREWFNWLXpoWmxyNWRhQmR6UXFiNVVFSmhnTGp3?oc=5",
+   "date": "2026-11-12T18:02:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "213837b0c62b",
    "source": "Fierce Biotech",
@@ -218,6 +288,16 @@
    "title": "Omalizumab Biosimilar CT-P39: Quality of Life Gains Precede CSU Control - HCPLive",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMmhhU1JveWRaY2tmWWdOWElEbmQ5bmNfaDVhRE55MGlOTVk0VTV5QW1mOFdHcjZsdXkxWk84ZGU5LVItNDJsbWZQY29rbDd5blVNd1FJVEdhMkxqOGJqTmxnTVZHTUhwMllVU3RpZU1jaGhUbm92eFpxS21Wb0tVc1VhSE5BQVlnQktacUc3SGtELTdZ?oc=5",
    "date": "2026-11-12T16:00:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "65d3fcdd36e2",
+   "source": "Google News: biosimilar",
+   "title": "Immunomodulator Market to Reach USD 526.3 Billion by 2036, - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOak1PbEw1NDJnQncwcU8yVEI0SFlvaUt2NEJhZHB2RHgxUlA2R01Nc19IaEZESzRPUDItSUVtWW9SSVVMSzFhSk9CNmpQaUVYM0laVXdwUkhsOUk1cm85c0VhNHU1eF8xU3cyX1kzT19NTVZXcGZkMjBPSWxJUk51VFU3SXQ1SVpqTE1Cd3N2Rkcya2YtalNsMg?oc=5",
+   "date": "2026-11-12T15:28:14+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
