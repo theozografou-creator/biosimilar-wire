@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T07:06:17.800156+00:00",
+ "updated": "2026-11-12T17:33:54.909431+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,343 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 50,
+   "count": 54,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "213837b0c62b",
+   "source": "Fierce Biotech",
+   "title": "FDA appears to pause controversial speedy review program, complete response letter disclosures",
+   "link": "https://www.fiercebiotech.com/pharma/fda-appears-pause-controversial-speedy-review-program-complete-response-letter-disclosures",
+   "date": "2026-11-12T17:33:54.909431+00:00",
+   "snippet": "The FDA has quietly shelved the Commissioner’s National Priority Voucher (CNPV) pilot program, Reuters reports. Meanwhile, the agency also appears to have paused publishing complete response letters after briefly halting—and then resuming—the practice in July.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b760edbd54e9",
+   "source": "Fierce Biotech",
+   "title": "Vor pays RemeGen $10M for long-acting addition to autoimmune pipeline",
+   "link": "https://www.fiercebiotech.com/biotech/vor-pays-remegen-10m-long-acting-successor-autoimmune-drug",
+   "date": "2026-11-12T17:33:54.909431+00:00",
+   "snippet": "Vor Bio is paying RemeGen $10 million upfront in cash for rights to RC298 outside Greater China, adding a long-acting drug candidate to its BAFF/APRIL franchise.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3a1285d1d74c",
+   "source": "Fierce Biotech",
+   "title": "Kyverna abandons next-gen autoimmune CAR-T once touted as follow-up to miv-cel",
+   "link": "https://www.fiercebiotech.com/biotech/kyverna-abandons-next-gen-car-t-once-touted-follow-miv-cel",
+   "date": "2026-11-12T17:33:54.909431+00:00",
+   "snippet": "Kyverna is halting work on a next-gen CD19 CAR-T therapy as the biotech seeks FDA approval for what could become the first CAR-T treatment for an autoimmune disease.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f7f1f9fe5cde",
+   "source": "Fierce Biotech",
+   "title": "Why a fresh approach to targeting G protein-coupled receptors could treat a rare eye cancer",
+   "link": "https://www.fiercebiotech.com/research/how-targeting-g-protein-coupled-receptors-can-reverse-cancer-signaling-rare-eye-cancer",
+   "date": "2026-11-12T17:33:54.909431+00:00",
+   "snippet": "Researchers found that only by targeting both the G protein-coupled receptor and its mutated internal molecular switch can uveal melanoma cell signaling be disrupted.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1cbad7fb196b",
+   "source": "Fierce Biotech",
+   "title": "BMS reunites R&D divisions under Cristian Massacesi, while Robert Plenge departs",
+   "link": "https://www.fiercebiotech.com/biotech/bristol-myers-reunites-rd-divisions-under-cristian-massacesi",
+   "date": "2026-11-12T17:33:54.909431+00:00",
+   "snippet": "Bristol Myers Squibb is merging its research and development divisions under the leadership of Cristian Massacesi, M.D.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ca8c028c2e3f",
+   "source": "Fierce Biotech",
+   "title": "Pfizer taps Blackstone for up to $1.5B to pave path to GLP-1's obesity launch",
+   "link": "https://www.fiercebiotech.com/biotech/pfizer-taps-blackstone-15b-pave-path-glp-1-launch",
+   "date": "2026-11-12T17:33:54.909431+00:00",
+   "snippet": "Pfizer has secured up to $1.5 billion from Blackstone Life Sciences to fund development of its monthly GLP-1 receptor agonist.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1900fb3b1e97",
+   "source": "Fierce Biotech",
+   "title": "Addex spinout Neurosterix raises $105M series B to fund phase 2 schizophrenia trial",
+   "link": "https://www.fiercebiotech.com/biotech/addex-spinout-neurosterix-raises-105m-series-b-fund-phase-2-schizophrenia-trial",
+   "date": "2026-11-12T17:33:54.909431+00:00",
+   "snippet": "Addex Therapeutics’ neuropsychiatric-focused spinout has raised $105 million in series B funds to bankroll a planned phase 2 study of its schizophrenia treatment.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a46684143cc2",
+   "source": "Fierce Pharma",
+   "title": "FDA appears to pause controversial speedy review program, complete response letter disclosures",
+   "link": "https://www.fiercepharma.com/pharma/fda-appears-pause-controversial-speedy-review-program-complete-response-letter-disclosures",
+   "date": "2026-11-12T17:33:54.909431+00:00",
+   "snippet": "The FDA has quietly shelved the Commissioner’s National Priority Voucher (CNPV) pilot program, Reuters reports. Meanwhile, the agency also appears to have paused publishing complete response letters after briefly halting—and then resuming—the practice in July.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f812fa4eb56a",
+   "source": "Fierce Pharma",
+   "title": "Orzeyful's 'lighter' DEA schedule paves way for Takeda's first-in-class narcolepsy launch",
+   "link": "https://www.fiercepharma.com/pharma/orzeyfuls-lighter-dea-schedule-paves-takedas-first-class-narcolepsy-launch",
+   "date": "2026-11-12T17:33:54.909431+00:00",
+   "snippet": "With a positive classification from the DEA paving the way for Orzeyful’s U.S. launch on Thursday, Takeda is charting new territory in the treatment of narcolepsy type 1 as it de-risks other assets in its budding orexin franchise in parallel.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "91592a4276bd",
+   "source": "Fierce Pharma",
+   "title": "BMS reunites R&D divisions under Cristian Massacesi, while Robert Plenge departs",
+   "link": "https://www.fiercepharma.com/biotech/bristol-myers-reunites-rd-divisions-under-cristian-massacesi",
+   "date": "2026-11-12T17:33:54.909431+00:00",
+   "snippet": "Bristol Myers Squibb is merging its research and development divisions under the leadership of Cristian Massacesi, M.D.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8fb5745fade5",
+   "source": "Fierce Pharma",
+   "title": "AI models from Google, Anthropic and more lean on recommending promoted drugs: study",
+   "link": "https://www.fiercepharma.com/marketing/ai-models-google-anthropic-and-more-lean-recommending-promoted-drugs",
+   "date": "2026-11-12T17:33:54.909431+00:00",
+   "snippet": "New research out from Mount Sinai has found that a dozen AI models it tested from major tech companies were more likely to recommend an advertised drug when it was promoted alongside a clinician’s question about treatment.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e185c5bae2ef",
+   "source": "Fierce Pharma",
+   "title": "Radiopharma player PharmaLogic snaps up Lantheus' CDMO business, plant as Curium acquisition advances",
+   "link": "https://www.fiercepharma.com/pharma/radiopharma-player-pharmalogic-snaps-lantheus-cdmo-business-plant-curium-acquisition",
+   "date": "2026-11-12T17:33:54.909431+00:00",
+   "snippet": "With Lantheus in the process of being bought out by fellow radiopharmaceutical player Curium, the company is offloading its CDMO business and a U.S. manufacturing facility to another nuclear medicine specialist, PharmaLogic.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b5489b8fc9e8",
+   "source": "BioPharma Dive",
+   "title": "Blackstone bets $1.5B on Pfizer’s obesity drug",
+   "link": "https://www.biopharmadive.com/news/blackstone-pfizer-berobenatide-deal/874483/",
+   "date": "2026-11-12T16:44:00+00:00",
+   "snippet": "The deal will support a sprawling Phase 3 program for a monthly GLP-1 shot Pfizer acquired by winning a bidding war for the drug’s previous owner, Metsera.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c0948ab44c75",
+   "source": "Endpoints News",
+   "title": "EnGene seeks comeback from May bladder cancer crash",
+   "link": "https://endpoints.news/engene-seeks-comeback-from-may-bladder-cancer-crash/",
+   "date": "2026-11-12T16:15:42+00:00",
+   "snippet": "EnGene’s latest data on its bladder cancer therapy looked better than an earlier cut in May, which had gutted the biotech’s stock after it reported underwhelming durability results. But it still remains ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c6ccb46a3032",
+   "source": "Endpoints News",
+   "title": "BioNTech pays $205M for Scholar Rock voucher; J&J pulls back in Norway",
+   "link": "https://endpoints.news/biontech-pays-205m-for-scholar-rock-voucher-jj-pulls-back-in-norway/",
+   "date": "2026-11-12T16:03:16+00:00",
+   "snippet": "Plus, news about Vor Bio, RemeGen, Merck KGaA, Aidea, Astellas and Immuneering. BioNTech acquires PRV for $205 million: The German biotech scooped up the FDA voucher from Scholar Rock, with plans ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "599b976d9669",
+   "source": "BioPharma Dive",
+   "title": "Bristol Myers research chief to depart in ‘evolution’ of company’s structure",
+   "link": "https://www.biopharmadive.com/news/bristol-myers-robert-plenge-cristian-massacesi-research-transition/874476/",
+   "date": "2026-11-12T16:03:00+00:00",
+   "snippet": "Robert Plenge is leaving as part of a shift that will see the company merge together its R&D department in a bid to speed development and capitalize on new technologies.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3e3a24b80f85",
+   "source": "Google News: biosimilar",
+   "title": "Omalizumab Biosimilar CT-P39: Quality of Life Gains Precede CSU Control - HCPLive",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMmhhU1JveWRaY2tmWWdOWElEbmQ5bmNfaDVhRE55MGlOTVk0VTV5QW1mOFdHcjZsdXkxWk84ZGU5LVItNDJsbWZQY29rbDd5blVNd1FJVEdhMkxqOGJqTmxnTVZHTUhwMllVU3RpZU1jaGhUbm92eFpxS21Wb0tVc1VhSE5BQVlnQktacUc3SGtELTdZ?oc=5",
+   "date": "2026-11-12T16:00:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "c119a07aae96",
+   "source": "Endpoints News",
+   "title": "Merck KGaA's writedown over Lonza deal; PharmaLogic buys Lantheus' CDMO business",
+   "link": "https://endpoints.news/merck-kgaas-writedown-over-lonza-deal-pharmalogic-buys-lantheus-cdmo-business/",
+   "date": "2026-11-12T15:06:12+00:00",
+   "snippet": "Merck KGaA’s impairment hit from CDMO sale: The German conglomerate reported a €366 million ($405.8 million) impairment loss on its business sale to Lonza, according to its third-quarter earnings report Thursday. Last week, the company ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ed8fa98c198d",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Insulin Aspart Demonstrates Equivalent Glycemic Control to Originator in Type 1 Diabetes - Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTzlfZlJUMFhXNTI4emV0aWtnTXZvc0swdVJOdFVfa1p1YTFRam1OaV9UMXk1Z3FkRzJPZVZidzZDNlAwRE04WWl1V3pkb2JCNldSYV9yaUwwNDZqc1hlUldIY1k5c0xiTW9TOWwtTy11ZGFiMUhmREl4UDFjcDZ2YU1mXzdjb1RzUnZyWnVmdEZBZFoydVRPRi1vblhyWjJQcVpMbGFscC1IM3VxNzl1OXZTMFN1bVE1Z1lLWExRekl6dw?oc=5",
+   "date": "2026-11-12T14:49:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "f127afcf5ba1",
+   "source": "BioPharma Dive",
+   "title": "The FDA has over 1k open jobs — and the staffing shortage is hitting pharma",
+   "link": "https://www.biopharmadive.com/news/fda-staffing-shortages-drug-reviews-pharma/874480/",
+   "date": "2026-11-12T14:38:00+00:00",
+   "snippet": "The agency is still recovering from a mass staff exodus last year that left it shorthanded. Here’s what it means for the industry.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "98ed04390cac",
+   "source": "Endpoints News",
+   "title": "Ira Mellman wants Parker Institute to restore cancer immunotherapy",
+   "link": "https://endpoints.news/ira-mellman-wants-parker-institute-to-restore-cancer-immunotherapy/",
+   "date": "2026-11-12T14:00:54+00:00",
+   "snippet": "While the whole world was applauding Revolution Medicines' new cancer drug, all Ira Mellman felt was disappointment and frustration. The pill, daraxonrasib, kept patients with advanced pancreatic cancer alive roughly twice as ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "53e727cac918",
+   "source": "Google News: biosimilar",
+   "title": "Viatris stock trades at EUR 19.11 during Thursday session - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZG9fVklTcWJSZGl1bDNNTFByNlVISmpuNGNLVVNZN2g1alBqX2lsSWtQZ0NDSklTWjh0RWk0RFNMMkd5dTNBZlMzTFZtaDBPTHF6TWFuejNZaUpWR05lazluV0ZySFIxVDJWVE5MeUFROTJSQnlDT0xPU3pleHVfMmtkWnpkakpTd0gydHZReVA3SXFBUDFjbzdJOGxBeE5KS3RaeHo5NkFqaHBVYlBObU9NbmQtbklSaEF3Rg?oc=5",
+   "date": "2026-11-12T13:16:31+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "b82049da8d16",
+   "source": "Endpoints News",
+   "title": "Bristol Myers to merge R&D under Massacesi, research head to exit",
+   "link": "https://endpoints.news/bristol-myers-to-merge-rd-under-massacesi-research-head-to-exit/",
+   "date": "2026-11-12T12:29:08+00:00",
+   "snippet": "Bristol Myers Squibb is changing up its R&D leadership, moving out head of research Robert Plenge and giving his responsibilities to Cristian Massacesi, the company's chief medical officer and head of development work. The shakeup ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "af2a0ad34e40",
+   "source": "Google News: biosimilar",
+   "title": "Lupin announces European launch of Ranibizumab biosimilar by Sandoz - scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd0FKajhQQzlGNndSLV9zaHhEV2VjaVN1SDkxX1htUDcxSWx3OW5uQjlrMHI1cW83dk1DcklLT3Z5QkZmc295dDVYY1VYekhrTHpLQUZvMm5KQ3RlRGhmRk5uRUVoV2FHbG82VjBKVmwtZVR1aTNSeVgxdTVPOUQ5TDNSdC1QMUVlSVZyekxPc2JWYTFmbVBKVS05U2dKY05GTWRmSkVNX2owa2ZhTnRiT3FhZ2wyOThBc3c?oc=5",
+   "date": "2026-11-12T12:06:24+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "cfeac55addbf",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz launches Ranluspec in Europe - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVTRlSFN2S2pPVEFDUXNBdHhab0ExajZodHhwXzNXUXVrbFlZU0hEM2RmQUsxOHVjYnNtZGktelF5Y3VCSDFYdXV2bUFEbUpQRjdhcmN2V2ZONzBvdFFkVW83dkEzNWNIV0RDQUhydGJJMjk2bHNYSlVCWlduYnUyM2l3ZjhjLTgzY2l1UA?oc=5",
+   "date": "2026-11-12T11:35:19+00:00",
+   "snippet": "Sandoz launches Ranluspec in Europe The Pharma Letter",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "fa2c7888d498",
+   "source": "Endpoints News",
+   "title": "Blackstone commits up to $1.5B for R&D of Pfizer's ex-Metsera GLP-1",
+   "link": "https://endpoints.news/blackstone-commits-up-to-1-5b-for-rd-of-pfizers-ex-metsera-glp-1/",
+   "date": "2026-11-12T11:17:18+00:00",
+   "snippet": "Pfizer has secured up to $1.5 billion from the investment group Blackstone Life Sciences to help pay for the development of its obesity candidate berobenatide. The co-funding agreement will see that cash come from funds ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "49f805d3a680",
+   "source": "Google News: biosimilar",
+   "title": "Teva stock targets $6-7 billion in innovative medicines by 2030 - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1luTENCakJzR2tDOGNyRExINzhqLUd1S3h6ZGM3U0Z0NkV2bGllUk5veWNrWHRCa1h2N1NwOGY5cmV6aE50N3o0UjVsV2h1c2RFU2xPSzFKUHg3Y3NsVVFpTnZrd3NKX2xwR1gwMC1HN3pBZ0lKZlVUT00xaTk2T3RhY1paLUhwOHBKVFdjbjNmbnY5Q1ZEaTNUcDFMVHh3MmtwYmdNVDlwTUMtdjlhS01zcTJvXzlsVzk2QWEwZk9mR3c?oc=5",
+   "date": "2026-11-12T09:55:21+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "a17730e7d649",
+   "source": "Google News: biosimilar",
+   "title": "Lupin launches biosimilar Ranibizumab through Sandoz in Europe except Germany - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObFZVN1l4eGhCWE5xeU1ScjNLSUZXNWJkYk5xYXZBUko2YV9xQ1BQMHVweTcwZE1zeHF6MGE0Nlp4NlMwZ0w1YmQ4eVR0MEZpQXpVQkhHMFB5M0p5OGFWclRHN0NCNVV4Nm1LWXEtTVJEYmU3aVcwVlR2ZDVvbUVvbmlLVVhVUWhKRnlYLXVHcmNFVTZnR2NpWmN6ZXdCdFZvazJoVE9KWF8xSFktMGQ0WjB6eHRUTTdhUmI5YkRsSE9JbVAzSnpheUc2NHVadUJPTDdLajlGLWtwT3NR0gHjAUFVX3lxTE55QnVUUEJyREdocGpWUDZZYU5HdW50X0ZaMk15WVlKbDA2U1JrTExnYXR3cHFiTE1FMVU2S3JqN1hIZmZsWGlkeElNRm9RU0dQYkVlQ1A5QU9aRDd3cGJXUjFNT0QxTlkzeEszemhXSkJ5ZFdfUGxLZXVYNDJQdklVUC1kZ3ROWkozU1pIZVktb2JHYXJxZThxQ2NMaXlrTHZXMVFCMnRlbWQ5NHBWeHRhNHpGLUhza0dNOTM3UmtOeGkwdUdyRDZKbmVFOFdYWkZLS3JFY1lPRkZIZUxEVGV3YnZZ?oc=5",
+   "date": "2026-11-12T08:49:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "d05dc3ba587b",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion seeks Australian approval for Cosentyx biosimilar Bisequma - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmYyMGl3QkhoVTBQaE9xYmg4RGpTNjZYZ1ZEQ1B0bTRudDlQSjBpa3NiWFlEQ2ZFM0VzWnl1YzBvR2tDdlhmYWJJbk0welJCM0U1RE8yWTRzNm9WYkc4ZGxhcExGR09BUklKLXRqb3lvUE5mZHlhM011YUFwUWFuZtIBlAFBVV95cUxPaEVOcUR1NlhVNXJHN2dYbUh2SFVtSzYxN3RJZ2FiMHhvWVJSWDBqcDRxLU5SVEc4WGc0T1NlZERSa3oyLWQ5NXI2SkI4NGJsZWFwN3ZmMGk0NG84Zi1KRno2OElxQnFHdV9aM1Z6YW4xRFk5VFJDTzB2QlU3clRRQWhfZHlpMXVDZ3hQTlVsYTRieHow?oc=5",
+   "date": "2026-11-12T08:46:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "c82750d37332",
+   "source": "Google News: biosimilar",
+   "title": "Lupin launches biosimilar Ranibizumab in European market - Express Pharma",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjZ4WWd6aWhRTDNuY1VGMEI1U1ppN3piWWFVVFBiOFlBdFQ4eHl4RWtHWnhUUkgtU282ZWZSRzI1X3hpS3E2SW9LcW9XVC05ckQ1bUJOMFlDdmEyZThScmNsYXZxOHRIalpQcm1KdjRsV3Fxa29iU2ZLczU4YXpUMzJGTDRmNk03X0IwWGlCVQ?oc=5",
+   "date": "2026-11-12T08:03:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "82b7f5100ae1",
+   "source": "Google News: biosimilar",
+   "title": "Lupin’s partner debuts ranibizumab biosimilar in Europe - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbjdTWHpDYmlZc1dad2l0WUdFVlN6VkoxOUtvbmkzc1JwRzBmRWg1b01SY2hPRHNZN2VaUWxTR0M2TDJmMml4TkxqZjNQY3RjLV9DZDhKa1M0enZPSWVmNXhNWWtLQkpCT040eHdVVGRiUmUxSEU3ZmJtQlAtUVVWd1RwQUowUnpiX3Y5a1hEN2dDcnMxOXo1OTBfUVFjLXY1ZTBId01YT2pJSFpDTlVvaF9NLW0xVWNTRjhfMnRfRXVycUFOenRCWkpvSlIybG5BcXREaVBfdWPSAd4BQVVfeXFMUGhocEN4N29VczY2UW1IeGlEYVU4NkU4MFh2YnAyZEFxVHMwVUFPSmdyaDRDM05DczdBMXRnUWJwSVJNMW12N2hYcHJfSjdUY1hKWFRORzJJMkIxZllvV1owRmRzajA5QjViSEQyTHRYeFdxWXUwTHdqNy1ueXhoSnJLRi1nLXVKZXVndXBFenBWLVRYWXNaN1ZpUHZSLWRKSHlHdnNORkFIZUFqZWJWRmRZMlk1YWg4TE9LMktoQ05nR2p3S2p0OEt4dzZWajZJajlQVkxzQldvcXpxbWdB?oc=5",
+   "date": "2026-11-12T07:55:33+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "cb6fb9e72488",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion is speeding up its efforts to tap into the global market by applying for Australian produc.. - 매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CbHVfT1ZuOW9HUXI3RjRXTXFsbmNMRUtoMWl6YlByZG1lT1VSV3RpODBiUHNyazRwSXZvVkQwcUtHMTg4bHFRT1BhVQ?oc=5",
+   "date": "2026-11-12T07:23:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
   {
    "id": "4127069e6a9d",
    "source": "Google News: biosimilar",
@@ -87,6 +419,18 @@
    "watch": []
   },
   {
+   "id": "8b99be3916d3",
+   "source": "Google News: biosimilar",
+   "title": "Lupin Launches Biosimilar Ranibizumab In Europe Via Partner Sandoz - Sahi",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR3pwSjlsVUlYQkdTLWZuZXlpNExELXFwWHBxbVlfOHNVUWhFOU1POWc3OWQ5N0dMaHVhLXBwWjNvVVkxdDJKWFQ1OXYwVWdQU3NpMFlhTXE2NGxhNFBnTjJkM25tVU9BdllaT1ExRGpPaHVKQ3F3TERlUUtRMVF3bEFyM3NjTl90ZUR4X3kzbHl3V2VlQUxz?oc=5",
+   "date": "2026-11-12T06:34:09+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
    "id": "a0fa9fbf03ed",
    "source": "Google News: biosimilar",
    "title": "Lupin announces European launch of biosimilar Ranluspec - Business Upturn",
@@ -105,6 +449,30 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "25d9f62dfafb",
+   "source": "Google News: biosimilar",
+   "title": "South Korea's Celltrion Files for Australian Approval of Cosentyx Biosimilar 'Bisequma,' Accelerating Oceania Push - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GaGVXWHFYS1ZhTlRpd3RDVnYyQUpLejVMemxsNy1odUkxVTE4NnZ6VmFkTklZTlVoUGdrZXh2Yi16S2VPblRMdW1jWlJsNXY5aHpUNGs0eGhQZmNQWUxsX1FOVDFzVGNGdXhWcklYdlk2Z2dOQnc?oc=5",
+   "date": "2026-11-12T02:29:38+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "ba0448910973",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion Seeks Australian Approval for Cosentyx Biosimilar - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkdFTVl0a2xhSEZxSDBGZV9JUldCeDhMTFJGdXN3Z1dZc1pyQTBXT3RRcUlmeHBnNndLemQtNmNkbkUtLWVibVpLZlBveGVqMFNQYk1WN3Y1bHBfRkJMMlNMckR0N1RiRzZmVlh1eVNoUkIwWnIya2lsSTZvTU50NHRjMDNOYV9sbC1ya0h0WU9FUFU2eGNPMVhsLURzUGlJTXJLLQ?oc=5",
+   "date": "2026-11-12T02:02:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
   },
   {
    "id": "9663a9deb50e",
