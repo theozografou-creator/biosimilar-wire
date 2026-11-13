@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T06:40:32.390552+00:00",
+ "updated": "2026-11-13T17:11:09.745782+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": ""
   },
   {
@@ -47,11 +47,329 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 54,
+   "count": 59,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "e4e6ec5a6c0c",
+   "source": "Fierce Biotech",
+   "title": "Charles River pays $470M for 2 Frontage bioanalysis labs in Pennsylvania",
+   "link": "https://www.fiercebiotech.com/cro/charles-river-shells-out-470m-tigermed-owned-frontage-bioanalysis-business",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "Charles River Laboratories has acquired Tigermed’s Frontage laboratory sites for $470 million upfront to advance its bioanalysis footprint.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c46ea745ef1f",
+   "source": "Fierce Biotech",
+   "title": "The promise of molecular gates and what comes next",
+   "link": "https://www.fiercebiotech.com/biotech/promise-molecular-gates-and-what-comes-next",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "Gate Bioscience is developing a new class of medicines designed to eliminate disease-causing proteins at their source. In this episode of \"The Top Line,\" Gate co-founder and CEO Jordi Mata-Fink, Ph.D., discusses the promise of molecular gates, the biotech's expanded partnership ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d31ae769f379",
+   "source": "Fierce Biotech",
+   "title": "Rezolute gets an uplift from phase 3 tumor hyperinsulinism win ahead of FDA meeting",
+   "link": "https://www.fiercebiotech.com/biotech/rezolute-gets-uplift-phase-3-win-ahead-fda-meeting",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "A phase 3 clinical trial of Rezolute’s ersodetug in tumor hyperinsulinism has hit its primary endpoint, boosting the biotech ahead of a potential filing for FDA approval in another indication.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6262af3c40fb",
+   "source": "Fierce Biotech",
+   "title": "Cellectis will shed 70% of workforce as part of in vivo pivot",
+   "link": "https://www.fiercebiotech.com/biotech/cellectis-will-shed-70-workforce-part-vivo-pivot",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "Cellectis’ pivot from allogeneic CAR-Ts to in vivo therapies is set to come at the expense of 70% of its workforce.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "44d60aa1c086",
+   "source": "Fierce Biotech",
+   "title": "‘They’ve been misdiagnosed for too long’: Researchers use 10-protein panel to improve ALS detection",
+   "link": "https://www.fiercebiotech.com/research/researchers-identify-protein-panel-blood-improve-als-detection",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "By the time a neurodegenerative condition has been diagnosed, it's often too late. At the point of detection, the disease may already be causing irreversible damage, fueling an urgent search for ways to identify biological clues earlier and track their progression.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "af332d8be45b",
+   "source": "Fierce Biotech",
+   "title": "Chutes & Ladders—Bristol Myers' research chief out amid R&D reorganization",
+   "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-bristol-myers-chief-research-out-amid-rd-reorganization",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "Bristol Myers Squibb's research chief is departing as the company restructures R&D. Summit Therapeutics cut ties with multiple launch team members, including its CCO, ahead of a high-stakes FDA decision. And OncoNano appointed its interim chief, a former FDA commissioner, to the ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c325b9dd1fe2",
+   "source": "Fierce Biotech",
+   "title": "American Cancer Society updates prostate cancer screening guidance",
+   "link": "https://www.fiercebiotech.com/medtech/american-cancer-society-updates-prostate-cancer-screening-guidance",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "For the first time in 16 years the American Cancer Society (ACS) has updated its guideline for prostate cancer screening as it drives to boost detection of the disease before it spreads.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7e747818f844",
+   "source": "Fierce Biotech",
+   "title": "Sanofi-backed Windward hits $225M IPO goal, as Rezera delays listing over ‘market conditions’",
+   "link": "https://www.fiercebiotech.com/biotech/sanofi-backed-windward-hits-225m-ipo-goal-advance-respiratory-drugs-china",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "Windward Bio’s IPO has blown to exactly the spot the Swiss biotech had been aiming for, bringing in $225 million to fund a pair of respiratory drugs licensed from China.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3d7ec19b909e",
+   "source": "Fierce Biotech",
+   "title": "Virtuoso Surgical nabs FDA authorization for robotic bladder lesions system",
+   "link": "https://www.fiercebiotech.com/medtech/virtuoso-surgical-nabs-fda-authorization-robotic-bladder-lesions-system",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "The FDA has granted De Novo authorization for Virtuoso Surgical’s Virtuoso Endoscopy System.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "868bcdee3350",
+   "source": "Fierce Biotech",
+   "title": "Regeneron posts positive phase 2 data for baloncibart in nervous system disorder, eyes pivotal trial",
+   "link": "https://www.fiercebiotech.com/biotech/regeneron-posts-positive-phase-2-pots-data-baloncibart-eyes-pivotal-trial",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "Regeneron has posted positive phase 2 data on baloncibart in postural orthostatic tachycardia syndrome, teeing the biotech up to start a potentially pivotal trial in the first half of 2027.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "312a2f01d1ad",
+   "source": "Fierce Pharma",
+   "title": "Europe's CHMP backs Baxfendy, gives Hansoh's Aumseqa another chance",
+   "link": "https://www.fiercepharma.com/pharma/europes-chmp-signed-stack-new-medicines-including-azs-bp-med-and-2-entrants-china",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "Amid a slate of regulatory decisions this week, the CHMP backed AstraZeneca's Baxfendy and endorsed Hansoh's application for Aumseqa after revoking its original marketing authorization earlier this summer.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a199f5c4eac1",
+   "source": "Fierce Pharma",
+   "title": "Teva CEO 'proud' of pipeline buzz as innovative-generics hybrid rolls out 1st R&D day",
+   "link": "https://www.fiercepharma.com/pharma/teva-ceo-proud-pipeline-buzz-innovative-generics-hybrid-rolls-out-1st-rd-day",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "While acknowledging that Teva’s peak sales estimate for its tranche of late-stage pipeline darlings may be verging on “aspirational,” at least one analyst team walked away from the company’s first R&D investor confab this week feeling “increasingly confident” in the firm’s ...",
+   "biosimilar": false,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "d335b86b1ebe",
+   "source": "Fierce Pharma",
+   "title": "Bavarian Nordic C-suite stability in question as CFO steps down amid Q3 beat",
+   "link": "https://www.fiercepharma.com/pharma/bavarian-nordic-c-suite-stability-question-cfo-steps-down-amid-q3-beat",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "As Bavarian Nordic’s new CEO Tarja Stenvall makes her debut, CFO Henrik Juuel is stepping down.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "234192c2f911",
+   "source": "Fierce Pharma",
+   "title": "Fierce Pharma Asia—China’s Big Pharma ambition; Treasury’s China crackdown; Takeda’s narcolepsy launch",
+   "link": "https://www.fiercepharma.com/pharma/china-big-pharma-dream-treasury-china-crackdown-takeda-narcolepsy-launch",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "Chinese companies have a Big Pharma dream. Experts told Fierce that the U.S. Treasury's draft policy on banning certain U.S. investments in China is too ambiguous and could backfire. Takeda's novel orexin drug has won a favorable DEA designation. And more.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1938d6820484",
+   "source": "Fierce Pharma",
+   "title": "Sanofi teams with British comic Beano for Type 1 diabetes education push",
+   "link": "https://www.fiercepharma.com/marketing/sanofi-teams-british-comic-beano-type-1-diabetes-education-push",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "Sanofi’s U.K. business is partnering up with British comic stalwart the Beano once again to help British schools boost awareness of Type 1 diabetes.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "22c11fd47708",
+   "source": "Fierce Pharma",
+   "title": "Novo amps up Wegovy marketing with DJ Khaled spinning his weight-loss tale",
+   "link": "https://www.fiercepharma.com/marketing/novo-amps-wegovy-marketing-dj-khaled-spinning-his-weight-loss-tale",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "Novo and DJ Khaled have teamed up to share how the DJ, rapper and record producer has incorporated the GLP-1 drug Wegovy into his weight-loss routine.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7557e64348a0",
+   "source": "Fierce Pharma",
+   "title": "Gilead rolls out the red carpet for HIV prevention at the Latin Grammy Awards",
+   "link": "https://www.fiercepharma.com/marketing/gilead-rolls-out-red-carpet-hiv-prevention-latin-grammy-awards",
+   "date": "2026-11-13T17:11:09.745782+00:00",
+   "snippet": "Gilead's collaboration with TelevisaUnivision and the 27th Latin Grammy Awards puts HIV prevention in the spotlight with in-person, social and red-carpet activations.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7563bc92dad4",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz stock: Ranluspec launch expands European eye-care portfolio - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcUFPVzRCcDhRY0pONjVkWExkMzRtaVRDWXhTNWp5bEZMLVhWRng0WjBtaUUzdVZDaF9ZenVVbDU4WGF6SllBWkJKZEY3Zi02MHFHY2FlUjNONk1xX0llc0ppdnFyUVdJbmUyWjFYcTI1YnJLejY2a2N3elU1eUxTRnNnUldFbUdybXNfR3Q2N3hJN1lrV3JmbzlpYzFCMVV5ZnVqSWNDT0hNdTZfUzdUVnRvdGZIa0NkUWYydWowM1hqeHpib3ZF?oc=5",
+   "date": "2026-11-13T17:04:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "f7a6e94035a0",
+   "source": "Endpoints News",
+   "title": "Windward Bio hits Nasdaq with $175M IPO, plus another $50M from Sanofi",
+   "link": "https://endpoints.news/windward-bio-hits-nasdaq-with-175m-ipo-plus-another-50m-from-sanofi/",
+   "date": "2026-11-13T16:30:30+00:00",
+   "snippet": "Windward Bio, a biotech developing drugs for respiratory diseases, made its public debut after putting together $175 million in its IPO. The company began trading Friday with an initial share price {$WWB} of $17 apiece ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "83c83bbc7e05",
+   "source": "Endpoints News",
+   "title": "Moderna readies commercial cancer vaccine production ahead of FDA filing",
+   "link": "https://endpoints.news/moderna-readies-commercial-cancer-vaccine-production-ahead-of-fda-filing/",
+   "date": "2026-11-13T16:26:47+00:00",
+   "snippet": "MARLBOROUGH, MA — Moderna is “on track and ready” to make thousands of doses of its Merck-partnered cancer vaccine as it prepares to file a marketing application by the end of this year with the FDA ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "59a4d2121710",
+   "source": "Endpoints News",
+   "title": "Milestone cuts 20% of staff as Cardamyst sales hit $1M in Q3",
+   "link": "https://endpoints.news/milestone-cuts-20-of-staff-as-cardamyst-sales-hit-1m-in-q3/",
+   "date": "2026-11-13T16:19:06+00:00",
+   "snippet": "Milestone Pharmaceuticals is cutting costs and staff following the FDA approval of its heart arrhythmia treatment, with two top executives departing the leadership team. The company said in its third-quarter earnings ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b2ed2cb7d79e",
+   "source": "Endpoints News",
+   "title": "Regeneron posts mid-stage POTS data; Kyverna completes CAR-T filing",
+   "link": "https://endpoints.news/regeneron-posts-mid-stage-pots-data-kyverna-completes-car-t-filing/",
+   "date": "2026-11-13T16:12:28+00:00",
+   "snippet": "Plus, news about Merck KGaA, Rezolute, Vir, Orakl and Cellectis. Regeneron’s mid-stage POTS data: The biotech’s monoclonal antibody, baloncibart, given at 450 mg led to an average 11.4-beat-per-minute reduction in heart ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bd00f3a7e48d",
+   "source": "BioPharma Dive",
+   "title": "Novo submits sickle cell drug; Flagship, Gates Foundation deepen ties",
+   "link": "https://www.biopharmadive.com/news/novo-etavopivat-flagship-gates-ascidian-immuneering-neurosterix/874120/",
+   "date": "2026-11-13T14:36:00+00:00",
+   "snippet": "Novo views the medicine, acquired in a billion-dollar deal, as a future blockbuster. Meanwhile, a pair of startups forged an RNA editing pact and Astellas lined up two new trials in pancreatic cancer.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ffc2f73b0257",
+   "source": "BioPharma Dive",
+   "title": "This week in charts: Brain drugs are back on venture capitalists’ minds",
+   "link": "https://www.biopharmadive.com/news/charts-venture-neuroscience-oyster-vectory-acr-cell-therapy/874570/",
+   "date": "2026-11-13T14:00:00+00:00",
+   "snippet": "Five neurology-focused startups have together raised around $450 million in the last few weeks. Elsewhere, investors had a muted response to the latest cell therapy research.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a605ef9f2ce1",
+   "source": "Google News: biosimilar",
+   "title": "How Are Repatha and Newer Medicines Helping AMGN (NASDAQ:AMGN) Raise Its Annual Outlook? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYkFGUmh5TkpqSGZodGhuSF9IcFFVOTdWdjRJTUUydkd3WllTSGlEdTlDZl85TVFfd1YxUDllV0ZCQ3d5UzNUVGhtLUx0YV9IVl9JblVCWTBFLTcxaHkxdDlUazY3Uk8zdWJxeHZUMnFWSWRISVBQdHpMc3lUQUsweXdQVm1PQ3kzSEdWTW9KT0dMeGZtR1p4X0pQWm1HM1A2ZTdfV0I2dTIwSU9TUEp0MWx5VHVmNlVCcGNscl9ySEV5Tm05UGV5UjZB?oc=5",
+   "date": "2026-11-13T12:59:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "39909ec72e7b",
+   "source": "Google News: biosimilar",
+   "title": "Lupin Launches Ranibizumab Biosimilar Across Europe in Partnership with Sandoz - The Indian Practitioner",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTJtME0wdDhRc0NDY21wVktWaGgxWkxuLXFKQzdVZmM2TEdwMzNPRTRwRlhDcTJfTFU2ODhybzJpQjRaMmYtRVJQQUg5bTVwYzJOeGVrbGtKY0kzbVNyaU9vMlNZRU4yY3J0UWd1ZUlnVnZ6enBjXzBsRkppSElUczBIbG5Edi1GUUxuZGtObmEtY2V0Q1pvTDhWWWhxOThPOWVyV3NNOUJ2SlNkNm83Yk4xMA?oc=5",
+   "date": "2026-11-13T12:44:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "e146a7de7d45",
+   "source": "Google News: biosimilar",
+   "title": "EU Medicines Agency Panel Backs SciencePharma's NovoRapid Biosimilar for Diabetes - marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNlplVFJHT25BYVA4bDhabDl4VGNSVWN2bzlWNnJJRHd0cFo3SHQ5QmgtQi1Jc1FydWFpZVhmLTRtbTBHc1JCSEtJdHR3RHBreXBVNEtKb0dRY0pRM1RvOTlWeW5YeFgydTJ2Wm5kZlBlazd1YXdEZ3dVU3hvR2NHRmZsRDB6Y1pqRlJiWTU3T0h1Ukl0VTdnNlV5S3VnRE1TSTZlNEJnZ003QUlKeW8zWlg4UVJ6c0JHbWJpUUlqQ2Q4bUhFTUZseTNfMS1lV2s?oc=5",
+   "date": "2026-11-13T12:15:53+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "5bf169253797",
+   "source": "Endpoints News",
+   "title": "Gubra CEO gets the quick hook; Ex-HHS official Brett Giroir takes over at cancer biotech",
+   "link": "https://endpoints.news/gubra-ceo-gets-the-quick-hook-ex-hhs-official-brett-giroir-takes-over-at-cancer-biotech/",
+   "date": "2026-11-13T12:00:11+00:00",
+   "snippet": "→ AbbVie and Boehringer Ingelheim’s Danish obesity partner Gubra is going with a co-CEO arrangement after the abrupt departure of Markus Rohrwild. Endpoints News just spoke with Rohrwild last month about Gubra’s ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6d95fdfbb1a4",
+   "source": "Google News: biosimilar",
+   "title": "Lupin Announces European Launch of Ranibizumab Biosimilar Ranluspec - Machine Maker",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEtFVUluSzVjcnRnZm5HRVd6cDNVbEJVNng2LVJsMWxvTl9JSzgzOXNYUDJ3czFhLUZlY3gtbnVrNmtRSURCalJabTd2ZHlXZUU3WXdNVHVWbzBtTVRDWDJIZGhxLUJNNXE5c3RWdGRhZWxvc1dJUGRRRExUVTNvemVZWVE3cVhVc3dnMzN6NGlQVE9fdW1kWnNzeW56TE9MWFRN?oc=5",
+   "date": "2026-11-13T10:46:49+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "1476646a490e",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz stock gains ophthalmology growth option with Ranluspec launch - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNREw0R0JGMWVvVHQ3Smh4QkpMTnYtVmR4TFp4NWdwYlM4ZmdSTHNDRER2MEVyT0JMY1hkdEZmZG5FZUxfMURwUHBsdm9JVXdmQWM4U0JIS1h5ZXZvZXozRnpFVFhlNWd0UTVlOGg1RW9VM3Fyb1ZVN0JKZnB2VTlyMDF4TDQzQTdFX1l1MXFOOWwtTUZhMzI5WU00RDdCRVV5RnZTTVVBUjFnd1Y3cVlzMmdaQTNJdzRuU2N1c0dMcHQwendFMGQ4bDNWaw?oc=5",
+   "date": "2026-11-13T10:09:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "a933e2eb4598",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius and WuXi Biologics enter exclusive development agreement to expand biosimilars pipeline - BioSpectrum Asia",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZWdidWhVMDEzMFh2ZllOQXdMNXF6ZW9CbW51eF9VUEkwVWM3NUdtWDYwME1zWTZNdTVuWUdWU001dmFxaEhscHlFVmltejRueGhSWm5fSUl2bG5kSkRxX0lHSUNZN3RzSEthbEgyaEJETkJqVnZGa3Z0dmhfX21OTE9ZUWxES2dRb1g5c2liS21GU0tyYUtoMEdkVmJsR1RDMWtTbjJNbk5WT0ZwR3QyWkxBSk40OFFkdW1ZXzZuOTZVRXBueUxuY0ItQTVQWkloa3loUDlqREY4Qlh3T0hnRVdR?oc=5",
+   "date": "2026-11-13T09:43:23+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "0031ab69162c",
    "source": "Google News: biosimilar",
@@ -347,6 +665,18 @@
    "watch": []
   },
   {
+   "id": "d5110c1196e2",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz launches Lucentis biosimilar in Europe - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96NTVILVZUYzhQWjFWV0ZZeklXbnM1SGlndzZ0Q1pfOHplWlRWUF9fdEd0RXVJNWNKT1k4X2F5NzE2NWdWY0NMUUJDNE5sN01raTlkVTNkWU9iZDNQaWlxSllNSktBMUpkYVNjNmpRZ2NYWFRZWGQw?oc=5",
+   "date": "2026-11-12T14:50:54+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
    "id": "ed8fa98c198d",
    "source": "Google News: biosimilar",
    "title": "Biosimilar Insulin Aspart Demonstrates Equivalent Glycemic Control to Originator in Type 1 Diabetes - Bioengineer.org",
@@ -475,6 +805,16 @@
    "watch": [
     "Celltrion"
    ]
+  },
+  {
+   "id": "56a7828debe3",
+   "source": "Google News: biosimilar",
+   "title": "Lupin launches biosimilar Ranibizumab in European market - Express Pharma",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcW9DV3FidVd1dFU1cU14ZnZQSmJYMmdwYzVZZXhmSlpVaGktLXYySmFobkplY1JtMmNRT3ZJSzhwZDZHUnQ2dk83ZHVzSmRJa1c0N2dZVzBqN0hGZGxYckhTRkhqWXlQSEh2c2twLWZqd2ZiTDZweFllLTdNalhENEVfYVI3ak85VUozVTB5cjhCN3dq?oc=5",
+   "date": "2026-11-12T08:37:02+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "c82750d37332",
@@ -1371,6 +1711,16 @@
    "source": "Google News: biosimilar",
    "title": "CVS Caremark Is Expanding Access and Affordability With Biosimilars - ACCESS Newswire",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT3pOVG9wVDhDTlFERjgtMEF4dlpiUzJRdTlnTVRrdDRYZWFJczVNYlk0bThQdmdqMlNjdkg2d1FXSTFBOUNCUjl2RWRRbmdfVWR2eDZlR1VLX1hkaktfblNrU3hiQXFhM2lHLXJ4ZkhyQlh5VVhqeGhReVJVTzAta1R4REJldUFXVDBrRkV3b1ZCQmowNEdYWFFXTnNINzRfZThYYVoxR0hfQThCdWhZQXRVZ05ZaF9OUTNRdHUxeVl5eEdldUJEaEExWmMtTTU0RF9qZmVzOHpMalFIUzJtdGNR?oc=5",
+   "date": "2026-11-10T13:45:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "abe6f414b2ad",
+   "source": "Google News: biosimilar",
+   "title": "CVS Caremark Is Expanding Access and Affordability With Biosimilars - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWjNoVGZ6em5GSDhvellpZEdDblRuY3dENHg1QkxKaDdtbjZDbUpJZEF2WGxNUFo4WG8zQ01hZXp4eEFBNDBxQjR3NU85VGstLVFnazZfU0RCT0hoMnJmSG9ELTFuXzI4WjRhUXZrcjF5MXllRDM1ekFUMXBwMWh2TkFvU2tlYTlTd0F3UFFFR0E5WDU0TENZU2QyNFhCa2E0eFlwcHNraw?oc=5",
    "date": "2026-11-10T13:45:00+00:00",
    "snippet": "",
    "biosimilar": true,
