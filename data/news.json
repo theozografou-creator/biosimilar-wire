@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:11:09.745782+00:00",
+ "updated": "2026-11-13T23:30:24.945992+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": ""
   },
   {
@@ -47,11 +47,51 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 59,
+   "count": 54,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "174f1ea90a4e",
+   "source": "Fierce Pharma",
+   "title": "AstraZeneca cuts 600 US sales jobs amid $1.5B savings plan: Bloomberg",
+   "link": "https://www.fiercepharma.com/pharma/astrazeneca-cuts-600-us-sales-jobs-amid-15b-savings-plan-bloomberg",
+   "date": "2026-11-13T23:30:24.945992+00:00",
+   "snippet": "AstraZeneca’s $1.5 billion cost-savings drive has started to take a toll on its U.S. workforce. The British pharma has cut about 600 jobs from its respiratory and immunology commercial teams in the U.S., Bloomberg reports.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "166f36c5a7ff",
+   "source": "Fierce Pharma",
+   "title": "AZ keeps pressure on Keytruda with Imfinzi expansion in chemo-ineligible bladder cancer",
+   "link": "https://www.fiercepharma.com/pharma/az-keeps-pressure-keytruda-imfinzi-expansion-chemo-ineligible-bladder-cancer",
+   "date": "2026-11-13T23:30:24.945992+00:00",
+   "snippet": "Looking to challenge a preeminent Keytruda cocktail in cisplatin-ineligible muscle-invasive bladder cancer (MIBC), AstraZeneca has crossed the finish line with its own doublet wedding Pfizer and Astellas’ Padcev with its PD-L1 inhibitor Imfinzi.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6b555040929d",
+   "source": "Endpoints News",
+   "title": "Argenx is spending billions to push beyond Vyvgart",
+   "link": "https://endpoints.news/argenx-is-spending-billions-to-push-beyond-vyvgart/",
+   "date": "2026-11-13T18:50:58+00:00",
+   "snippet": "Six months into her term as CEO of rare disease drugmaker argenx, Karen Massey has overseen two acquisitions worth a combined potential of about $3.4 billion as the company seeks to build a broader immunology ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "447ad14de5c2",
+   "source": "Endpoints News",
+   "title": "AstraZeneca pulls EU filing for antibody as CHMP backs Gazyvaro in lupus",
+   "link": "https://endpoints.news/astrazeneca-pulls-eu-filing-for-antibody-as-chmp-backs-gazyvaro-in-lupus/",
+   "date": "2026-11-13T18:01:59+00:00",
+   "snippet": "AstraZeneca has withdrawn its European marketing application for a monoclonal antibody in a subset of amyloidosis patients. The candidate had previously failed two late-stage studies in a broader population, but the drugmaker then said that ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "e4e6ec5a6c0c",
    "source": "Fierce Biotech",
