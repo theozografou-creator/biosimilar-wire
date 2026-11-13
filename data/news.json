@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T23:35:41.906012+00:00",
+ "updated": "2026-11-13T06:40:32.390552+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": ""
   },
   {
@@ -52,6 +52,28 @@
   }
  ],
  "items": [
+  {
+   "id": "0031ab69162c",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion seeks Australian approval for Cosentyx biosimilar - 매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZU0tTNnZxMDFaanVQSUQyT1pfX0N4elhZNlFpVkZNaVN0X0VvWlp0RGRRSFNlWEtwY1BSVGRpejdIejIzTkRBVUxNT29hYXY5Z1BwYXU3cw?oc=5",
+   "date": "2026-11-13T01:58:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "762716b23e33",
+   "source": "BioPharma Dive",
+   "title": "Windward prices $175M IPO to advance China-licensed lung drugs",
+   "link": "https://www.biopharmadive.com/news/windward-ipo-pricing-immune-drugs-china-deals-tezspire/874533/",
+   "date": "2026-11-13T01:22:00+00:00",
+   "snippet": "The Swiss biotech has two prospects it sees as having the potential to outcompete AstraZeneca and Amgen's blockbuster asthma treatment Tezspire.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "67e16e374893",
    "source": "Fierce Biotech",
@@ -263,6 +285,18 @@
    "watch": []
   },
   {
+   "id": "c60043d9c468",
+   "source": "Google News: biosimilar",
+   "title": "What Alvotech (ALVO) Said on Its Q3 Earnings Call - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeGZ6VjZKUEd4T010SzN2aDRBendFMlRzVzZHNGV3bEFKNzlQSkEtS09DLTVpbl96X2VMMFJnVUpkMlpGdkhUdVFwa3BPN3dHQjh4b1FZQ1BJWjlsRE1FVXpfUms5dGtEOFdXcUF3NGg1TmFCSUtwVDNlQTN3UFFKS3l3WGFZTllua1FmUUNVYmlKRW5pd0d6VWcybWFxcVJXTVQxOG14VFNmZU1q?oc=5",
+   "date": "2026-11-12T16:15:18+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "c6ccb46a3032",
    "source": "Endpoints News",
    "title": "BioNTech pays $205M for Scholar Rock voucher; J&J pulls back in Norway",
@@ -407,6 +441,16 @@
    "watch": [
     "Teva"
    ]
+  },
+  {
+   "id": "0718183a9f39",
+   "source": "Google News: biosimilar",
+   "title": "European Commission Approves Lupin’s Ranibizumab Biosimilar - GK Today",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORDY0YU5VQVNvQWs5dEZ4dTkyX3dqMkdycmE0VE9MZ3AycEJQOUhnSUQ0eUM0ZC1UZ1NPc3prRXVZeEdZM2FqaFNtbnB5Mm5mbllzbkhyMmdvWnItM3N3b2JUX1IxczNjNmpJaEF4dlk1Z09qNjV2Mk5aVkJBb1JieFdIR3dSN3FBTFE?oc=5",
+   "date": "2026-11-12T09:13:33+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "a17730e7d649",
@@ -1357,6 +1401,18 @@
    ]
   },
   {
+   "id": "3c49ea62c8c6",
+   "source": "Google News: biosimilar",
+   "title": "Jefferies initiates Alvotech stock coverage with buy rating on biosimilar pipeline - Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSXF3eDRiOWFUZEpQTmNwLUM5UU9ESXhZdlluMEUxb2xVMVhVS3hIWVFrTERscWRsNmQyUXZEQmFmOHFqWlo4ekNoRldUV0tyeXMtSjNHUTBzNEJVNk95Tk1kVlIxWnNjR3B2eHEzcjAzeFVqNGI0bXNGNHRuYWVKRDB1ZjBjNGlOY3pzVzdjYlQ0UDBpZGo5d1hMZXFpOUNjWm15SmliTE5nbUVRQUlrR0wydXJKajVUZ09sZGk1QV9pb25STG1fMHl6MjBGaDFEaWRyazJycm9sWVU?oc=5",
+   "date": "2026-11-10T11:20:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "7507e7f30008",
    "source": "Google News: biosimilar",
    "title": "Jefferies initiates Alvotech stock coverage with buy rating on biosimilar pipeline - Investing.com UK",
@@ -2179,6 +2235,16 @@
    ]
   },
   {
+   "id": "21ea8ef5c44e",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - The River Reporter",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tMVEyckJZMFJIUUdIdmdSVERlanpoNTA5WDhtbUx2WDd0OTNyN0FNdFdMY2VOSnVnaGVUS0ZkbVlRbFc3RG55TTBZRnFzcHc1VmxHR2JzTXRuMHM1WFE?oc=5",
+   "date": "2026-11-08T23:15:16+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "f4a9ea840b60",
    "source": "Google News: biosimilar",
    "title": "Samsung Bioepis to Supply Costly Cancer Drug Free After Trial Ends - Seoul Economic Daily",
@@ -2725,6 +2791,16 @@
    "source": "Google News: biosimilar",
    "title": "CVS Caremark is expanding access and affordability with biosimilars - CVS Health",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcmF4UWlpRk9Ed2ZDUXJxcHp2amczUXRkbDlYRnpjV1F4VWEwazdHT0dSdU94b3dteVZUNGlrS2hHeXh5X1VnaElTdzNmWWtabk9XZ2J6aGl4c1hzU0JHZXpDeWxPUUd4UkRJQTgzN2xsZlQ1c3ZHUDJHbE1zcG5rSU5PZXNzRXJaUjlMU0tYMkJzNXA4Q25SSnV2cw?oc=5",
+   "date": "2026-11-06T08:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "96ff7df627a3",
+   "source": "Google News: biosimilar",
+   "title": "CVS Caremark is expanding access and affordability with biosimilars - CVS Health",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUpMV09rY2drNDJhejVUTlV3c215UmFNTFo3V0FteVZEUlRxeXl0b2d4UEhWcTgtUlluVzFEelBBMjIyNVpFWnIwWnJVY01QRzJCZHc0VWNCNDA1VGFsVTlpX1BLRUlOMUh5bEt5U29NMXZ3NGRaRGlNZG1aLUx4WV82amdVR2RjUnNRbnRhanN6bTh0QklIT25VUk5FdnZHOFhxTVU5WThkX2s?oc=5",
    "date": "2026-11-06T08:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
