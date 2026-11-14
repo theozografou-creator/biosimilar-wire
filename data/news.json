@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-14T13:36:26.195457+00:00",
+ "updated": "2026-11-14T19:55:22.987484+00:00",
  "ai": false,
  "feeds": [
   {
    "name": "Fierce Biotech",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 25,
+   "error": ""
   },
   {
    "name": "Fierce Pharma",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 25,
+   "error": ""
   },
   {
    "name": "Endpoints News",
@@ -47,11 +47,23 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 48,
+   "count": 50,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "254f7827cbf5",
+   "source": "Google News: biosimilar",
+   "title": "What Could Drive Alvotech (NASDAQ:ALVO) Toward A Record Quarter? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmdQX3czVWhMeXFWS2xKRm9GOHpabzRVazZHaTVGSWxCT3lGQ2ZiUjZQN3FXWWdWaFpYNDFfemZXMVpYZlVuQU9wVjVaZ2c3Q3dqSjNJa0Y4NVB1aTZDNnhESjVQdTBVSkxZVUhIbnZNNGMxT3kyOUtuOTV0MndlT25OSmJkN1FETlZfTUlGYnY1WTdnT094QU5aSEljNmVxbWttNm9DSW9PQQ?oc=5",
+   "date": "2026-11-14T18:56:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
   {
    "id": "1300f9a8812b",
    "source": "Endpoints News",
@@ -1007,6 +1019,18 @@
    "watch": []
   },
   {
+   "id": "34040087d2b6",
+   "source": "Google News: biosimilar",
+   "title": "Lupin Announces European Launch Of Biosimilar Ranibizumab Via Sandoz Excluding Germany - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPamtKcWZoNHFGRS1hSFFUREJrZE04YzBhMzZtREh2UXRnc1NxcDhjYU9DOUNFanFsTWdiN2MtXzRRNG5JZ1FxdVBkZUk0LTdMNllGTE1CYjg2cXNqZGdESUcxTlozMXllb3p5UGF1VERuZXdvcUhOcHN0RnhucXNnYldyOTVrZmdLSXpYQXBTQTVmUE1IMzFKZXEzS1F6dzQ3dW85cVFPWmVobWVyRUJzQ2FtT3A3R1BOb2RoOFo2dFRrTEU4T25WY3pacm1JaFV6d3hWX2h6b1NSTkRMalJ1a0I1WHUxS2JOeWw5aQ?oc=5",
+   "date": "2026-11-12T06:09:44+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
    "id": "25d9f62dfafb",
    "source": "Google News: biosimilar",
    "title": "South Korea's Celltrion Files for Australian Approval of Cosentyx Biosimilar 'Bisequma,' Accelerating Oceania Push - BigGo Finance",
@@ -1142,6 +1166,16 @@
    "date": "2026-11-11T20:20:26+00:00",
    "snippet": "Hims & Hers, once obsessed with delivering \"personalized care\" through compounded drug products, is now banking on brand-name treatments and the pharmaceutical giants it previously tried to undercut. Hims struck a deal with Eli Lilly ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "944959b8a0f0",
+   "source": "Google News: biosimilar",
+   "title": "CMS issues final rule for the IRA’s Drug Price Negotiation Program, for IPAY 2029 and beyond - Hogan Lovells Cadwalader",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUi00NHZqQUFPa05vUHlfZjFUbzZReWdRUy1JSmoxT2YySEFNTzB3OEQ5NFBYdjBvWWpGNFRGdDg3RUQwX3ZQS1RtY2NxV0RCU2JwcjJaRURJYS1rNERBZEdkTUQ2MGlNRUxLem1TOHVidXFQOXJiNTlJMnJTd21QOHNXMW9KVW1SN2pTX0VQenRNMG5FT29lWWVCUldLemRfMzlyaVBzbDg2YWZNMU9HbTFXUXV6WGhLNmxkMHdCSkhnNVd6?oc=5",
+   "date": "2026-11-11T19:21:21+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
