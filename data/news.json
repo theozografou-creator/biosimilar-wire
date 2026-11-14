@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-14T06:16:31.142282+00:00",
+ "updated": "2026-11-14T13:36:26.195457+00:00",
  "ai": false,
  "feeds": [
   {
    "name": "Fierce Biotech",
-   "ok": true,
-   "count": 25,
-   "error": ""
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 403: Forbidden"
   },
   {
    "name": "Fierce Pharma",
-   "ok": true,
-   "count": 25,
-   "error": ""
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 403: Forbidden"
   },
   {
    "name": "Endpoints News",
@@ -47,11 +47,21 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 56,
+   "count": 48,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "1300f9a8812b",
+   "source": "Endpoints News",
+   "title": "George Church quits AI startup; Ira Mellman’s immunotherapy fight; and more",
+   "link": "https://endpoints.news/george-church-quits-ai-startup-ira-mellmans-immunotherapy-fight-and-more/",
+   "date": "2026-11-14T11:00:31+00:00",
+   "snippet": "Welcome back to another edition of Endpoints Weekly! The unseasonably warm autumn we’ve had in New York finally seems to be breaking, with highs expected in the mid-40s and low 50s for this weekend and ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "558b94b77912",
    "source": "Google News: biosimilar",
@@ -1216,6 +1226,18 @@
    "title": "Alvotech earnings on deck as biosimilar FDA decisions loom - Investing.com",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDdBWktSQUZ5d3ZaQ2ZKT0ZXZl9rSEtwaHFrcnY0VDdFcWRmQXF3Y2s4OG9HajhvVGs5MWZNZTFNZ3RERUtqTEdjR3lWWGZ4QV92cEV4eC1lVmprMVduZm9RYmdGb1FXRkVhOE9Pa1FFd1JJZ2YyMW1xX19ZSXhqV0ZTTFRkc3VpRUJ0dWJZOEdtQ3BPelZadk1ob2FEQ2tVVDd2SVFtbXVyTjNIUl9aUQ?oc=5",
    "date": "2026-11-11T14:51:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "54dd1d09a12f",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech earnings on deck as biosimilar FDA decisions loom By Investing.com - Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWTdfWDdSZlNINlZ2Tkx5blVhMjA5TkZQdzRuRE1uSHVLVGdlOXIyOEsxTnhNV2hrdzFkRjJCSHliYVl1YVpoZ3hDdlh4Rzk4SXFNSDRXQTZjQ0RKc0txcng0TTctYkstSDd1MEdxU29uYjRLT1Z3NDB5X2VsMjNZbFp3VnN6czEyWkFHeU1aTTI1Tk9kV293dkVLZW1JT19RdnNaVHZMVVFfYkxwQ19FSENueHN0U3NmT1Aw?oc=5",
+   "date": "2026-11-11T14:50:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -20430,16 +20452,6 @@
    "link": "https://www.bigmoleculewatch.com/2026/09/15/cipla-and-qilu-announce-exclusive-u-s-licensing-and-supply-agreement-for-pembrolizumab-biosimilar/",
    "date": "2026-09-15T21:26:11+00:00",
    "snippet": "On September 3, 2026, InvaGen Pharmaceuticals Inc., a wholly owned subsidiary of Cipla Limited, announced a strategic partnership and exclusive license with Qilu Pharmaceutical Co., Ltd. for the licensing and supply of QL2107, a biosimilar to Merck’s KEYTRUDA® (pembrolizumab), ...",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "fdc31b3641cd",
-   "source": "GaBI Online",
-   "title": "Canada approves multiple denosumab and ustekinumab biosimilars as global competition grows - Generics and Biosimilars Initiative",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZllJYm15RVh1c3BQMGZDaVdaODhKYnVKazRvWmJCT2hIcExndjBGNW9XUDBfTW01eXUzVndlZVkxc0tQM3BnNXR4T0Q3VHdSOFZ4NkcyZlR1RHhMMngzVDJWUHExaFJrUmZTQ3RETlRkYmlxanhzSUt4YkxSMDBnQmd6R1V3YWt4VVlWQUJJbmxhQXRhZnVOakdSZnZQSHVsQ2pZVTdULTdETVl3QmVMZWhkSmZJMDdDN3p0LThMMTZPRkRGVkZ3SlJoYXMwdnM?oc=5",
-   "date": "2026-09-15T10:44:42+00:00",
-   "snippet": "",
    "biosimilar": true,
    "watch": []
   }
