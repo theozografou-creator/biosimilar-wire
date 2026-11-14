@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:30:24.945992+00:00",
+ "updated": "2026-11-14T06:16:31.142282+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,41 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 54,
+   "count": 56,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "558b94b77912",
+   "source": "Google News: biosimilar",
+   "title": "Preclinical Evaluation Confirms Biosimilarity of Breast Cancer Therapy Tuznue to Herceptin - Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWlhcmktLXNVeWg0WFhoVGVGdzdySzUyb0duU0dvTDJCaDRLRUU2YmQ4LXRBcXcta3FZc090TWNsMzB3bHUySnNIRUNTTm9Yc3FMeEFkVl9DSXdHTmlodHBqX3dIWm5uNkQ5VG12LTl5OWJfWG5oY19kVWc2ZmhoN2pqRXNLXzhzYlpmbVZjZUdENlM0QUdzdWhkR05hT25GWW9sdDVFMGV0YUZEV3pna01wd0dLQQ?oc=5",
+   "date": "2026-11-14T04:19:27+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "81d59f56f631",
+   "source": "Google News: biosimilar",
+   "title": "Etanercept Biosimilar GP2015 Matches Reference Drug Across Patient Reported Outcomes - Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTjFfZ2xvMDZLVHE3Z0JSMk4ya19aU3JLRlowcURuSTZsdzhyM3ZFWGFuRlhtRldCZ0NUT1dFcnVteEZMQzZEckV2M0RENnlaNnBRNXVRbU1BLU5IcHlyekFUb3hCMG1ZY0F3TExKV0p0eGR1NEFxVUdHVlc0cmZGNFpwaExaRFRYYzNySzdQRXplMnU0SzNhTEhaSWdkTzhtWWtfdGtfUGhObnVoUGc?oc=5",
+   "date": "2026-11-14T03:03:19+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "6aa538eb8975",
+   "source": "Google News: biosimilar",
+   "title": "COVID-19 Antibodies Did Not Affect Denosumab Biosimilar Immunogenicity in Clinical Trial - Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0lMVjlBQVRISmpNb3VOQTBuSmJhRWFRUkg1d1FlUDRYaUlkdDc2UGNnUkVBdWRhSW1XQloyemVFYkxwLXU1eFR6LTNSMDRaSGhGT3NDSTdjbm55Mm4tT3lWelZvWkRWb0F2WHdHMUJRQlVjR1VQRkZkOFhnYmk4bVlOako0T2NIOWU2aUFXbnNORmhsTEhRNDljREFGQWRkWWdPS3VXdHNMZmZzS3Y5dEJJVQ?oc=5",
+   "date": "2026-11-14T00:47:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "174f1ea90a4e",
    "source": "Fierce Pharma",
@@ -409,6 +439,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "e09ed16c47ff",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis to pay 104.3 bn won dividend to parent company - 매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NZEMycEdicm1zZTNUM1RvNHdrSXd6ak1lY3Y2SUV5eFJnclVQdDkwTVhrNzAzRVgzT215NU41MTNOc2ZsT0pNU2tmMVN2c29Ed1dFRFdTSQ?oc=5",
+   "date": "2026-11-13T05:17:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
   },
   {
    "id": "0031ab69162c",
@@ -2487,6 +2529,18 @@
    "source": "Google News: biosimilar",
    "title": "Samsung Bioepis' Keytruda biosimilar demonstrates equivalence in global Phase 3 trial - The Korea Times",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRlZtTm5pOTZ4SC13WFIzLWJPbUR4cnF6UlkyOEhBM09TQXNsNk1RV3Ewd0JxTnU4dUxpZ3I5RmJKeTg3Mzd1cHlLQ29wRlFQZG4tZ1J2eXFDNmJBcGRIa05oNzlSVTgwWGRJVzRfYzRTMDc0WW5nYUV3S0RLX0RSVElVVTBRQmcxZHJyb0xqNzg0b3ZVTEd5Xy0xWDVrWnF0ZjJOOUhrRjFNQzdYblNhamZWUENWeHZYTmJDLTJaRDY3Zkd1R3VqMkUyNzhkNHZvVURXWDdmSlVRdEEwUkHSAd4BQVVfeXFMT0ZWbU5uaTk2eEgtd1hSMy1iT21EeHJxelJZMjhIQTNPU0FzbDZNUVdxMHdCcU51OHVMaWdyOUZiSnk4NzM3dXB5S0NvcEZRUGRuLWdSdnlxQzZiQXBkSGtOaDc5UlU4MFhkSVc0X2M0UzA3NFluZ2FFd0tES19EUlRJVVUwUUJnMWRycm9Majc4NG92VUxHeV8tMVg1a1pxdGYyTjlIa0YxTUM3WG5TYWpmVlBDVnh2WE5iQy0yWkQ2N2ZHdUd1ajJFMjc4ZDR2b1VEV1g3ZkpVUXRBMFJB?oc=5",
+   "date": "2026-11-09T02:14:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "86c4ba014c66",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis' Keytruda biosimilar demonstrates equivalence in global Phase 3 trial - The Korea Times",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcUEwQUF0U2tqRExzMmpjdXJxMnJySmF1Sm1hOEVQaUZ5MHFFaGxkYjk1ZnZyZ1Y4U1pNWDFudl96YjAwcFlZWWFxbGNTWFEzeVQ1NWFmUXo2LThFbmlLWXJXT3gxTFhwc3JqMGlPQ3ItVW1sZll3WE9ZV1FTUGZjSTJLaGxBRmR5MFFWUXNfZGYzenQtUWRBVVF2bTJxZjlBZGYyZGFMZ2hSVjRpVkg3OUJUTnVXUmJSVFdRc29uZTdyMkZ4MGg0ZTVwWjF4R1M2UkdhVXBpbDnSAd4BQVVfeXFMT0ZWbU5uaTk2eEgtd1hSMy1iT21EeHJxelJZMjhIQTNPU0FzbDZNUVdxMHdCcU51OHVMaWdyOUZiSnk4NzM3dXB5S0NvcEZRUGRuLWdSdnlxQzZiQXBkSGtOaDc5UlU4MFhkSVc0X2M0UzA3NFluZ2FFd0tES19EUlRJVVUwUUJnMWRycm9Majc4NG92VUxHeV8tMVg1a1pxdGYyTjlIa0YxTUM3WG5TYWpmVlBDVnh2WE5iQy0yWkQ2N2ZHdUd1ajJFMjc4ZDR2b1VEV1g3ZkpVUXRBMFJB?oc=5",
    "date": "2026-11-09T02:14:03+00:00",
    "snippet": "",
    "biosimilar": true,
