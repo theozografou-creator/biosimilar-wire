@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T01:00:16.787390+00:00",
+ "updated": "2026-11-15T10:48:10.633780+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,21 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 45,
+   "count": 35,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "c91d1568bf96",
+   "source": "Fierce Pharma",
+   "title": "Genentech brings every day wins to life in patient-focused Hemlibra push",
+   "link": "https://www.fiercepharma.com/marketing/genentech-brings-everyday-wins-life-new-patient-focused-hemlibra-push",
+   "date": "2026-11-15T10:48:10.633780+00:00",
+   "snippet": "New videos for Genentech’s “Life Doesn’t Wait” campaign showcase real patients and their families as they prove that their rare disease doesn't stop them from everyday life.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "254f7827cbf5",
    "source": "Google News: biosimilar",
