@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T19:55:22.987484+00:00",
+ "updated": "2026-11-15T01:00:16.787390+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,7 +47,7 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 50,
+   "count": 45,
    "error": ""
   }
  ],
@@ -20476,16 +20476,6 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR0RFY3JDX3dqNG42UVBWU25TQ3RJM3Z3b0xycktDeDBPN2ZQVGdhLUdUR3JaRmo5WVZYTGxsWElORWJlbV92NWM1cm9CZ1VLZTltQnJXR3pFeWk2eG4xUko3N1pjUV9vUW03SlJ2NnFFbUhLZTdPaHc3Tm5DbzZMZkg3bDhOQm90SFMtdGVtLW1RdHdxSkZTeVZyT2pIdC1kTGhIWDJTOVhLTWpTZkI0Z1BTdGJObU1VempxZlphelNfY2tL?oc=5",
    "date": "2026-09-17T11:09:10+00:00",
    "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "eb33a123a51a",
-   "source": "Big Molecule Watch",
-   "title": "Cipla and Qilu Announce Exclusive U.S. Licensing and Supply Agreement for Pembrolizumab Biosimilar",
-   "link": "https://www.bigmoleculewatch.com/2026/09/15/cipla-and-qilu-announce-exclusive-u-s-licensing-and-supply-agreement-for-pembrolizumab-biosimilar/",
-   "date": "2026-09-15T21:26:11+00:00",
-   "snippet": "On September 3, 2026, InvaGen Pharmaceuticals Inc., a wholly owned subsidiary of Cipla Limited, announced a strategic partnership and exclusive license with Qilu Pharmaceutical Co., Ltd. for the licensing and supply of QL2107, a biosimilar to Merck’s KEYTRUDA® (pembrolizumab), ...",
    "biosimilar": true,
    "watch": []
   }
