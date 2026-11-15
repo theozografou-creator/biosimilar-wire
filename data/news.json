@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:48:10.633780+00:00",
+ "updated": "2026-11-15T18:48:40.404389+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": ""
   },
   {
@@ -47,11 +47,41 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 35,
+   "count": 33,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "93fbc7f9ae64",
+   "source": "Fierce Biotech",
+   "title": "FDA rejects Summit’s ivonescimab, derailing US arrival of much-hyped PD-1xVEGF class",
+   "link": "https://www.fiercebiotech.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc",
+   "date": "2026-11-15T18:48:40.404389+00:00",
+   "snippet": "The FDA has issued a complete response letter to Summit Therapeutics, derailing the immediate U.S. launch of a drug class that many industry heavyweights believe could eventually dethrone Merck & Co.’s Keytruda.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7caddd570a50",
+   "source": "Fierce Pharma",
+   "title": "FDA rejects Summit’s ivonescimab, derailing US arrival of much-hyped PD-1xVEGF class",
+   "link": "https://www.fiercepharma.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc",
+   "date": "2026-11-15T18:48:40.404389+00:00",
+   "snippet": "The FDA has issued a complete response letter to Summit Therapeutics, derailing the immediate U.S. launch of a drug class that many industry heavyweights believe could eventually dethrone Merck & Co.’s Keytruda.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6bca0d94cf37",
+   "source": "Endpoints News",
+   "title": "FDA rejects Summit, Akeso's ivonescimab in narrow lung cancer setting",
+   "link": "https://endpoints.news/fda-rejects-summit-akesos-ivonescimab-in-narrow-lung-cancer-setting/",
+   "date": "2026-11-15T12:56:23+00:00",
+   "snippet": "The FDA rejected a new cancer treatment from Summit Therapeutics and Akeso in a decision that analysts largely expected, but ultimately shouldn’t dim the prospects for a promising class of drugs. Regulators turned down ivonescimab ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "c91d1568bf96",
    "source": "Fierce Pharma",
@@ -60,6 +90,16 @@
    "date": "2026-11-15T10:48:10.633780+00:00",
    "snippet": "New videos for Genentech’s “Life Doesn’t Wait” campaign showcase real patients and their families as they prove that their rare disease doesn't stop them from everyday life.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "17b798831502",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - My Hudson Valley",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRWVHNk1jSEF6aTNOanZBanVfWW1VckNIbDZRazFQcDAzNUlMRnA0Y3BzaGNqTDJWLVA5T2Z6SXM5QmR3cmZfdlNEdFVXU3VuREZLbjgzcTRES1FwNmhBdkRhTm80SWdtMTNDVjR5aVl1UV9SWURfZUtoNllHMnRZSmtzUTctVHBtLVE?oc=5",
+   "date": "2026-11-15T05:38:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
