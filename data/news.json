@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T11:11:00.968214+00:00",
+ "updated": "2026-11-16T21:58:31.964782+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,23 +35,481 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": ""
   },
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 52,
+   "count": 60,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "6e0cf7fdc9e3",
+   "source": "Fierce Biotech",
+   "title": "CG preps new, expanded bladder cancer plans with FDA after ph. 3 win",
+   "link": "https://www.fiercebiotech.com/biotech/cgs-newest-late-stage-bladder-cancer-results-broaden-clinical-potential",
+   "date": "2026-11-16T21:58:31.964782+00:00",
+   "snippet": "CG Oncology showed in a late-stage study that its immunotherapy cretostimogene reduced the risk of tumor recurrence in certain patients with non-muscle invasive bladder cancer following surgery.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b7d79c188912",
+   "source": "Fierce Biotech",
+   "title": "Helus' chemically modified psychedelic hits key goals in phase 3 depression trial",
+   "link": "https://www.fiercebiotech.com/biotech/helus-touts-ph-3-win-its-chemically-modified-psychedelic-depression",
+   "date": "2026-11-16T21:58:31.964782+00:00",
+   "snippet": "Helus Pharma's oral chemically modified version of psilocybin hit the key goals of a phase 3 study as an adjunctive treatment in major depressive disorder.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3df5cb5d8f04",
+   "source": "Fierce Biotech",
+   "title": "Biogen inks $411M neurodegeneration pact with protein degrader biotech TrimTech",
+   "link": "https://www.fiercebiotech.com/biotech/biogen-inks-411m-collab-trimtechs-protein-degrader-tech-aimed-neurodegeneration",
+   "date": "2026-11-16T21:58:31.964782+00:00",
+   "snippet": "Cambridge, U.K.-based TrimTech Therapeutics has linked up with Biogen in a collaboration worth up to $411 million in biobucks to develop protein degraders for neurodegenerative diseases.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5339724283ee",
+   "source": "Fierce Biotech",
+   "title": "Lilly secures another myelofibrosis option via $1.5B deal for JPM-founded Calytrix",
+   "link": "https://www.fiercebiotech.com/biotech/lilly-secures-another-myelofibrosis-option-15b-deal-jpm-founded-calytrix",
+   "date": "2026-11-16T21:58:31.964782+00:00",
+   "snippet": "Eli Lilly has added another myelofibrosis prospect to its pipeline courtesy of a $1.5 billion deal for Massachusetts biotech Calytrix Bio.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6e30317a4c86",
+   "source": "Fierce Biotech",
+   "title": "J&J pays $2.2B upfront for Ollin to challenge Roche’s Vabysmo with phase 3 bispecific",
+   "link": "https://www.fiercebiotech.com/biotech/jj-pays-22b-upfront-ollin-challenge-roches-vabysmo",
+   "date": "2026-11-16T21:58:31.964782+00:00",
+   "snippet": "Johnson & Johnson has struck a deal to buy Ollin Biosciences for $2.2 billion upfront, establishing itself as a threat to Roche’s blockbuster eye disease drug Vabysmo.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2ef43587eaa3",
+   "source": "Fierce Biotech",
+   "title": "Aclaris drops TSLP program from pipeline after flunking phase 2 eczema test",
+   "link": "https://www.fiercebiotech.com/biotech/aclaris-scratches-tslp-program-pipeline-after-flunking-phase-2-eczema-test",
+   "date": "2026-11-16T21:58:31.964782+00:00",
+   "snippet": "A phase 2 study of Aclaris Therapeutics’ bosakitug in atopic dermatitis has missed its primary endpoint, adding to the setbacks anti-TSLP antibodies have encountered in the indication.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "13b634271601",
+   "source": "Fierce Biotech",
+   "title": "Building resilient biomanufacturing supply networks",
+   "link": "https://www.fiercebiotech.com/sponsored/building-resilient-biomanufacturing-supply-networks",
+   "date": "2026-11-16T21:58:31.964782+00:00",
+   "snippet": "Global scale, regional proximity and harmonized quality systems can strengthen biologics supply resilience",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6370d0a0ffb9",
+   "source": "Fierce Biotech",
+   "title": "Flagship commits £100M to set up AI-focused biotech incubation outpost in London",
+   "link": "https://www.fiercebiotech.com/biotech/flagship-commits-ps100-million-set-ai-focused-biotech-incubation-outpost-london",
+   "date": "2026-11-16T21:58:31.964782+00:00",
+   "snippet": "Flagship Pioneering has picked London as the site of the venture capital powerhouse’s first company-creation unit outside of its hometown.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "834e8e8e8693",
+   "source": "Fierce Pharma",
+   "title": "Leo Pharma IPO plans stalled by market volatility: Bloomberg",
+   "link": "https://www.fiercepharma.com/pharma/leo-pharma-ipo-plans-stalled-market-volatility",
+   "date": "2026-11-16T21:58:31.964782+00:00",
+   "snippet": "Ownership behind Danish dermatology drugmaker Leo Pharma has opted to delay the company's plans for a 2026 IPO in the wake of ongoing market volatility.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0f839850067a",
+   "source": "Fierce Pharma",
+   "title": "Roche’s Gazyva adds 3rd immune indication with first FDA nod for primary membranous nephropathy",
+   "link": "https://www.fiercepharma.com/pharma/roche-gazyva-adds-3rd-immune-indication-first-fda-nod-primary-membranous-nephropathy",
+   "date": "2026-11-16T21:58:31.964782+00:00",
+   "snippet": "As Roche’s Gazyva comes under pressure in blood cancer, the anti-CD20 antibody keeps expanding its reach in autoimmune diseases.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3261cdc51561",
+   "source": "Fierce Pharma",
+   "title": "Eisai, Linus Health launch ‘brain health’ digital resource",
+   "link": "https://www.fiercepharma.com/marketing/eisai-linus-health-launch-brain-health-digital-resource",
+   "date": "2026-11-16T21:58:31.964782+00:00",
+   "snippet": "Japanese Big Pharma Eisai is teaming up with Boston-based digital health company Linus Health to create new “Brain Health Reports.”",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f979ed6691c6",
+   "source": "Fierce Pharma",
+   "title": "With Klygefa approvals, AZ expands myasthenia gravis domain beyond Soliris, Ultomiris",
+   "link": "https://www.fiercepharma.com/pharma/klygefa-approvals-az-expands-myasthenia-gravis-domain-beyond-soliris-ultomiris",
+   "date": "2026-11-16T21:58:31.964782+00:00",
+   "snippet": "Continuing to harvest a bounty of autumn approvals, AstraZeneca has picked up nods for its C5 inhibitor gefurulimab to treat generalized myasthenia gravis (gMG) on both sides of the Atlantic.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "83578b4124e7",
+   "source": "Fierce Pharma",
+   "title": "Measurement Everywhere: Why the Future Can’t Be Measured in the Rearview Mirror",
+   "link": "https://www.fiercepharma.com/sponsored/measurement-everywhere-why-future-cant-be-measured-rearview-mirror",
+   "date": "2026-11-16T21:58:31.964782+00:00",
+   "snippet": "Stop measuring marketing in the rearview mirror. See how continuous measurement turns trusted signals into smarter decisions and action.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4fef4ca2dd25",
+   "source": "Fierce Pharma",
+   "title": "Digital Twins: Advancing Clinical Evidence Strategy",
+   "link": "https://www.fiercepharma.com/sponsored/digital-twins-advancing-clinical-evidence-strategy",
+   "date": "2026-11-16T21:58:31.964782+00:00",
+   "snippet": "Learn how patient digital twins can model treatment scenarios, strengthen comparator strategies and support evidence generation.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "32ac014d4ed7",
+   "source": "Google News: biosimilar",
+   "title": "AEON Biopharma Advances Botox Biosimilar Candidate - Orange County Business Journal",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWEFIZldHTFlSMmM0Mmk5SllLZll6QXJGTGp1dUVKb1NPMUhqOTJNanBzZ0VLT0c0dDRaRUdsYUFfSlJ3N2hGYm5SUWNDUldoZDlIUEl0WDl4V2VKVHI0b1RqX2R0ZVFraUdGVVRJdGZQUTdhb08tTVN5TFU1blg5eXUyT3E3WGE0UkF3?oc=5",
+   "date": "2026-11-16T21:55:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "ac99e5733989",
+   "source": "Endpoints News",
+   "title": "Lilly strikes up to $5.9B cancer deal with Stipple Bio",
+   "link": "https://endpoints.news/lilly-strikes-up-to-5-9b-cancer-deal-with-stipple-bio/",
+   "date": "2026-11-16T21:01:05+00:00",
+   "snippet": "Eli Lilly continues to be pharma’s biggest shopaholic. Lilly has enlisted Cambridge, MA-based startup Stipple Bio for a multibillion-dollar deal to develop new cancer treatments, marking what appears to be the Indianapolis drug giant’s second-largest ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "aa31adbc204d",
+   "source": "Google News: biosimilar",
+   "title": "Biocon’s Pebrilzo, A Perjeta Biosimilar, Approved by FDA for HER2+ Breast Cancer - Contract Pharma",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNEFGUTY0YnFrdmk5cDZfRWd2YXdJa2RZMjhxX0Y2VTVlQkVPZnF5VVJIZF9EM0FlU0xIYmJ4dUM0c25DcF9YV203dzhhTGwwT3Z3aUZrX1VETVJlY0pENTl5YmpOdEFGTF9XbDRkbjRrQzV1YzVrbDZoS1dQbkNZbThxOVY1a0VUSlc1OHJyaFF4VGt4LVpaRTI0OG1BVnpDQTdObUZpNW1TakI4TXJxSlBZbTNhYi0xVFZpbEozYw?oc=5",
+   "date": "2026-11-16T20:37:27+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "2f0975100376",
+   "source": "Center for Biosimilars",
+   "title": "Adalimumab Biosimilar Copay Support Trails Humira's $14,000 Annual Cap - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYXY5OG9GRUR6MzdCZHU1amRGRDlwai1CS1R0Q00ta0dNUE9Gb0R2WENDcEJmLTJ5dHc5b1lXM0g2eTRDbkRYQjJ0cG05ZGtUbjFEeE9sZkkyY01hYkt4WGJQMC05SXNTbDlDWXR5MG45U195aFlaY1d2Mm5IQnJlTV9ueEt6Tm5oT0J6eGVsYzdwT2VnU3VWUk1ScFQyaFBqTDBhV1FobGtpUTdEdlZv?oc=5",
+   "date": "2026-11-16T20:25:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a1609727616c",
+   "source": "Endpoints News",
+   "title": "AstraZeneca, Alexion's mysathenia gravis treatment enters crowded market",
+   "link": "https://endpoints.news/astrazeneca-alexions-mysathenia-gravis-treatment-enters-crowded-market/",
+   "date": "2026-11-16T19:17:34+00:00",
+   "snippet": "AstraZeneca and Alexion won FDA approval Monday for their self-administered generalized myasthenia gravis (gMG) drug Klygefa. The drug, also known as gefurulimab, is a once-weekly treatment for patients who have anti-acetylcholine receptor antibodies, a harmful ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8a6e8307badc",
+   "source": "Google News: biosimilar",
+   "title": "FDA Approves Pertuzumab Biosimilar in HER2-Positive Breast Cancer - Targeted Onc",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUh3TVNIMzAzYUJ6R3BONTlDYVc3bURtb0RKWEppbzhvRWUycHRvSkU4Q2RQakl5S0hQenRYWjBvSkdrMW4xUGx3a3F4WGE0NEhXaDlrczF6T1ZJNFBETjRUbU9jNFk2aDJ6TjVUcUVxMzF3OHY3SDVGYkxwd24tSHlndnZnR1V0RW5rOGNwaTRzc2tfRFAzWEI5OA?oc=5",
+   "date": "2026-11-16T19:01:55+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "55d5adf29945",
+   "source": "Endpoints News",
+   "title": "Helus Pharma notches successful Phase 3 depression readout",
+   "link": "https://endpoints.news/helus-pharma-notches-successful-phase-3-depression-readout/",
+   "date": "2026-11-16T18:30:34+00:00",
+   "snippet": "Helus Pharma, part of the budding class of psychedelics companies, said its lead drug improved depression symptoms compared to placebo, but investors appeared slightly skittish about the safety profile. The company said",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c2c47ce4c151",
+   "source": "Google News: biosimilar",
+   "title": "FDA Approves Pertuzumab Biosimilar Pebrilzo for HER2+ Breast Cancer - Oncology Nursing News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdmZuV1RDLVNOdmM2WS10Vm11MWhWQWxBWlg5YXRNMFlheTlLckxiLVFOTXZuc1RneTJYVTZ0QnIwVzdZa2pqbFZpRFk4UlMtVFNWUVdEaUpUR2Jhc2JhVktYcVU3UXd1RzY5djdBZUh1cy1yQk1pOVk4bjZmMzZ3cjdoUktYUmdKODFXNFJmLWN6c09MMnhoaFNIeER6MUQ5bjFuaA?oc=5",
+   "date": "2026-11-16T17:58:37+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "96e7d8562853",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Secures USFDA Approval for Pebrilzo, Eyes US Launch in Q3 2028 - Medical Dialogues",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcEd1dFJBazZ5Q3RydHdRMDlxQ25Gd1hiYXBGR3c1bzI3ZmpLSVk5Q2I3ZXppaTUyYlFwc1QtVFhVNHlSNHJqa0JfQ294Z0JzY1pUcE1xTkg4di1UVXNWWENzZUtsdTF3SjZMTGk3Y2RMWXZkZnk2dkx2dEVObU1Yc2NyeTM2NllZS0NDY1I4eW1FemVsbGdvWktnbndvWWtXVzNnd0ZrVmNGOWdHSVdRQzZqa0FFbEpXeGtwaFNocmhDZ9IBxwFBVV95cUxQZkdfQnhIdTRlMHhpRFFBTWJKTGlxWndmaXJweFl6RGV1YndRcTRLZXI5eGZxaWhrcmtheEFyUWsxb2pmTDZ3NVRDbHB0dktvZUh2MVRwVWVQODlVbjEyTHM1MXhfSEo3N2ttRlM3T3lWWE5NdjFqR0pzS256bXVfSkE5S2RRZTlEZGxiZWF1ZnFnZVFRb09hQ3d1OE50Z3JoNWRjLTNZVmtlTXJmTmttSUFZejhTMXY0WkZySzg2MDYxSU94bXU4?oc=5",
+   "date": "2026-11-16T17:26:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "a8b2d96606b4",
+   "source": "BioPharma Dive",
+   "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
+   "link": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
+   "date": "2026-11-16T17:14:00+00:00",
+   "snippet": "The FDA refused to overlook ivonescimab’s failure to initially extend survival in a form of lung cancer, setting back Summit’s first chance to win a U.S. approval.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "563a36361a72",
+   "source": "Google News: biosimilar",
+   "title": "FDA Approves Pertuzumab Biosimilar for HER2-Positive Breast Cancer - Pharmacy Times",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeGVjZmtNSVNPQ2JjR1A0U05BVFB3aC11Vjg3djU4dV8yRExlNVUwY2VsbDV0czFtdExqYi1YVEFXQWUtWlZMbUljNFdhanNUNzJzVGdoX1FESkFtZEt4emtBbXdjVlVTakJyVlJER1l1eTRoN080WWZ4N29jaVVYNDhfV2RrVUVqclJmeFpCcVAwYmdGcjUtZXFSU1BpTEdWRncw?oc=5",
+   "date": "2026-11-16T17:13:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "8614a8515455",
+   "source": "BioPharma Dive",
+   "title": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial",
+   "link": "https://www.biopharmadive.com/news/cg-oncology-cretostimogene-adjuvant-bladder-cancer-results-pivot/874740/",
+   "date": "2026-11-16T17:00:00+00:00",
+   "snippet": "CG’s therapy cretostimogene cut the risk of recurrence by 68% when administered after surgery, far surpassing Wall Street’s expectations and lifting company shares.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b8c6d854534e",
+   "source": "BioPharma Dive",
+   "title": "J&J bets $2.2B on Ollin’s vision loss drug",
+   "link": "https://www.biopharmadive.com/news/Johnson-johnson-ollin-acquire-ophthalmology-vegf-ang2-drugs/874728/",
+   "date": "2026-11-16T16:57:00+00:00",
+   "snippet": "The deal hands J&J a treatment that could complement its existing eye care franchise, but would vie for share of a crowded and competitive market.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a9420e03f675",
+   "source": "Endpoints News",
+   "title": "China's $40k CAR-T; Novartis and Biogen strike deals",
+   "link": "https://endpoints.news/car-t-costs-falling-in-china-novartis-and-biogen-strike-deals-obesityweek-readouts/",
+   "date": "2026-11-16T16:19:12+00:00",
+   "snippet": "Plus, news about Amylyx, Jiangsu Hengrui and AstraZeneca. China drastically cuts price of a CAR-T: China is adding a CAR-T therapy to its basic medical insurance drug list, or the NRDL ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2d0548b176d3",
+   "source": "Endpoints News",
+   "title": "Parker Institute's Karen Knudsen: Cancer research has a translation problem",
+   "link": "https://endpoints.news/parker-institutes-karen-knudsen-cancer-research-has-a-translation-problem/",
+   "date": "2026-11-16T15:57:41+00:00",
+   "snippet": "Karen Knudsen has established a reputation for transforming medical organizations. Her latest project is the now 10-year-old Parker Institute for Cancer Immunotherapy, or PICI. Before becoming the nonprofit’s new CEO last year, Knudsen led a ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a77ca9099d3b",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Gets FDA Approval For Perjeta Biosimilar, But What Is The US Market Worth? - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaXZhZkJlVHJXdHNTNTFndnZGX2tLakRXUlpGdG9DT3hscXZhYlNZUGhoNlNJMGJvMGgyU1lTLVM0Z2hRdmpTUGRrWkp5aHAta0l5U080RVkwMG5jMFpLb1Y5WUR2YUNoTDdyRzZFNWRfOU45cFpTWmtTLWVndk4wdk40ZmFKMlhUZkdYcS1NdHFYb2luQmdSUVIyQVlVc0pkWENTc0RSRlBFTVRwQXZPUEYwSWpqZjRJNklILTF6MmlHdHlVNHNLd2RMd1k2Mmo1WkxuLUV3Wk9MWXpKYXpFWkJiQlpwSTk2Y2IxWG9kQzZqWWZRd0NzYlRaNzZGMG13VkFzOWw1dw?oc=5",
+   "date": "2026-11-16T15:03:46+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "72ae99f8cade",
+   "source": "Google News: biosimilar",
+   "title": "FDA Approves Pertuzumab Biosimilar in HER2+ Breast Cancer - CancerNetwork",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVzRlMDZMMEVSYUdvU3E4R0I5QWJUbEVkUUQzbi11VUxTa3Y1eVBBNHV1WWZmc045VkNOOG0zZDZhMGQxUTVQYjBsMnRvYWpSTDJoa3BLZmt1QkhXSFYxcU9lTkt5OTlLQVBWbnZFN05LdmpxZldvYlN5Mm5DTUVWaFV5N0x1VWl5TjRFMS1XVVplODV6WUE?oc=5",
+   "date": "2026-11-16T15:01:12+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "7cc1c1b99c67",
+   "source": "Google News: biosimilar",
+   "title": "EMA committee rejects former Danish drug again, backs two Novo rivals, and issues Mounjaro warning - MedWatch",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBROGJrSU5EYzFxYU04eEtJM2JaQ29Ea2hvby16NklVZWYyUDhBdWNpaTVnUUlLc1lCQVBncy1UclBoZXhVZTdhQ0dLRFB3Q0NESWE1SWdwRGh5NTY5bEFhVEhVWHlYQnEyano0RWtGbw?oc=5",
+   "date": "2026-11-16T14:44:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "aea74dcccce7",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz launches Eyelea biosimilar - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2ZHpRcWZKQklZM1lfM21LRHh0VmhhdTFEeVlkZDdNaF9wbFdTcEVDeUJhOU9DdFJNc01MRFlnNmdSWksybjR5Mm5sNjBmamxIcm1hbkhmcnZ4Y2RwNjZCYjNJbE5tYVB2TFNJ?oc=5",
+   "date": "2026-11-16T14:38:49+00:00",
+   "snippet": "Sandoz launches Eyelea biosimilar Drug Store News",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "a509fb0dddef",
+   "source": "Endpoints News",
+   "title": "Lilly's 14th acquisition of the year is a little-known blood cancer biotech",
+   "link": "https://endpoints.news/lillys-14th-acquisition-of-the-year-is-a-little-known-blood-cancer-biotech/",
+   "date": "2026-11-16T14:37:18+00:00",
+   "snippet": "Eli Lilly has been on a shopping spree this year thanks to its GLP-1-driven revenue, and its 14th acquisition of 2026 is in cancer, the domain of expertise for the pharma's head ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8bc12f8e1747",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz Seeks To Gain Aflibercept Foothold In US With Private-Label Deal - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPckVzazlkeEowZF9TUThHaUtvMDRuNDdkU09hcG05YXZUS3Z3ZDgxdU10ZXZGbnIySmt5OG9zMm44d0htemw1SU03Q0hsRUM1TG9yWGx2TTk4bERVRlZ5dGRQd3VhMG10b0NGaldsTmRiWUFHa2Ita1NLVjQ0dG5OTnM4UTBkM1ljdklWNlZFZUpTQ2ZkalpGanRHcTk4MFVoeC01QVBHWXBtVnlyWmJjVUU2X0RhY0gzUUxMREZXQVRONFk1NlZyZkNPQmpQR2xMenZfX2MzM2ZGVTVFdmJVV3BlVzRrMDBsV3A2QzZxbnc2TVpTNEg3b2V0Njc?oc=5",
+   "date": "2026-11-16T14:28:55+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "214dfce387d1",
+   "source": "Google News: biosimilar",
+   "title": "Biocon obtains FDA OK for Perjeta biosimilar - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNdHlhdnhlMVZyZHhwaEdsVVZydGhSMGZ4bGR0WjZiSGF4SHVmc0dma19vM3htM1J4OTh2cXRRbHRnVnliTEFUa2VCdmpJZlhxbjlCa29QMUs1N3VvMDZjTW80MlUwU3ZVT2w0YlN5QUY5SlNN?oc=5",
+   "date": "2026-11-16T14:17:19+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "60ce465561f6",
+   "source": "Google News: biosimilar",
+   "title": "Indian drugmakers sharpen oncology focus with US approvals, new deals - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOGNvYkIyMGxULWVWQXVjcjNfSFA1dDFKZTZOdE82RkpxRDRpN2MyRGVMY2gxUFB5M0NYRGhIbHpCb1JvQnk3a2FfMkgzQ3Q5Mnh4OF9aVGFmQkFsQTZNbkRQRlM5cTFFUUVIQnl0V3duRlh2OU5sNzZWODZxc1FZTnAxd0ZscnpGZVdKZ1dBR1dxeExVZFl5T1B6TDlRTEt1UWRHUjV2NGo5VFRzaEFwYTh3QVVVT05VbXFWUkJkVEI3YXktU09lZGh5OWVrZnREZ3fSAdcBQVVfeXFMTWNncWZ1QnFYNGFyTDJJV3g1dHQwODZReGtjeVFzb0V6UXUwVzJsUjBxb3JJZS16UzFqV1V2SUNjazIxRWZHbW92aS1mdmZzbktxMTY1QWdCZnJOMTVaSnFYZmVKWXkzN3ZQY2lrZ1RhMGFGZXhKMGUwLXVMZ3daYVlkSVlkVDBJZmV3NEYzWFFqSjFDSFV0SkFCRU5odVhmdDlKVlQtMTdkdDV5X3NiWFh3TTdtU1hKYmNqekFzSzVWQ1hlMzc3RjE0bENTNURScG84dEs3S2s?oc=5",
+   "date": "2026-11-16T13:52:32+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "6f4d814717f7",
+   "source": "Endpoints News",
+   "title": "J&J to buy eye disease biotech Ollin Biosciences for up to $3.3B",
+   "link": "https://endpoints.news/jj-to-buy-eye-disease-biotech-ollin-biosciences-for-up-to-3-3b/",
+   "date": "2026-11-16T13:52:04+00:00",
+   "snippet": "Johnson & Johnson said Monday it will snap up Ollin Biosciences in a deal worth up to $3.3 billion, just a little over a year after the ophthalmology biotech broke cover ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "376f58e75fec",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz launches Eylea biosimilar Enzeevu in USA - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXkwc1ZUUlk2Uml1aFBhbDF3a3ZtMFVHdGhGQnJXYW13VVBaaC1HZjNzTUNfUHVkaU5OckVyUHZ1eDVnZ1lTQWpBTXFkZUJuczFiTm1JNko3Qjd0TF9zNXFUSUhPWUx0LVk1QkVZWEdvdldxMHhqZWlxZ2NEcTJDRktEdnhhZGh2MFlEbnRMQTRDVnAwbTNVTHhyczU?oc=5",
+   "date": "2026-11-16T13:16:20+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "b616dbbe583d",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Gets U.S. FDA Approval for Pebrilzo™ (pertuzumab-qcay) Injection, a Biosimilar to Perjeta - Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOT2psNFVUVHdWV2dQb0dFV2oyaDJQMFhXYXRjNndUWTlpQ2ZZQ0NBbEJiaWFSSzZCamc2UTNjUVZycFZ6bGRJaG9udlA3dlNJcGJVZHExcTRLcGU5eEtZM040N2VUejl1SmRtVkd3bUttNTFWOUQ4T0hHOXdlWHozTHJDSEF5SEd0enQ1b005Q0dTQ1lmYzZzcVhodzBaWDdrMk5sdndRbWlmM21xN0hSWkJEUjVUN2IxcEtacnlydDFtMlg3Z19DYU1jUERZSEd6bnJjVGg0ZUswc2RLWEdpTnBzZDRNY3RNalpid3VhZTUxZllRR3NmXzB5MmdUYThIMlJTWEpoRWY3NmFCZjdR?oc=5",
+   "date": "2026-11-16T13:10:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "ef809cae9a37",
+   "source": "Endpoints News",
+   "title": "CG Oncology's bladder cancer treatment beats expectations in Phase 3",
+   "link": "https://endpoints.news/cg-oncologys-bladder-cancer-treatment-beats-expectations-in-phase-3/",
+   "date": "2026-11-16T13:00:01+00:00",
+   "snippet": "CG Oncology said its oncolytic immunotherapy succeeded in a late-stage trial in certain patients with non-muscle invasive bladder cancer, potentially expanding the asset’s market significantly. Cretostimogene grenadenorepvec met the Phase 3 ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "61dfc6fad9bd",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius Kabi Launches Denosumab Biosimilars in Canada, with the First and Only Ready-to-Use Pre-Filled Syringe Biosimilar for Oncology - PR Newswire Canada",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPN3dZb2dRZnBrOXBJdVNUSlVTTnVpSXJxM1dXeUI5RkM3Wkc5ZGV3Z1htMHExUlVyZjJvU2M2YWVsYUd4X053OGJKMUIyb1RnbGRQTk5BZ1pkNXRxc25RaFdfcU9hN1F6bU9CTEtyT1hiZDNZa2hlbWhIMW5rU1FLQ3pVZ3JiZllwb05mNmFRTFBTaW95b21jbnQ2QkhXeElYNDNZdWdNX29iSUJXM3p4ZEdmOTdHVGNEelRlQTlKVVZnTnZoZzdpQ1BIUUhlQjE5QlE2Tl9jNmVkeHBKeV85dUVCVENZVDBrOFJtd3lXRXdsOXlsOUVMTkJWZGVWeW5ldjB4WWw1dXZKSFp3RmgzNVJCQVFmOGc?oc=5",
+   "date": "2026-11-16T13:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Fresenius Kabi"
+   ]
+  },
+  {
+   "id": "db4c7384c198",
+   "source": "BioPharma Dive",
+   "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
+   "link": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/",
+   "date": "2026-11-16T12:44:00+00:00",
+   "snippet": "Lilly’s 15th announced company acquisition this year — by far the most in the biopharmaceutical sector — centers around a precision therapy for rare blood disorders known as myeloproliferative neoplasms.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cd248332d315",
+   "source": "Endpoints News",
+   "title": "Flagship launches UK lab to build AI-driven biotechs with £100M investment",
+   "link": "https://endpoints.news/flagship-launches-uk-lab-to-build-ai-driven-biotechs-with-100m-investment/",
+   "date": "2026-11-16T12:04:27+00:00",
+   "snippet": "Flagship Pioneering, the life science investor behind the likes of Moderna, has launched a new lab in London focused on building “AI-native platform companies” in the UK. The announcement marks Flagship’s first major investment in ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "f5ab02dd588e",
    "source": "Fierce Biotech",
@@ -113,6 +571,28 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "2ea890558256",
+   "source": "Google News: biosimilar",
+   "title": "Weekly Recap: Low-end 2026 guidance and Reykjavik FDA approvals - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVU1iWU9PbkVvd3JJUkZnZzZZTTE2R1hzOG10V2Y4Z2JYdDY4OXQ3MDdkU2NCU2Z1dEFiVjA5bEUxbWZhV21OaWdnREEzLUFkcTIwemFpQy12UGRaV0oxYmtyc2tBYkM1QVN0YlZyQlFmOGtPaTloby1JV1FIR09jc2lpaXROOHVoWkk1SnRKSnpwOGF6U29QRXNySnZvS2daal9zVEIwLTVmdldMNWxSTlRqeVFfeEJEeGc4VjVJa3l0Zw?oc=5",
+   "date": "2026-11-16T11:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "efdf7d7495c3",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Secures US FDA Approval for Pebrilzo, Its Pertuzumab Biosimilar for Breast Cancer - Voice of Healthcare",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUkQ0anBOdkRPOXI3ejNsZkJJU2JETmdXSG1HTDRVbTlUNEhBenhZOXNiVmZPd1BVdWhMV1k1Q1B5S2F5MkZiZmdZb3R6SFJBZUU0d2ZRQ1ZwTVMzX1VxWVBya05LRTVxREx5UEluWG5WY01pN3NNSjEtWG5JSkQ5Y0hXZWpDVUYyd3hzamI1UGhUX3dvckRIUm5vajdPSlJwQ2dPZzY2YWo1SzhmVmsxc2tWNFBYV0RIdkdhYUMxNA?oc=5",
+   "date": "2026-11-16T10:13:34+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
   },
   {
    "id": "d4f4b894177a",
@@ -283,6 +763,18 @@
    "source": "Google News: biosimilar",
    "title": "Sandoz Launches Enzeevu Biosimilar In US For Retinal Diseases - TradingView",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYTloU1BicTdycWZsT3hmNzkyY1FuQTlnb18tNURkVXR6TXUwSHZRX2wxaE9LREd3VjBnT2tPRzQ1dXFRVnh0TmdzMzVadlM5ZVEwampYdGNJb045ZTBLdzRfOC0yVUo4aFJkUU5sUklXem9KRXlLUENMdTgyYS1nak5mRlpKdzdUMVg5LTVwQlVoY1dnVlFBaGVkVzNjZ0FJQWlaRzVCbld6bXhDMjB6S1V5b1RlUjJBamNJdWRjWF9TcXkzSWMxbEZoUHJJakdCZWZsZ1BFZkpLVjB2NGxqZWVuQkw?oc=5",
+   "date": "2026-11-16T06:02:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "74f60a08f83a",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz Launches Enzeevu Biosimilar In US For Retinal Diseases - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYlI5VHluNnYtSHBBTHhINjRRYkJuYnZhSkpsYTUzYUdZWkREbVZmNGp4WDVFRU1vc1BhUWh2OXVHOWRzM0o2QWFGZTJmR0hPR3Zfa1l6dmh6VFc2WTYzVVg0WmJNQ1FjUzRWNElSNFM5WFFnSWkwSjBXdmk0bTR4X2JiOXBMdXFNMFh5TUtVcmlEdVhVMzM5eXNRUzFqXzZfSTN5WXkzcnBFcS1ma0xFOEFicFFSMnRVT3NuZGREeE9qXzAwZ1dIQ0hScw?oc=5",
    "date": "2026-11-16T06:02:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -4763,6 +5255,20 @@
    "snippet": "A Chinese biotech is selling the Japanese rights for its Phase 3 thyroid eye disease drug to a 106-year-old specialty pharma long known for its thyroid hormone business. Shanghai-based Minghui Pharmaceutical will ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "75b5a25c25d5",
+   "source": "GaBI Online",
+   "title": "Biosimilar race: Sandoz expands pipeline with Henlius, Teva secures ocrelizumab candidate - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONWFJdUkyd2VkdjBPaE5FN2tGMXhFZHZ4aDZfNTRmVVYzdjRFNXpnYmh2c0JlMXNWdnpIbjFpUWpTNS1LMFZFMWpoNjJhWXNWYWYyYWZuUzhPTk9LNEpZeW5yZ25WSG5DQTRrVGg2ckI4OWRERmpzYlZnM2x1RXJaOUhwZk1kejhQRzVLbnZSdnpWUjdqT0d1ZUMzYWJNSkUzZkNqbEtLUXNiQ09QS3YtN2JRZ01FRkpzeFRxbjNnQjlOMldYdW1oYUZ5RmFpaW9HZlE?oc=5",
+   "date": "2026-11-04T07:02:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz",
+    "Henlius",
+    "Teva"
+   ]
   },
   {
    "id": "25521eefeee4",
