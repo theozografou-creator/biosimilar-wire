@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:00:02.825435+00:00",
+ "updated": "2026-11-16T11:11:00.968214+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 8,
+   "count": 10,
    "error": ""
   },
   {
@@ -47,11 +47,369 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 29,
+   "count": 52,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "f5ab02dd588e",
+   "source": "Fierce Biotech",
+   "title": "Big Pharma-backed Seawolf surfaces with $100M to hand, $1.2B Sanofi DNA med pact",
+   "link": "https://www.fiercebiotech.com/biotech/dna-delivery-biotech-seawolf-surfaces-alongside-investors-novartis-lilly-and-partner-sanofi",
+   "date": "2026-11-16T11:11:00.968214+00:00",
+   "snippet": "Seawolf Therapeutics has emerged from the deep with $100 million to fuel its DNA therapeutic ambitions and a billion-dollar deal with Sanofi.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8c502298e280",
+   "source": "Fierce Biotech",
+   "title": "Chinese scientists fired after child dies in gene editing study: report",
+   "link": "https://www.fiercebiotech.com/biotech/chinese-scientists-fired-after-child-dies-gene-editing-study",
+   "date": "2026-11-16T11:11:00.968214+00:00",
+   "snippet": "Chinese authorities have fired two researchers over their roles in the death of a child in a gene editing study, according to reports in Chinese state media.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "eb5facdf32d8",
+   "source": "Fierce Biotech",
+   "title": "Tandem Mobi sees FDA clearance for tubeless AID system",
+   "link": "https://www.fiercebiotech.com/medtech/tandem-mobi-sees-fda-clearance-tubeless-aid-system",
+   "date": "2026-11-16T11:11:00.968214+00:00",
+   "snippet": "Tandem Diabetes Care has picked up FDA clearance of its Tandem Mobi system, a tubeless automated insulin delivery device cleared for up to seven days of wear.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "70d5f9be6d4e",
+   "source": "Fierce Biotech",
+   "title": "Sofinnova books biggest-ever $815M fund with an eye toward up-and-coming ‘global leaders’",
+   "link": "https://www.fiercebiotech.com/biotech/sofinnova-books-biggest-ever-815m-fund-eye-toward-and-coming-global-leaders",
+   "date": "2026-11-16T11:11:00.968214+00:00",
+   "snippet": "Life sciences venture capital firm Sofinnova Partners has closed its largest fund ever to the tune of $815 million backing around 15 clinical development companies mostly based in Europe.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "36a733bfed22",
+   "source": "Google News: biosimilar",
+   "title": "Biocon reports FDA approval for Pebrilzo biosimilar - CASRAI",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DcXp5cW55OFRHUm40ZU9rOHA3aUpiYld1TVZLQ3dvWG1kQTAyc3hfa25waklUazg0dGtCMlhUZlZhZ2M1WWFHSnRaRkYwVVJMbkN2X0pyWmo0X3g0TzRnU1hhZXpETWZzNHctdG5KN2hVdjB3VkVB?oc=5",
+   "date": "2026-11-16T11:03:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "53146b252b43",
+   "source": "Google News: biosimilar",
+   "title": "Health: Understanding How ‘Biosimilar’ drugs can expand access and affordability - Duncan Banner",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNENUTHJsWE4xaEhPVkdEZTY3czVGQjNhczhCd2U1TnlLUGJnM0RCTVNJNHVSSXo2dkRnWW1tZVdEdHdKS2cxLW9IZm5vSklZOHFrZXN5Z18xeUJicFItQVJGbVhNVDlITkx4dElZejlwdlhRcUhUYlJzbG93NVNNZ1ZmR1hDS3JPMjJSVXhzYjlVZHJWdHN1bWFCLVNWLW9uRTQzdDRjY3BuQVZVT1ZvZmZSOWNybHlwZFNvQjhLX0NhZU9vSmRyTE9GOVRTaS1XRU9lMjlkMnVPc1gyOGhLdjlYbDViSExEUmt5VFE2OXduT043SjRYV2t3?oc=5",
+   "date": "2026-11-16T11:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "d4f4b894177a",
+   "source": "Endpoints News",
+   "title": "Seawolf launches with $100M to make non-viral gene therapies",
+   "link": "https://endpoints.news/seawolf-launches-with-100m-to-make-non-viral-gene-therapies/",
+   "date": "2026-11-16T10:00:00+00:00",
+   "snippet": "A San Diego startup believes it’s made big progress in one of the great unsolved technical challenges of the gene therapy field: safely and effectively delivering DNA without a virus. Seawolf Therapeutics, which has operated ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3ff224b03fa5",
+   "source": "BioPharma Dive",
+   "title": "Big-name investors pour $100M into DNA therapeutics developer Seawolf",
+   "link": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/",
+   "date": "2026-11-16T10:00:00+00:00",
+   "snippet": "The startup, which also just disclosed an up to $1.2 billion partnership with Sanofi, is backed by Versant, MPM BioImpact, Eli Lilly and Novartis’ venture arm.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7306218567ee",
+   "source": "BioPharma Dive",
+   "title": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging",
+   "link": "https://www.biopharmadive.com/spons/completing-the-circle-the-next-evolution-in-sustainable-pharmaceutical-bli/874350/",
+   "date": "2026-11-16T10:00:00+00:00",
+   "snippet": "Discover how innovative PET and PP lidding are advancing sustainable pharmaceutical blister packaging.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "73ace697add6",
+   "source": "BioPharma Dive",
+   "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
+   "link": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
+   "date": "2026-11-16T10:00:00+00:00",
+   "snippet": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8707e198711f",
+   "source": "BioPharma Dive",
+   "title": "The infrastructure decisions that will enable tomorrow’s biggest breakthroughs",
+   "link": "https://www.biopharmadive.com/spons/the-infrastructure-decisions-that-will-enable-tomorrows-biggest-breakthrou/874507/",
+   "date": "2026-11-16T10:00:00+00:00",
+   "snippet": "Faster drug discovery depends on more than the model. What drug developers need to know about AI.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4621f1b3658b",
+   "source": "Google News: biosimilar",
+   "title": "Kwality seeks temporary biosimilar supply before registration - Multibagg AI",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2xTRGI1elNKalhhWHgxb3VGZHQ4MHdLQkJYVlUyLVVOVnRnM1FpS2Z4OVVyeHMyc0k5dlU4Yk02alNXbGVfR0h1Z3RHWkplWkdCWTNJU3NkcWNEblRfZ1JaeFJISXVwMlRwODc1RDFaME1jVk03LTFoWllxMlBjSm05MFg1MklPa2lVcVJmeHlZcVI5QzBhd01SM2E0R28xejRKZ0YtMFp5U0pQbTdJems3U2xRWUE?oc=5",
+   "date": "2026-11-16T08:53:27+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "d7cd707765c6",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets US FDA approval for Pebrilzo™ Injection, biosimilar to Perjeta®, expanding oncology portfolio - BioSpectrum India",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZWgxYmlFNDR0WjZteXdxQ1ByWWNiWlhfWUFqZGpseDZYZU9KWm8wTEVnYVREZlNiaDRJQVlUQTFHS3JNb2RORE1nZXN3bFdDVks2b0pSLVc0N2Jmd3JpRGdkWjRkUnQyaXFFU0RzTERCMjVQTlBjVXJ6R0x0RnhVLXNNTUpIMDl3YUxKQWgzR28wOWZkdGNYNFlhZExFeE9KSWlDc1pFWTVJcHM1REpacGwzQUQ1NDBTcHJCLVFxd0IwcEJ5dW9GVUhIU1ZrRmZkT2I0MlduTVZEOTAzRERNNzViMzBMcWYt?oc=5",
+   "date": "2026-11-16T08:43:37+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "d9f01acee9dd",
+   "source": "Google News: biosimilar",
+   "title": "US FDA approves Biocon's Pebrilzo (pertuzumab biosimilar) for HER2-positive breast cancer - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMUU0QUJ5UkY2NUdnMnBzNmRGQXpqLWhIVk9rRnA3SVFoOTBCai0zYWxjWEJiRV82VHR1VGZGZDBpTFBCVTVGYURpdGRBLTBxZUdBamNPMVdXRVM0UC1iRFpVTXFMUU54MHRsMlZkd3U1SEptLTZ2d1lJOGZQbW80WDN3ZzNzNVZxQVRpQXRQOVFYWlJWSmszSmFGdWt5SWtCSmkxYkRGSE44SXBvNzhsZjRva2tQYVk0SlV5RG9n?oc=5",
+   "date": "2026-11-16T08:14:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "7c893f2aad2f",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets USFDA nod for breast cancer biosimilar Pebrilzo - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNbXB3QlFWQTJjYkwwZVhYNTdoQU5fQzh2U0h1d1R0TVRVa0dEakkxejJfSERLa05oekdFN3ZPNDdmSngtVGlCZVFRUFhqY0REaFJxalRBYlNpdHpsT3hlMkN2M0c4NVVmdlB4ZjJ2aWZUTWdDQnVlbGlhZk9aeHdyb1J5SGVDUHB2bllnS2ZVbi1MTEFyLVFyMzdJX3c3UndtRVZqSnRWQ3IwUzlFd2sxZzhvbHpwWVhNY2s5TnVmVmN0Q0VrQWtRbXlhV0Q2T3B5TzZZdmk5ODRuRTBFQ2ZYaVEwM0llaUlOWWxfNEs3TXdfeUFfQjRlWFZtTExhcmhyQUkxSXQ5Q1BlSU9UMDVELVBqSUJVcmx2Zm9iN0tlaDQweFBYUlV3V3A4V2lycGZ3aTRSaEZIaVZUVDNK0gG2AkFVX3lxTE1EakFnd0pxT2gwSHNkZlRud2JlR1dVZ05pQW41emtzblBMU1VUakNkX0JVaHRjUGhrQ0NWNmNBWll5RUtZUmtvRWhRNzNybFRKR1I1RURPenVBRXl6THRtaHBEYWtucUlWOFRnaGl1cUhYd0ZSVl95SFA3cEk1M3c0ZjZQY3hlU05vMDcydmdXZ3gxTUVEUVRPSUU3VlJYX2VPaTVLWXBYRDZyakRhWFBFVlZNVnhCS3hxYV93NF9PVHJpMW9Hdk1FeWRLNi12VW5IS0tPYm5VRkRpeXllRzBucTlIZ2V0VjkyQ0ZHZzNPa21tRlkxdzl3ZFlWV3lWX0RXSS1ncGxCcERITUJDSzhaSno5VEQtQ0Zkc2ZJSnh4TFpxSmFCamZ6ZkhkenR2SWRRYjEzZEE?oc=5",
+   "date": "2026-11-16T08:09:50+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "c6612e893f8e",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Wins USFDA Nod for Breast Cancer Drug Pebrilzo - Equitypandit",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM0lkOVRiZkZVZFQ4Y3FkUFBtZEZXXzU3T3Y5MmFCNGYyU3BuaVFpNTU4ZXh4S3pYUklua3pxcGNmQkh5QTA3OTI4anJfYi10cXo3cEk2cXNneGMybXhPSVY2OWFkQThodmhIenJEVngxd01XYnVzQWdqWW9xSDZpMnJ5RXlWVlBKLXRJ?oc=5",
+   "date": "2026-11-16T07:24:31+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "ba35687fc441",
+   "source": "Endpoints News",
+   "title": "Sofinnova closes second crossover fund at €725M for late-stage European biotechs",
+   "link": "https://endpoints.news/sofinnova-closes-second-crossover-fund-at-e725m-for-late-stage-european-biotechs/",
+   "date": "2026-11-16T07:00:17+00:00",
+   "snippet": "Sofinnova Partners has secured €725 million ($815 million) for its second crossover fund, which it said would fill the financing gap for late-stage European biopharma and medtech companies. Europe has the science and the companies ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "33c56e2490ab",
+   "source": "BioPharma Dive",
+   "title": "One of Europe’s leading VCs banks a €725M ‘crossover’ fund",
+   "link": "https://www.biopharmadive.com/news/sofinnova-crossover-fund-ii-european-investment/874656/",
+   "date": "2026-11-16T07:00:00+00:00",
+   "snippet": "Sofinnova Partners, which has backed the likes of successful drugmakers such as Abivax, Argenx and Verona Pharma, will use the cash to support a new group of later-stage biotechs.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6d2f00e78670",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets USFDA nod for breast cancer biosimilar Pebrilzo - Mathrubhumi English",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYjFDWDJkSlEyZzg0dzNsXzZReno3c0dLVm9VV1MxS0hKZ0lvUjNoOTNEVjNGX0JDVnNtOEI2bEU2OFk3VDRGVmdWVVhoQTdmLUx3RnJLTW0zWFdVSDVqUGVab3JpWWR3OUstVDg5dDVMbEIzQWU4TlVMUlg2LXoweTNiLVhKaWpoeklfRFZDbHUwZmhLRzZuSkdOczhlc1hTazR2SFE2czBfeVVkUU5rV2NOZU5jZ9IBuwFBVV95cUxPUjdkTXZlUVprQ3RFLXB3aDNZblBOdlZ1eThBT1NwNFdHc2h6XzRRV3RLRVhLU1lOQnVCYXJJeWtYQ2o1OEMzYjlSVW5BQWVKdmxXX2VsN0dybmtPQlR1TzcyMklseFBNT0ZkMTdndHdyWHFMTlRmRzZHVmVzUzVCR3R1Q2tnWUpQU1NHRlRXelFvMzlGcmsxc2d0MnNhLUN5b0s3XzhFd0xMaDltR2dnUkpYcWtCQ3cwTkFF?oc=5",
+   "date": "2026-11-16T06:40:48+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "d0ebd108bbc3",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets US FDA approval for Pebrilzo, fifth oncology biosimilar - scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFh0aWtlcGJoLVJnemhTOTZWTW9xS0NzRWhvVVlqcXAyU01PX0RLY1hxaHdsQ3daMjBTa1V3eENOXzJlQVdIY2szTkFHczgyMVVMZXZqMFpaMTI1SGVNRlpVS1ZBNTcwM3Jibk1YaVU5SklqQ1BsR2V2akkzRnFyaUVublV2SkpnMW5xaXE1X0dSZjJnclFVZ0N2V0NpVHViOFp6UUVOaWpmbS1zSWdXU0VNSFUxa3lHdmZN?oc=5",
+   "date": "2026-11-16T06:38:49+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "06603adaf632",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz launches Enzeevu biosimilar for retinal diseases in US - TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb2dlajVWdzY3amJrM2kyMHFJWUNHVExwSHB0TDk4ZFVOekhIYm9RSllnMFJJd2NKVjFkLVlVVWdHendsQ0YtOGxYaVpQUjZLT3pic01UVFhVSTBkeENVRUY0RjRBclFXaHk2RjRrYm5hb2EwWXR1dkNBQmRZdVpJTzdJQksteVJiYzlhTlRRa0NVZDNqZjJXVzFqdU9qempWYXNnSW9jdW91ZHNRbWQyQXFMRQ?oc=5",
+   "date": "2026-11-16T06:36:57+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "36b1d74b6860",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz Launches Enzeevu Biosimilar In US For Retinal Diseases - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYTloU1BicTdycWZsT3hmNzkyY1FuQTlnb18tNURkVXR6TXUwSHZRX2wxaE9LREd3VjBnT2tPRzQ1dXFRVnh0TmdzMzVadlM5ZVEwampYdGNJb045ZTBLdzRfOC0yVUo4aFJkUU5sUklXem9KRXlLUENMdTgyYS1nak5mRlpKdzdUMVg5LTVwQlVoY1dnVlFBaGVkVzNjZ0FJQWlaRzVCbld6bXhDMjB6S1V5b1RlUjJBamNJdWRjWF9TcXkzSWMxbEZoUHJJakdCZWZsZ1BFZkpLVjB2NGxqZWVuQkw?oc=5",
+   "date": "2026-11-16T06:02:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "4a7c73dccb2e",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz Group AG (SDZ) Launches Enzeevu in US, Adds Private-Label Channel - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORjNnSzFrcGNEajVDejZJLXI0YW1BZXVGdXoxTkJ1dEp1S21meVFTQUFVdHdXdXdmN0g4Y3RTRUNUYjVTM0VuTzcxZWpwZWRMQUpTX1dxVFdXbzRoOFViWExsOFhhbEZqX2dETzF1N0JCcHhEYVNSMHZkYUpCS2ZETFdzWF9WcldfOWVmN2JNMHBHcHMyaFdhYnpXeHZTcm5zSkJoYWJDenF0M3BzLXh5M2N5UzBOWnYySVl6REI0ZzFnbzlVcTRuWTRQSjVjM3ZLMG1Jc09NcnpPZw?oc=5",
+   "date": "2026-11-16T06:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "11283335537a",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Gets USFDA Nod for Breast Cancer Biosimilar Pebrilzo - Rediff MoneyWiz",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2hMaVVGb29pZlNWNlFKUHZLQnpMay14SEFsaG1yUC1FZ1FWRHUxV042THhoWWN6OTVUaTc4R3BmZnljelRyNGU1RlV5SjRibWl2Skh3a3FFeVJGYmxfZTJuQ2lvbmhCVnV5MWZ4WXp5NmJGRl9waVdPWkw5YUFSamVac0g2WGdmLUg3T05QdVZEMWlDaXVfc2V4NkxmX0RRUUtrTnl3OGxGeHNXMGtoetIBtgFBVV95cUxOYkl4X3ZRQUtxVlNPRVhMQU1CTm9wMGI3ZS02ZjRnX0F4ckp0WXVTOVVfdHJfeU1vVC1vdWlvd0k2a3dMb3VPVUd2MldXakdkLTU1cWd6dWVIRG0xT3FhUDM0Z05GY0V1bEZ2a2lsTkVSZmcybDhPMHRpVnc5MTNSN1dTMS1vZUtnaWY0eUNNVURhVjM3RUZibVdRZGVxQXk5ZmgtLUVYSVFhN1gtYTFYVmZ6SElFZw?oc=5",
+   "date": "2026-11-16T05:53:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "8a428e323a32",
+   "source": "Google News: biosimilar",
+   "title": "Biocon shares rise after FDA approves Pebrilzo biosimilar in US. - NewsBytes",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTW5sckMzTEVZYTgwMmpJdTZvOVVwbFREOHFxTjBBRHc1b1RaU0w4bFluSmpiQWZ0TE16Y0dxZ1VtNFBOTXpmRVBOZXVOak5PYkZ0RzBhT3hEb0RtZmx1SGxpRjdJVnRia2pYenFNV1pTRVNfZXlaOW85eHQ4MGZMRjE5aHJGV0FZX2p5VGF3OVBCRzB1RHVTa1FwRlc5Z0MwMTZyUzgzX19KU1hnTnQ0SA?oc=5",
+   "date": "2026-11-16T05:43:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "8f8f6ad6ce6b",
+   "source": "Google News: biosimilar",
+   "title": "Biocon shares gain after US FDA approves cancer drug biosimilar - CNBC TV18",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVGZPUzBZX1RBSTlHcl81c1ZwdDI0QzgzSmJZZ2NPSFRWSmJlVVZJMU5EeXp2TmVjM1hyTURKNWthd3ljLS1wb1NQREJsVmV4MFZXTnBoRy1uX1FNNUxiYnNiVUVuZ1Q3bUxhNTJ0bFJZZlk4SUt6bTJaeHpybUZ1ckg5UFJ6bFRqUks5M3I0enB5WjhLUFBXcXlrRDN4VlhmVTY0NkhmMmZuelRybDlLQWVFYXU3U21BRkJwSmRxSHM5RU9JNzdfd09pWHBWNjRUeWxrbnhaVGFZVjBhLWhB0gHkAUFVX3lxTE8xM1Z2Ukk2TmhTdnpRNFE2TlFsLUdCdnFPRUlfeXZidXRNSEx0WUdQUF9oMGNaRld5dHdwcG1UREZZMlpxbWZsMmp5d0o3eXRoSDRJN05ORGhmUXgxdVU5WGhHSXhQZDRyU293eWRUdDdNeEtuZ1Rld3p0S2dvZ2xkRTRSTUZaZnNIX2Z4dTRNUFY3WVdWRWM0eG41TXJ2RFdocW9zZV9ka3dNOVRmbnVxMTRJMWc1VENRUUdxSlZrT0x5M0VmSGpBOHhFUzR2TjdGRWd0WTBhSmpEcmdaUmItOVZBNg?oc=5",
+   "date": "2026-11-16T05:23:12+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "13a0fda80caa",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets US FDA approval for cancer biosimilar Pebrilzo; launch expected in 2028 - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX1JKVmtiai0yNFh2RkpPMkl6TXBtSzRaQUxDenRRMXVMVDZnSFZrNlBSRTZSUWU1UzJEWkMwZk9nbC1CUFhRdzdKZ0NOM0hlUFltQU5KLURnVzdPYm8wdm5SaWc1dnJKd1otY0tZSWZKb1RqeTh5WXEtVldyQWNZZ3JCMzlnUkpFV0dJYWhXdEZhRnN3eERDczlfblFnczU0RGNNVXEtWi00QTJpVzQ3cnIycmtnTnhQMEZFb29SZGpCREFNTXA2dnlqLUJIV3BiNm5hOUc5cm00d9IB4AFBVV95cUxPZWxlbTVvZ3JiZUFZWkpNUklpcTc2QlZkT2pyNmxYUEtaSjZWN092eENCeklJZVVENmtNakRzRjhoOEhFSV9KNV9razA5SUJDZ1dkLWdheFA3NURnTzdLdTlGSHdMczlRM3lQYm50LS1TZ256UzY2djI1LUJ4azR2cXJKdG5LNTRLZzByS3VjODdKZXkxMXlKcE1XYlJPOWdOeEpJOHIyUnRmVFhGQWJ3YmdLcmR1YmFBMFFTeGh3MVcyQmtwcGhsN0M5elo3a3NpamhiMlRobDk4dEVOTlVhQQ?oc=5",
+   "date": "2026-11-16T05:23:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "50c331749a3b",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Gets US FDA Approval for Pebrilzo Breast Cancer Biosimilar; Shares Rise 0.9% - HDFC Sky",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZVJhUTBhNm1pXy15TW55QTI2VjNON0hiZTJGdEd6aGNVdkVwU092RXRvREFOQVJiVlBBNzlDcnRMdnZfQmMzdWZQWHQzXzJNUmxpODEyNTFTeHc4eUU1VXhKT1Q4cTRHbzIwT3htS2tISWxTeFZjdEF5RmRuS3FoMkllWWpqMXNIZlFsZDVfUy1sRXB4N2FFcTVpTWYyU1RsZldJVE5jUkFSeENlbWpBTHotNk4?oc=5",
+   "date": "2026-11-16T04:57:55+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "c607998d1024",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Receives USFDA Approval For Pebrilzo Biosimilar With US Launch Scheduled For Q3 CY28 - Sahi",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQXZ5OEZfRVZOZW1vZlhwWGF3c3lvRGFkMnFFNDAyNjRnRnlaQXBsMnJrdXh0dFBqY29ZOVczRGZmQ3RuY2gteUQ2Z20zay0wa3ZkdTkxZEVNQlJTY3ZKcVNJT00zUkxUalRmdDlyeUt0SWxYa3ctRXpGNXJ0ZEw2QUJFY0lQTmhrUVc0WVcyMVRrTEtsOW9ublI5bkQ2X3VSaU44SzVSYWw0b3lvNTg3VXBoVEozQ0F0?oc=5",
+   "date": "2026-11-16T04:21:37+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "60945e78b243",
+   "source": "Google News: biosimilar",
+   "title": "Biocon secures USFDA approval for Pebrilzo, its fifth cancer biosimilar - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRlJKZDNvZ2lVY2hLOXAwTFFycHB6aVZMSHp6enBQNENBcVdEck1JdDJ6OE5YZGc2RVhzckdaaGJqNWpzc3Q4MkpPdXpnWldjMWxIcTRxNE9uQ1BlLWhGemd4OXNBd2txenhOb0tycjFiZ1owZkt0Q0VJdVo4akEwd3JaRkRwSlBjSU13VG1pMzhtTDc4MHA3bnVPWEVZM01LbzFtdkNKMjlmb1UyTTg3NHNCNUZ2a2Qyd1RRUjU5ODZOckZIdGpPUkVDQVRYdnNVRHM5YXlkZ9IB3AFBVV95cUxNMktXbUdQckl0bkNoSTVTLTJDY2IxRlBWSk5yem00dHlKek5YWjdmNVFYSTV6QmNfeVlVZXFIY2wwblMwU2dfMVBJSDN0THhMOFE1VkNDRWxlMk5ZdDBVd21SYzVDWnVsd01MTUVyekZ1bTkwOVZGZ3lKdWRydFZTMHdSenlWaWZ3TFBacF8tRlZQZEcwQjRLejhneWN1cFYxSU1YRUN4OF9uOWVfN3BCQVdMMnBWVk1nTURDdG1xZ2YyX2Y0Zy1wY0pNNE9lbjdYMWtjNWtpU0Z1WlZq?oc=5",
+   "date": "2026-11-16T04:18:16+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "a8b743cf5ce8",
+   "source": "Google News: biosimilar",
+   "title": "Biocon receives U.S. FDA approval for Pebrilzo™ injection, a biosimilar to Perjeta® - Business Upturn",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN19uOU4wY3ZKX2NXZmY5LXpYRDhmUFZ5MUIxdlNOWkhQYXM2eFRRQzhkZnJrRVEwcWsxNHc4QW00OVotTVJNdUlKa01xVVNreEJVUDBaaS1FUnVUTnhoOV9oSlR3WVl2N3FiVE9iT1FITHdCV1dZbVFENTlPRm5nRzkwZVNZM0I5V3BPQ3prbnhDaEV0LXpJTWV2dkFiT19Yaks0cXJNdjQ0Q0NGNC1KTUpXcGNnNzQ?oc=5",
+   "date": "2026-11-16T03:14:37+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "5b79a60ff5fd",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets US FDA approval for Pebrilzo oncology drug - InvestyWise",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WMGgxaE5zUWNZU09LTEU0SWZweHJia1QzdlFSTjdFcHJ3dThCTWdQQ3RUamtkSWNQeXRXS0pHM21Ja1c5ZGJGM05NcGVvakRUVFlMT0pqcUMzVHl1SlhDT2JMWDRjTnd6RVdYb1kwYl9paVlOMnpWZFM1b1hJQQ?oc=5",
+   "date": "2026-11-16T03:08:48+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
   {
    "id": "93fbc7f9ae64",
    "source": "Fierce Biotech",
@@ -479,6 +837,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "b28bfa51ef66",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz And Lupin Roll Out European Ranibizumab - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV0ZZWDN1TnpUZmNVR2RkaW1IcWR2aGR1WHB4cXRUMVUtWGp1ZXE4aUVTc2RDZjZsTFJPZmxYcDUxUy1FeGV3RW1QQ1prQnJ4NXZ0MHVHX1BQVmdaNGVfYU83ZDNTc0x2SnhENUJsdTlzUGxBckFEMzFudGhQWW9Gdnl3YnZGU3lCMHEtSGpqRWJsUWY0M3gzSlJPN3NtYmVpQU1Zd3lqV2tPNUp4V0dJSzQ5Z3dvUk9RcDZOc1RVWkVBRUJ5RkVjVXA4MmVMQkFvYUc0QTgxOF8zcmc?oc=5",
+   "date": "2026-11-13T12:07:38+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
   },
   {
    "id": "5bf169253797",
@@ -1001,6 +1371,16 @@
    "watch": []
   },
   {
+   "id": "9e39460bdfd0",
+   "source": "Google News: biosimilar",
+   "title": "Lupin’s partner debuts ranibizumab biosimilar in Europe - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaGhwQ3g3b1VzNjZRbUh4aURhVTg2RTgwWHZicDJkQXFUczBVQU9KZ3JoNEMzTkNzN0ExdGdRYnBJUk0xbXY3aFhwcl9KN1RjWEpYVE5HMkkyQjFmWW9XWjBGZHNqMDlCNWJIRDJMdFh4V3FZdTBMd2o3LW55eGhKcktGLWctdUpldWd1cEV6cFYtVFhZc1o3VmlQdlItZEpIeUd2c05GQUhlQWplYlZGZFkyWTVhaDhMT0syS2hDTmdHandLanQ4S3h3NlZqNklqOVBWTHNCV29xenFtZ0HSAd4BQVVfeXFMUGhocEN4N29VczY2UW1IeGlEYVU4NkU4MFh2YnAyZEFxVHMwVUFPSmdyaDRDM05DczdBMXRnUWJwSVJNMW12N2hYcHJfSjdUY1hKWFRORzJJMkIxZllvV1owRmRzajA5QjViSEQyTHRYeFdxWXUwTHdqNy1ueXhoSnJLRi1nLXVKZXVndXBFenBWLVRYWXNaN1ZpUHZSLWRKSHlHdnNORkFIZUFqZWJWRmRZMlk1YWg4TE9LMktoQ05nR2p3S2p0OEt4dzZWajZJajlQVkxzQldvcXpxbWdB?oc=5",
+   "date": "2026-11-12T07:55:33+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "cb6fb9e72488",
    "source": "Google News: biosimilar",
    "title": "Celltrion is speeding up its efforts to tap into the global market by applying for Australian produc.. - 매일경제",
@@ -1120,6 +1500,18 @@
    "title": "Celltrion Seeks Australian Approval for Cosentyx Biosimilar - Seoul Economic Daily",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkdFTVl0a2xhSEZxSDBGZV9JUldCeDhMTFJGdXN3Z1dZc1pyQTBXT3RRcUlmeHBnNndLemQtNmNkbkUtLWVibVpLZlBveGVqMFNQYk1WN3Y1bHBfRkJMMlNMckR0N1RiRzZmVlh1eVNoUkIwWnIya2lsSTZvTU50NHRjMDNOYV9sbC1ya0h0WU9FUFU2eGNPMVhsLURzUGlJTXJLLQ?oc=5",
    "date": "2026-11-12T02:02:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "b636ecbb7d48",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion seeks Australian approval for secukinumab biosimilar - 더파마뉴스",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WTEF1WDhFaFZzd2ZnQ29vQjBwY0h3RG52MnJ2VXpXellLa1RER3RzVGxfdW52RHZnZGZfU2lER3FfUm51Y0hZdHpfV2Q4Tm9BWjF5cGtUSkljX2k4SkNudkthdzV4QVVoU3NvSklYSTJqeVdlQVIzcm8tZGhQZW8?oc=5",
+   "date": "2026-11-12T00:44:13+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -1914,6 +2306,16 @@
    "date": "2026-11-10T14:08:44+00:00",
    "snippet": "The future of ChatGPT Health could be “helping people move from better answers with context to really empowered actions,” Nate Gross, OpenAI's head of health, said in a conversation at Endpoints News’ Health ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a9ae5cb7067d",
+   "source": "Google News: biosimilar",
+   "title": "CVS Caremark Is Expanding Access and Affordability With Biosimilars - StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa0ZDazVrb1RVVVZDOWdaRGVsMmpGOFV6TUh1TmZSRWkxdGs3ZGZBYU5VN3lQcXZmeW5VN0o1TWViUnZ3TVp1NkNCU1FXRkFqRHVpZkZKMTV3bXpuQndMc3dYdHN1NjdIOTFuSW1JUG5Cc1l5Rmc0SXNkSU9aeFIwMTh3QVMtVWEyekd3YjZEazJOaFk4bWtKd3A3QmM5bjdkcDN1UG1fbGJfaDNfbXFQdkp0OGh0S3BueTZsNEdzQkZrUGNtNlE?oc=5",
+   "date": "2026-11-10T13:54:53+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -20538,16 +20940,6 @@
    "link": "https://www.bigmoleculewatch.com/2026/09/18/bms-and-ono-file-bpcia-suit-against-amgen-for-nivolumab-biosimilar/",
    "date": "2026-09-18T19:03:02+00:00",
    "snippet": "On September 8, 2026, Bristol-Myers Squibb Company, E. R. Squibb & Sons, L.L.C., (collectively, “BMS”) and Ono Pharmaceutical Co., Ltd. (“Ono”) filed a BPCIA complaint in the U.S. District Court for the District of Delaware against Amgen Inc. (“Amgen”), alleging that Amgen’s ...",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "586a36b3ecd4",
-   "source": "GaBI Online",
-   "title": "EMA recommends approval for biosimilar Denosumab Ascend and pegfilgrastim Nylaspeg - Generics and Biosimilars Initiative",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR0RFY3JDX3dqNG42UVBWU25TQ3RJM3Z3b0xycktDeDBPN2ZQVGdhLUdUR3JaRmo5WVZYTGxsWElORWJlbV92NWM1cm9CZ1VLZTltQnJXR3pFeWk2eG4xUko3N1pjUV9vUW03SlJ2NnFFbUhLZTdPaHc3Tm5DbzZMZkg3bDhOQm90SFMtdGVtLW1RdHdxSkZTeVZyT2pIdC1kTGhIWDJTOVhLTWpTZkI0Z1BTdGJObU1VempxZlphelNfY2tL?oc=5",
-   "date": "2026-09-17T11:09:10+00:00",
-   "snippet": "",
    "biosimilar": true,
    "watch": []
   }
