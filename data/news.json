@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T18:48:40.404389+00:00",
+ "updated": "2026-11-16T01:00:02.825435+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,7 +47,7 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 33,
+   "count": 29,
    "error": ""
   }
  ],
@@ -70,6 +70,16 @@
    "date": "2026-11-15T18:48:40.404389+00:00",
    "snippet": "The FDA has issued a complete response letter to Summit Therapeutics, derailing the immediate U.S. launch of a drug class that many industry heavyweights believe could eventually dethrone Merck & Co.’s Keytruda.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c04ed8f2c301",
+   "source": "Google News: biosimilar",
+   "title": "Can the PBS afford another agreement on the same terms? - PharmaDispatch",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdDBOTjZ1Qmtkd29rNDhyWFRWaXNNbGdIMWdQVTRONlZtQTBEMDQxcmZZc0hyTGd6Q0RTZmVRQktvY29udnRURG5oNW5SRzc1X0Fwc1U0aUd6ZXVHRjFEZ05tRjlsYmNVQUlGTVRIWGRpYi1tbHJ5b0tHYmpvX2ZFU3FkbVI0TFFQM2JWYVkzTQ?oc=5",
+   "date": "2026-11-15T15:04:15+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -1067,6 +1077,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "ea33fc419798",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz Launches Ranluspec Biosimilar In Europe - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0NNRG9NdEthNGktTVZ4Q0tRRVVJTE1nTTdPMEcwSVJabk5tMUdISzljLTZLc25na2o1cDZmTml4S0lObGZQM3d1cURyZFlyZDZqWVdWTFBnanRNY2pqX2RPS1ZaNmtLY19HckhDV3pqVlBOeTdhblZtdFIydzJKRHh1cE5WbXhPSjRVN2Q1cWoxTTN3cVU3TjRsMllQVVYwSkh1eGdLeDFTNUJuaDJlQk0yUERXekU?oc=5",
+   "date": "2026-11-12T06:12:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
   },
   {
    "id": "34040087d2b6",
