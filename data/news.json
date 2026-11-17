@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T07:51:15.980610+00:00",
+ "updated": "2026-11-17T18:31:39.178551+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": ""
   },
   {
@@ -53,6 +53,326 @@
  ],
  "items": [
   {
+   "id": "3f4c0b00b077",
+   "source": "Fierce Biotech",
+   "title": "Medtronic pays $380M-plus for Contego Medical buyout",
+   "link": "https://www.fiercebiotech.com/medtech/medtronic-pays-380m-plus-contego-medical-buyout",
+   "date": "2026-11-17T18:31:39.178551+00:00",
+   "snippet": "Medtronic is boosting its cardiovascular disease portfolio with a deal to buy up carotid artery disease and peripheral thrombectomy tech company Contego Medical.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c2ff1437d570",
+   "source": "Fierce Biotech",
+   "title": "Kyntra axes mid-stage ADC, adding to years of stumbles",
+   "link": "https://www.fiercebiotech.com/biotech/kyntra-axes-mid-stage-adc-adding-years-myriad-stumbles",
+   "date": "2026-11-17T18:31:39.178551+00:00",
+   "snippet": "Beleaguered Kyntra Bio can’t catch a break. Formerly known as FibroGen, the company has endured a series of woes over the last few years, and now the biotech is cutting a clinical antibody-drug conjugate program from its mid-stage lineup.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "22da9b80e975",
+   "source": "Fierce Biotech",
+   "title": "Why 2027 could be ‘Europe’s year to shine’: Panelists debate biotech funding at Fierce’s London event",
+   "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-llsw-its-europes-year-shine-all-ingredients-are-here-biotech-funding",
+   "date": "2026-11-17T18:31:39.178551+00:00",
+   "snippet": "Panelists at Fierce Biotech's London Life Sciences Week event discussed whether Europe can pull its weight in biopharma investment next year against the gravitational pull of the U.S. and China.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "15075d2ac0bf",
+   "source": "Fierce Biotech",
+   "title": "Isomorphic Labs raises $5B series C months after $2.1B round",
+   "link": "https://www.fiercebiotech.com/biotech/isomorphic-labs-raises-5b-series-c-months-after-21b-round",
+   "date": "2026-11-17T18:31:39.178551+00:00",
+   "snippet": "Isomorphic Labs has raised a $5 billion series C round, marking the second time in six months that the AI drug development startup has pulled off a multibillion-dollar financing.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4a128aa77ed5",
+   "source": "Fierce Biotech",
+   "title": "AriBio’s oral Alzheimer’s drug meets monotherapy goal in phase 3 as Fosun weighs licensing option",
+   "link": "https://www.fiercebiotech.com/pharma/aribio-oral-alzheimers-drug-meets-monotherapy-goal-phase-3-fosun-weighs-licensing-option",
+   "date": "2026-11-17T18:31:39.178551+00:00",
+   "snippet": "AriBio’s erectile dysfunction med-turned Alzheimer’s disease candidate mirodenafil has delivered some mixed results from a global phase 3 trial. Fosun Pharma has an option to in-license the PDE5 inhibitor.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "eb0bf545437a",
+   "source": "Fierce Biotech",
+   "title": "Sellas marks 9-month survival benefit in late-stage leukemia vaccine study",
+   "link": "https://www.fiercebiotech.com/biotech/sellas-marks-nine-month-survival-benefit-late-stage-leukemia-vaccine-study",
+   "date": "2026-11-17T18:31:39.178551+00:00",
+   "snippet": "Sellas Life Sciences’ cancer vaccine for acute myeloid leukemia has passed a phase 3 test with a more than nine-month improvement in overall survival.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c560619cc4a0",
+   "source": "Fierce Biotech",
+   "title": "Marrow extracts $120M series B to advance preclinical blood disease therapy",
+   "link": "https://www.fiercebiotech.com/biotech/marrow-kicks-173m-and-preclinical-blood-disease-therapy",
+   "date": "2026-11-17T18:31:39.178551+00:00",
+   "snippet": "A new biotech targeting blood disorders, aptly called Marrow Therapeutics, has launched with $173 million in combined funding and a preclinical lead program aimed at sickle cell disease and beta thalassemia.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4e30eeda8c94",
+   "source": "Fierce Biotech",
+   "title": "Lilly signs $5.9B deal with Stipple to unlock oncology targets",
+   "link": "https://www.fiercebiotech.com/biotech/eli-lilly-dots-59b-deal-stipple-unlock-oncology-targets",
+   "date": "2026-11-17T18:31:39.178551+00:00",
+   "snippet": "Eli Lilly has struck a $5.9 billion deal to partner with Stipple Bio on oncology drug candidates that more precisely target tumor cells.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "54eaa07e5154",
+   "source": "Fierce Pharma",
+   "title": "AZ defeats health plan lawsuit alleging Soliris antitrust maneuvers",
+   "link": "https://www.fiercepharma.com/pharma/az-deflects-health-plan-lawsuit-alleging-soliris-antitrust-maneuvers",
+   "date": "2026-11-17T18:31:39.178551+00:00",
+   "snippet": "Winning a ruling in their favor Monday, AstraZeneca and its rare disease unit Alexion have successfully sidestepped U.S. antitrust allegations linked to aging rare disease drug Soliris.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "106ba0b9bf52",
+   "source": "Fierce Pharma",
+   "title": "Viatris takes the wheel as Cadillac F1 team's new global pharma partner",
+   "link": "https://www.fiercepharma.com/marketing/viatris-takes-wheel-cadillac-f1-teams-new-global-pharma-partner",
+   "date": "2026-11-17T18:31:39.178551+00:00",
+   "snippet": "The multi-year partnership with Cadillac's Formula 1 Team makes Viatris the latest pharma to rev up a marketing play in the auto racing zone.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "39eb5060a225",
+   "source": "Fierce Pharma",
+   "title": "Roche’s next big breast cancer drug, Wilserdly, secures FDA approval as 4th oral SERD",
+   "link": "https://www.fiercepharma.com/pharma/roche-next-big-breast-cancer-drug-wilserdly-secures-fda-approval-4th-oral-serd",
+   "date": "2026-11-17T18:31:39.178551+00:00",
+   "snippet": "Roche’s giredestrant took the first step toward what some analysts project could exceed $10 billion in peak annual sales, winning FDA approval for certain patients with HR-positive, HER2-negative breast cancer.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5ce19e241f1c",
+   "source": "Fierce Pharma",
+   "title": "BeOne commits $3M to expand CLL Society patient education partnership",
+   "link": "https://www.fiercepharma.com/marketing/beone-commits-3m-expand-cll-society-patient-education-partnership",
+   "date": "2026-11-17T18:31:39.178551+00:00",
+   "snippet": "BeOne Medicines has expanded its partnership with CLL Society, entering into a three-year, $3 million pact to support leukemia and lymphoma patients.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "23e421aae1ec",
+   "source": "Fierce Pharma",
+   "title": "USV chided by FDA over contamination risks at India site",
+   "link": "https://www.fiercepharma.com/manufacturing/usv-private-hit-fda-warning-letter-potential-contamination-issues",
+   "date": "2026-11-17T18:31:39.178551+00:00",
+   "snippet": "Indian drug manufacturer USV was hit with a warning letter from the FDA that outlined three major violations. The observations largely centered on a lack of procedures that could lead to microbial and particulate contamination.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "42ef2db13f72",
+   "source": "Fierce Pharma",
+   "title": "AriBio’s oral Alzheimer’s drug meets monotherapy goal in phase 3 as Fosun weighs licensing option",
+   "link": "https://www.fiercepharma.com/pharma/aribio-oral-alzheimers-drug-meets-monotherapy-goal-phase-3-fosun-weighs-licensing-option",
+   "date": "2026-11-17T18:31:39.178551+00:00",
+   "snippet": "AriBio’s erectile dysfunction med-turned Alzheimer’s disease candidate mirodenafil has delivered some mixed results from a global phase 3 trial. Fosun Pharma has an option to in-license the PDE5 inhibitor.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7792f5acfe84",
+   "source": "Google News: biosimilar",
+   "title": "Solutions Still in Search of a Problem: Seeing Through False Narratives on Patents on Medicines - IPWatchdog",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblZWdWZ6NjZ1SmxjSVlMWjVySVJmcGJBajVqRi1oYlpWbEZlYk05bTFTbXRWa3M0cC1oWndkdWUtWFh5ZFk1ZkRGSV93T1dwRlZ1R0ZJMUZrT3F5STZMam95Z3N1NGVkck5mWXN2Wno1UTlRVW56WGpuVWtHLXd3eXlzTHpPQWJ3ZVBjVHZ5eTZZd1ZUbmNXc3NxMUJfQVR2SkpQY1dacmFaWmVPV1RXWjdQUnA3VzltaXpVeGUwVjJ1NlpKQTB5Uw?oc=5",
+   "date": "2026-11-17T18:15:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "c3e3ca5ccbce",
+   "source": "BioPharma Dive",
+   "title": "Roche breast cancer pill cleared by FDA",
+   "link": "https://www.biopharmadive.com/news/roche-fda-approve-wilserdly-giredestrant-breast-cancer/874884/",
+   "date": "2026-11-17T17:18:00+00:00",
+   "snippet": "Wilserdly’s U.S. approval is seen by analysts as a “key first step” in an important launch for Roche, which has claimed the drug could become its top-selling product.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bc7dffa20458",
+   "source": "Endpoints News",
+   "title": "Sellas claims Phase 3 win on AML cancer vaccine",
+   "link": "https://endpoints.news/sellas-claims-phase-3-win-on-aml-cancer-vaccine/",
+   "date": "2026-11-17T16:58:15+00:00",
+   "snippet": "Sellas Life Sciences' cancer vaccine succeeded in a Phase 3 trial of certain acute myeloid leukemia patients, the company said Tuesday. Sellas is developing galinpepimut-S, which it calls GPS for short ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ba9038d55205",
+   "source": "Endpoints News",
+   "title": "Analysis: 3 thoughts on Isomorphic's record $5B Series C for AI in bio",
+   "link": "https://endpoints.news/analysis-3-thoughts-on-isomorphics-record-5b-series-c-for-ai-in-bio/",
+   "date": "2026-11-17T16:34:45+00:00",
+   "snippet": "Just six months after raising $2.1 billion, Google-backed Isomorphic Labs has one-upped itself with a historic $5 billion Series C round. It is the largest private raise in biotech history, surpassing Altos ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f95b1c23f7cb",
+   "source": "Google News: biosimilar",
+   "title": "AZ defeats health plan lawsuit alleging Soliris antitrust maneuvers - Fierce Pharma",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWmZDbDVERGdtOEZ4bTRsWUNORjN6MnZXeGlzOXM0cXppT2V1bE4yY1BHQ1RsZEpySDNST2drcmxZQ25RTFJCUWxQZi1CZlZnOHdINGtLU0diTGtQOVB3cG5LZUN3SE1uRE1kRUlqcVFOdjNkcXctWmZmMzRWLVVBenZEczZUaWgyaTdsOWE5U1g1S1FUUHhrQlZKN2hhSVh5VjJ3V01HTQ?oc=5",
+   "date": "2026-11-17T16:25:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "8f9771ff9049",
+   "source": "Endpoints News",
+   "title": "Health tech preps for a consumer-driven future",
+   "link": "https://endpoints.news/health-tech-preps-for-a-consumer-driven-future/",
+   "date": "2026-11-17T16:16:08+00:00",
+   "snippet": "Hello from Las Vegas! The Endpoints team was undeterred by Friday’s ground stop and has been roaming the conference floor at HLTH to get a sense of where health tech is headed. Here’s what we’ve ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "caea8aaba598",
+   "source": "Endpoints News",
+   "title": "#CTAD26: Cognito plans FDA submission of light and sound therapy for Alzheimer’s",
+   "link": "https://endpoints.news/ctad26-cognito-plans-fda-submission-of-light-and-sound-therapy-for-alzheimers/",
+   "date": "2026-11-17T16:01:42+00:00",
+   "snippet": "BOSTON — A decade ago, neuroscientists at MIT published data that seemed too good, or perhaps just too wacky, to be true. Light flickered at just the right frequency induced brain waves that appeared to help ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8e82c6d988eb",
+   "source": "BioPharma Dive",
+   "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
+   "link": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/",
+   "date": "2026-11-17T15:51:00+00:00",
+   "snippet": "Even as the larger AI industry faces turmoil, investors have given Isomorphic the two largest cash infusions in the biotech sector this year.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5751cc50b4c2",
+   "source": "Google News: biosimilar",
+   "title": "ALVO: Three U.S. biosimilar decisions due Dec. 4; 2027 launches and expanded supply capacity ahead - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQOGY5UG1WNzFMN2FyU25GQXBMUmlNVzFsQ1Zxemc3NlBrR2NERzZFeHVOdzdVTk0xY2VxREw4VXY2b1dDT3lPRFc1T1FvTE5sN1FyNDBQUUgwXzdyN2lnRjZTOXA5N3doRGpUSGsyWFlMdWpQd0tUQVR1QzB2Rm1YTkk4OHFrVlk2d2UtbTFGS0V1M3RPVXBkQ05IN05Pcy1FbG9WTjR5TS1yWTZxZHFKLWxXSXNDakFtNDA5OC02Zk9KcERDXzFBZFhuWk1GTW5iZGVKX09vaVNsV2pCQ0VyVmcwUnVYcEJzVk1ZSTVtYjlQbWZlbXd2bjdMcFlmTEZNVDBZYzFmbFkzRTRGZXc?oc=5",
+   "date": "2026-11-17T15:27:49+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "06593d1b8f16",
+   "source": "Endpoints News",
+   "title": "Novo revamps its direct-to-consumer platform; Roche drug Gazyva approved again",
+   "link": "https://endpoints.news/novo-revamps-its-direct-to-consumer-platform-roche-drug-gazyva-approved-again/",
+   "date": "2026-11-17T15:13:36+00:00",
+   "snippet": "Plus news about Uniquity Bio, Commit Biologics, Rosemont Pharmaceuticals, Aytu and Aclaris Therapeutics. Novo relaunches NovoCare direct-to-consumer platform: Novo is revamping its DTC business with what it calls a \"reimagined consumer ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7c618c7cf77f",
+   "source": "Endpoints News",
+   "title": "#CTAD26: Priavoid’s amyloid-detangling pill PRI-002 fails Phase 2 study in Alzheimer’s",
+   "link": "https://endpoints.news/priavoids-amyloid-detangling-pill-pri-002-fails-phase-2-study-in-alzheimers/",
+   "date": "2026-11-17T15:05:43+00:00",
+   "snippet": "BOSTON — For nearly a decade, the German biotech startup Priavoid has been working on a pill to break up small clumps of amyloid proteins that accumulate in the brains of people with Alzheimer’s disease. Now ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9fc213020a62",
+   "source": "Endpoints News",
+   "title": "Patient data startup b.well launches tools to make AI chatbots safer",
+   "link": "https://endpoints.news/patient-data-startup-b-well-launches-tools-to-make-ai-chatbots-safer/",
+   "date": "2026-11-17T14:00:01+00:00",
+   "snippet": "AI chatbots and agents are fielding hundreds of millions of health-related questions each week. But even when users upload their own health records to those apps, large language models are usually ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "30332e7b0609",
+   "source": "Endpoints News",
+   "title": "Marrow raises $173M for siRNA drug competing with CRISPR therapy for sickle cell",
+   "link": "https://endpoints.news/marrow-raises-173m-for-sirna-drug-competing-with-crispr-therapy-for-sickle-cell/",
+   "date": "2026-11-17T12:00:50+00:00",
+   "snippet": "When the FDA approved two gene therapies for sickle cell disease in December 2023, many drugmakers viewed it as the end of the story and shelved their programs for the condition. Yet three years on ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cbb722806335",
+   "source": "Endpoints News",
+   "title": "Roche enters the SERD market with FDA approval in late-stage breast cancer",
+   "link": "https://endpoints.news/roche-enters-the-serd-market-with-fda-approval-in-late-stage-breast-cancer/",
+   "date": "2026-11-17T12:00:39+00:00",
+   "snippet": "Roche’s big-hope breast cancer pill giredestrant was in an odd situation in that it was awaiting two different FDA approval decisions. Also oddly, the second one came first. The drug was",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "04f491dd1a36",
+   "source": "BioPharma Dive",
+   "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
+   "link": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
+   "date": "2026-11-17T12:00:00+00:00",
+   "snippet": "Armed with $173 million in venture funding, the startup is developing what it’s positioning as a more accessible alternative to gene therapy and gene editing treatments for sickle cell and beta thalassemia.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2731fb3ccef7",
+   "source": "Google News: biosimilar",
+   "title": "Pebrilzo wins FDA approval as a second Perjeta biosimilar—but U.S. patients may have to wait until late 2028 - Medical Daily",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVhwNHNlOUNwNWpCVUJRUGg3eEhBSVA4NW8xdlJBeW5HVk9jeF9LcDR4S1pmaXN5U1p0c0FtTW16OUh0anUtbVNXWlU2RURUUnREZl9SM01UTTJ3UU9YUmVxLWFXaVp4YmVaSkNacm4zTHZBLUNucmVfN0o3aHd2YlJOQ01xaVlCY2RNTzhORDJndzNyTDB3a2preG1WQmNqVW1ZZA?oc=5",
+   "date": "2026-11-17T11:27:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "fb2791f87c5a",
+   "source": "Google News: biosimilar",
+   "title": "R-Pharm registers biosimilar for head and neck cancer in Belarus - Новости GxP",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3BaWkhGT281NUt1QTN4Zk84OGVQaHh2a1Z2bnVIMU9ScnpXS1ZIOVM1ejllVkotbkhPMl9ydThmWUlaM3lORUNXUC03U2xtWnJENEQxcE40T3VnTWxSU2RISkFBMGFMX1F6WDNCU21zWWprWC15MnJjM05JV2ZOWnZpdi1zZ1pZYTJod01EYV9mM2tQbWVxcXhGcU43VnZ6Wi1mddIBpAFBVV95cUxPN3BaWkhGT281NUt1QTN4Zk84OGVQaHh2a1Z2bnVIMU9ScnpXS1ZIOVM1ejllVkotbkhPMl9ydThmWUlaM3lORUNXUC03U2xtWnJENEQxcE40T3VnTWxSU2RISkFBMGFMX1F6WDNCU21zWWprWC15MnJjM05JV2ZOWnZpdi1zZ1pZYTJod01EYV9mM2tQbWVxcXhGcU43VnZ6Wi1mdQ?oc=5",
+   "date": "2026-11-17T11:22:29+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "e0db09259102",
+   "source": "Google News: biosimilar",
+   "title": "Environmental and delivery system changes that should have helped control health care costs - Substack",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VUFlua091YWw3U1EtX0xoZlRvaHJIbXNRS3ppTU9zY0U4bWd0emEyMTQ0N1k2TmFaaFZYMTlXYVI5VHppTHp6SDhUdEtxaTZsZV8wS3ZfVWtpSEstTXVEakQ2VTQ3NFZ5TTljbXBuejZpWm9sTnpZdVBXcmlpdw?oc=5",
+   "date": "2026-11-17T10:06:29+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "95c7f36fd1dc",
    "source": "Fierce Pharma",
    "title": "Quality over quantity: Healthcare messages not tuned into patient needs, survey finds",
@@ -60,6 +380,16 @@
    "date": "2026-11-17T07:51:15.980610+00:00",
    "snippet": "58% of patients out of a 1,500 patient survey reported that healthcare communications don't consistently feel relevant to their needs, behavioral science-focused Lirio found.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9ba4d08b3b12",
+   "source": "Google News: biosimilar",
+   "title": "Incyte says EU approves oral treatment for chronic skin disease - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb3BTdFk0enRMY05TUDNoVHQ5bGVDaUU0RmNLbjBmQU1XVmZFNnl0R2I1TVRZUURFQmhBV3NCRGo0bk9ReGNqaVhadDhoQk9rWHNLekdKWGNGN2gxQ253dnpFTHNhZm1idDcxX0RRekE1Z2VqSFN1a3BDeldpWUF3MUpoSkFTT1lNcUZ2QURrNjdETkFEdFItMjlfMk81V2NGSW5ha2NWMkJzcHc1ek55YkdscTdiY0NBV3pvV1p4ZTBZckh4MzlZRnZ2WUdjNUsyQmN1cEVEeG92STZaVEc1bllpU0PSAegBQVVfeXFMTk5JRmJSTGtQU2t0NHFWRjRJNGVHNGFCS1NrOUVtWkhucnlCSGRVMHNoa1dQWnNMQ1pYOGh1eS04VWJXYk9SSVZ2RmtWaGlCeVZqVG5VU1YzdjlTX0hSbGlRa1I3R2hfZ01GN2NYT19tdFFfY3VTVGJMX1k5NGhYVlZwOG9GTlAxMDRDSExsZ3lQVUNhNDR5ekNCQkZVNG9QTmZIT2d0cVFoYmc5LUJ2eVdxVjEtd08xeGVQV1Q2eUdxR3FXMmt5YThTb1JmRnpHOXFLcWYxOUJ0aFhoLVpRaVJFcnBjdHJYaA?oc=5",
+   "date": "2026-11-17T06:34:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -577,6 +907,16 @@
    "watch": [
     "Sandoz"
    ]
+  },
+  {
+   "id": "569bdde0b8ab",
+   "source": "Google News: biosimilar",
+   "title": "Understanding How ‘Biosimilar’ Drugs Can Expand Access and Affordability - My Hudson Valley",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGZiNmczd2owcUp0d2QtbFdMdkFRdFhmR3puUWJRVzhteWdZOHQ1WGE1Wi1UQXV3U1VpOHE3b0RYZTZqUTIzVThZa29vMW1KN1ZCMEdaS0VrSjF1RTNTa3l1TVphSnJGcHJRTUJ6UmhxZUg0VUhBRW9LUTB3Qld3U0VR?oc=5",
+   "date": "2026-11-16T13:10:52+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "b616dbbe583d",
