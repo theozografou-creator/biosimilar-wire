@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T21:58:31.964782+00:00",
+ "updated": "2026-11-17T07:51:15.980610+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 11,
+   "count": 10,
    "error": ""
   },
   {
@@ -52,6 +52,94 @@
   }
  ],
  "items": [
+  {
+   "id": "95c7f36fd1dc",
+   "source": "Fierce Pharma",
+   "title": "Quality over quantity: Healthcare messages not tuned into patient needs, survey finds",
+   "link": "https://www.fiercepharma.com/marketing/quality-over-quantity-healthcare-messages-not-tuned-patient-needs-survey-finds",
+   "date": "2026-11-17T07:51:15.980610+00:00",
+   "snippet": "58% of patients out of a 1,500 patient survey reported that healthcare communications don't consistently feel relevant to their needs, behavioral science-focused Lirio found.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "61c16e370794",
+   "source": "Google News: biosimilar",
+   "title": "Formycon AG (FYB) Names Reference Drugs for Two Early-Stage Biosimilars - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUlFPWlFQZERhZ2IzUUZCWjlsV2U1QlhDOTZCV0VueXp5TktMSXcwamUtSzVHRXA0c1BiUjRZcnNucW13U0luejB3QnN4X0l3cE5UT0xvM21TeDRWeDdNaFd4UEh6UldWZWZGTEwtQWpuWDlPVllUcWxDM0xQVjRNdjVxd05vYUNOY3g3RFZSMGhsSXhSQm9aNGN0QUk4VmkwMnRCcmZIUE5XeW1haloxZVIyNkdpdGJYNHdoS1FRWTJNeFcxTVlIamtDNA?oc=5",
+   "date": "2026-11-17T05:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
+  },
+  {
+   "id": "1546a0827a32",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion wins Brazilian government drug tender for 7th straight year - The Korea News Plus",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hT245LU5hcFhjeHY1Wm5KUkJXR2cxeFRtbkd0NmJKcmJTVzNDdzVTcmpwYy1ST2M4MGJDdkxxaktlZk0xZzRETEdSN01DOWt5ZzFETFhzcDFtZi1yZEo2bWtVV1dfdHF0Ul92eDRQc0R1M0R5X09r?oc=5",
+   "date": "2026-11-17T03:56:44+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "43c1dec1333c",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Receives US FDA Approval For Biosimilar Pebrilzo Injection - Sahi",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTldEQ1lrZ2NneXJnSS1PWXFBVXFUM2FTOF9ibDB6cXlzVjVBc1FSYkx3TS1GcUNuZENPLW1CSWRJUTZLaDFUNHFSR1FZZ1dSS2pKQ3M3aTZaUjF1bVFRXzJ0Ymc3QnJvWDkyTmFValhVVzR1MHBBRFpwcmtRc1FaU2xMb3lFRjZUeV9WRkZGWUtWbXY4LVE?oc=5",
+   "date": "2026-11-17T03:35:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "885dc6a4c842",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion secures 1 million-vial Herceptin biosimilar deal in Brazil - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFRjh3VWJKOURsc1BvcG82d0ZJYWw3dlpOd0RVRDdjQWp1Z3JWTVJQSnVUUTlIN1N3bUFrQWctV3RDX2lJdnYtXzd2UTVOVlp5ZXF1ajZscDV6aGVDTTNSNkNOTjEweWJocVE4MWF30gFyQVVfeXFMT0VCLS13QWNta1MyaHloVW9hd09BdGlOaVUyalY1bmJWa0hkTlowaFlXREZyc09GU0ZndzJncWFDTld1bzJ3ekV2SmtHSnNqYXU3Y1Jsb0tpdzVjcWVKM2owMWFFUUxmQWYzQVBOMTk5VHVB?oc=5",
+   "date": "2026-11-17T00:30:19+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "84fe8e6da697",
+   "source": "Google News: biosimilar",
+   "title": "Pertuzumab Biosimilar Gains FDA Approval for HER2+ Breast Cancer - OncLive",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFRQUVY3Y2tJLTlJZ3dfRzRnVERETDNrOHJPQkU0bE94andSUkxIZGZrT3gyNm42M0tWY2dXYWF0UHZNclNRamxBMGdkckxCMTNjcEhXTWJqQVVDTG1oZUZXenRCb2NsR016ZUctTE4yMHBBcUxEUS1MUlIzelB2WVVEamc1bV83UFBmWmJ4UGFXV3p1ZXZv?oc=5",
+   "date": "2026-11-16T23:17:27+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "f1fa251a746c",
+   "source": "Google News: biosimilar",
+   "title": "US FDA Sees Generics, Not Compounding, As Answer To GLP-1 Costs - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMUtWOFc4NGdYcmRyX3pBYmNKYUxYT3BVenE4TnNuX2xqWjRyMHdScFVObzhocF9IYzkwWFlVUUpkZUpJNDhnOHl4WERmM1dMLWZyMnQyWDF5UERob2xRcW1oMG40X09SRmpDR0YtS1ZjUGRCbW1FRzdnaE1icjVBNjkxc2wxNXl0Wl9ZN01kUm04NGR0RUFoRzY0T2RDRzR1T3RrandkcURjTHVJOGpTazRaOGFaQmNkTDlGZEZjQW1IREtDQ0pjOERNd2paRGs4SWh6b1BLeDFTMFNfMURMOF9HUzlrbEJDMkR3Um1xbWEwM056a25r?oc=5",
+   "date": "2026-11-16T22:36:29+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "ac46ae227134",
+   "source": "Endpoints News",
+   "title": "AriBio’s repurposing of ED drug for Alzheimer’s yields tepid results",
+   "link": "https://endpoints.news/aribios-repurposing-of-ed-drug-for-alzheimers-yields-tepid-results/",
+   "date": "2026-11-16T22:22:47+00:00",
+   "snippet": "BOSTON — For years, scientists have wondered whether Viagra-like pills could have an unexpected benefit in the brain. Some real-world evidence suggests men who take erectile dysfunction medicines are less likely to develop Alzheimer’s, and the ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "6e0cf7fdc9e3",
    "source": "Fierce Biotech",
@@ -201,6 +289,28 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "21266a77434a",
+   "source": "Google News: biosimilar",
+   "title": "AEON Biopharma Reports Third Quarter 2026 Financial Results and Provides Corporate Update - Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWXlFUEUzSUZTUzY5bTNTaWZUcVVvaHozUjJZbV9pTklPYWRvWE1HVldlbnpQRmlyejRubk9ra0dkcVRNWUtzdWdhSkdDYmJYNDVkLVRQb2VaZVh4eTE0dTFPSHNDZTR5MTI5VEpnNFJISkVfVjhfYVNzeXZ3X29rR244WHZabl84Q082M196RElTUHQ1ZmtuckNneEt0TWNTUWg3X0t6RFZMbUR2TXJCemdnVW5pUQ?oc=5",
+   "date": "2026-11-16T21:31:54+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "2b6581a8e55a",
+   "source": "Google News: biosimilar",
+   "title": "New Growth Frontier: Formycon Reveals Tezspire And Hemlibra Niche-Buster Biosimilars - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOX0NjVmhUWEdUbHJqMmdIU3UzT2lOMTZmMnpZQ3ZTRGFJeFRrYm5wazNOUGJfOVBXd0dXaVhSSUZjMkp5Wm5SbXphQzRDLUcxTjF2Nl9RVXlJdmVGWTdHX1BGNl91S3ppelI0UUtrSW95RnJOZjJiMWRNSnZyV3BnV1BXREhtMnU5RElOQmx1NGtRcG1DVkZydEZUQ1lvRm9hcEVfb1phODZNSExxOUJ6MXJBalVGdm5oME45MGh1WkE5Q29xSVYydDJycEdRdzlGYWplVTlUTURTSFh4UFBCd194THNhUUdua0hsS1ZQQ2RwOWFJN0VmVFM5dXo2OWdjeHJIYkVtM0o?oc=5",
+   "date": "2026-11-16T21:15:21+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
   },
   {
    "id": "ac99e5733989",
@@ -418,6 +528,18 @@
    "title": "Biocon obtains FDA OK for Perjeta biosimilar - Drug Store News",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNdHlhdnhlMVZyZHhwaEdsVVZydGhSMGZ4bGR0WjZiSGF4SHVmc0dma19vM3htM1J4OTh2cXRRbHRnVnliTEFUa2VCdmpJZlhxbjlCa29QMUs1N3VvMDZjTW80MlUwU3ZVT2w0YlN5QUY5SlNN?oc=5",
    "date": "2026-11-16T14:17:19+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "67e11bd3e5b0",
+   "source": "Google News: biosimilar",
+   "title": "Biocon bags FDA nod for Perjeta biosimilar - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbUcxbjhqVlR0ZFF4VVRpQXZIM1ZyRXB3WXd4c0hUSV9LT19EN3piNERwenVTSF9IUEdjTDZYSGhjYXNBNDhXMU5DRXdDNXFPNUNXZHF3SnJzdEpOQ3cza3Nzdkd1YlMwSU5KOUkyb3lHbnJiRlc4UVJqMFJDak51dnlsQk0tT1ZYQlNxX0NsU3kydjFUN0VRcGhqY2VBNDhLTmVwV0ZRNTNFOGM5UUZNaW5hUEpKM3Z5QU53dFhLb1ZXeVdJcHMwc9IBzAFBVV95cUxOby1jLTdLTnNqNlNhT1VaV1pRXzJTYjkyc2RoWFdGQmFmYzRzLVhSWWlVZkhRRmFaOEdKWGZRc2JkMkZVNldVNWg2bkM3YWVEbDZZWThvenZKclBMYXB1MFFIWDV3cWJfbGRuNmxwZXlEYmhlVWVFQUJybHdIZUdodFpvR3lRRGh0bGs2MDZaM19fdm9ZZXlZLXcyLU5nbWhKLS0tNXJfT1JVZTdwVUd4UDhTYXhDTDFTR205cnZJa0dWLUYzRDJ6RWJ1REg?oc=5",
+   "date": "2026-11-16T14:15:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -867,6 +989,18 @@
    ]
   },
   {
+   "id": "b8fdd20546c7",
+   "source": "Google News: biosimilar",
+   "title": "Biocon secures US FDA approval for Pebrilzo, its fifth cancer biosimilar - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMktXbUdQckl0bkNoSTVTLTJDY2IxRlBWSk5yem00dHlKek5YWjdmNVFYSTV6QmNfeVlVZXFIY2wwblMwU2dfMVBJSDN0THhMOFE1VkNDRWxlMk5ZdDBVd21SYzVDWnVsd01MTUVyekZ1bTkwOVZGZ3lKdWRydFZTMHdSenlWaWZ3TFBacF8tRlZQZEcwQjRLejhneWN1cFYxSU1YRUN4OF9uOWVfN3BCQVdMMnBWVk1nTURDdG1xZ2YyX2Y0Zy1wY0pNNE9lbjdYMWtjNWtpU0Z1WlZq0gHcAUFVX3lxTE0yS1dtR1BySXRuQ2hJNVMtMkNjYjFGUFZKTnJ6bTR0eUp6TlhaN2Y1UVhJNXpCY195WVVlcUhjbDBuUzBTZ18xUElIM3RMeEw4UTVWQ0NFbGUyTll0MFV3bVJjNUNadWx3TUxNRXJ6RnVtOTA5VkZneUp1ZHJ0VlMwd1J6eVZpZndMUFpwXy1GVlBkRzBCNEt6OGd5Y3VwVjFJTVhFQ3g4X245ZV83cEJBV0wycFZWTWdNREN0bXFnZjJfZjRnLXBjSk00T2VuN1gxa2M1a2lTRnVaVmo?oc=5",
+   "date": "2026-11-16T04:18:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "60945e78b243",
    "source": "Google News: biosimilar",
    "title": "Biocon secures USFDA approval for Pebrilzo, its fifth cancer biosimilar - Business Standard",
@@ -973,6 +1107,16 @@
    "watch": [
     "Alvotech"
    ]
+  },
+  {
+   "id": "fee3c46b39d6",
+   "source": "Google News: biosimilar",
+   "title": "Lupin announces European launch of Biosimilar Ranibizumab - BioSpectrum India",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHlWaTJVdGxWaWxncExSbnpfc1N4d3RfRm5VcGpzQ2NrWnBrRmlvV21VYmRiaWk1TGFPa0pYMjBzLWU3LTJoeVVFZl9TMjloY1FxamFOZDdzNzlTYlFRUzRKcHdhOHhCMWcybEtMd0ZuRnBqUlVPWHVEaDlGUU9aT3doQnZET1ZuYTNha1NUUzVERnpFcTdPX0ZERjIwcnBWdzd2U0lmSngweVdka2c?oc=5",
+   "date": "2026-11-14T16:18:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "1300f9a8812b",
