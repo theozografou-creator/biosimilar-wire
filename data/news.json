@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:36:20.633841+00:00",
+ "updated": "2026-11-18T20:28:13.257083+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": ""
   },
   {
@@ -52,6 +52,264 @@
   }
  ],
  "items": [
+  {
+   "id": "c2d2df19cc36",
+   "source": "Fierce Biotech",
+   "title": "Less than a year into the job, Everett Cunningham steps down as Quanterix CEO",
+   "link": "https://www.fiercebiotech.com/medtech/less-year-job-everett-cunningham-steps-down-quanterix-ceo",
+   "date": "2026-11-18T20:28:13.257083+00:00",
+   "snippet": "Quanterix is on the lookout for a new chief executive once again as Everett Cunningham, who only started the top job back in January, hits the exit.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cfb884543f74",
+   "source": "Fierce Biotech",
+   "title": "Biogen’s tau therapy drives bigger benefits in 2-year Alzheimer’s update",
+   "link": "https://www.fiercebiotech.com/biotech/biogens-tau-therapy-drives-bigger-benefits-2-year-alzheimers-update",
+   "date": "2026-11-18T20:28:13.257083+00:00",
+   "snippet": "Biogen has linked its tau-targeting antisense oligonucleotide to a further slowing of clinical decline after two years, leading analysts to hail the strengthening of evidence supporting late-phase development.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3a16edb8157a",
+   "source": "Fierce Biotech",
+   "title": "Clene Nanomedicine uses CRO Veristat’s biostatistics platform for FDA submission",
+   "link": "https://www.fiercebiotech.com/cro/clene-nanomedicine-uses-cro-veristats-biostatistics-platform-fda-submission",
+   "date": "2026-11-18T20:28:13.257083+00:00",
+   "snippet": "Clinical research organization Veristat has partnered with Clene Nanomedicine to accelerate data outputs for its FDA application for its ALS drug.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7a2eb6497a3e",
+   "source": "Fierce Biotech",
+   "title": "Pfizer enters in vivo CAR-T space via 3-program, $2.6B deal with China’s Starna",
+   "link": "https://www.fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna",
+   "date": "2026-11-18T20:28:13.257083+00:00",
+   "snippet": "Pfizer has decided to join the in vivo CAR-T race, penning a $2.6 billion deal for three preclinical candidates from China’s Starna Therapeutics.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6e39b218199b",
+   "source": "Fierce Pharma",
+   "title": "Beren clinches long-awaited FDA nod for cyclodextrin drug in Niemann-Pick disease",
+   "link": "https://www.fiercepharma.com/pharma/beren-clinches-long-awaited-fda-nod-niemann-pick-disease",
+   "date": "2026-11-18T20:28:13.257083+00:00",
+   "snippet": "Beren Therapeutic's Lembaz was cleared by the FDA to treat the neurogenerative disorder Niemann-Pick disease type C in children as small as 15 pounds. It's the first NPC treatment to improve survival and to treat the cholesterol transport dysfunction that drives the disease.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1e4af0ca3891",
+   "source": "Fierce Pharma",
+   "title": "FDA moves to yank Salerno's liquid cholesterol drug approval on missing reports",
+   "link": "https://www.fiercepharma.com/pharma/fda-moves-yank-salernos-liquid-cholesterol-med-approval-missing-reports",
+   "date": "2026-11-18T20:28:13.257083+00:00",
+   "snippet": "In a notice posted on the Federal Register Wednesday, the FDA said that it has proposed withdrawing the approval for Salerno’s FloLipid, an oral suspension formulation of the long-approved cholesterol lowering medication simvastatin.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8198d1da5653",
+   "source": "Endpoints News",
+   "title": "Hims launches popular peptides and other longevity treatments",
+   "link": "https://endpoints.news/hims-launches-popular-peptides-and-other-longevity-treatments/",
+   "date": "2026-11-18T19:15:47+00:00",
+   "snippet": "Hims & Hers started offering peptides and other treatments marketed for longevity and wellness uses on Wednesday. But the telehealth company is holding off on prescribing some of the more controversial peptides that compounding pharmacies ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ac6f7d0da40c",
+   "source": "BioPharma Dive",
+   "title": "‘Selling and marketing snake oil’: The debate over compounded GLP-1s",
+   "link": "https://www.biopharmadive.com/news/compounded-glp-1s-telehealth-debate-snake-oil-fda/875065/",
+   "date": "2026-11-18T18:51:00+00:00",
+   "snippet": "Proponents of compounding argue it increases access, lowers prices and helps patients who may need individualized versions of a drug. But there are serious concerns, experts said at the HLTH conference.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0147317aa57a",
+   "source": "Endpoints News",
+   "title": "Novo’s consumer push gains momentum with Wegovy pill, CagriSema on deck",
+   "link": "https://endpoints.news/novos-consumer-push-gains-momentum-with-wegovy-pill-cagrisema-on-deck/",
+   "date": "2026-11-18T18:25:52+00:00",
+   "snippet": "LAS VEGAS — When Ed Cinca returned to Novo after four years away, he barely recognized the place. “I think the building’s the same, but that’s about it,” Cinca, Novo’s senior vice president of marketing and ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "015e02b39611",
+   "source": "BioPharma Dive",
+   "title": "White House pulls nomination for FDA nominee Overton",
+   "link": "https://www.biopharmadive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/874961/",
+   "date": "2026-11-18T17:00:00+00:00",
+   "snippet": "The sudden end of Heidi Overton’s candidacy likely ensures a Democrat-controlled Congress will choose the FDA’s next leader — but shouldn’t disrupt the agency, analysts say.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dc5a4c91b7c3",
+   "source": "Endpoints News",
+   "title": "#CTAD26: Lilly’s dopamine drug mevidalen fails Phase 2 study in Alzheimer’s",
+   "link": "https://endpoints.news/ctad26-lillys-dopamine-drug-mevidalen-fails-phase-2-study-in-alzheimers/",
+   "date": "2026-11-18T16:22:48+00:00",
+   "snippet": "BOSTON — A little-known therapy Eli Lilly has quietly been testing in people with mild and moderate Alzheimer’s disease has failed in its Phase 2 study. The experimental drug, called mevidalen, was dropped ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6404b6f482ae",
+   "source": "BioPharma Dive",
+   "title": "Pfizer leaps into ‘in vivo’ CAR-T with latest China deal",
+   "link": "https://www.biopharmadive.com/news/pfizer-starna-in-vivo-cell-therapy-autoimmune-disease-deal/875018/",
+   "date": "2026-11-18T15:55:00+00:00",
+   "snippet": "The potentially $2.6 billion collaboration puts Pfizer into a competitive race to treat autoimmune conditions by reprogramming cells inside the body.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "02d59ed1710c",
+   "source": "Endpoints News",
+   "title": "Dispatches from Jefferies: Latent Labs on AI, Relay’s PI3Kα ambitions and Biohaven’s protein degrader approach",
+   "link": "https://endpoints.news/dispatches-from-jefferies-latent-labs-on-ai-relays-pi3k%ce%b1-ambitions-and-biohavens-protein-degrader-approach/",
+   "date": "2026-11-18T15:29:39+00:00",
+   "snippet": "LONDON — Long queues snaked outside the iconic Waldorf Hilton on Monday morning at the 17th Jefferies Global Healthcare Conference as attendees jostled to pick up registration badges — only to be ushered into the main hall ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ab50391780eb",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets European Commission nod for breast cancer biosimilar - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZUd6VmtjaXdUemFBTmw4UnFpMlMzS01Gekt1MEhpVXh0bTVaMTJTaG1ob1ltUjRsb0xKWTRVVjJneWxUWHpZNUlFTEg4Vk1VWkRnSDBfNHlpbmZ5VUJOa1FaZTlKZG1sQmhSNEItZWRVYWR4SkJyLVpTX1NjMEEzeWpONkRPbEJpM29kT1pEa1ZQdFRkbFlGWm5vV2lLYXJLTl9UTVplMm5aVU8ydG1lMmtxUDZPVTR4b09fQTQ4NzhER0syM1JvTi1BNNIB0gFBVV95cUxQZlhrQl9MejIxOE1JVUVFelM3RUVwekR4RFFrVXFKTlM0bHRCNEJySjV0UGZlT2NzVmlxWGFhS2ZUVWZDaTd1TE9yTkZPWUhlYkhLcFJFczY4VTdHU3IzMkpWVzJ3WnJhbjlLZHpwTGVxUDNLR0U1QllESmcyRFZxb2R5OHJvNHVjRkkwNGV0MEZoZ05xVFBmNmZlVVVmQkp4ZExTMWRVSVFFNGlZVVlxNUhZbXNZcjlINVlvRTJrMktlV0ppNGJvRG5JYzZtSW5nM2c?oc=5",
+   "date": "2026-11-18T15:28:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "f5282ad69c38",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech at Jefferies Global Healthcare Conference: biosimilar push gains pace - Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ3lMLTlnNUs5ekVWVXpzclI4QjJTNUpPVWF6Wlhjd3Z2UVhQUUdTZW1qeTNfeEh0VEdNV3ZBTjB6WjhJX0ljS0JjYk1TQUtBSFM3eFZNd3RKZ043YzVBNUUxSjBtdjcxdmpranJaRHdoNUlJcmFoNFBkR2RlNXFfTnNTdExFUHRFTU8xSzB6WEEtcHFtZ2IzR3JPV3RsT1lyTmRVaEE1NEtvRXo2OTFIYy1ISXVmRk8zcUNuelpSM0ZtcE9nSDNyUVhZQjNlemp2WG1rMA?oc=5",
+   "date": "2026-11-18T15:18:37+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "dc71d6ce1653",
+   "source": "BioPharma Dive",
+   "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
+   "link": "https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/",
+   "date": "2026-11-18T14:21:00+00:00",
+   "snippet": "The FDA had several issues with ivonescimab, according to the letter. Elsewhere, Sellas shares rocketed on results for a leukemia vaccine and Biogen and Lilly struck up new R&D pacts.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3e7581be4610",
+   "source": "Google News: biosimilar",
+   "title": "Aflibercept Biosimilar Improves Vision and Clears Retinal Fluid in Indian Study - Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSlhkRFRNeUdfZkZPWTk4OUxTa0V0aUFvemUwSkVvWVM4Nm9BSFltZzNxSVBYRDhiY3VIckFLZ2hSU19xSHpkWjVSSE52TER6bldjaDZsZjhzeTFURHp2UDYySDQ4UENhLUhNUnBhWVc3UmkyeWRXcWxiMTJibVVzWUZkSmtVOHVZaV9RR2pLU3VXZ1NsZmhpMWdUaUk0WG8xZ1loVmdBaw?oc=5",
+   "date": "2026-11-18T14:04:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "ba17a1da5ae9",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Wins EU Authorization for Pebrilzo Under New Biosimilar Approach - Securities.io",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQmJVTDZaVXd1SjZvQm1TMXZLTWY0c3BoRGlISzVJTExEYmg1aGNXeHo0R25zcjZLTFgxYmtVQTQ1OWpZNXcxdXNETmcxRGJjY0NzR29jVTdGaEZEM2FDRGFndHNfLVJhT2xwNzlNYi1FZVpHSFgwZUppRmplUmdXc3oyN0tQMUs4ZzRvSzFzeV9MVTJOUlA0WTcwQTNCRDA?oc=5",
+   "date": "2026-11-18T13:45:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "66999e437487",
+   "source": "Google News: biosimilar",
+   "title": "Biocon's Pertuzumab Receives Marketing Authorization in EU, First Biosimilar Authorized Under EMA's New Tailored Clinical Approach - PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVXJCR1QtNFNSQzQ1cElrYzdnakE4cm5xTzJPaVdld2ZHSDhfY25pMUVVNlVKclJoVUkyYjNFNDRCQUQtejJwYlBHbXZxRTVIM3A5TGRUUVpJaElqZG5UcERYRHFMOUVZUzZHZXZFdmVBT2hyUG9vVVNjN2NWN3oyOEZVOGxnZWQ0aEJ3T0Q2RlFXMlF0RTRxVEZzR0JnSGpIN0lzazlhY0NMemJPd2MwWnprWUdvVjl1aXhfUU0wYUdjMWtYNFZIOHgtSE5TYndtazJMakN1UUNxNEUzUzlESnlMT3RXRnYzME9xNFhYNDFndmZ5c3VDTzIwdWpnT19ubXVPNGEtUlJuUjBDRGNrdw?oc=5",
+   "date": "2026-11-18T13:22:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "86a12fc8a20f",
+   "source": "Google News: biosimilar",
+   "title": "SDZ: Biosimilar scale-up, launches and internal supply underpin the 2035 growth ambition - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWXVpWjJpcEk1dzNuUGtkcldaMjNBTFRVeC1BWWNOWXdjaXdUMXJkU2dhRWE0Sno3RUxPcC1ZTndGb055OS1vYVJFQ3lzNVA5XzRxVm9GcmVuWEVWdUMzUWhGSWwwYk9idmFaVXV2RkhWajdORmN6bHQtREt4LUxsM1pJcjNURFI3TWFqMW94bVpkbkNCU2tHRHR0dVZkeUhjUW1qNWdwTGNDeDRFeTRmN3I2NmZ0WHNyNDhkalBVR3JjbnVpRFNFWC1UZXlzN0VMLWZ4WkpSck1ScUVjVk8yTzh2YXpQdkxXejRGME5qd1gySlA3RThPU084bUtpQVMxOGFj?oc=5",
+   "date": "2026-11-18T12:49:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "ea445288c89d",
+   "source": "Google News: biosimilar",
+   "title": "Two bone-drug biosimilars enter the Canadian market - Benefits and Pensions Monitor",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQmJpbzZvRTZCMTlvU3NkQVR5VmJrcnFDVUkwVFBhV0U4NThwdXNWWGc1Vml1UlBkVExrenljUUptUXNSaGpVUWttVTZ0RVo3WHJGOTFyWTIwd1VsY3R3UmFFOVNuZ0V2V0tXYW1iZjA4VGFvV2xZLUZZbnlnbTBKOERZc2RPdzA0RHpPMXJJUVV5UlIzeU8zYlZkTkE3ejZwU3dnc0RNNzB3YkxqVUxURHRyNnNDenlQ?oc=5",
+   "date": "2026-11-18T12:45:29+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "79413af56df4",
+   "source": "Google News: biosimilar",
+   "title": "Fixing The IRA For Biosimilars: How A Key Legislative Bill Could Rewrite US Price Negotiation - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOWjAzQ01oMWhSUEEySnhVa0Q4WFZlYlg4NGR2ZEttNFpkZ0V2MDZFSkpacXQ4X3p3NWRNUGl4Qmd6cU9lcjlzVDJOcnp2ZURvUjA1ZXJHdHhLOFdLSWVyckRrbkJUUldZbWVhRU9XTHdXenB3aXdJTFhqYmRvdzgwR19sbS1kczM2NGI4MTctRHp5R0Qtam5xbXJPM1ZUT2IwNUFMY1NKRVF0OEFFci02WTZqQXJ5STNNQ2trbk9xRG5VRzRuZnhSU2FGN2pXR09UblhuSVBROUR5N2h3TzE5Ul9xelN5cGJIRm5lekxoU2Z5Q1FteUZpeEQxcFc1V1RqMjMzbnBXbXYyM1I5dExYVmo2OFNrMU8tX0E?oc=5",
+   "date": "2026-11-18T12:35:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "87dff08ca549",
+   "source": "Endpoints News",
+   "title": "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics",
+   "link": "https://endpoints.news/pfizer-gets-into-in-vivo-car-t-through-licensing-deal-with-starna-therapeutics/",
+   "date": "2026-11-18T12:23:46+00:00",
+   "snippet": "Pfizer is entering the in vivo CAR-T race, paying $330 million upfront to Starna Therapeutics. The deal gives Pfizer exclusive rights outside of Greater China to three pre-IND assets in autoimmune disease. The pharma will ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "56ca359bbc4e",
+   "source": "Endpoints News",
+   "title": "AI bio startup Boltz raises $110M Series A",
+   "link": "https://endpoints.news/ai-bio-startup-boltz-raises-110m-series-a/",
+   "date": "2026-11-18T12:00:27+00:00",
+   "snippet": "LONDON — Less than a year after launching from stealth with $28 million, the AI bio startup Boltz has raised a $110 million Series A round, its leaders exclusively told Endpoints News. The ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fa69738f82aa",
+   "source": "Endpoints News",
+   "title": "Merck ends the sorry saga of BTK inhibitor it got from ArQule",
+   "link": "https://endpoints.news/merck-ends-the-sorry-saga-of-btk-inhibitor-it-got-from-arqule/",
+   "date": "2026-11-18T11:43:38+00:00",
+   "snippet": "Merck has ended development of a BTK inhibitor that was the main reason it bought ArQule for $2.7 billion in 2019. Nemtabrutinib, or MK-1026, was being investigated in a slew of trials in blood cancers ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "f561162d763b",
    "source": "Fierce Biotech",
@@ -398,6 +656,18 @@
    "title": "Amneal receives EU approval for omalizumab biosimilar - Investing.com",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmw3emNlaUpZOEFHNnhGak0tVjhwbWp6Q2hJdjB2bWpOdk5MTjVRS2t0LVdfNDUtTnZPaGZkdHhJNGY2dXVCNWU2WFBUanUtZkx1aUVlZmZYQ21EVEpHOEpEaTE4OGhiMzF3NHBEcEw0SzE3MnNUU2YzWXFuVXBKSGgxUHdOeVdXeDNQUEJ5MG9BZzQ5M2luYl9yYlo1NDhaSjhPMF9Jb1JEd0xpTzhB?oc=5",
    "date": "2026-11-17T21:24:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
+   ]
+  },
+  {
+   "id": "3b252e974aa1",
+   "source": "Google News: biosimilar",
+   "title": "Amneal receives EU approval for omalizumab biosimilar By Investing.com - Investing.com Canada",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVM3RHR1YTBFbzZmalY2N1AxSm01MzFkcy1aZHFhQ2RTSjRnZVVEeTYzcmk0bGpQRzRHUnM4UHJvMGExQ2FlbHR2WF9jWTdZYXM3b24xbVZ0YjFFeXJ3RVluX01xdkIyREhVTkhrVmNCSkVjOERvdUtPeFRYUmJqRDB6RW9oWTA1blMxemRkazl2N3BwUEYzYXRBa1B4QjdUMDFMSF9ubUZ2NkxEUFRMZ1VULVE?oc=5",
+   "date": "2026-11-17T21:16:25+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
