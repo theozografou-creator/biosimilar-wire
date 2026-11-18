@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:31:39.178551+00:00",
+ "updated": "2026-11-18T02:53:22.688399+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,13 +35,13 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 10,
+   "count": 12,
    "error": ""
   },
   {
@@ -52,6 +52,260 @@
   }
  ],
  "items": [
+  {
+   "id": "4c0e1583c24a",
+   "source": "Fierce Biotech",
+   "title": "Heidi Overton’s FDA nomination pulled by White House: reports",
+   "link": "https://www.fiercebiotech.com/pharma/overtons-fda-nomination-has-been-pulled-white-house",
+   "date": "2026-11-18T02:53:22.688399+00:00",
+   "snippet": "The White House is reportedly pulling Heidi Overton’s nomination to lead the FDA just hours before the Senate was scheduled to vote on her confirmation.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8fcb314eedcf",
+   "source": "Fierce Biotech",
+   "title": "FDA’s complete response letter for Summit’s ivonescimab cites China-heavy data beyond survival miss",
+   "link": "https://www.fiercebiotech.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss",
+   "date": "2026-11-18T02:53:22.688399+00:00",
+   "snippet": "The FDA’s rejection of Summit Therapeutics’ closely watched PD-1xVEGF bispecific ivonescimab extends beyond its previously reported failure to show a statistically significant overall survival benefit.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "89dc6204edf6",
+   "source": "Fierce Biotech",
+   "title": "Scientists uncover ‘very detailed map’ of an enzyme target for rare metabolic disease",
+   "link": "https://www.fiercebiotech.com/research/scientists-uncover-very-detailed-map-enzyme-target-therapies-rare-metabolic-disease",
+   "date": "2026-11-18T02:53:22.688399+00:00",
+   "snippet": "For some rare genetic diseases, the problem isn't a missing protein but the buildup of toxic molecules that the body can no longer clear away.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9410aa3f4440",
+   "source": "Fierce Pharma",
+   "title": "Heidi Overton’s FDA nomination pulled by White House: reports",
+   "link": "https://www.fiercepharma.com/pharma/overtons-fda-nomination-has-been-pulled-white-house",
+   "date": "2026-11-18T02:53:22.688399+00:00",
+   "snippet": "The White House is reportedly pulling Heidi Overton’s nomination to lead the FDA just hours before the Senate was scheduled to vote on her confirmation.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "676a4280a0f7",
+   "source": "Fierce Pharma",
+   "title": "FDA’s complete response letter for Summit’s ivonescimab cites China-heavy data beyond survival miss",
+   "link": "https://www.fiercepharma.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss",
+   "date": "2026-11-18T02:53:22.688399+00:00",
+   "snippet": "The FDA’s rejection of Summit Therapeutics’ closely watched PD-1xVEGF bispecific ivonescimab extends beyond its previously reported failure to show a statistically significant overall survival benefit.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "510e00658283",
+   "source": "Fierce Pharma",
+   "title": "Cosentyx bags FDA nod for 11th indication as Novartis looks to buffer 2029 patent cliff",
+   "link": "https://www.fiercepharma.com/pharma/cosentyx-bags-fda-nod-11th-indication-novartis-looks-2029-patent-cliff",
+   "date": "2026-11-18T02:53:22.688399+00:00",
+   "snippet": "Cosentyx's latest FDA approval marks the aging biologic's 11th indication and the first of the anti-IL-17 class to be approved for polymyalgia rheumatica.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5972d72477d9",
+   "source": "Fierce Pharma",
+   "title": "GSK scores FDA approval for Nelkarmi, its 2nd lung cancer drug from Nuvalent deal",
+   "link": "https://www.fiercepharma.com/pharma/gsk-scores-fda-approval-nelkarmi-2nd-lung-cancer-drug-nuvalent-deal",
+   "date": "2026-11-18T02:53:22.688399+00:00",
+   "snippet": "On a hot streak, GSK has won a third high-profile FDA approval in recent weeks, this time for the second lung cancer drug from the British pharma’s $10.6 billion acquisition of Nuvalent earlier this year.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "90bdf157a52b",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Secures US FDA Approval for Pebrilzo - Machine Maker",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcjlza2w4ZGZVSjZrdTI1MEtTVlkxSGl1dzhwa2ZIUEdlazlCVFVneHNnMDRaOHdGWDRKR3dXNlhrb3pBNEhpY2tMb2FwOUVRRTEwTkVhLTNhSjlYT0lSZ0FRTFViWUJyTGtpWlhjYmhBVFZxOEI3U0w2eDNTZ1RGaTNndw?oc=5",
+   "date": "2026-11-18T01:24:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "508ebcdaf1d6",
+   "source": "Endpoints News",
+   "title": "#CTAD26: Biogen’s tau drug slows Alzheimer’s more after nearly two years",
+   "link": "https://endpoints.news/ctad26-biogens-tau-drug-slows-alzheimers-more-after-nearly-two-years/",
+   "date": "2026-11-18T01:10:35+00:00",
+   "snippet": "BOSTON — The benefits of Biogen's experimental Alzheimer's drug seem to get better with time. Over the summer, Biogen reported that the lowest dose of its gene-silencing therapy diranersen slowed the disease by ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "822aa00ccaeb",
+   "source": "Endpoints News",
+   "title": "White House pulls FDA nominee Overton amid uncertain Senate support",
+   "link": "https://endpoints.news/white-house-pulls-fda-nominee-overton-amid-uncertain-senate-support/",
+   "date": "2026-11-18T00:34:10+00:00",
+   "snippet": "Heidi Overton, the Trump administration’s nominee to lead the FDA, has been pulled from consideration, according to a White House official. The Senate had been considering Overton’s candidacy as part of a group of nominations ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5dd9aacf852c",
+   "source": "Google News: biosimilar",
+   "title": "AstraZeneca unit defeats Soliris antitrust suit over biosimilar delays - Life Sciences IP Review",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMk84RDlCUWRzNFNyZ0IxUy1LRXBteTRNMHBWTzduc2NjWW1BcVVEMlNyNklIc2pEN3NOdmttMjlTWE1ZZGlXMXpCNE94Z2J3VVl5YTBUbExiUFlZUVRwUGlSSG9CUWxTSVFfSURGZEp4ZFFlZ1hYN3ZBTjNvSGI5TDlZVFhZb05LYllQYzlaQWtPbzFUUVNFV3d3Q0JtejVoTmt4OHk4dnVYQVppekU5eUVxbG4tZw?oc=5",
+   "date": "2026-11-18T00:33:45+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "60b433809784",
+   "source": "Google News: biosimilar",
+   "title": "Hana Securities Initiates Celltrion Coverage With 310,000 Won Target, Betting on U.S. Direct Biosimilar Sales as Growth Engine - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CZmRzR1d0bHZvYVNjemctMDY0a3RCaHpMSkFGX3EzYnB1VzY0TzRzcmtHdzBpOUt5Rk1pZkE2TWtVQUdMNE13UEIzOUFaYkRnZ0hYMDBTWGZfcEVQWmViN0xTX3h4cXlEd2hoemozUTNSRF9yb2c?oc=5",
+   "date": "2026-11-18T00:05:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "c4943d77293d",
+   "source": "Google News: biosimilar",
+   "title": "Hana Securities starts Celltrion at Buy on U.S. biosimilar gains, sets 310,000-won target - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSHdBc2FCUm8tOWtQTWx2ak5LVW12YzVIcXhLSFJMYzVrN3BjNExRSWFIMjM3ci12YUNCOWg4LWtyMnpsd0FiLXNzcGZQTTBnRFBVZ1N4TlZ6QnlQb2F2eTVXYmFFV1k0WVAxX1dCX2ZZTW5ZSjhscHY2QVBqeXdvT9IBlAFBVV95cUxPdEdTWi1TRjJpOG1yc1c4bHRJUFl0bXZpOHhDMEJjU2RtNHREZ1hBVjZySFJNQS02bWt0ZjJWS3NlVWdOOHVYS0RmQWZXa0VBMGNpMWx6UGkzLUZtVEFsU0JNSXY1S3h3d2VuUzY0cGVZN2R0RXczNlZ5eWJfSVVJNDJHYTg4bHYzQlFObTliTk9MdUZl?oc=5",
+   "date": "2026-11-17T23:44:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "9000c7364ac8",
+   "source": "Google News: biosimilar",
+   "title": "How Congress can lower prescription drug prices - Washington Times",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONUV0UkFkRmVyVHpOTHNZZjRTd2dSMXlQQzE3Y1ZFRWtBXy1kWENqY0dQbHhES3k3U2Y2TEsxeHg5LVVENTFhTzcwMUY2dGdBZ25DZjdsNDdka0RoYjZnc1hVS0tvLVkwemVLQTlYZEtqN3ZSREZOZDFIaXVsTE95QXM2YVc5Z0hzVllscWtlZHRTT1U?oc=5",
+   "date": "2026-11-17T22:10:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "92c29f921a51",
+   "source": "Google News: biosimilar",
+   "title": "Korean biosimilar rivals team up as drugs lag at home - Korea JoongAng Daily",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUVDWHE5cUZaOGpYeWF1ZW5tQ3k1Y2plOWY1VXU5d3RyM21pZFBodkFKbzZQM2FXUDlOWlpTY2F5aG90Z2MxZDMtUVZxZk1aYTBSMy0wT1BkdWFfdEx3dHlTVENTX21LU0c3b2RlR3JNNnVidDdSWHhib2JldGYwQ2VNM1ZlZUliVE9kR2NiU002UGVLeEM2OE1hYmFnY3RyYnBEbGxwemg0UQ?oc=5",
+   "date": "2026-11-17T22:04:35+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "16c83786b220",
+   "source": "Google News: biosimilar",
+   "title": "Amneal receives EU approval for omalizumab biosimilar - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmw3emNlaUpZOEFHNnhGak0tVjhwbWp6Q2hJdjB2bWpOdk5MTjVRS2t0LVdfNDUtTnZPaGZkdHhJNGY2dXVCNWU2WFBUanUtZkx1aUVlZmZYQ21EVEpHOEpEaTE4OGhiMzF3NHBEcEw0SzE3MnNUU2YzWXFuVXBKSGgxUHdOeVdXeDNQUEJ5MG9BZzQ5M2luYl9yYlo1NDhaSjhPMF9Jb1JEd0xpTzhB?oc=5",
+   "date": "2026-11-17T21:24:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
+   ]
+  },
+  {
+   "id": "167e1de46df3",
+   "source": "Google News: biosimilar",
+   "title": "Amneal Pharmaceuticals Announces European Commission Approval of Adcomfo Biosimilar to XOLAIR - Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTRINWY0R1Bfem9za003ejl6a0g3dkZvcTk2S19yMXZBLXBmbDlkbklFSTJ6amFPLWQtY01ZYWtjaEZkeWVqU25KN0hIWDVERFd3aktzd1pNS0N2VHNSWWhHLUhsUUE3ZHAyTGhTYnFEOFAzQlI5ZkM0ZmNuUm9famktSTJLWkFYMG9DTHNReGZJZ2xFMU5JdllDbjV5RmVqWUdIYzdlWkl1cXo3eGotb3JLNGpPd2plVUd5cnpmUHoxOXFy?oc=5",
+   "date": "2026-11-17T21:13:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
+   ]
+  },
+  {
+   "id": "df3bafe14459",
+   "source": "Google News: biosimilar",
+   "title": "Amneal wins EU approval for Adcomfo omalizumab biosimilar - StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaW5uR0hJV1Nkb0FMaWIwMzFNWTRWeDNRRVY3aHh3Q0pIYkNpVGw5R2JVT0ZuWTJfR040TFBXOUg1QUE2R2ltSENEU05mVXA2bkVVS1V4aTloWDktZEdrYTZBb1pBSDk4Tk14S3hiQTAyaDZqV1lscWtWaDVJRVhzUDNQOVlHOVVfT0xtbURfVnFlX2F1Z2JieHNoODJsUXotVkUzNnlfT1VnemxFNXdybUduSzZ3YWM?oc=5",
+   "date": "2026-11-17T21:08:57+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
+   ]
+  },
+  {
+   "id": "8db352588784",
+   "source": "Endpoints News",
+   "title": "FDA flags potential VEGF-related safety concern in Summit rejection letter",
+   "link": "https://endpoints.news/fda-flags-potential-vegf-related-safety-concern-in-summit-rejection-letter/",
+   "date": "2026-11-17T20:35:54+00:00",
+   "snippet": "The FDA flagged a safety issue in its review of Summit Therapeutics’ and Akeso's now-rejected cancer drug ivonescimab, raising questions about the viability of the whole class of new bispecifics, though the ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a0418852ba82",
+   "source": "Endpoints News",
+   "title": "Beren wins FDA approval for long-studied rare disease drug",
+   "link": "https://endpoints.news/beren-wins-fda-approval-for-long-studied-rare-disease-drug/",
+   "date": "2026-11-17T20:25:23+00:00",
+   "snippet": "A molecule designed by government scientists more than a decade ago has won FDA approval to treat infantile-onset Niemann-Pick disease type C, capping a winding and rocky development path. Beren Therapeutics, developer of Lembaz (adrabetadex) ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a8423b8dc04b",
+   "source": "Endpoints News",
+   "title": "GSK’s Nuvalent buyout delivers again as FDA clears Nelkarmi for lung cancer",
+   "link": "https://endpoints.news/gsks-nuvalent-buyout-delivers-again-as-fda-clears-nelkarmi-for-lung-cancer/",
+   "date": "2026-11-17T19:50:35+00:00",
+   "snippet": "GSK has secured a US accelerated approval for its oral lung cancer drug neladalkib, one of two assets at the heart of its $10.6 billion purchase of oncology drugmaker Nuvalent earlier this ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c18b99bb5388",
+   "source": "Endpoints News",
+   "title": "On eve of Senate committee vote, Trump's FDA pick hasn't locked up confirmation",
+   "link": "https://endpoints.news/on-eve-of-senate-committee-vote-trumps-fda-pick-hasnt-locked-up-confirmation/",
+   "date": "2026-11-17T19:49:31+00:00",
+   "snippet": "On Wednesday, the Trump administration's pick to lead the FDA will face a key vote in the Senate. Whether she'll pass or fail may go down to the wire. Less than 24 hours before the ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7bb540d64b61",
+   "source": "Center for Biosimilars",
+   "title": "Fragmented Incentives Shape US Biosimilar Adoption, Access - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOblNJM3QyS0hZbk5RbEZEVFRkZnR0Qk95Njl1cmRPdTExWEt0N3MtLTJrVnByT1ppMUJwRXkwTDM3bktKQUdzdUc2aEJtcG1zMGpwMGg4X2hfQjRQZmhYdHlDVW1YWkRhdEJDdG5MLW5VaEFNSHNkZGRfajl5YkNqc0ZqNzA0Rm53TnpLcUpZWkhQRlNoRElhQjRIRVhkT3o2?oc=5",
+   "date": "2026-11-17T18:42:37+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "ad314685e717",
+   "source": "Google News: biosimilar",
+   "title": "From Keytruda biosimilar to novel ADC: Samsung Bioepis’ 2-track oncology strategy - Managed Healthcare Executive",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnB5RGZtVEJOYlZULWF6enZhd0RqbmlsYjBWOThKWk5taHA2VEdjZHZjdVZKNFNVTndIM3JQLUh6ZkREQzRUNC1VTWRYUEx3clQ3aXNOR0xNdUtrQ0lTYlNKVko1OGhWVDlWUXhWM2g2a1VuWHh2OVlPRkNLRGdSRUlvUGR6ekpDd0NkN2U0TlhiOXNZTHc0RWJFX0hpMG9teVdhcXZOX0FGNUtvVXdLUTh5QXh2eWJZNmM0?oc=5",
+   "date": "2026-11-17T18:39:35+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
   {
    "id": "3f4c0b00b077",
    "source": "Fierce Biotech",
@@ -251,6 +505,18 @@
    "snippet": "Hello from Las Vegas! The Endpoints team was undeterred by Friday’s ground stop and has been roaming the conference floor at HLTH to get a sense of where health tech is headed. Here’s what we’ve ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "cbb5330382c4",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius Kabi Enters Canada’s Crowded Denosumab Biosimilar Market With Oncology Pre-Filled Syringe - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPV3JlVFdSWWFVSXFSaXFpT0VQMG9QYTVtVWI3SGs3X0JqTnpxa3Q4bGVKaFlCMDhheGJQWXlNZ1o2Qk56U0RuY0Q3ZXoxY2l6S1lhQTd0ZGZJazY2dFU1SlJjc1lRYmEwY1ZEQkJyaGdtdWlHd3JXMnVET1VfT296bXFjMnNkZ2pwS3ltV1czbnJxMURFRGVxdTczejFSSGlfXzlpYnBpTW0xZ2dOaDRQbzg2UEU3cllWc0VWTGswQkRUczdNU0VVVHprWTRKUzFCTWFsaEZwbXFJUDVVZmlHT212M25fMjNGTFJEanlfVnB4MmFvTnVKZC1JaHJyaE9IUWhaYUdReFpxdm43eS1CM1BpcGxNVm51Um5IMHNJMVc?oc=5",
+   "date": "2026-11-17T16:04:23+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Fresenius Kabi"
+   ]
   },
   {
    "id": "caea8aaba598",
@@ -21920,16 +22186,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXpQSUw0b0p1NGs0Tk5NUGdMZl9rYUo4bDJXeFV0RS1aSUVUaHZSMkpaZFlHN25SZ3h1ZmljZ2JZYno5anVZQ09IWm1QWHM4RnFVeC1rckxFUzl3b2lrQzJJWGsybkZKR2FkVnFlVnk5RldCN1pyZU9JNUh1UDJiMUNHMVYzWmdUR2tlTmVRUHJCQ3Y0VjNrSFg2TUIyRkZCTjBrc0pDUm9HWlZO?oc=5",
    "date": "2026-09-22T10:25:54+00:00",
    "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "c062fac1e4f5",
-   "source": "Big Molecule Watch",
-   "title": "BMS and Ono File BPCIA Suit Against Amgen for Nivolumab Biosimilar",
-   "link": "https://www.bigmoleculewatch.com/2026/09/18/bms-and-ono-file-bpcia-suit-against-amgen-for-nivolumab-biosimilar/",
-   "date": "2026-09-18T19:03:02+00:00",
-   "snippet": "On September 8, 2026, Bristol-Myers Squibb Company, E. R. Squibb & Sons, L.L.C., (collectively, “BMS”) and Ono Pharmaceutical Co., Ltd. (“Ono”) filed a BPCIA complaint in the U.S. District Court for the District of Delaware against Amgen Inc. (“Amgen”), alleging that Amgen’s ...",
    "biosimilar": true,
    "watch": []
   }
