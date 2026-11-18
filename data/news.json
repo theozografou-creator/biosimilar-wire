@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T02:53:22.688399+00:00",
+ "updated": "2026-11-18T11:36:20.633841+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 12,
+   "count": 10,
    "error": ""
   },
   {
@@ -52,6 +52,190 @@
   }
  ],
  "items": [
+  {
+   "id": "f561162d763b",
+   "source": "Fierce Biotech",
+   "title": "At Fierce’s London event, Big Pharmas tell biotechs to ‘be transparent’ to secure deals",
+   "link": "https://www.fiercebiotech.com/biotech/what-makes-big-pharma-deal-be-transparent-dont-spam-us-and-not-using-patent-cliffs-reason",
+   "date": "2026-11-18T11:36:20.633841+00:00",
+   "snippet": "Every biotech looking for a suitor wants to know: What does it take to charm a Big Pharma into a deal?",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bf7b491a14e0",
+   "source": "Fierce Biotech",
+   "title": "Vertex signs $220M deal with Genomics to re-up long-running discovery pact",
+   "link": "https://www.fiercebiotech.com/biotech/vertex-signs-genomics-220m-4-more-years-long-time-discovery-pact",
+   "date": "2026-11-18T11:36:20.633841+00:00",
+   "snippet": "Vertex Pharmaceuticals has re-upped its ties with sequencing specialist Genomics in a deal worth up to $220 million, signing on for an extra four years on top of the eight the companies have already worked together.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "58d488ce93f6",
+   "source": "Fierce Biotech",
+   "title": "Priavoid’s Alzheimer’s pill fails to prove efficacy in phase 2 trial",
+   "link": "https://www.fiercebiotech.com/biotech/priavoids-alzheimers-pill-fails-prove-efficacy-phase-2-trial",
+   "date": "2026-11-18T11:36:20.633841+00:00",
+   "snippet": "Priavoid’s pill for Alzheimer's disease has failed to prove its effectiveness in a phase 2 dementia study, although the German biotech pointed to encouraging signs in the longer-term data.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0cd0befd227f",
+   "source": "Fierce Biotech",
+   "title": "FDA clears MiniMed Fit tubeless insulin pump",
+   "link": "https://www.fiercebiotech.com/medtech/fda-clears-minimed-fit-tubeless-insulin-pump",
+   "date": "2026-11-18T11:36:20.633841+00:00",
+   "snippet": "MiniMed announced has picked up FDA clearance of its tubeless insulin pump, the MiniMed Fit.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "223ab8ff8733",
+   "source": "Fierce Biotech",
+   "title": "Cognito phase 3 flops in light-and-sound Alzheimer's trial, but sees ‘signal’ for HOPE",
+   "link": "https://www.fiercebiotech.com/medtech/cognito-phase-3-flops-light-and-sound-alzheimers-trial-sees-signal-hope",
+   "date": "2026-11-18T11:36:20.633841+00:00",
+   "snippet": "Cognito Therapeutics said its phase 3 HOPE study of Spectris AD, an investigational, non-invasive, at-home Alzheimer's therapy that uses light and sound stimulation to engage brain activity, failed to meet its primary endpoint.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "17fe26c99d65",
+   "source": "Fierce Biotech",
+   "title": "Merck axes $2.7B BTK inhibitor program after seeing phase 3 data",
+   "link": "https://www.fiercebiotech.com/biotech/merck-axes-27b-btk-inhibitor-program-after-seeing-phase-3-data",
+   "date": "2026-11-18T11:36:20.633841+00:00",
+   "snippet": "Merck & Co. has stopped a trio of phase 3 blood cancer trials after one study suggested the benefits of the BTK inhibitor may fail to outweigh the risks, bringing the curtain down on a program stemming from a $2.7 billion takeover.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "463f48990e56",
+   "source": "Fierce Pharma",
+   "title": "Novo expands DTC program Novocare to support Wegovy users through holistic health journey",
+   "link": "https://www.fiercepharma.com/marketing/novo-expands-dtc-program-novocare-support-wegovy-users-through-holistic-health-journey",
+   "date": "2026-11-18T11:36:20.633841+00:00",
+   "snippet": "Members who sign up for Novo's new Novocare can benefit from holistic health services meant to support Wegovy users throughout the entirety of their weight loss journey.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "76cc25ea0a82",
+   "source": "Google News: biosimilar",
+   "title": "Simplified regulatory pathways are key for the future of biosimilars in Europe - Clinical Trials Arena",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQi1ZWnVzTDlTTjFzTGtQQUdzb2FtMkJ1VlVtWDZNeS1SOERselRUTWxmems2OGRWTmhGNUQzek9KMzBObFNuS0JicjRvaHY0Vk1qRE1NeHhVTFFDcV85RlRoNlh3REV3SnFUSXY1SklLS1JBYjhJMTNwNFNTRnluTF9rQnYwb2JvSXJxZXRBQkVQRG53WTQ0YVd0ZHp5cm5ad0s1V0ZCcFNJc0NCei1Cb2wtYXRaMExmS0MyY1pxdmtBUQ?oc=5",
+   "date": "2026-11-18T09:59:43+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a6de52d3dc30",
+   "source": "Google News: biosimilar",
+   "title": "Biocon’s pertuzumab biosimilar gets European Commission approval - ET Manufacturing",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeFFCVDFXWkxBLVlvWkZSenJMS3BaUjN0SnRjMnQyMWxfZ0YwdW5ZNUNPT195SE90c2JRSGdTdS1uWW5fTExQdUZ4U1FqSC10STJuUVRMNXNjWU5ka0E5cjZkS21iTF9IUmY2elhIMGFia1pMM19lWlh4NTZYa19YS2M2MlBCRzhsMXRWWTh2MlZyZzZzMFNsaFA5REZVYWVBNFJPN1JJaVlFRGhJdnRDblk5LV9zaHdfbW5BOUVXYTN4NmVTVjNyblVfNko3VVJreXkwOW9UNnp2NDDSAd8BQVVfeXFMUDRDSnI1Y2xJR1RhVlI0SFZoZ0ZCM2JvaFo3N3JKS05SVHpkbmhQWkNxeUdOaDdLZFAzcm5seWg2Z2tTZ0dZcVBPaTJUOFRfRDM1NGJVbjZXRmhjMG1hVVFpUUdpUW5zOVZzdHhFcHhqZUxVOUl1OVBuSG9xQjFCdjE5R2ZMekZ1WkNiVXphQV9ibHJBZTNNM0k3Wnp0RXNuelJuTWxPa2xkNzAzdXFWMFcxRllxN0tYUXVrbEdxWThuMUVORGxfak8tT2RHakZnQmpuUVhfUzNUYWUzSUZRWQ?oc=5",
+   "date": "2026-11-18T07:27:37+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "9d8716d199b0",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets European Commission's market authorisation for biosimilar for breast cancer treatment - CNBC TV18 - LinkedIn",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcGM0UkdPaE9fY3UtWnVlSFNlaUJmY2FqcU5QaFAzMkNzRkFnSWtvV2E0NW11cGgwZlZZcVk1a0trTE05emVXMnBkSzdyYXlNbVVCeGNuWEw4d0RHbFpDUy0xRkh2V1R0T1M0M2hRbEFEMFQzNlZtZ0p4RUc0UEx2aGJQVTVFVEc0QTlzNURXckVScXJQVTF5NFVhUGN6VHdMcTVfbDgxSENqUUFBSTJMUnhpSGk?oc=5",
+   "date": "2026-11-18T07:01:20+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "b9846d6f87d1",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets European Commission nod for breast cancer biosimilar Pebrilzo - DD News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd0NfaXNaVXg1ZE5zeUFjRGNWckk1cWNqZVNUSHNrWnd2SXczZFg5Mmh0clk4Qmg0UDdkTEtqRG11SGhFaVZWLWpHSmtGMDNtV3FDNDlMTkpLNjJfbENXT1VKOXJuQ2VTaXlYTGV0Q3QwUE5HOHFQNFMtcHN0UHlHa1VmN3VuX3MxSWhLN0dCTTRvV2J5Y21YcHVpZjVhcllE?oc=5",
+   "date": "2026-11-18T06:50:02+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "43a1399f93ac",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets EU nod for breast cancer blockbuster Perjeta biosimilar - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVDZMTl9lTHdTOWVtRjNYZXh4czdVNDUwandsb3pqd2JBeXoxd3ZaRUU0LUxWT0IxcFpDbXR3UkN5YjlWakZMM0NCakZaaUQyRE84QkVLWERHa3hjcHN6aWd1Z05UQmt3UEFBVW02MU9IekFTSWpyUFlKWGZ1RXRvTjNLSGVRMnVZcTAzSHBoUjZfRTZFS2duWHpBN3hJM0dDQ3lNeGdCSHdWVHM4T2RfMnQ5Q1FwdTVqdE5SY2tDN1lJZzVuckhFejNCanBESnlIYmV6SzZ6aS1wNjF5ZGFQWjBMTktjMGZFV0HSAe4BQVVfeXFMTnY0SGVScHZHZXAwZVdZaGNFYVRoZWs0UnAtX1ppTGpMWld1bGF6UXZFOHZpSFhZdjRfTFc1LTFZaHN4d0w1c1pMX05PbUZzWnpHZVZ1S1JCSUhjWHAxbHhlbjlZMmhXcEZ1TFlXLUVJbEFlNFpNbXlXdXRZS3hZVDZkME1iNVVMWlVGQmt4VFAzbm5NeWtWMExGbW1BQTh6VE95TWdOUEJ6UUdpek9PeDFuX1pBR21Uc2wya3lTUThvQ3ktRmk1cEt6aW9uYjRZQ3RMNXR2aFoyOWpVczVCMEpVLW1RZVBRRkhEbk9ZUQ?oc=5",
+   "date": "2026-11-18T06:20:17+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "7665fa1f6e66",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets EU approval for Pebrilzo, its pertuzumab biosimilar - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdENzZVNsVTZwTms0Xzk0SFMyTm9RWHlJNUNzbkVjcUJMLTNIb0YxWEROOTFheXFrQ2dKdlpGTEZxS09pM294MGczazJ1bm1zOVptNHhhbG1OWFFIU0huaHVNZHkwb1Vmdk04XzdLSFJGYWctU195NU9OZjY1UVpUQ3pzNm1GUVlaYTcyelI2UWQ5VjZnMGd5SXRkTEF0X0dUMEgyOU40SVhEMEctV0xjWlFPd0FGTW5oenU2TkFBcFNvTmNod2lfLUNmZ1ZZWkFTRWh1VVJ0TTJCQU5yQkNZMWtTTXZwOG1VRGfSAfABQVVfeXFMTW9teFVFWTEyTi1xZkhkMk4tRWNIbVhzWUwxekFIQTZtSkk2bk5xVFRxaURlZE1nVzhsN2VYRkFWUFN0bGQyZldpSUlaWE1TSmltVlZ1cERsc3hHNVNKaEVqMk84YklYZEdFYVFfMENKdGtObkxYVll3LUsyOU1uSUJCZkd6QWd6R1E2YkFrVXduM0RNSXZmdVZ4MGxxc0o0RWVEZGxadC1XQkloaXQ1dUdXN09TYTNEaXpXVGdDeXFsenpHNTJxVGVYNExmNUFSZTEwRlFrRks5eVFwU2NMeEZOYTJXYVV6eFpIeURxaGts?oc=5",
+   "date": "2026-11-18T04:44:23+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "0b34ad906297",
+   "source": "Google News: biosimilar",
+   "title": "News by CNBC TV18 on TradingView, 2026-11-18 — cnbctv:3a1c2f3bd094b:0 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vbEQ3aHByQk55eksyeXFieHRTNDhGT0UzSXdrVDdqdXdHbUFtTERPWXd0RVJ2aC1UQW85NHR3d3I0LWVmRUVEYUJJdHljcmxOVHc4R0s3WjZyVl9XNkllNFBqbTk2S2s?oc=5",
+   "date": "2026-11-18T03:52:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "6a8e25c6b0d9",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Receives EC Marketing Authorization For Pebrilzo Biosimilar Pertuzumab In EU - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaDI2ZzdfUFFHUHNfSkx4NHVlN0c4c3RUaVRnY3ZyMXpCb3pKZWdlN2xvM0ZDQmMwbEN2Ukt3RkpIMFNFS19hT1dRemluUWJRM3pYNi1LVmEyME9LRHJKODMxZGFaMHliTEl5aWlhUUEyZkd6OENKVlRUTnpZSnFKZUw4YnYwdXlqaU9jeURmU3Mxb2pkTWhLLTNZTG9vNmJ4UFFWYVkyNzJqWTNVUHg4YkpJOHFQRmlBcXBqQ21sQ1lEeUU1MXhDX1dBaUJ2WmIxS3hhbzAyWmtkRU1MN0w4M001WDR5Z09G?oc=5",
+   "date": "2026-11-18T03:14:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "4e1b77cf5dfa",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Wins FDA Approval for 420 mg Pebrilzo Breast Cancer Injection - Multibagg AI",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMDFNOEZNcHpNSndyNGx2R0JmbXh2OEFaclNpUVloeWo0eUNLX1BpeVBvZDhHSG5pWE9NNFlKNzhoMWQ4enNIQ19rYVl4UW1qYXFuRUQ0ZC1uVmNqVzNwc1FNcElrOEdIcEp1ajFoa3V5NWhMVFplMHFTYWhHcjdDSG11THQzQ3RiYTN1d3Q5dXVyTVJKY3FtMkJTajVzYVU2alZV?oc=5",
+   "date": "2026-11-18T03:04:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "4cd265afab91",
+   "source": "Google News: biosimilar",
+   "title": "FDA seeks additional information for Sam Chun Dang Pharm biosimilar approval - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0hQT08yT0Nqdlh1bDBFdER2RzhFTUZCZUpoeGVadkJud3pNZWJQdk9HTU05M0x2X1ZvSVRXOTI3TjhIaTNyamhOQ1RjbHkxQXBOeTJySFAyUlUyY0xEQkNlck5PVjEyZHNOOHQtdWNIUkJlNXUtZk5sSDlVWGQyLdIBlAFBVV95cUxPRk1jMXBIUl9UQ3FJOGxENFhibkhVaVV3R0Y4OUgtRzBCZHRtZ3Y3b19YMTZ2ek5fWEgzN0dwdm5HazV5VGFHSnEwSlNPWWFpeHRvTkRwcnJzYWtVeDNnSl9VWGljWUppbEpwQXEyWGhMTGtaUGZHX1VpbVlyUlRMd0d4bzhRUFRwbWFTaHlJZ1F6eEZm?oc=5",
+   "date": "2026-11-18T03:03:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "4c0e1583c24a",
    "source": "Fierce Biotech",
@@ -243,6 +427,40 @@
    "watch": [
     "Amneal"
    ]
+  },
+  {
+   "id": "4b70f98e3e19",
+   "source": "Google News: biosimilar",
+   "title": "Amneal Announces European Approval of Adcomfo® (Omalizumab), a Biosimilar to XOLAIR® - lincolnjournal.com",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNMHVWUlZzUWFFMlpZcnJsUnJJalg5S1lOdzl2VnJ6RVNLQ2FhQ251N2VRTjJRSWNHTER0M2JFM01kaXNZVGVCdHhBZThhUFk3d1ljRzNXME5GZ2tZXzVWZUYwejl1RGVJTEQ5WXQyWndNTzFRWjhzNmgwbkdpbUNyQjA5WU1EQmROcWpPT0RYQmpBclVsSkdGUld6cFUwZUZwUFhIajhkSFVobVBhT2s5ako0VTAzUU1WM0NNNTN3UEJfN3pxMmM0dEdqS2VpaUJOT0RQelZrQ2pPT2NTS2JoMXR2Um5yZWJsa1Y1aURJcjJfRDNqbVJUVzRTdzJvcGtPY3h4TzQ3N2d5eFJTSHp3VjFFbklrNFVGV2FR?oc=5",
+   "date": "2026-11-17T21:05:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
+   ]
+  },
+  {
+   "id": "3fee7cc34d7c",
+   "source": "Google News: biosimilar",
+   "title": "Amneal Announces European Approval of Adcomfo® (Omalizumab), a Biosimilar to XOLAIR® - GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUHJVd3VTN1EyTEZTLW5YdHUyVGxVRWZMblp4ZW1ibkNjWXd6T1AzbUYzRjd6ZlV1bF9vQ0FTa1ZBeG9LSl9PZEYtaW5YOW5icDVJSV9PdU44RFFXUmN3akktS25MY0VacmluVkU2QkFUQkxNZVpnaDFicTg2b0VRV1FUM01FNVNaMERzb1RGTEFybThZanJFbDhjUmRQUHZOQzhOdnlJTldYWHFCT1dJVVRHUnE3ZDZtZEdKWnk0bFRHVk01aWhGRWFpeUVpNjRPUzZOQUhfQkJEaHcwVWNBZmxxYmgyUQ?oc=5",
+   "date": "2026-11-17T21:05:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
+   ]
+  },
+  {
+   "id": "4c44e31229e8",
+   "source": "Google News: biosimilar",
+   "title": "Europe authorizes an add-on treatment for asthma, nasal polyps and chronic hives - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa21oMXpHR3JLQTFUNmJxaFQ1QUpQdmoyX0xxS29MVjdjQzlaZk5zNkswRGo3X1Vfb0VKVTRySWhOcXViOUhBR205UWtlNXdXS0ZwV19nTmYtMXJQTmZiLWRDQnNFcVFKRWZPUHRSWFJwN1p0U1JJcWZEbGVJZWktM1BqRlBxbmpRSmt2eUhpVnA3U3pvZ2Y3Mmszd3piLWVLRTF3Z1FzU1Vwb2ZyS0lIOThxcw?oc=5",
+   "date": "2026-11-17T21:05:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "8db352588784",
@@ -623,6 +841,16 @@
    "source": "Google News: biosimilar",
    "title": "R-Pharm registers biosimilar for head and neck cancer in Belarus - Новости GxP",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3BaWkhGT281NUt1QTN4Zk84OGVQaHh2a1Z2bnVIMU9ScnpXS1ZIOVM1ejllVkotbkhPMl9ydThmWUlaM3lORUNXUC03U2xtWnJENEQxcE40T3VnTWxSU2RISkFBMGFMX1F6WDNCU21zWWprWC15MnJjM05JV2ZOWnZpdi1zZ1pZYTJod01EYV9mM2tQbWVxcXhGcU43VnZ6Wi1mddIBpAFBVV95cUxPN3BaWkhGT281NUt1QTN4Zk84OGVQaHh2a1Z2bnVIMU9ScnpXS1ZIOVM1ejllVkotbkhPMl9ydThmWUlaM3lORUNXUC03U2xtWnJENEQxcE40T3VnTWxSU2RISkFBMGFMX1F6WDNCU21zWWprWC15MnJjM05JV2ZOWnZpdi1zZ1pZYTJod01EYV9mM2tQbWVxcXhGcU43VnZ6Wi1mdQ?oc=5",
+   "date": "2026-11-17T11:22:29+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "4bd1445fd430",
+   "source": "Google News: biosimilar",
+   "title": "R-Pharm registers biosimilar for head and neck cancer in Belarus - Новости GxP",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcE9Zbm9qdzFBdXRMQ1loMFhmWnR4Zk5vcU5xQ0tvMGNzdEg3T2hobU1pRlNJM2RaOG85MUJPVFRJUHR3T0lmSDdiRkpVZzhhaXVaY2NrZ0p4cEpDVmdkbFktWHlKOGV2UjhvVVJYYi1wTkY0dGpvSUpNeUg0emVhVHh0VVVnellwVmF6dXVZcWx0TE5GUlp2UWg5QWTSAZwBQVVfeXFMTnBPWW5vancxQXV0TENZaDBYZlp0eGZOb3FOcUNLbzBjc3RIN09oaG1NaUZTSTNkWjhvOTFCT1RUSVB0d09JZkg3YkZKVWc4YWl1WmNja2dKeHBKQ1ZnZGxZLVh5SjhldlI4b1VSWGItcE5GNHRqb0lKTXlINHplYVR4dFVVZ3pZcFZhenV1WXFsdExORlJadlFoOUFk?oc=5",
    "date": "2026-11-17T11:22:29+00:00",
    "snippet": "",
    "biosimilar": true,
