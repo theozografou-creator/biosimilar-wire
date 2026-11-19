@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:28:13.257083+00:00",
+ "updated": "2026-11-19T02:32:15.668353+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,60 @@
   }
  ],
  "items": [
+  {
+   "id": "d8a2d7ed720e",
+   "source": "Fierce Pharma",
+   "title": "BMS' ph. 3 Alzheimer's psychosis teaser builds confidence in Cobenfy expansion plan",
+   "link": "https://www.fiercepharma.com/pharma/bms-ph-3-alzheimers-agitation-teaser-builds-confidence-cobenfy-expansion-plan",
+   "date": "2026-11-19T02:32:15.668353+00:00",
+   "snippet": "After delaying the phase 3 readout of its Alzheimer’s psychosis program for Cobenfy earlier this year, Bristol Myers Squibb is offering an early peek that appears to bode well for the high-stakes data drops ahead, even as the fine details remain hazy.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "80d0dd61d7d4",
+   "source": "Google News: biosimilar",
+   "title": "South Korea's Celltrion Dominates Biosimilar Markets in Singapore, Hong Kong and Thailand; Expands Follow-On Product Lineup - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yV2N6QmpxdmdhWkNYMjJTLUV0MXZTYWRVZzA4TEtjZzE2ZWJvZDMybzJRSTg5VTY1SzlzY1ZOTDFHZ05pNUhaa1pyS3JpdHBOZjRuT1A4QjdfaXBtYWN3YnQ5TXQ3RUhybC1fMkF3LUYtc2Z6QXc?oc=5",
+   "date": "2026-11-19T01:06:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "21e7fab1ed93",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion leads biosimilar markets in Asia, expands product launches - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN0R2TjdtT01Gd3B5UG9DLWRNOHAzbjVXQlVmM2Q0QkVwdTJNd0l4dmVMVWJQVl9IZ21QcHVoNkpEWXZqdWJFWGRiNlB1bkt4amtjVngzUWpSM2dSZmtmRG1mQ2dxWkxUbkY1NWgzYWh1TVY4QS1pNGdnX2dvVHNsTdIBlAFBVV95cUxQZjBDbUFQRkJhY3c5UmMzZlZ2QVNzOVpXdUJBOVYzUHFITlRtREgzV0xfNDgwRUdQUWMxWFZJb3ctWm41bTQ2UXpIdk1RNkpiTXdlcnF4aXEyazVtV2xnblA3YkZGX01hVXpuWGU3RDR3RGp6SFY1SEUzQi1uRzY4b3p3YlBIcGVmY2Jkelk2U2lmNFpf?oc=5",
+   "date": "2026-11-19T00:25:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "a8e24310557a",
+   "source": "Endpoints News",
+   "title": "How Trump FDA nominee Heidi Overton's confirmation failed",
+   "link": "https://endpoints.news/how-trump-fda-nominee-heidi-overtons-confirmation-failed/",
+   "date": "2026-11-18T22:29:13+00:00",
+   "snippet": "It was less than 24 hours before the Trump administration’s FDA nominee Heidi Overton would face a crucial vote by the Senate HELP Committee. It was going to be close. But Overton’s team had reason ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "07879a2bcdde",
+   "source": "Endpoints News",
+   "title": "nChroma Bio stops its only clinical study early, lays off 50%",
+   "link": "https://endpoints.news/nchroma-bio-stops-its-only-clinical-study-early-lays-off-50/",
+   "date": "2026-11-18T21:19:50+00:00",
+   "snippet": "A couple of years ago, two Boston-area biotech CEOs decided to merge their startups, hoping to survive a down market for genetic medicine companies. Jeff Walsh, the CEO of that combined company, nChroma Bio,",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "c2d2df19cc36",
    "source": "Fierce Biotech",
@@ -204,6 +258,18 @@
    "biosimilar": true,
    "watch": [
     "Alvotech"
+   ]
+  },
+  {
+   "id": "22ebebdf4ddf",
+   "source": "Google News: biosimilar",
+   "title": "Biocon’s Pebrilzo Becomes First Breast Cancer Treatment Biosimilar Approved Under EMA’s Tailored Clinical Approach - BioPharm International",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZzMxQTJ1RXVHczhyRkx3WDRpMnowMW5Qb2cwSG9LMlhCc3czd1d2dWktLUNOdVEzeDlFUzNDbU1RcHR3NTZwWExOMjF6Q3ltbGU1d2xyYWtMd21leHNrc0pVWEhXTEk0NnZGOHZTUmRaTHBDZ0daR2VmY3BNSUNFY1dyVjQyYkg4NmlOaVRBSENmbWwtTnlWU3FnNFl5UHZmS0poTVJDaXZJZ2ZqbXhGQlR3UWp3UERNaE5URFBOa1VZWjNVTk91LVVWT0dFWmlHNkc2bnAyR0NEQlhONjZjeDVsRXRMcUg1Skhpd1VR?oc=5",
+   "date": "2026-11-18T14:27:08+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
    ]
   },
   {
@@ -656,6 +722,18 @@
    "title": "Amneal receives EU approval for omalizumab biosimilar - Investing.com",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmw3emNlaUpZOEFHNnhGak0tVjhwbWp6Q2hJdjB2bWpOdk5MTjVRS2t0LVdfNDUtTnZPaGZkdHhJNGY2dXVCNWU2WFBUanUtZkx1aUVlZmZYQ21EVEpHOEpEaTE4OGhiMzF3NHBEcEw0SzE3MnNUU2YzWXFuVXBKSGgxUHdOeVdXeDNQUEJ5MG9BZzQ5M2luYl9yYlo1NDhaSjhPMF9Jb1JEd0xpTzhB?oc=5",
    "date": "2026-11-17T21:24:36+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
+   ]
+  },
+  {
+   "id": "4623c95f4ee7",
+   "source": "Google News: biosimilar",
+   "title": "Amneal Announces European Approval of Adcomfo® (Omalizumab), a Biosimilar to XOLAIR® - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN3JBaWd4Q24zTi15THZOS0UzbHBXNzJGSVVRNkQxZWRlWDdJdEhqY2RTQ2ZIZWxKaXNpSzRlQVNnTEl2cFZqcW5XTTRtYlBrUjFHWnRhQU9KZmJaZG5mTU1CZUhDdUgzQTNnLXBxbW9DVW9mQmdBUFFRQ0ZwTVBITVl6bXpHWlNWZzhsdm1IR1dPbFAwbXc0N3U3VXRzak5jZUczUVZBY3lBM1pMMTBObVp0X2R2bEd3NUl3OWphYWZkM1RHLUY5SlpPVGdGYkhhbkphRjlwWkxreC1PdXFNNWUxMWpjZGZE0gHuAUFVX3lxTFB1M1JFbjhPenpZM3dQNDJxM2RUeGJvMVRXc2RGNWx2MnRTTDE3REpJclRWWFp2YnY3blVvRHA3dlRnenppc3hEbDVKTk44Z2RLQ29IWFVDd2EwcGR0OExydmNQRnJ4bGFSVUdMVERFVUxtVng5aXZXdzJULVlPY3IwTlBRYjZ6Q3hCUWpXU3hjUlVkSjZyMHFBSkRoYzQ5dmNqaEVEajR0UmdPTy1QZE5tdDc5MURrcXBnLVZSbjNONHdGQWg4ZEN1aF95YkxabWRZanR2OXAyMjdLYk02cVg4X2JXcjJ0Tk5qR1FGZFE?oc=5",
+   "date": "2026-11-17T21:20:23+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -1132,6 +1210,16 @@
    "title": "Environmental and delivery system changes that should have helped control health care costs - Substack",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VUFlua091YWw3U1EtX0xoZlRvaHJIbXNRS3ppTU9zY0U4bWd0emEyMTQ0N1k2TmFaaFZYMTlXYVI5VHppTHp6SDhUdEtxaTZsZV8wS3ZfVWtpSEstTXVEakQ2VTQ3NFZ5TTljbXBuejZpWm9sTnpZdVBXcmlpdw?oc=5",
    "date": "2026-11-17T10:06:29+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "bbd47145f061",
+   "source": "Google News: biosimilar",
+   "title": "The BioPharm Brief: A First for Streamlined Biosimilar Approval, a Head-to-Head Bispecific Trial in Wet AMD, and In Vivo KIR-CAR T - BioPharm International",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYzRNTUwzVFY0OEFTOXZUTmxLOFB5YzdQQ1lRVTB2bndaU1kySGpMZTdhZkxvMno0a0l6NFhwaXFFVS1iajFBdWFMS1N0RkE5OF9MXzVRMGVOc0tYN1hock5GN0hYU0ZSZklqcVBoUXlRQTZ1M21JSEVlVnF6allZcHBPNkxrbmMtNlNYTmc1c09FS0dkUUdhcXhNcHcxbi1sUkl2ZmhSUGV4ZGlZM0NVUGZDNE9pSWh3Q01YdFBHZW1VODB3T3VTT3NVLVJxU25JclRuVHI3OHl5Q051Wi11U3lzZXd0U2JZd2VhSm9yQ3VKelV5eE4ybUhRUVFWd1E?oc=5",
+   "date": "2026-11-17T08:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
