@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-19T11:34:39.714454+00:00",
+ "updated": "2026-11-19T20:31:40.677023+00:00",
  "ai": false,
  "feeds": [
   {
    "name": "Fierce Biotech",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 25,
+   "error": ""
   },
   {
    "name": "Fierce Pharma",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 25,
+   "error": ""
   },
   {
    "name": "Endpoints News",
@@ -35,13 +35,13 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": ""
   },
   {
@@ -52,6 +52,332 @@
   }
  ],
  "items": [
+  {
+   "id": "4a41c0e2c135",
+   "source": "Fierce Biotech",
+   "title": "Vaccine biotech Evaxion halts infectious disease, autoimmune work to focus on oncology",
+   "link": "https://www.fiercebiotech.com/biotech/vaccine-biotech-evaxion-progressing-only-oncology-assets-rd-refocus",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "Evaxion is refocusing its R&D efforts to solely focus on developing and advancing its cancer vaccines.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "55789410e5b9",
+   "source": "Fierce Biotech",
+   "title": "nChroma halves headcount, calls time on trial of potential HBV ‘cure’",
+   "link": "https://www.fiercebiotech.com/biotech/nchroma-halves-headcount-calls-time-trial-potential-hbv-cure",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "nChroma Bio’s workforce is facing a second round of layoffs in 12 months, with the Boston biotech halving its headcount and scrapping a trial of its lead hepatitis asset.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e589552eb73d",
+   "source": "Fierce Biotech",
+   "title": "Isomorphic adds Merck to AI drug discovery roster days after $5B raise",
+   "link": "https://www.fiercebiotech.com/biotech/isomorphic-labs-adds-merck-ai-drug-discovery-roster-days-after-5b-raise",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "Isomorphic Labs’ big week just got bigger. Days after raising $5 billion, the AI-powered biotech has added Merck & Co. to a list of partners that now includes three of the top four drugmakers by revenue.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a6a2bd806880",
+   "source": "Fierce Biotech",
+   "title": "Teva loses R&D head Eric Hughes amid push to grow innovative medicines business",
+   "link": "https://www.fiercebiotech.com/biotech/teva-loses-rd-head-eric-hughes-amid-push-grow-innovative-medicines-business",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "Teva’s R&D chief Eric Hughes, M.D., Ph.D., has resigned one week after the company showcased its push to grow its innovative medicines business.",
+   "biosimilar": false,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "508808d66a0a",
+   "source": "Fierce Biotech",
+   "title": "AbbVie busts a move with Disco in $2.5B dance aimed at bispecific discovery",
+   "link": "https://www.fiercebiotech.com/biotech/abbvie-busts-move-disco-25b-pact-aimed-bispecific-discovery",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "AbbVie is twirling onto the dance floor with Disco Pharmaceuticals, offering up to $2.5 billion to work with the German platform company on cancer-targeted bispecific discovery.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5b4ded5b2fb6",
+   "source": "Fierce Biotech",
+   "title": "Novartis CEO argues shareholders ‘happy overall’ with strategy, calls for COINS Act adjustment",
+   "link": "https://www.fiercebiotech.com/biotech/novartis-ceo-argues-shareholders-happy-overall-calls-coins-act-adjustment",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "Despite a bumpy few months for Novartis that saw a couple of high-profile clinical setbacks, CEO Vas Narasimhan has told Fierce he believes most shareholders remain onside with the company’s strategy.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cab7d93440ed",
+   "source": "Fierce Biotech",
+   "title": "Majority rate home diagnostic tests ‘very helpful,’ but just 33% for accuracy: DNV survey",
+   "link": "https://www.fiercebiotech.com/medtech/majority-rate-home-diagnostic-tests-very-helpful-just-33-accuracy-dnv-survey",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "People are twice as likely to describe home diagnostic tests as very helpful versus them as very accurate, according to new global research from the quality assurance, risk management and certification company Det Norske Veritas (DNV).",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "84249678ce0e",
+   "source": "Fierce Pharma",
+   "title": "Biogen unblurs life with Friedreich ataxia in patient-centered Skyclarys campaign",
+   "link": "https://www.fiercepharma.com/marketing/biogen-unblurs-life-friedreich-ataxia-patient-centered-skyclarys-campaign",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "The company’s visual-forward campaign depicts real Friedreich ataxia patients enjoying some favorite activities while fast-moving life blurs around them, reminding prospective Skyclarys users that while “life moves fast, progression doesn’t have to.”",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "82abc3d54bed",
+   "source": "Fierce Pharma",
+   "title": "Facing down Dupixent cliff, Sanofi mulls buyout of Insmed and its blockbuster-to-be Brinsupri: Bloomberg",
+   "link": "https://www.fiercepharma.com/pharma/facing-down-dupixent-cliff-sanofi-mulls-buyout-insmed-and-its-blockbuster-be-brinsupri",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "After Sanofi leadership telegraphed an upsized appetite for business development last month, signals have emerged that the French Pharma may be eyeing a deal to acquire Insmed, the developer of new respiratory medicine Brinsupri, which appears well on its way to cementing its ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5ec49e4d6cdf",
+   "source": "Fierce Pharma",
+   "title": "Novartis CEO, staring down $16.7B post-2030 patent cliff, challenges Wall Street consensus",
+   "link": "https://www.fiercepharma.com/pharma/novartis-staring-down-167b-post-2030-patent-cliff-cuts-mid-term-growth-forecast",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "Novartis is gearing up to defend its growth trajectory against a steep wave of patent expirations in the early 2030s, as the upcoming U.S. generic entry for breast cancer blockbuster Kisqali prompted the Swiss drugmaker to trim its mid-term revenue outlook.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8addcbc02fb6",
+   "source": "Fierce Pharma",
+   "title": "Arcera strikes $1B+ pact to license Innogen's approved GLP-1 outside China",
+   "link": "https://www.fiercepharma.com/pharma/arcera-ponies-1b-innogens-china-approved-glp-1",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "Arcera Life Sciences has agreed to potentially pay more than $1 billion to license Innogen's China-approved GLP-1 in places like Africa, Latin America and the Middle East.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1c65c42e3abd",
+   "source": "Fierce Pharma",
+   "title": "Regeneron breaks into neurology with FDA nod in crowded myasthenia gravis",
+   "link": "https://www.fiercepharma.com/pharma/regeneron-breaks-through-neurology-barrier-fda-nod-crowded-myasthenia-gravis",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "Underscoring how crowded the U.S. market for generalized myasthenia gravis (gMG) has become, the FDA on Wednesday approved the second targeted therapy for the neuromuscular disease this week, with the latest honor going to Regeneron and its Alnylam-licensed siRNA drug cemdisiran.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4cd4d7cb0bbc",
+   "source": "Fierce Pharma",
+   "title": "J&J draws FDA rebuke for misstating Inlexzo’s bladder-sparing benefits",
+   "link": "https://www.fiercepharma.com/marketing/jj-draws-fda-rebuke-misstating-inlexzos-bladder-sparing-benefits",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "The FDA has slammed Johnson & Johnson over misleading claims about its bladder cancer drug Inlexzo, accusing the pharma company of basing statements on uninterpretable data.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fcc95a0f9456",
+   "source": "Fierce Pharma",
+   "title": "CDMO Lotte inks commercial production deal as work on South Korean plant wraps",
+   "link": "https://www.fiercepharma.com/manufacturing/lotte-inks-production-deal-cdmo-preps-open-33b-south-korean-plant",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "Lotte Biologics, which was established in 2022, inked a major manufacturing deal with an unnamed pharmaceutical company as the South Korean CDMO gears up for commercial production at its new multi-billion-dollar Songdo Bio Campus near Seoul.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "028fa0b99cbe",
+   "source": "Fierce Pharma",
+   "title": "AI’s Real Prize: Building Tomorrow’s CI Capability",
+   "link": "https://www.fiercepharma.com/sponsored/ais-real-prize-building-tomorrows-ci-capability",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "AI is becoming a commodity. Javier Vega explains why the next advantage in competitive intelligence comes from people, judgment and scale.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "17cd804b7276",
+   "source": "Fierce Pharma",
+   "title": "Novartis CEO argues shareholders ‘happy overall’ with strategy, calls for COINS Act adjustment",
+   "link": "https://www.fiercepharma.com/biotech/novartis-ceo-argues-shareholders-happy-overall-calls-coins-act-adjustment",
+   "date": "2026-11-19T20:31:40.677023+00:00",
+   "snippet": "Despite a bumpy few months for Novartis that saw a couple of high-profile clinical setbacks, CEO Vas Narasimhan has told Fierce he believes most shareholders remain onside with the company’s strategy.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2ae0f558f326",
+   "source": "Endpoints News",
+   "title": "Congressional biotech commission warns of China deal flow",
+   "link": "https://endpoints.news/congressional-biotech-commission-warns-of-china-deal-flow/",
+   "date": "2026-11-19T19:40:07+00:00",
+   "snippet": "A bipartisan congressional panel that has steered much of the discourse on US biotech competitiveness is using its final weeks to highlight, and warn about, licensing deals with Chinese peers. The National Security Commission on ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a6bd5a333979",
+   "source": "Endpoints News",
+   "title": "Sanofi's Infilbray wins first approval for neurological symptoms of Gaucher",
+   "link": "https://endpoints.news/sanofis-infilbray-wins-first-approval-for-neurological-symptoms-of-gaucher/",
+   "date": "2026-11-19T19:18:12+00:00",
+   "snippet": "Sanofi won FDA approval Wednesday for Infilbray, the first drug in the US to treat the neurological symptoms of a rare genetic disorder called Gaucher disease. Infilbray, also known as venglustat, crosses the blood-brain barrier ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ffebd5d6b1d0",
+   "source": "Google News: biosimilar",
+   "title": "Bevacizumab Biosimilar Shows Similar Blood Clot Risk to Reference Drug in Cancer Study - Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZDU4b3JVNHA5VGhva1VoUTdFZHIwXzVTcVZWNWRiZE1zTmR5ZEFoSXZvbEJwaE9DWFZDcER6bzdQak1IYTc3UmNQZWdGN0NDVEM3RWdpQzdnS2JJdXN4c3lSMHNmS0V6VzZ5ZTE2QWZGN081MHAydEp0Xy16a0NGbEpCbjgwUVdZaFhoSDJJZ1BDa3R6a3EzOGxuVWZnSmlvYURrOFdwcFQwTjVVWm55Zw?oc=5",
+   "date": "2026-11-19T17:46:05+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "f7eb0665368c",
+   "source": "BioPharma Dive",
+   "title": "Sanofi gains FDA clearance for Gaucher disease pill",
+   "link": "https://www.biopharmadive.com/news/sanofi-fda-infilbray-venglustat-approve-gaucher/875167/",
+   "date": "2026-11-19T17:17:00+00:00",
+   "snippet": "The approval culminates a winding development journey for Infilbray, and provides Sanofi with a new source of income ahead of Dupixent’s looming patent expiration.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e54cb642b3e7",
+   "source": "Endpoints News",
+   "title": "Lilly starts work on Pennsylvania obesity plant; ITM, AtomVie strike supply deal",
+   "link": "https://endpoints.news/lilly-starts-work-on-pennsylvania-obesity-plant-itm-atomvie-strike-supply-deal/",
+   "date": "2026-11-19T17:07:27+00:00",
+   "snippet": "Lilly breaks ground in Pennsylvania: Eli Lilly has started construction on its $3.5 billion factory in Lehigh Valley, PA, which will manufacture obesity drugs including Lilly’s retatrutide. The site is expected ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9c24358bca86",
+   "source": "BioPharma Dive",
+   "title": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns",
+   "link": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
+   "date": "2026-11-19T16:42:00+00:00",
+   "snippet": "A commission called on U.S. lawmakers to act quickly to prevent an “overdependence” on China that could leave American patients “vulnerable to supply chain weaponization.”",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "32f255c4aaa8",
+   "source": "Endpoints News",
+   "title": "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck",
+   "link": "https://endpoints.news/chinese-ai-lab-megarobo-raises-nearly-200m-isomorphic-partners-with-merck/",
+   "date": "2026-11-19T16:41:06+00:00",
+   "snippet": "Plus news about Adcendo, Biohaven, Sellas, Yuanshi, VitriVax and Ansa Biotechnologies. MegaRobo raises nearly $200 million: The Chinese AI and lab-automation company announced the raise in a post on WeChat. This ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ca947a918d1a",
+   "source": "Endpoints News",
+   "title": "Sanofi considering a deal to acquire Insmed, according to report",
+   "link": "https://endpoints.news/sanofi-considering-a-deal-to-acquire-insmed-according-to-report/",
+   "date": "2026-11-19T16:36:21+00:00",
+   "snippet": "Sanofi is looking at a deal to buy the US drugmaker Insmed, Bloomberg News reported Thursday, in what would be one of the biggest biopharma takeovers of the last several years. The Bloomberg report made ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2ba096ef2cd5",
+   "source": "Endpoints News",
+   "title": "Why Oura is buying Counsel",
+   "link": "https://endpoints.news/why-oura-bought-counsel/",
+   "date": "2026-11-19T16:23:11+00:00",
+   "snippet": "Every year at HLTH, there is usually one piece of news that everyone has an opinion about. This year, it was Oura buying Counsel Health. That’s for good reason. It’s been rare to see a ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "79081e5c55de",
+   "source": "Center for Biosimilars",
+   "title": "Biosimilars Have Unfulfilled Potential to Expand Earlier Biologic Use - Center for Biosimilars",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmhMd09xc3hVT1Y2SnlKU2dSNnFCdnNLUDV4b3U3cnktN1E2cFAwMll2bFVVTkJzeWhWQVNvaUxTSi1mTTBmUjZFMklKTEpyRjY5dUZ1RGxuTk9namJxZjR0TnE5MDhZNkRKeWJmVDFJV3d2U1o1X2czRHhrS3BpUHlHMnJRckYxRmc2UUgwRTlCRlBrcU5XdjZ2UExLSEwtaS1pWHl1eVFjRHBtWnllcA?oc=5",
+   "date": "2026-11-19T15:35:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "63b7dcd35236",
+   "source": "Endpoints News",
+   "title": "Novartis details eczema win, autoimmune CAR-T efforts after rocky quarter",
+   "link": "https://endpoints.news/novartis-details-eczema-win-autoimmune-car-t-efforts-after-rocky-quarter/",
+   "date": "2026-11-19T15:34:02+00:00",
+   "snippet": "Novartis touted a mid-stage win for its eczema drug, revealed it is working toward restarting trials of its autoimmune CAR-T cell therapy and slightly trimmed the top of its sales-growth guidance through 2031. CEO Vas ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0355295ee36b",
+   "source": "BioPharma Dive",
+   "title": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease",
+   "link": "https://www.biopharmadive.com/news/regeneron-fda-approve-cemdisiran-livsayis-myasthenia-gravis-alnylam/875160/",
+   "date": "2026-11-19T15:10:00+00:00",
+   "snippet": "The product of a collaboration with Alnylam, Livsayis is now Regeneron’s first marketed RNAi drug and will compete against established medicines from AstraZeneca and Argenx.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7334072d7adf",
+   "source": "Endpoints News",
+   "title": "Regeneron enters neurology field as FDA approves siRNA for myasthenia gravis",
+   "link": "https://endpoints.news/regeneron-enters-neurology-field-as-fda-approves-sirna-for-myasthenia-gravis/",
+   "date": "2026-11-19T14:15:15+00:00",
+   "snippet": "Regeneron’s siRNA therapy cemdisiran has become the second new drug approved by the FDA for myasthenia gravis inside of a week. Now named Livsayis, the therapy was approved by the FDA for ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2011e06b6cc6",
+   "source": "Endpoints News",
+   "title": "Lilly adds General Medicine for Alzheimer's disease diagnosis",
+   "link": "https://endpoints.news/lillydirect-adds-general-medicine-for-alzheimers-disease-diagnosis/",
+   "date": "2026-11-19T14:00:25+00:00",
+   "snippet": "Eli Lilly is experimenting with a quicker way to get diagnoses and care for people with Alzheimer's disease. People experiencing memory loss or other signs of Alzheimer's can now see a virtual clinician through health ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c15ee44e5ff4",
+   "source": "Big Molecule Watch",
+   "title": "USPTO Institutes Amneal and Kashiv IPR on Omalizumab Patent",
+   "link": "https://www.bigmoleculewatch.com/2026/11/19/uspto-institutes-amneal-and-kashiv-ipr-on-omalizumab-patent/",
+   "date": "2026-11-19T13:14:47+00:00",
+   "snippet": "On November 10, 2026, the U.S. Patent and Trademark Office issued a Notice of Decisions on Institution granting institution of inter partes review in IPR2026-00260. Amneal Pharmaceuticals, Inc. and Kashiv BioSciences, LLC (“Petitioners”) filed the IPR against U.S. Patent No. ...",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
+   ]
+  },
+  {
+   "id": "98f19420bcde",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Celebrates Milestone First European Approval Via Streamlined Biosimilar Pathway - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxONGtFamJWbUdfUlZ5RWswbEw5d2gwSFRuM2lhRDBiRGlPcjE2RHFPMzdTN09pREFfM01CaHFZVVNCZDYzb2JNRHg4cDBOeHZrRmhRUFk3X1NNQVl5MUd6ZmJRSHJBdG9kSmNab0NsdmplNmNueDRFbGVxQWE4aWpUOHBRcWR5dHk0TTFhT1dHcldlaWZtcExxdXpfWDBVTXpRYWlIX1EyYXZkSnlnQ3JEejJjdWZlZnNZRFFzZ1MySU5aUDA5QlJMU1g0UnhvelExNGFQdTFta0lCaEpfYm5lbGgwbmpfaXFmZF9LTEtHeXlOTnFsNld6bFFaeWduTk1XVmJHUURrVjdKVFBiSUJvbw?oc=5",
+   "date": "2026-11-19T11:32:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
   {
    "id": "789ec8b0e7a1",
    "source": "Google News: biosimilar",
@@ -112,6 +438,18 @@
    "title": "South Korea's Celltrion Dominates Biosimilar Markets in Singapore, Hong Kong and Thailand; Expands Follow-On Product Lineup - BigGo Finance",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yV2N6QmpxdmdhWkNYMjJTLUV0MXZTYWRVZzA4TEtjZzE2ZWJvZDMybzJRSTg5VTY1SzlzY1ZOTDFHZ05pNUhaa1pyS3JpdHBOZjRuT1A4QjdfaXBtYWN3YnQ5TXQ3RUhybC1fMkF3LUYtc2Z6QXc?oc=5",
    "date": "2026-11-19T01:06:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "14b2f5074cef",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion tightens grip on Asian biosimilar markets - Aju Press",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tTWttV2xWSGphcW52X3JTN3BRbGNsMUM1VmdETmRtMWV2bVE2clpiV2tkNGZsNmtINVNzYndsYUQzQTJjR2lJaXd5MXFwQlJjUmdhLWxwV3g1SFU?oc=5",
+   "date": "2026-11-19T00:38:13+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -298,6 +636,18 @@
    "title": "Alvotech at Jefferies Global Healthcare Conference: biosimilar push gains pace - Investing.com Canada",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ3lMLTlnNUs5ekVWVXpzclI4QjJTNUpPVWF6Wlhjd3Z2UVhQUUdTZW1qeTNfeEh0VEdNV3ZBTjB6WjhJX0ljS0JjYk1TQUtBSFM3eFZNd3RKZ043YzVBNUUxSjBtdjcxdmpranJaRHdoNUlJcmFoNFBkR2RlNXFfTnNTdExFUHRFTU8xSzB6WEEtcHFtZ2IzR3JPV3RsT1lyTmRVaEE1NEtvRXo2OTFIYy1ISXVmRk8zcUNuelpSM0ZtcE9nSDNyUVhZQjNlemp2WG1rMA?oc=5",
    "date": "2026-11-18T15:18:37+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "e7806b010a30",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech at Jefferies Global Healthcare Conference: biosimilar push gains pace - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ1FjOFlXaU9qMTJZbGQxQURTMmpCTjBNNmwzTGlHVExPMllySHE4Mm1QWTUtVVpuOW1pLXBrczZmTll3cVN2UW55cW1jaVBmbFRzTTZjOHRnYmhRcUdpTXBwZ0VUdWVUUnplc3FwWDZJSDhDREtpeG95ajExZV9iNjFpdGhJYTBzeEl6dmpFNHk4UC1Ub2ZIVUNLMVp2Rkp6SVIzVUZoYnRyN2t2QWw1YkJDVHcyQzFqcFJtNU5DSVZKT18tbzB2TkxYNUtXZw?oc=5",
+   "date": "2026-11-18T15:04:39+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -1318,6 +1668,18 @@
    "title": "Biocon Receives US FDA Approval For Biosimilar Pebrilzo Injection - Sahi",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTldEQ1lrZ2NneXJnSS1PWXFBVXFUM2FTOF9ibDB6cXlzVjVBc1FSYkx3TS1GcUNuZENPLW1CSWRJUTZLaDFUNHFSR1FZZ1dSS2pKQ3M3aTZaUjF1bVFRXzJ0Ymc3QnJvWDkyTmFValhVVzR1MHBBRFpwcmtRc1FaU2xMb3lFRjZUeV9WRkZGWUtWbXY4LVE?oc=5",
    "date": "2026-11-17T03:35:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "a688ad6a7984",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Gets U.S. FDA Approval for Pebrilzo™ (pertuzumab-qcay) Injection, a Biosimilar to Perjeta®, Expanding Its Oncology Portfolio - BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR0tLT1JVM0hEUWRyWnpCNjg2VzVPd3BaUnpLcnp5QTgxRjRYYW1yTm1RS1F1NnczTlRiUTlVVkQwWVRkQmJ0MXlDNHhpS0RYX1RYNGNhZWVmbG1tbVJWWWRKY0FCUUpQSDhLcVVuVldEUUVwRGNFM3NUTHdJdW1icUFfWG9MWHBoUC0xcDEybHVzeFozcmR5bi1fbUp3ZUNxa2taM01YRmZkS1A3NHAzSXUxVDd4Tno4Qkhpb21qcVBMS0hRdC1MYTJ2ZzZXSS1oT0JpR1JPU1dfc3BaVi1PVmlITjZMSkN5QXZTSHpmaUpXYlg1N3Z3?oc=5",
+   "date": "2026-11-17T01:14:20+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -2816,6 +3178,16 @@
    "date": "2026-11-12T23:35:41.906012+00:00",
    "snippet": "Industry experts are calling for pharma leaders to ready for heavier oversight as a newly blue Congress demands an unredacted look at President Trump's controversial MFN drug pricing deals.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5cd8c876b4e8",
+   "source": "Google News: biosimilar",
+   "title": "Lupin’s partner debuts ranibizumab biosimilar in Europe - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbjdTWHpDYmlZc1dad2l0WUdFVlN6VkoxOUtvbmkzc1JwRzBmRWg1b01SY2hPRHNZN2VaUWxTR0M2TDJmMml4TkxqZjNQY3RjLV9DZDhKa1M0enZPSWVmNXhNWWtLQkpCT040eHdVVGRiUmUxSEU3ZmJtQlAtUVVWd1RwQUowUnpiX3Y5a1hEN2dDcnMxOXo1OTBfUVFjLXY1ZTBId01YT2pJSFpDTlVvaF9NLW0xVWNTRjhfMnRfRXVycUFOenRCWkpvSlIybG5BcXREaVBfdWPSAdwBQVVfeXFMT1d4eXRxelR2bE8xekE2S1dBM1JsTnozNzNfdFNpcFVITW1ySld1dFVMc2FmYllCc0ZRVWJxd0tiM3g0YUo4Ukg0R3lZNjViSGxsRjhnMFdvVFg3ZkJWamxJa3NZZnFlVVB1Zm1aLUpicHpGUGF6Z2doNUpNaWFmRnd6Rm13TVVFVmJfT0txOTVjMlZzbzBOQnRPdTd4RWJQYzd2TGE1cEM3N09VUlZmOG9ybXFuOC1NWHM2RjI3bUE1MzQ5VDNOS0FjaVhNM08tdEgxbklPQ0pYNFBpNA?oc=5",
+   "date": "2026-11-12T22:27:32+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
