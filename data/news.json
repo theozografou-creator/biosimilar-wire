@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-19T02:32:15.668353+00:00",
+ "updated": "2026-11-19T11:34:39.714454+00:00",
  "ai": false,
  "feeds": [
   {
    "name": "Fierce Biotech",
-   "ok": true,
-   "count": 25,
-   "error": ""
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 403: Forbidden"
   },
   {
    "name": "Fierce Pharma",
-   "ok": true,
-   "count": 25,
-   "error": ""
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 403: Forbidden"
   },
   {
    "name": "Endpoints News",
@@ -35,13 +35,13 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 11,
+   "count": 9,
    "error": ""
   },
   {
@@ -52,6 +52,50 @@
   }
  ],
  "items": [
+  {
+   "id": "789ec8b0e7a1",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilars in Bone Metastases: First Real-World Data on Switching - EMJ",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFNtYTVTZlpVVl9JUmJRRmlRcEhaLUVyeFNkYmxHWTZMbFhKQ0l6ckpwZGtSV3Z0SnBIOWFQNzlYSndWaS1oUzR1a0NtMl9JYW9QU2FCVm9JbUljay1Hamt6dF9mbmdOZEFfaEJzQ29qT2JacmxvZHpRcnkxQ1BFX2NkZmhNNkE4bWFHWFJPTVFrMjVvLVAtdWpnbW9ZeFdTaHFKdHJsQjUyejh3TXcyaWNIbUttbi1Ib3huWmhDNA?oc=5",
+   "date": "2026-11-19T08:58:52+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a066e3b7a49d",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion Extends Biosimilar Lead Across Asia - Businesskorea",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oT3hWdXpoWHhQQzIyUUNVWHJmdDdrNWpiLW9XQndKYkdYMm9DdUsxQVhNMzhhRnYxUElxVWhoOVVsMG9zbVNZUWpzOWU2STY4UFh5R1JwUld1N01VNTZBUnZCOHNtamFERE4xYVlocVpkOHZy?oc=5",
+   "date": "2026-11-19T08:04:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
+  },
+  {
+   "id": "9de7ac5dba9c",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Strengthens Oncology Portfolio with Pertuzumab Biosimilar for HER2-Positive Breast Cancer - Machine Maker",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdHVuUjZuV1NkR0JwdDcxZTNvMU01alpTaWxweEQwX1JuNHhWWU5xU2ZROFRIaUFWel9aX1lNY1YzNml4ZE5sb0YwSGF4MkV5VDNMaFgtNVI1NUQzMUJtbHZyQU56UEE3a1dIakpYWGxEZmhRN0hCbUN6bGRSc3c4dmwwamdKSlRZYmlPV09wdldpaEZnUDVLV3dzTzJmTWJKMzZwWnRoZ0czcV9nOUZwVVVtanBFMkxIUVhMQ0N4TnlfOUlyb0FQWXVn?oc=5",
+   "date": "2026-11-19T07:09:22+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "eb5eb0b1faad",
+   "source": "Endpoints News",
+   "title": "AbbVie and Disco strike deal worth up to $2.54B for solid tumor targets",
+   "link": "https://endpoints.news/abbvvie-and-disco-strike-deal-worth-more-than-2-5b-for-solid-tumor-targets/",
+   "date": "2026-11-19T07:00:40+00:00",
+   "snippet": "AbbVie is partnering with Disco Pharmaceuticals, a preclinical cancer biotech, to build out its antibody-drug conjugate and T cell engager programs. The Cologne, Germany-headquartered biotech will receive $40 million upfront and up to $2.5 billion ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "d8a2d7ed720e",
    "source": "Fierce Pharma",
@@ -5202,6 +5246,16 @@
    "date": "2026-11-07T00:52:09+00:00",
    "snippet": "George Church, the famed Harvard scientist, has advised startups pursuing everything from resurrecting extinct species to putting pig organs in humans. But he hasn’t witnessed anything quite like a bizarre fight to steal scientific credit ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fdc31b3641cd",
+   "source": "GaBI Online",
+   "title": "Canada approves multiple denosumab and ustekinumab biosimilars as global competition grows - Generics and Biosimilars Initiative",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZllJYm15RVh1c3BQMGZDaVdaODhKYnVKazRvWmJCT2hIcExndjBGNW9XUDBfTW01eXUzVndlZVkxc0tQM3BnNXR4T0Q3VHdSOFZ4NkcyZlR1RHhMMngzVDJWUHExaFJrUmZTQ3RETlRkYmlxanhzSUt4YkxSMDBnQmd6R1V3YWt4VVlWQUJJbmxhQXRhZnVOakdSZnZQSHVsQ2pZVTdULTdETVl3QmVMZWhkSmZJMDdDN3p0LThMMTZPRkRGVkZ3SlJoYXMwdnM?oc=5",
+   "date": "2026-11-06T22:19:35+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
