@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:31:47.147178+00:00",
+ "updated": "2026-11-20T20:11:41.655334+00:00",
  "ai": false,
  "feeds": [
   {
@@ -34,9 +34,9 @@
   },
   {
    "name": "GaBI Online",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 9,
+   "error": ""
   },
   {
    "name": "Center for Biosimilars",
@@ -52,6 +52,354 @@
   }
  ],
  "items": [
+  {
+   "id": "7b06d3ef5b9b",
+   "source": "Fierce Biotech",
+   "title": "Merck’s TROP2 ADC extends survival in pivotal gastroesophageal cancer trial",
+   "link": "https://www.fiercebiotech.com/biotech/mercks-trop2-adc-extends-survival-pivotal-gastroesophageal-cancer-trial",
+   "date": "2026-11-20T20:11:41.655334+00:00",
+   "snippet": "Merck & Co.’s sacituzumab tirumotecan has improved overall survival in a phase 3 cancer trial, delivering a second pivotal global victory for the TROP2-directed antibody-drug conjugate.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "68e56f66f557",
+   "source": "Fierce Biotech",
+   "title": "Researchers may have to ‘revise a lot’ of theories about dementia after uncovering plastics in brain",
+   "link": "https://www.fiercebiotech.com/research/researchers-uncover-plastics-present-dementia-brains-after-death",
+   "date": "2026-11-20T20:11:41.655334+00:00",
+   "snippet": "The field of micro- and nanoplastics has drawn a lot of interest in recent years as concerns grow about the impact of contamination in the environment. These tiny plastic particles are created when plastic breaks down and are usually so small that they are invisible to the naked ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c964d517f3bc",
+   "source": "Fierce Biotech",
+   "title": "FDA pushes decision on Belite’s eye disease pill back to May",
+   "link": "https://www.fiercebiotech.com/biotech/fda-delays-belites-eye-disease-pill-decision-three-months-may",
+   "date": "2026-11-20T20:11:41.655334+00:00",
+   "snippet": "The FDA is taking a little extra time to review Belite Bio’s application for its treatment for a rare genetic eye condition, pushing the expected action date back by three months into May next year.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "427af2aabc4e",
+   "source": "Fierce Biotech",
+   "title": "‘It’s a very healthy sector’: Biopharma gathers in London as M&A shines and China clouds loom",
+   "link": "https://www.fiercebiotech.com/biotech/its-very-health-sector-biopharma-gathers-london-ma-shines-will-china-clouds-loom",
+   "date": "2026-11-20T20:11:41.655334+00:00",
+   "snippet": "As the grand hotels and cosy cafes filled with biopharma executives and investors for London Life Sciences Week, the weather was as temperamental as any other English November.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "efd6f187e75d",
+   "source": "Fierce Biotech",
+   "title": "Chutes & Ladders—Teva loses R&D head as innovation pivot advances",
+   "link": "https://www.fiercebiotech.com/biotech/chutes-ladders-teva-loses-rd-head",
+   "date": "2026-11-20T20:11:41.655334+00:00",
+   "snippet": "Teva’s R&D chief has resigned a week after the company's R&D day. The White House yanked its FDA commissioner nomination at the 11th hour. Quanterix restarted its search for a CEO. And more.",
+   "biosimilar": false,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "e3fd88528f27",
+   "source": "Fierce Pharma",
+   "title": "Merck scores US, German wins over Halozyme in Keytruda Qlex patent fight",
+   "link": "https://www.fiercepharma.com/pharma/merck-scores-us-german-wins-over-halozyme-keytruda-qlex-patent-fight",
+   "date": "2026-11-20T20:11:41.655334+00:00",
+   "snippet": "Merck & Co. has delivered a one-two legal punch against Halozyme Therapeutics, clearing major commercialization hurdles for subcutaneous Keytruda in the U.S. and Germany.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "f41982ea77a2",
+   "source": "Fierce Pharma",
+   "title": "Mapping psychedelics’ commercial summit",
+   "link": "https://www.fiercepharma.com/pharma/mapping-psychedelics-commercial-summit",
+   "date": "2026-11-20T20:11:41.655334+00:00",
+   "snippet": "Several years after the FDA's high-profile rejection of Lykos Therapeutics’ MDMA candidate for post-traumatic stress disorder, a new wave of developers is nearing the regulatory finish line with experimental psychedelic treatments for mental health conditions. But regulatory ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ef269700d626",
+   "source": "Fierce Pharma",
+   "title": "Merck’s TROP2 ADC extends survival in pivotal gastroesophageal cancer trial",
+   "link": "https://www.fiercepharma.com/biotech/mercks-trop2-adc-extends-survival-pivotal-gastroesophageal-cancer-trial",
+   "date": "2026-11-20T20:11:41.655334+00:00",
+   "snippet": "Merck & Co.’s sacituzumab tirumotecan has improved overall survival in a phase 3 cancer trial, delivering a second pivotal global victory for the TROP2-directed antibody-drug conjugate.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7fec61b645fe",
+   "source": "Fierce Pharma",
+   "title": "Another 215 layoffs linked to Novo's New Jersey HQ",
+   "link": "https://www.fiercepharma.com/pharma/another-215-layoffs-linked-novos-new-jersey-hq",
+   "date": "2026-11-20T20:11:41.655334+00:00",
+   "snippet": "Novo will trim 215 jobs reporting to its New Jersey headquarters starting in February as part of a \"redesign\" of its U.S. sales organization.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "94e8ebc0ac20",
+   "source": "Fierce Pharma",
+   "title": "FDA sets up new safety council to keep tabs on approved vaccines, cell and gene therapies",
+   "link": "https://www.fiercepharma.com/pharma/fda-sets-new-safety-council-under-cber-keep-tabs-approved-vaccines-cell-and-gene-therapies",
+   "date": "2026-11-20T20:11:41.655334+00:00",
+   "snippet": "The FDA's Center for Biologics Evaluation and Research is setting up a new governance body focused on safety oversight of products like cell and gene therapies and vaccines once they’ve hit the market.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "633d5fe2b2f6",
+   "source": "Fierce Pharma",
+   "title": "Fierce Pharma Asia—Ivonescimab’s FDA snub; Pfizer’s in vivo CAR-T deal; China fires scientists in fatal gene trial",
+   "link": "https://www.fiercepharma.com/pharma/ivonescimab-fda-rejection-pfizer-vivo-car-t-deal-china-fires-scientists-fatal-gene-trial",
+   "date": "2026-11-20T20:11:41.655334+00:00",
+   "snippet": "The FDA's complete response letter for Summit and Akeso's ivonescimab reveals more grievances than just an overall survival miss. Pfizer is licensing three in vivo autoimmune CAR-T programs from China's Starna Therapeutics. Chinese authorities have handed out penalties to ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8c6c70eb6b30",
+   "source": "Fierce Pharma",
+   "title": "Sanofi gets Genzyme asset across FDA finish line with key nod in Gaucher type 3",
+   "link": "https://www.fiercepharma.com/pharma/sanofi-snags-fda-nod-become-first-neurologic-treatment-rare-gd3",
+   "date": "2026-11-20T20:11:41.655334+00:00",
+   "snippet": "Sanofi's Infilbray secured an FDA approval to treat children and adults with the rare metabolic and neurogenerative disorder Type 3 Gaucher disease. The daily oral therapy is the first to address the disease's neurological effects.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5f0987b3e9fa",
+   "source": "BioPharma Dive",
+   "title": "Will the first approved psychedelic become a blockbuster?",
+   "link": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
+   "date": "2026-11-20T19:53:09+00:00",
+   "snippet": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3052ed318293",
+   "source": "Endpoints News",
+   "title": "More lawmakers stake out stances on China biotech investment",
+   "link": "https://endpoints.news/more-lawmakers-stake-out-stances-on-china-biotech-investment/",
+   "date": "2026-11-20T19:52:42+00:00",
+   "snippet": "Ahead of a Democrat-led Congress next year, more lawmakers in both parties and chambers are taking fresh positions on whether the US should restrict investments in China’s booming biotech sector. As shown in multiple draft ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d91ef8a8a7a1",
+   "source": "Google News: biosimilar",
+   "title": "The Biosimilar Interleukins Market Is Projected to Expand at a 40.6% CAGR, Attaining a Value of $41.22 Billion by 2030 - EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTU1IZFJOWXk5QnZRMHJtb2tHWGdCRF81b0FneC02TWtPdWFnVmZfbHFsVHZ6OW4ycXJCc05uTXVmekhqQ2pQTG9PSnZjbXpXSXlJNmtROEFPM243N3BuWDVGanVQeTlZX0cxam5HMEEzZXM0Nk9UeEFCZ3FfWFJmTXZjcm1WRUd6ZC1IRHV4VFJHS0FlbF95OXRsNUY5cEFmSVZHRzdISjdwN2s2Z3FkUUlPM1NkMFJuS1NNWTJXVWdOdl9mUm1PTm90LU9uaG9NZTBNSW9aQllMZ3pwZmcwem5Nc1FuWWh0YVE5WHRxWkFSbV9F?oc=5",
+   "date": "2026-11-20T18:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "e55a59cee848",
+   "source": "Google News: biosimilar",
+   "title": "The Biosimilar Lymphocyte Modulator Market is Projected to Reach $3.53 Billion by 2030 Driven by Robust Expansion - EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTXVodVUycWxqemZJU2dfNkNVdGhydTVlVWVRYW5PeUFwRjU2WnlEWUt1bmh0UFBaak90V2RsMGZnVDN3ZDJiSHpjOXk2MWNWbHM3a0lhQUZoMlEzeDlpUWNzeHRic1cyZktqVW4zZUdwLVVhMEpZUG0yellDLU04SlRxY3Y2eEJrd210a2lITUtuQ1hhdUJDWmhkWkpKT2V3UzlIdUR3SWd0aUZYc1NqY3hiX2lsMkJPVkRjeEZyY3JMVHdUdWxaZ0E0Z1h1WDRqVG9vZlMtM3VxZjE0cE1DREhVVEwtdkRCeFRxQjlVdjA?oc=5",
+   "date": "2026-11-20T18:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "b027d8d61007",
+   "source": "Google News: biosimilar",
+   "title": "The Biosimilar Contract Manufacturing Market is projected to reach a value of Billion by 2030, growing at a CAGR of - EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVl9ONGZzYm9hT2tqdHBXdll0WVhhWndWQ25tdmczVmJIU2tDWEZacGtzb1lud0hRZFJxX2VfUFhfeGRzMHZEQWxwdUR1UzZFZHN2azZUUEVtNXFCQU1IS1hqYUUyc1pudnVkX1paVllqVVIwdWV1bDJuV0FOSkRuU093WGtZeVF6ZENzZXdmSFFyQ19TM043WWVHSVpQZGhCZWREYXFWNU5KdUtHbDV5QVhNeGtyY2gwM2ZaTi1OUWszZFFfQkplc2FGa093bmNkZ2dFdV9QWDlWeERFMWtFdk9Zd3pUN0tXLUU3ZnJ2ZXNuN28?oc=5",
+   "date": "2026-11-20T17:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a608e060c6c9",
+   "source": "Google News: biosimilar",
+   "title": "The Biosimilar Hormones Market is projected to grow to $18.12 billion by 2030, with a CAGR of 23.9%. - EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNREp6X0w4OVhaM3ZSQTk4dUNaa3lKVmo1b0FKMU45elE3NlZPSHF6LVlqaWxQUnpmcHo3M2VsaDhPd21PcmxCblBtbDVZbk9Ub2lTMUJGMlRMRkJTeGpaTTZJR3VmemN6NTNCdk1kTEVmVEp6ZFhSNTBNS3JDc3hvTmUzWUJ0MjU0MllCNFdCQllGOFloZl9KQUlCUElTSXJmYkN6aDJZSi0taXpIQXZWam91eFBJVEZ2SXZkUGtvUmdLc0JaaEg0aHZxZTlGMUFUbGVXZVpMZEVieWs?oc=5",
+   "date": "2026-11-20T17:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "4a2076737cfe",
+   "source": "BioPharma Dive",
+   "title": "Erasca data add to pressure facing Revolution’s breakthrough cancer drug",
+   "link": "https://www.biopharmadive.com/news/erasca-kras-pancreatic-cancer-drug-results-revolution-rasonque/875314/",
+   "date": "2026-11-20T17:18:00+00:00",
+   "snippet": "Rasonque is already off to one of the best oncology launches in history. But certain limitations leave an opportunity that companies like Erasca — which is nearing the start of a Phase 3 trial — may be able to exploit.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c85fce487193",
+   "source": "Google News: biosimilar",
+   "title": "The Biosimilar Monoclonal Antibodies Market is Projected to Grow Rapidly at a 6.6% CAGR Until 2030 - EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUENiYkV5ck5adFVST0NmZnNWMkRITHQwWXNoYUxYMm9xLUE2TTNKZmQwTWNCQWJLYi1DZDJtbm4zbVF5NVZSTm9OTi1uU1VCclRvWE9GZGh2TDVYV0lPQW9CWENwZ195akRFUWNkVFdfNzB5ekdGcVZLYVRid1JMYlRieTlkZUxfZ0tyS2lndmM3bDVpWmdqYXhyR2drZ2hHX0t6cmRUNGpucU4tU3NZbGpxakozMHR6LXN6c1JZbzZLODQ2a2h2R2ctcmJXM29xSDFKeXEzS0F6Z21m?oc=5",
+   "date": "2026-11-20T17:15:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "4281bba47cca",
+   "source": "Google News: biosimilar",
+   "title": "The Biosimilar Growth Hormones Market Is Projected a Steady 10.5% CAGR Driven by Expanding Industry Applications - EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMXdTajRxNElKSVFGUUp2dDhxdzhyVF9rLXJXNEZ0Uy1HT0lrcUlGYlpuQ0VlOTZ2eEUzRUY0NjU4Nm9qTjZkV0x2QUw2bHpoWFRORFZQYlphN2lIR0VTRDhtR3VsRlgyYnNuSnJ4ejJWRC05Wjk3SHp2MUpZdGY3QjVRR1V2X2ZMZ0RMX1gyNk5xUjRLMEdFUzdnejFCRnJ2eEZVRDVxLWVkc1duRjZRZk9vZm5INXJydnJzWW5VVG02NkRMbkRHNVVqbmJQQkNoZG5YRV9lbzVGVk1lNGc1TVhuQnI0TjdmYkl3c3lfTQ?oc=5",
+   "date": "2026-11-20T17:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "9675586ea0f6",
+   "source": "Endpoints News",
+   "title": "Pharma layoffs continue in New Jersey; Bausch + Lomb drug misses endpoint",
+   "link": "https://endpoints.news/pharma-layoffs-continue-in-new-jersey-bausch-lomb-drug-misses-endpoint/",
+   "date": "2026-11-20T16:37:46+00:00",
+   "snippet": "Plus news about GSK, BioVersys, United Therapeutics and Savara. New Jersey pharma layoffs continue: Novo will lay off 215 workers in Plainsboro, taking effect in February 2027, according to a November",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "900e1fb96dc5",
+   "source": "Endpoints News",
+   "title": "KRAS at Triple Meeting: Erasca wants to one-up RevMed, while Alterome tries a different approach",
+   "link": "https://endpoints.news/kras-at-triple-meeting-erasca-wants-to-one-up-revmed-while-alterome-tries-a-different-approach/",
+   "date": "2026-11-20T16:22:25+00:00",
+   "snippet": "Revolution Medicines posted strong data on its targeted pancreatic cancer drug Thursday evening, but competition is building at every turn in the KRAS field. RevMed’s game-changing pan-RAS drug Rasonque (daraxonrasib) alongside ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ccc85ccb7521",
+   "source": "Endpoints News",
+   "title": "Merck gets another Phase 3 win for sac-TMT, this time in gastric cancer",
+   "link": "https://endpoints.news/merck-gets-another-phase-3-win-for-sac-tmt-this-time-in-gastric-cancer/",
+   "date": "2026-11-20T15:31:58+00:00",
+   "snippet": "An experimental antibody-drug conjugate from Merck has succeeded in another Phase 3 cancer study, potentially helping offset Keytruda's looming patent cliff. Merck said Friday morning that a pivotal trial testing sacituzumab ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "88a2eb22177e",
+   "source": "Google News: biosimilar",
+   "title": "Detailed Report on the Biosimilar Therapeutic Peptides Market Including Forecasts, Innovations, and Industry Perspective - EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWUFtT1FEVllIRjM3ZHJfUndkZlNDZ1djaHo1SHlsdE5KcFpzNnVrS0ZsbUJQd0E2ZFM0bjhBOGFUaEhsV29zWUxjWEVXYks4aXhsRWQtQkFxRzZnVTBUNVFQRkRibm1GcWJvZ09WRi1JT3dZSV82aHlsbDZxdVZZLVhGOHVfVnpuTXJ5a0ZyeXdkTjR4SU5rb1RmQmFHTFk4Mk9aOUdncENibzB0TFhyeF9rVGVCaVRWZHFqUTJtclN0Qk5RT2lya1NNSm0xNWs2dTJpbmJqOVlZNWYyYWh3VFZIUlFqNEtPSWJYR0lRYkRjQjBMbkVjbw?oc=5",
+   "date": "2026-11-20T15:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "651943f8e0bb",
+   "source": "Google News: biosimilar",
+   "title": "NEWS: Bennet, Cornyn Introduce Legislation to Lower Prescription Drug Costs and Increase Access to Biosimilars - Forth.News",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tSm5LejFXYzk0d2tEZDFPM052SS1GbVM5TkNaVm95LS1nVXpvOENFVzFaNmJRVWVRcGVqcmxpbTRCcHBVOVVaZWNIaWF5UENEblFpd1dSN1RMVHNmSFlNQlJDd0E1eEhqQXZJcnlteGs?oc=5",
+   "date": "2026-11-20T15:07:34+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "317b8342e0a5",
+   "source": "Google News: biosimilar",
+   "title": "Biocon’s pertuzumab gets marketing authorization in EU - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZjl6TVlMOFk2SEtGd0FEal9yUFhEckVXWGJxeEJDT3YzTUFMdjRpaHV0eW5lSi1LYnZmcDA4WG1pWXR0RTAzczY0bUN1QnN2MDU0T2c3OVdIaWtNemFSS3d3VnVrYVdzMDlEZFdBWVlPQXdGMXdGbDdTaDRPS0o4QTgtalU3YTBqczBfejlpTXZodVFxOXppSkhpZ3FmakJJQWR1OQ?oc=5",
+   "date": "2026-11-20T13:56:06+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "62cc11b18b97",
+   "source": "BioPharma Dive",
+   "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
+   "link": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
+   "date": "2026-11-20T13:03:00+00:00",
+   "snippet": "Wall Street analysts rushed to Celldex’s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva’s research chief accepted a new job.",
+   "biosimilar": false,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "e38214c74ae5",
+   "source": "Google News: biosimilar",
+   "title": "Research Report on the Biologic and Biosimilar RA Drugs Market Providing Analysis of Growth, Segments - EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWkhhT01CVVF1ZHpPekljTmJ2NF9hX0J6cHg4bkFlb0JZaXpGS3JvRVp3SUpkYi1yUzJKSi1vYWlqcVo4UE9nZG16M0l2bnZzV0dkWUJPdHU4R0dCRU5ZWUFTZXRXLWYwdWtWOVpCejZHbVZ4Q1BBMDlUVGZSZFJIYjhoN3NzWFNCYkFBTFBISUY3NWxFSzd0dlN4Z3UzWWo1M2FyRjlUMGVZck4ydlVIOU8wT1ZMT0tieExuYlFZRG5JR0JsajNxN1hJQVQxWnNkRnJ2RXZsTklibmJCRjNaSQ?oc=5",
+   "date": "2026-11-20T13:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "97b8545d961b",
+   "source": "Endpoints News",
+   "title": "Celldex culls eczema study after Phase 2 failure",
+   "link": "https://endpoints.news/celldex-culls-eczema-drug-after-phase-2-failure/",
+   "date": "2026-11-20T12:36:09+00:00",
+   "snippet": "Celldex Therapeutics is dropping its monoclonal antibody as a therapy for eczema after the drug flunked a mid-stage study. The drug, called barzolvolimab, failed to reduce itching in patients with eczema compared with placebo after ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "185155d031a4",
+   "source": "Endpoints News",
+   "title": "CNS dispatches from Jefferies: Acadia’s search for deals, Alto’s psychiatry question and ProMIS’ Alzheimer’s ambitions",
+   "link": "https://endpoints.news/cns-dispatches-from-jefferies-acadias-search-for-deals-altos-psychiatry-question-and-promis-alzheimers-ambitions/",
+   "date": "2026-11-20T12:11:57+00:00",
+   "snippet": "The chaotic environs of this year’s Jefferies Healthcare conference, held earlier this week in London, attracted a number of drugmakers active in the central nervous system (CNS) and psychiatry space. Endpoints News ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c5134d4577ce",
+   "source": "Endpoints News",
+   "title": "Teva on the hunt for new R&D head; Summit's rejection came after commercial chief's exit",
+   "link": "https://endpoints.news/teva-on-the-hunt-for-new-r-summits-rejection-came-after-commercial-chiefs-exit/",
+   "date": "2026-11-20T12:00:46+00:00",
+   "snippet": "→ Teva’s global R&D leader and CMO Eric Hughes has stepped down and David Gardiner is replacing him on an interim basis. Hughes came to Teva in 2022 from Vertex, where he was SVP of ...",
+   "biosimilar": false,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
+   "id": "3e87809e534a",
+   "source": "BioPharma Dive",
+   "title": "This week in charts: Biotech investors’ China bets are already paying off",
+   "link": "https://www.biopharmadive.com/news/biotech-china-deals-venture-returns-summit-stock/874912/",
+   "date": "2026-11-20T12:00:00+00:00",
+   "snippet": "This year, companies built around medicines from China have sped toward acquisitions or IPOs. Meanwhile, Summit is no longer the Wall Street darling it was in 2024.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "df972996488f",
+   "source": "Google News: biosimilar",
+   "title": "FDA Issues Aflibercept CRL To SamChunDang Pharm - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenBUQW9LODhyZUtWeTZyRnlHU2lEeFprYUJPV1R5Wkt1Z1dGNzY5Zl9lY2lqX3ByNkk2TTlWSDVLWXFITHpsVzhfdjc2YUNleFBZbXhFUjc1ek52MHpRX0FjUjNxNTZ1czVSSnRHN1YtYXpoWjFncDFqdHkxNjlMc2Fsem1sdlZJdjZDYzZNNERCM0M2UGsyZ0FNUnhLSlIzaUtCSHV6ZURBYy1zZ2NtR2NteHVXa2prRUxpbWxrREJ6LUJ2QUJlc1ZlNTRoYUVqaUVueUtpNDNwT2ND?oc=5",
+   "date": "2026-11-20T11:45:54+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "fd508915f3e8",
    "source": "Fierce Biotech",
