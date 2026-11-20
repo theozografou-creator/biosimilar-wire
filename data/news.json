@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:31:40.677023+00:00",
+ "updated": "2026-11-20T02:17:30.654734+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,13 +35,13 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 11,
+   "count": 9,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "0fdbd45c4ba9",
+   "source": "Fierce Biotech",
+   "title": "Anthropic board director Vas Narasimhan bets AI can help Novartis solve ‘biological latency’",
+   "link": "https://www.fiercebiotech.com/biotech/anthropic-board-director-vas-narasimhan-bets-ai-can-help-novartis-solve-biological-latency",
+   "date": "2026-11-20T02:17:30.654734+00:00",
+   "snippet": "On the same day Anthropic staged a record-shattering IPO on Nasdaq, the artificial intelligence tech giant’s lone pharmaceutical board member, Novartis CEO Vas Narasimhan, was in London pitching investors on how the Swiss drugmaker is using AI to shrink drug development ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4ab01b323cad",
+   "source": "Fierce Biotech",
+   "title": "Crown Biosciences stays put as $204M Adicon deal falls through",
+   "link": "https://www.fiercebiotech.com/cro/crown-stays-put-204m-adicon-deal-collapses",
+   "date": "2026-11-20T02:17:30.654734+00:00",
+   "snippet": "Crown Biosciences looks destined to go unworn for a while longer after its planned $204 million acquisition by China's Adicon fell through.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "4a41c0e2c135",
    "source": "Fierce Biotech",
@@ -655,6 +675,16 @@
    ]
   },
   {
+   "id": "e4d06192445c",
+   "source": "Google News: biosimilar",
+   "title": "Pfizer inks cell therapy licensing deal with Starna worth up to $2.6B - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMlRLNDhibEFHbUpDcXpTQlgwNDdQUTNpSVdkUFNSRUI4OW42V29IdkQwVjVfU0Jqb3N2R3dtWEduTXVtNzJ4MXJ3ck9SZ3RuZFlUaVdkMmgyOW9wLXJFTU9KMGVFTGd6ZjF3Uy1mN3VkRkQ0ZVVPelBvS1dnWkU2TUQxcFE5cm5pc3A3Sk5PRWtSckdCSUtpLW9sYXVpbkdrLVZNOTFCSWM2U2RCVDFsNVowZ19Vci04?oc=5",
+   "date": "2026-11-18T14:28:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "22ebebdf4ddf",
    "source": "Google News: biosimilar",
    "title": "Biocon’s Pebrilzo Becomes First Breast Cancer Treatment Biosimilar Approved Under EMA’s Tailored Clinical Approach - BioPharm International",
@@ -1205,6 +1235,18 @@
    "watch": []
   },
   {
+   "id": "b8392bd0f879",
+   "source": "Google News: biosimilar",
+   "title": "Amneal Announces European Approval of Adcomfo® (Omalizumab), a Biosimilar to XOLAIR® - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2t5ZjhuSzJlRFRxMzkzWVNJVEdEaDdtVlFQR1h2bUhwdnFoNW1nYnB5dHk2T2hGMTVidHN2UzR4b3V5Y2RwRlNXc1BTa2FHanhkcFRHeVR0U2dsM3Voc3ZqS2JvUXpFbk16eHVWNXh5RFdoSENmMkxwQWdkLTcxa2VIcFBVU0UyV20xTlJMUklpbVRGNF85QXljYkNTc3dVblJPdnJ3?oc=5",
+   "date": "2026-11-17T21:05:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
+   ]
+  },
+  {
    "id": "8db352588784",
    "source": "Endpoints News",
    "title": "FDA flags potential VEGF-related safety concern in Summit rejection letter",
@@ -1452,6 +1494,16 @@
    "title": "AZ defeats health plan lawsuit alleging Soliris antitrust maneuvers - Fierce Pharma",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWmZDbDVERGdtOEZ4bTRsWUNORjN6MnZXeGlzOXM0cXppT2V1bE4yY1BHQ1RsZEpySDNST2drcmxZQ25RTFJCUWxQZi1CZlZnOHdINGtLU0diTGtQOVB3cG5LZUN3SE1uRE1kRUlqcVFOdjNkcXctWmZmMzRWLVVBenZEczZUaWgyaTdsOWE5U1g1S1FUUHhrQlZKN2hhSVh5VjJ3V01HTQ?oc=5",
    "date": "2026-11-17T16:25:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "7b1aa1e281a7",
+   "source": "Google News: biosimilar",
+   "title": "Lupin launches ranibizumab biosimilar across Europe - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVm1XX0haTmhYeVVBVTNQSXZxWDBjNWJmMk1Fd0FSbXg5cEhsX0g1MUtZTTI2Nk9PeG5WYTRHNmdRaFR0LU1TcE4tU0tpM3lNYWxFajBFdUdydXhQT2VMZG16bXZyZjVQTThXSlpCckVpbzRPSWl1Vk1VUHhDU3FzVHI2dw?oc=5",
+   "date": "2026-11-17T16:18:31+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -2476,6 +2528,18 @@
    "biosimilar": true,
    "watch": [
     "Sandoz"
+   ]
+  },
+  {
+   "id": "d6d7d5a7ddf4",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Gets USFDA Approval For Pebrilzo Biosimilar; US Launch Expected In Third Quarter Of 2028 - Kotak Neo",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMzZjYi1EalQ4RVNLWUQtNEM3aERzOTFxcmhqaHo3WVVEd1o5dEI0c1VvZmw3UzhKU3VxZXlCeXRkT2NpbUxNeVozMkFUS2lieFdFVUM4WnFnZVZjVklfT19Ib3N3WHI3NmdYay0zbWFnLUl3X3VXb1AxZTNfbm9OT3J6eDRuVVA4OXktcUlMWTk0RTBxUUE?oc=5",
+   "date": "2026-11-16T06:31:53+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
    ]
   },
   {
