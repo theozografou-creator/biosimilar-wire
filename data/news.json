@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T02:17:30.654734+00:00",
+ "updated": "2026-11-20T11:31:47.147178+00:00",
  "ai": false,
  "feeds": [
   {
@@ -34,14 +34,14 @@
   },
   {
    "name": "GaBI Online",
-   "ok": true,
-   "count": 9,
-   "error": ""
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 11,
+   "count": 9,
    "error": ""
   },
   {
@@ -52,6 +52,38 @@
   }
  ],
  "items": [
+  {
+   "id": "fd508915f3e8",
+   "source": "Fierce Biotech",
+   "title": "Bausch + Lomb and Celldex rocked by respective phase 2 flops",
+   "link": "https://www.fiercebiotech.com/biotech/bausch-lomb-and-celldex-rocked-phase-2-flops",
+   "date": "2026-11-20T11:31:47.147178+00:00",
+   "snippet": "Bausch + Lomb and Celldex have independently reported phase 2 flops. While Celldex ended work in the indication in response to the setback, Bausch + Lomb noted numerical improvements and exploratory analyses to make the case for talks about entering phase 3.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "eb93ca6a3c5a",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz on its own three years after the Novartis split - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNlEtcFl3b3NDa2RoNjdHeHluZmEtekpIYXdJZEdPRW04R1BMT20xUFJYUkJoQ0lSZGJvQS15R0dsc1Nqb1hmanVxTkE4WkxkYi1FZ2c1RkZiWlVEbHhrTlBmbG5sTUF0X0c3OUlNcXdQWEphRXlmRlI2ckNFMzVkbENNUTFySERHLUllMXVIMWpidUJWMjR3LWZJaw?oc=5",
+   "date": "2026-11-20T10:14:14+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "e965a3d01e7c",
+   "source": "Google News: biosimilar",
+   "title": "Secukinumab biosimilar approval to intensify competition in IL-17A inhibitor class in China - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDBEYUF5YzhhLXJlTThEZWhnblA3WGlSUGxzZ05CYWJhWGVWODNjQ2VsZWhoOXJXSDNkSmNVR0RDcG1vbWpSd2lGdVFQVFpOcURJMkJqZ3c5SkFzTHVRZXM5bzR2TkZUdm95bjNVQ0lyV1hMMV92Njc1ZU5QbnYtRU12UTZkbVZ4Z0NCYm4zMkRGQ3VJTFFCOVRSbTVzZndzWjQwM29BdzZUeHZpOEJET0dSZHpkLV9mbXJkaXV2R0lzbTB6clNjT1dqbDJRdU5Ca0pWLTdMQQ?oc=5",
+   "date": "2026-11-20T09:43:56+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "0fdbd45c4ba9",
    "source": "Fierce Biotech",
@@ -1476,6 +1508,16 @@
    "date": "2026-11-17T16:58:15+00:00",
    "snippet": "Sellas Life Sciences' cancer vaccine succeeded in a Phase 3 trial of certain acute myeloid leukemia patients, the company said Tuesday. Sellas is developing galinpepimut-S, which it calls GPS for short ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "30bff57e3700",
+   "source": "Google News: biosimilar",
+   "title": "Amgen Has Raised Its 2026 Outlook Twice, and $1,000 From Five Years Ago Is Now Worth More Than $2,500 - 24/7 Wall St.",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNakRvbXBnRHBiZW13WW1XRzZ3YXZrVFZQZGxFV2RTRHotQ3gxckhmYUFSOGNpZzdialhyYnllSUtGdWNlT3NNUklUeFpjcFZBbGl4dF9UOGRJUm15MC1WVTNoMXV6VWExVkhLNzY5a1RiMklpdDlBOElQV1FrYnV5Z3NMdGJmWW1YSEQ2Z09BNTRiMXFKS21DM3o5UGhGSEhONmp4UWZSaTdBem1wWmxlblRLcXY3YlJHNXE2RkdKOV9oVTR0RVM5VkNjbTFQVDFQWWVEVHFxUQ?oc=5",
+   "date": "2026-11-17T16:52:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
