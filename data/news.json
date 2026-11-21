@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:11:24.104941+00:00",
+ "updated": "2026-11-21T10:57:04.991447+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,14 +35,14 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 9,
+   "count": 7,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "count": 9,
+   "error": ""
   },
   {
    "name": "Google News: biosimilar",
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "7407395779c7",
+   "source": "Google News: biosimilar",
+   "title": "Low Biosimilar Adoption in Irish Oncology Limits Healthcare Savings and Patient Access - Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODVZeUtFX2VyV01obUVoZTZzZ2JpbFRyRjg4cEVIY0laSWJxb0lDb1lDNXBSX2QwbVBFdzZYLU1QZy1yUmhzQThDdnNiY2pFWlExR0g1bkZmM1VvY3dqY1g3Tl9iMkJ3ZXIyc2lVV3RUaXh5SHNjSE93NmFnNGszS0dXUDd6dmZBNTlkMVVxMFBzMm04V0l3bGtQVkNjelNiZ3RGeGVDdkZiamJHT1N1bQ?oc=5",
+   "date": "2026-11-21T10:18:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "0acda3a351f5",
    "source": "Endpoints News",
@@ -1204,6 +1214,18 @@
    "title": "Biocon Wins EU Authorization for Pebrilzo Under New Biosimilar Approach - Securities.io",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQmJVTDZaVXd1SjZvQm1TMXZLTWY0c3BoRGlISzVJTExEYmg1aGNXeHo0R25zcjZLTFgxYmtVQTQ1OWpZNXcxdXNETmcxRGJjY0NzR29jVTdGaEZEM2FDRGFndHNfLVJhT2xwNzlNYi1FZVpHSFgwZUppRmplUmdXc3oyN0tQMUs4ZzRvSzFzeV9MVTJOUlA0WTcwQTNCRDA?oc=5",
    "date": "2026-11-18T13:45:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "0d78d16ad098",
+   "source": "Google News: biosimilar",
+   "title": "Biocon's Pertuzumab Receives Marketing Authorization in EU, First Biosimilar Authorized Under EMA's New Tailored Clinical Approach - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQRnhkZjMxdElJc1BuYWlHeVJtOXRXdGlsUVBQdkpSUE5INHMzWVFIQnRURldnanFfNVNGWW9vSUJXd1BCNmo5dF9KM2tJOEVaM1pnbmRJQ3Q2RUdaU1RLYnA5ZzJzQmVvckdqNVoxUjlGRXo2R2p3MExQbmhlWndiVmdCY2VHczZoYkpvOG9YQkFncEdyQ2F5dnh1RjZZU19IbUlIbFpjUGozVFREVzFVV2FXRmdtbHZyeHpMSUwwdE50NkVrdTVqRkY2Y3o0NG42Z1VzNk9TcG8wcC1NZk5tVE5Zdk9yVDRNV3kzVUxLM19LTTN1ZWNIbTJoMzNZLTZ1eHZtS2tGWEIxZkI2OFhwbHhyMDY4dlk?oc=5",
+   "date": "2026-11-18T13:34:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -23756,16 +23778,6 @@
    "link": "https://www.bigmoleculewatch.com/2026/09/22/parties-dispute-intent-standard-in-stelara-antitrust-appeal/",
    "date": "2026-09-22T20:51:10+00:00",
    "snippet": "As we previously reported, portions of CareFirst’s antitrust claims concerning STELARA® (ustekinumab) survived summary judgment in December 2025. On January 14, 2026, the U.S. District Court for the Eastern District of Virginia reconsidered that decision and granted summary ...",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "439c1ebb6555",
-   "source": "GaBI Online",
-   "title": "Canada eliminates phase III trial requirement for biosimilar approvals - Generics and Biosimilars Initiative",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXpQSUw0b0p1NGs0Tk5NUGdMZl9rYUo4bDJXeFV0RS1aSUVUaHZSMkpaZFlHN25SZ3h1ZmljZ2JZYno5anVZQ09IWm1QWHM4RnFVeC1rckxFUzl3b2lrQzJJWGsybkZKR2FkVnFlVnk5RldCN1pyZU9JNUh1UDJiMUNHMVYzWmdUR2tlTmVRUHJCQ3Y0VjNrSFg2TUIyRkZCTjBrc0pDUm9HWlZO?oc=5",
-   "date": "2026-09-22T10:25:54+00:00",
-   "snippet": "",
    "biosimilar": true,
    "watch": []
   }
