@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:57:04.991447+00:00",
+ "updated": "2026-11-21T19:11:31.095184+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "06852832928b",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Denosumab Demonstrates Cost-Effectiveness Against Bisphosphonates in Postmenopausal Osteoporosis - Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVldJdENrNkFkb3BmblRMbGs1RWg3MkExV1d0VlVfVXc0OWhQT0NhNkdSemQ5LU1hQkZTV0xkdmVuT0tzLUIzMTBybUJPWEpXcHJxNlpFclBVcUxGVmZDWXJaUGVvOEk0X0hrNXpXbFYtS29BbV9Vem9rSWVtNUxzN095YlRZYkdkb2NqQ1FsY3M2NnlicTlWWFhaaWVrX095TWZ2NUo3V3VDcXQ5dmNBWUtuVkFqY19icF92UzA3LWoxNW5yWVNuNmZLbUs?oc=5",
+   "date": "2026-11-21T13:57:09+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "74b382de088e",
+   "source": "Endpoints News",
+   "title": "It’s Over-ton; Thoughts on Isomorphic’s latest haul; and more",
+   "link": "https://endpoints.news/its-over-ton-thoughts-on-isomorphics-latest-haul-and-more/",
+   "date": "2026-11-21T11:00:41+00:00",
+   "snippet": "Welcome back to another edition of Endpoints Weekly! All the tech outages this week can’t stop us from bringing you the latest in biopharma news. The biggest news this week came from Washington, where President ...",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "7407395779c7",
    "source": "Google News: biosimilar",
@@ -339,6 +359,16 @@
    "source": "Google News: biosimilar",
    "title": "The Biosimilar Growth Hormones Market Is Projected a Steady 10.5% CAGR Driven by Expanding Industry Applications - EIN Presswire",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMXdTajRxNElKSVFGUUp2dDhxdzhyVF9rLXJXNEZ0Uy1HT0lrcUlGYlpuQ0VlOTZ2eEUzRUY0NjU4Nm9qTjZkV0x2QUw2bHpoWFRORFZQYlphN2lIR0VTRDhtR3VsRlgyYnNuSnJ4ejJWRC05Wjk3SHp2MUpZdGY3QjVRR1V2X2ZMZ0RMX1gyNk5xUjRLMEdFUzdnejFCRnJ2eEZVRDVxLWVkc1duRjZRZk9vZm5INXJydnJzWW5VVG02NkRMbkRHNVVqbmJQQkNoZG5YRV9lbzVGVk1lNGc1TVhuQnI0TjdmYkl3c3lfTQ?oc=5",
+   "date": "2026-11-20T17:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "2d9a3919b3fe",
+   "source": "Google News: biosimilar",
+   "title": "The Biosimilar Growth Hormones Market Is Projected a Steady 10.5% CAGR Driven by Expanding Industry Applications - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYm5WbWNIWThQXzFHcFdCcVkzWHl0c1AtY3ZtNkctWEVWR2NHS0tNWVoxVUVkX3pXVzcxSkNnZy1LdjVUYjRGcWVwQjhrd2J3WFdlUjBxU1ZhLTAtWmpxWmVZR3M4bm15cFlSMFRqRU1GUG1mWWU0SFp2N2lzb0dqNmVzX2xfdnV0amdMQ0dXVmJhLWM1YU1XcHR5ak5mQzVPemxKSE1objZqVWZCako1b2J4TWVadXBuUTFBOWFJNnlsTXozMS1hazVKUlhhNHh0QjAyWmpwZFNjbFZuekFMQjE0cVpiUEts?oc=5",
    "date": "2026-11-20T17:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
