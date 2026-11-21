@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:11:41.655334+00:00",
+ "updated": "2026-11-21T02:11:24.104941+00:00",
  "ai": false,
  "feeds": [
   {
@@ -40,9 +40,9 @@
   },
   {
    "name": "Center for Biosimilars",
-   "ok": true,
-   "count": 9,
-   "error": ""
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "name": "Google News: biosimilar",
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "0acda3a351f5",
+   "source": "Endpoints News",
+   "title": "Capricor's Duchenne therapy is rejected again, as FDA cites significant issues with trial",
+   "link": "https://endpoints.news/capricors-duchenne-therapy-is-rejected-again-as-fda-cites-significant-issues-with-trial/",
+   "date": "2026-11-21T01:11:10+00:00",
+   "snippet": "Capricor Therapeutics’ deramiocel cell therapy was rejected for a second time by the FDA on Friday, despite the company's pivot to a narrower indication within Duchenne muscular dystrophy. In a",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d49c2106cb2e",
+   "source": "Big Molecule Watch",
+   "title": "Redacted Opinion Filed in Golimumab Preliminary Injunction Case",
+   "link": "https://www.bigmoleculewatch.com/2026/11/20/redacted-opinion-filed-in-golimumab-preliminary-injunction-case/",
+   "date": "2026-11-20T20:55:07+00:00",
+   "snippet": "On October 27, 2026, the parties in Janssen Biotech, Inc. v. Accord BioPharma, Inc., No. 1:26-cv-00222 (D. Del.), filed a joint motion to redact limited portions of Judge Williams’ September 30, 2026 memorandum opinion. The motion attaches a proposed redacted version of the ...",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "7b06d3ef5b9b",
    "source": "Fierce Biotech",
@@ -215,6 +235,26 @@
    "watch": []
   },
   {
+   "id": "a9b029e3eda8",
+   "source": "Google News: biosimilar",
+   "title": "The Biosimilar Lymphocyte Modulator Market is Projected to Reach $3.53 Billion by 2030 Driven by Robust Expansion - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZDFBWm80UVpSS0tOMVR1bmpxeTl0bmtOLVNpVTBqclNHOXR1RkI0d01pOWdLUVJNZXZVeW5TWnV4YV9MZ3NSUmZrWVFDeWRtY0lGZzBuWGoxY2tkbmp1X0dHbzIweGZ2WWZHMzdXU29lMS1PeWRPbmlCV0wxWkgyR1VRTWJpR3ByZkMzVzFENUtESlZLcVBDV290UVp5OThmeEtySk9pdk9LTjY1MWI3NjRLMzB5TmlGdWQwQnNNUmU3N0xkVnFEOFV3VVEtQmRfekt0UzNGcHp4WTAzZl9jSWxNN0FxeFdfbFE?oc=5",
+   "date": "2026-11-20T18:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "21de6ece3a2f",
+   "source": "Google News: biosimilar",
+   "title": "The Biosimilar Interleukins Market Is Projected to Expand at a 40.6% CAGR, Attaining a Value of $41.22 Billion by 2030 - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNN2hNR1R2RmxvYzVxU2dGNnJVc0NwbjZwbVk1SjB6X0xwUFU5ZlVwVmdmVlp2UzFpTFRrRnA1dEdUN1ZVQWxaWlZ2T2hwSDFHNU5oWVYxbmdEdzVBd3VlVDY2dV9YMmV1dzNSOUUwRnhGVDdqTTFwalNQV3NpRUhweEVGYlBUNGFpRUpZUkd5UGpBNVhyYUNsLUwxenVVdFpJaEtWSXBCNDhyZGxzNDBSUC03LWFFemFSRmZxRWRPa2VaNlhqckN5cHBqTlpGdk55cnRjanFRTWJndU1IR3FvbF9qb3RCdmhad3NmOEx3?oc=5",
+   "date": "2026-11-20T18:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "b027d8d61007",
    "source": "Google News: biosimilar",
    "title": "The Biosimilar Contract Manufacturing Market is projected to reach a value of Billion by 2030, growing at a CAGR of - EIN Presswire",
@@ -235,6 +275,26 @@
    "watch": []
   },
   {
+   "id": "05790bd6d875",
+   "source": "Google News: biosimilar",
+   "title": "The Biosimilar Contract Manufacturing Market is projected to reach a value of Billion by 2030, growing at a CAGR of - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaXAyQ192SjZtWWRVLU5RbGRWWmNQeEdMVEZzOWpOOUhkUmJjaWg4c2VrQVBYLWljY2VPcUdRYlY3a3JIMGpzbmdrTDQ0UnVaSklZaWxoSERHZ1VidmdwQ0p2U1FFZmlYQjlGaUkyNVZrMmdqaFlSZExvTlkxTFNNMVUweExENWQyeXpmM0RPbWEtZ2xQc0pScTB1Q3drRWQ5U2d6UEs3OE5Ub2tWS0VzandTcklScVhrU3g4R09xWk1nMEh3b1FHRFZWNnpVaW44a1VmeERKYWd1VTl6emFJYWtRdjlOUTA2T1pkSA?oc=5",
+   "date": "2026-11-20T17:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "4b132b043666",
+   "source": "Google News: biosimilar",
+   "title": "The Biosimilar Hormones Market is projected to grow to $18.12 billion by 2030, with a CAGR of 23.9%. - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWllpeWxvOUlIWmIzM21qTGY1bGxUd1lUbGpmaGRLMzZTUmNBRWRBQUNtTVVFT0ZnRVhPQWVuQ0poaEdTc00zQmg4NGFWdlZNbmZTVGs4VFBwdHZFcjRsZWMzX2FYUVlIMXpLbGxtbmN0V0ZfM3pHWkxwaGxJM0I2Q0E0N2pIbUxHRXV4Mk52Q1gtY1lpV09EclltV29OVTlqdzlUZmdjZFozandQZHN1N096YjdwREpqNGM4c0xJNFltbzc3bl80OXIweVNoYWY3aFYtNA?oc=5",
+   "date": "2026-11-20T17:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "4a2076737cfe",
    "source": "BioPharma Dive",
    "title": "Erasca data add to pressure facing Revolution’s breakthrough cancer drug",
@@ -249,6 +309,16 @@
    "source": "Google News: biosimilar",
    "title": "The Biosimilar Monoclonal Antibodies Market is Projected to Grow Rapidly at a 6.6% CAGR Until 2030 - EIN Presswire",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUENiYkV5ck5adFVST0NmZnNWMkRITHQwWXNoYUxYMm9xLUE2TTNKZmQwTWNCQWJLYi1DZDJtbm4zbVF5NVZSTm9OTi1uU1VCclRvWE9GZGh2TDVYV0lPQW9CWENwZ195akRFUWNkVFdfNzB5ekdGcVZLYVRid1JMYlRieTlkZUxfZ0tyS2lndmM3bDVpWmdqYXhyR2drZ2hHX0t6cmRUNGpucU4tU3NZbGpxakozMHR6LXN6c1JZbzZLODQ2a2h2R2ctcmJXM29xSDFKeXEzS0F6Z21m?oc=5",
+   "date": "2026-11-20T17:15:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "55713d2618db",
+   "source": "Google News: biosimilar",
+   "title": "The Biosimilar Monoclonal Antibodies Market is Projected to Grow Rapidly at a 6.6% CAGR Until 2030 - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTXNzNTJnUHpxTWhoaTdBdy01Mmp5QjFYSDBucW5hNFo1Y0hDbkI4N3I2dENsekJHaW55T0Y2M25jbGhna2NZQno5a0UxZnY4MGFPVkFScTB6X0I4UVEwZUhNRC1aZnRQN0l5THFoU1JjcUdEVGRnTDdybFotWlM1eXRVMXdxTU8wLUxzQ3NobGM5ZDFNUUl1LUR1NXFsa1NqaS02WjkwWDZPUTNvcFJKZXd0XzR3NGxsQWZFb1NJb1FRNTdCZ1lNaERaLXJYWjNaY2FhM2tR?oc=5",
    "date": "2026-11-20T17:15:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -285,6 +355,16 @@
    "watch": []
   },
   {
+   "id": "7a6b39ffb5f9",
+   "source": "Google News: biosimilar",
+   "title": "According to the Latest Research by The Business Research Company, the Global Bevacizumab Biosimilars Market - EIN Presswire",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTEJiR0lQc1Y1Znc5ZHlaOVdvc29VMUhPQ2FINm5JdHN4ZTNva0MyNjJGc3JFNGtZOGJ5WmJVVmlQbXBudWYyMF9qRlhWMUl2anhUZDBuUVdMam1LRHIzQzd0b2cwYVpYdXJMdkhRWGhLSTdyZ3BjTzFXYmg0SzdlOTg5M2RxZ0ZzTWlVSXRnZjJrdk1tMEhyYVM2dFZDVjFDTXNSQkZtUkVack1hUVc2X0pBMFUzYk9kSW12YzFHbnZpLVFEb1hfYnFkRER0UkpESHhfck1JaXhNR1RGZTdwdzJ3UFZ1dGNLOEE?oc=5",
+   "date": "2026-11-20T16:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "ccc85ccb7521",
    "source": "Endpoints News",
    "title": "Merck gets another Phase 3 win for sac-TMT, this time in gastric cancer",
@@ -305,6 +385,16 @@
    "watch": []
   },
   {
+   "id": "60854bb67362",
+   "source": "Google News: biosimilar",
+   "title": "Detailed Report on the Biosimilar Therapeutic Peptides Market Including Forecasts, Innovations, and Industry Perspective - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcXNNZnFWdGFiUzRXQWQ3UGMwY05hTVlCN0JaeHhnMklQM0lLeHNtM0R0dkhjUDJqYjFZWHhjVnNMOUdIeFkzYlpQQUI0cWQydDV2NHJ6TmVZcEtKbXNCVkRRaXJTVnR6WFc3NmFWVGlYUUh4VlN4aXlEVGU1cGdEaW16aXJ3TndjbjdISGg3MGdzVFFUM2NUTTA1amwwdDZIclptV0pkTXEtcWt6RlB0VGJUb0UyRUtib3ptTGZtQTJrVlF2WG5QMmFTUjhtRHdkdHB0ZlZWam1Yc05XeHY0Q3piZEg5QmtRSHRsLWxQd1dCUQ?oc=5",
+   "date": "2026-11-20T15:30:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "651943f8e0bb",
    "source": "Google News: biosimilar",
    "title": "NEWS: Bennet, Cornyn Introduce Legislation to Lower Prescription Drug Costs and Increase Access to Biosimilars - Forth.News",
@@ -313,6 +403,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "53e1b3245a4f",
+   "source": "Google News: biosimilar",
+   "title": "Original-Research: Formycon AG (von First Berlin Equity Research GmbH): Buy - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjRNREs3a2V3VjhOalNnaWYxdHlibnBkUk5UWERwcVFGS1FtbkpTdDNJdVkwQ1ZfYWdIR2tEY1dqY2hkVUFnM0RvY3NMQjhpYWpwSkRhd1J3c2ZmejBzbFRpVUZEUVo1Wm9xQVJHVmNybEpWOXFmSFB4UV8xUTcxY2t4VTl3YnQtSkYzaEZoWWtnRXU2bmJBbGktQm12WUxqNDR0QmVneU80U3pUM2xPU1pIVFhzamdidTRYNl9BOFI3VUU?oc=5",
+   "date": "2026-11-20T14:21:06+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
   },
   {
    "id": "317b8342e0a5",
@@ -2645,6 +2747,18 @@
    "source": "Google News: biosimilar",
    "title": "Fresenius Kabi Launches Denosumab Biosimilars in Canada, with the First and Only Ready-to-Use Pre-Filled Syringe Biosimilar for Oncology - PR Newswire Canada",
    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPN3dZb2dRZnBrOXBJdVNUSlVTTnVpSXJxM1dXeUI5RkM3Wkc5ZGV3Z1htMHExUlVyZjJvU2M2YWVsYUd4X053OGJKMUIyb1RnbGRQTk5BZ1pkNXRxc25RaFdfcU9hN1F6bU9CTEtyT1hiZDNZa2hlbWhIMW5rU1FLQ3pVZ3JiZllwb05mNmFRTFBTaW95b21jbnQ2QkhXeElYNDNZdWdNX29iSUJXM3p4ZEdmOTdHVGNEelRlQTlKVVZnTnZoZzdpQ1BIUUhlQjE5QlE2Tl9jNmVkeHBKeV85dUVCVENZVDBrOFJtd3lXRXdsOXlsOUVMTkJWZGVWeW5ldjB4WWw1dXZKSFp3RmgzNVJCQVFmOGc?oc=5",
+   "date": "2026-11-16T13:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Fresenius Kabi"
+   ]
+  },
+  {
+   "id": "0628722a0ec1",
+   "source": "Google News: biosimilar",
+   "title": "Fresenius Kabi Launches Denosumab Biosimilars in Canada, with the First and Only Ready-to-Use Pre-Filled Syringe Biosimilar for Oncology - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVXFrZnl1SUx6UWFqVWh0dS0xa1NYRnZMdjNoWkhqbUNuTG14SWJUMnZXTFdSeXEwcURXWjAyRkdvREF6OTl1UEJKVUxpU0hhRWpnY1ZuNENmZWlrVjR4Y0ZnMzYxR3RrQVIyR0pvemxKTnFXcVBQVGV5UjVBY1psZHl5UDRxS1ljZlNqYTY2b29IZXNibWpqbWVORnN0N2E5Z0lZdUV2enZEUQ?oc=5",
    "date": "2026-11-16T13:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
