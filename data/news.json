@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:15:37.241520+00:00",
+ "updated": "2026-11-22T11:17:11.129190+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,13 +35,13 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": ""
   },
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "0f72ebb7fb82",
+   "source": "Fierce Biotech",
+   "title": "Danaher teams up with Microsoft to boost ‘experimental execution’",
+   "link": "https://www.fiercebiotech.com/medtech/danaher-teams-microsoft-boost-experimental-execution",
+   "date": "2026-11-22T11:17:11.129190+00:00",
+   "snippet": "Danaher Corporation and Microsoft are teaming for a strategic partnership to develop smart scientific instruments and an interoperable agentic ecosystem.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "43e4e6bbe3b0",
    "source": "BioPharma Dive",
