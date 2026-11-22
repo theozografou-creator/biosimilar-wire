@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T11:17:11.129190+00:00",
+ "updated": "2026-11-22T19:33:41.254874+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,13 +35,13 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": ""
   },
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": ""
   },
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "a943734b3e20",
+   "source": "Google News: biosimilar",
+   "title": "PBS talks begin under fiscal strains with patients, as always, left outside the room - PharmaDispatch",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2NQQ25nazYwMFROUGxpX01MRnZvSGNid29RMVlNLU5reXhydHR1MEFIR3c5ZnlHSV80UW1rcmZZWUxMWWxwTTZXUU1EMjN5MWk3UW5TUWVvLVhsUUxLUmVjRGhLMWxJcmZ1NmJPMkJWOWNrbkN0aVN0THFHN2VHT2paS2U5WlBibGxqaGlibHR6UEdobmNlSlczNGNEV2FTckNsMDdYM0wwekJJbWhJTmZNcmk?oc=5",
+   "date": "2026-11-22T15:01:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "ca99b3d109b6",
+   "source": "Google News: biosimilar",
+   "title": "mAb SEC Columns Market To 2035: Biosimilar Comparability and UHPLC Shift Drive Forward Growth - News and Statistics - IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRUNSRlczWS1QVzNRUmhla2Rtc0RXbkluVzdKNXZ4OXlEMm1DT2lIVE4xMEtkaGJ4TzRkUS1GSkxhUjl5RDZNanhRdFpscG83aDB3N0MwZmpkWEVLUjNCTU9PSEt0TWViTXJpd05IRkRPUzFNNXJmZW9LcEJEa2ZWa054VHBGWWRwU1Z5bXpEZWpYUldwbHVsRFd1UzlzckNZN29EMXJjR0JhNnEwTldNaXQ5ek9STW9fMExyYmFPR3NzdEVPV2JSWFdrSnRrcmlYRTR6V1pWYXBZUm1POUxLUlh3?oc=5",
+   "date": "2026-11-22T13:41:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "0f72ebb7fb82",
    "source": "Fierce Biotech",
@@ -83,6 +103,18 @@
    "watch": []
   },
   {
+   "id": "1d4f4f120ab6",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz stock: Enzeevu US launch adds private-label channel - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV3o0ZW9jM25XMXZ2WGY0aFdabll2ZTVOb3psS0lWVWdXc3o2azlNYXd6X0lqMENfS21lQ2tmNVhudDF6MVZzbjNxOERUS0ZTT2s2NWN0VGpfRjhaeno0VU12LV96enoyR2RqVE1UYkdTRFBFcG9CaDlvdDUzQk8ydTZkTzY3dE41cktocXBiYnRoa1RGYlE3OTgyb2Y2NU1jc0c1SmR0ZjNBTy1ZeTQ0NXVQb3EtR0FNczNxRw?oc=5",
+   "date": "2026-11-21T11:17:09+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
    "id": "74b382de088e",
    "source": "Endpoints News",
    "title": "It’s Over-ton; Thoughts on Isomorphic’s latest haul; and more",
@@ -98,6 +130,16 @@
    "title": "Low Biosimilar Adoption in Irish Oncology Limits Healthcare Savings and Patient Access - Bioengineer.org",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODVZeUtFX2VyV01obUVoZTZzZ2JpbFRyRjg4cEVIY0laSWJxb0lDb1lDNXBSX2QwbVBFdzZYLU1QZy1yUmhzQThDdnNiY2pFWlExR0g1bkZmM1VvY3dqY1g3Tl9iMkJ3ZXIyc2lVV3RUaXh5SHNjSE93NmFnNGszS0dXUDd6dmZBNTlkMVVxMFBzMm04V0l3bGtQVkNjelNiZ3RGeGVDdkZiamJHT1N1bQ?oc=5",
    "date": "2026-11-21T10:18:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "bfc161d80eae",
+   "source": "Google News: biosimilar",
+   "title": "5 Pharma Stocks With Strong US Market Exposure: Can New Product Launches Drive Growth in FY27? - Trade Brains",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnQweUZONU1ibnk2aU5QWDdiSmZKblNIRGNwVEdHald2NllMUGd2OG0yWXNSVVNBejV0cDZuRFFBaWx2ekpUNlpjMTRPVWQzRTM2QVlTUFpYcEtRcTlmM3JhX1Z0ZWxUZXczUllEeV9jYU92dkMwdktVMjBJOE1nb053OHJNbUR3ejEyY003TmZ6d3JaT2swc0UzaEJZU1ZKSURaZEN0Y0NscUhXanRqcndjbW5HQ0hjeXd1YWFBbm9yQU5wa0d5RFlZV0lzWXlnT2lJbFZn?oc=5",
+   "date": "2026-11-21T07:30:37+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -583,6 +625,16 @@
    "watch": []
   },
   {
+   "id": "6e4183ed4987",
+   "source": "Google News: biosimilar",
+   "title": "Immunomodulator Market Competitive Analysis Highlights - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQi00ZTBFSlJsQlRMOXFCbTVfZ1ZfZFhiOGVPQVJESmhuVmFnUHNMMHI1Ums4X2JBUk15M2ZZNFlWXy1obEJ5TUhWS2tRcTBHcWJIY2pmV3BNNXh3NzUxY25yVDVhenpkQ0d5TTBLOS1MQmgyWGZza2xuR0tpdGd4XzhXTVAwTzM0V0IwemdsUHk5emYt?oc=5",
+   "date": "2026-11-20T10:46:52+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "eb93ca6a3c5a",
    "source": "Google News: biosimilar",
    "title": "Sandoz on its own three years after the Novartis split - The Pharma Letter",
@@ -623,6 +675,18 @@
    "snippet": "Crown Biosciences looks destined to go unworn for a while longer after its planned $204 million acquisition by China's Adicon fell through.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "61de17b14e96",
+   "source": "Google News: biosimilar",
+   "title": "Eric Hughes to depart Teva - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FMTNlSHNESTYtNlNjdTc5TVM4ajZubEZBSUVhMGR4cmRXcGtGVl9TWUJreTE5MnZpbFNUYmxoZmxWTjRRNjFXeU9WUU9sbnFwYk5Vd01saDFNRUF1VGc?oc=5",
+   "date": "2026-11-19T22:40:42+00:00",
+   "snippet": "Eric Hughes to depart Teva Drug Store News",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
   },
   {
    "id": "4a41c0e2c135",
@@ -1286,6 +1350,18 @@
    "title": "Biocon's Pertuzumab Receives Marketing Authorization in EU, First Biosimilar Authorized Under EMA's New Tailored Clinical Approach - Morningstar",
    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQRnhkZjMxdElJc1BuYWlHeVJtOXRXdGlsUVBQdkpSUE5INHMzWVFIQnRURldnanFfNVNGWW9vSUJXd1BCNmo5dF9KM2tJOEVaM1pnbmRJQ3Q2RUdaU1RLYnA5ZzJzQmVvckdqNVoxUjlGRXo2R2p3MExQbmhlWndiVmdCY2VHczZoYkpvOG9YQkFncEdyQ2F5dnh1RjZZU19IbUlIbFpjUGozVFREVzFVV2FXRmdtbHZyeHpMSUwwdE50NkVrdTVqRkY2Y3o0NG42Z1VzNk9TcG8wcC1NZk5tVE5Zdk9yVDRNV3kzVUxLM19LTTN1ZWNIbTJoMzNZLTZ1eHZtS2tGWEIxZkI2OFhwbHhyMDY4dlk?oc=5",
    "date": "2026-11-18T13:34:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "91b31feaa484",
+   "source": "Google News: biosimilar",
+   "title": "Biocon's Pertuzumab Receives Marketing Authorization in EU, First Biosimilar Authorized Under EMA's - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRGtSS2lMZGdSM3JXSmI0X1Jra0F2MnRJYy10NUpOVV82QWNpV0ZQRVpmRnhOcTJBV25pek52bzNuMlFtVl9YdnZiMVQ2RTg5OTdaemVjcVlHZ01UaUZ1M1pzb0g0cGh0dkZyYzJCWmZCMnVzazhxOFBFaGVEV0Q1THQ0YmsxTlVnYTlmMndsQk51YmE1R3lLRXUzUU5CbzlYWC1yejE3aW1nZHlqUlVMWWR1VHFBUk85ME5OSGs2b0xMQU14cERfNkNxdmlFa3NTVmE4RWpEYTNFbWhsVDJfSzdROU9qTjZ5dkRXOHNva2ZCTVE?oc=5",
+   "date": "2026-11-18T13:25:22+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -2018,6 +2094,16 @@
    "title": "Solutions Still in Search of a Problem: Seeing Through False Narratives on Patents on Medicines - IPWatchdog",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblZWdWZ6NjZ1SmxjSVlMWjVySVJmcGJBajVqRi1oYlpWbEZlYk05bTFTbXRWa3M0cC1oWndkdWUtWFh5ZFk1ZkRGSV93T1dwRlZ1R0ZJMUZrT3F5STZMam95Z3N1NGVkck5mWXN2Wno1UTlRVW56WGpuVWtHLXd3eXlzTHpPQWJ3ZVBjVHZ5eTZZd1ZUbmNXc3NxMUJfQVR2SkpQY1dacmFaWmVPV1RXWjdQUnA3VzltaXpVeGUwVjJ1NlpKQTB5Uw?oc=5",
    "date": "2026-11-17T18:15:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "790ae8d337be",
+   "source": "Google News: biosimilar",
+   "title": "Can Amgen (NASDAQ:AMGN) Build On Its Latest Clinical Progress? - Kalkine Media",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQTZpTWVOblh6N2V2VGZMYzZlNElGUEFreXZEZGhwR211ZnBDaHdjM08wVVEydjlwVDBOUHdwWHhyaF9vVG9Wam1Ma2xudnFoTnF3cXVLSnhPOTVVMEhydlZPR29aYnUyUXRjMGVXTHZ1bnI2cEtDLUo5a1Y4cXgzck9ZTGdYR1lBX0VERmRYTXkyVGxJdERobU1BY1cwY0tGWFNLVWNZZw?oc=5",
+   "date": "2026-11-17T17:47:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
