@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T19:11:31.095184+00:00",
+ "updated": "2026-11-22T01:15:37.241520+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,16 @@
   }
  ],
  "items": [
+  {
+   "id": "43e4e6bbe3b0",
+   "source": "BioPharma Dive",
+   "title": "FDA again turns back Capricor Duchenne cell therapy",
+   "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
+   "date": "2026-11-21T20:46:00+00:00",
+   "snippet": "In an unusual statement, the FDA accused Capricor of “serious data integrity violations” that compromised its study findings and led to deramiocel’s second rejection since 2025.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "06852832928b",
    "source": "Google News: biosimilar",
@@ -350,6 +360,16 @@
    "title": "The Biosimilar Monoclonal Antibodies Market is Projected to Grow Rapidly at a 6.6% CAGR Until 2030 - EIN News",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTXNzNTJnUHpxTWhoaTdBdy01Mmp5QjFYSDBucW5hNFo1Y0hDbkI4N3I2dENsekJHaW55T0Y2M25jbGhna2NZQno5a0UxZnY4MGFPVkFScTB6X0I4UVEwZUhNRC1aZnRQN0l5THFoU1JjcUdEVGRnTDdybFotWlM1eXRVMXdxTU8wLUxzQ3NobGM5ZDFNUUl1LUR1NXFsa1NqaS02WjkwWDZPUTNvcFJKZXd0XzR3NGxsQWZFb1NJb1FRNTdCZ1lNaERaLXJYWjNaY2FhM2tR?oc=5",
    "date": "2026-11-20T17:15:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "7a2170e8b805",
+   "source": "Google News: biosimilar",
+   "title": "Detailed Report on the Biosimilar Therapeutic Peptides Market Inc - The National Law Review",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVR6NGxlQnBOU1RGZFB0WndQeDB5aVJja0xEekF6REYyYjRONUVpQVI2MVhJUnI1dnNVc0JrdzIzNmNndjF1cW9KWk1sekRYdk00RUc2UU5RaDRWWTZZVDl2Y3l3WC1HOS14akhPbEFabzZfcmNHYXVYZ0h5SWZWVGd1YzUtYUQzeWZ5bndEbUkxNlg1SGtobkplRWxMYkdVV20xNHVrTTVLZDRDVDBZb0JDQUs?oc=5",
+   "date": "2026-11-20T17:03:12+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -23798,16 +23818,6 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWEZYU05vSkJlR1B6d3ZzVHZhekVmUldkeXo4Ty1jQ1J2Y0JMYTRFXzVJU3ZWS1ZzZUc3TlRoaTRUODBCRXZ0NThENGRTQVJNVlZDc193QnRjd0ltZ0NOTmJVS2lXMTVyT0dCaXRzTE5YSXBQY1RLOGFfelY5WHBmajJPbUk4Y3FDdkFWMzJuclB3amgwYkk2ZFV5Y0pqODFacndoQkI3MHk1QVhIZF95ZA?oc=5",
    "date": "2026-09-24T22:51:57+00:00",
    "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "44e7ec6738d6",
-   "source": "Big Molecule Watch",
-   "title": "Parties Dispute Intent Standard in STELARA® Antitrust Appeal",
-   "link": "https://www.bigmoleculewatch.com/2026/09/22/parties-dispute-intent-standard-in-stelara-antitrust-appeal/",
-   "date": "2026-09-22T20:51:10+00:00",
-   "snippet": "As we previously reported, portions of CareFirst’s antitrust claims concerning STELARA® (ustekinumab) survived summary judgment in December 2025. On January 14, 2026, the U.S. District Court for the Eastern District of Virginia reconsidered that decision and granted summary ...",
    "biosimilar": true,
    "watch": []
   }
