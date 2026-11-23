@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T01:39:58.494132+00:00",
+ "updated": "2026-11-23T12:29:50.341134+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": ""
   },
   {
@@ -47,11 +47,91 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 55,
+   "count": 60,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "17889d68391c",
+   "source": "Fierce Biotech",
+   "title": "Lilly buys preclinical LoQus23 in $725M deal to zero in on Huntington’s target",
+   "link": "https://www.fiercebiotech.com/biotech/eli-lilly-inks-725m-loqus23-deal-zero-huntingtons-target",
+   "date": "2026-11-23T12:29:50.341134+00:00",
+   "snippet": "Eli Lilly has struck a deal to buy preclinical Huntington’s disease biotech LoQus23 Therapeutics for up to $725 million.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2a867e9caa3f",
+   "source": "Fierce Biotech",
+   "title": "Capricor weathers second DMD cell therapy snub as FDA alleges 'serious' data integrity concerns",
+   "link": "https://www.fiercebiotech.com/biotech/capricor-weathers-second-dmd-cell-therapy-snub-fda-alleges-serious-data-integrity-concerns",
+   "date": "2026-11-23T12:29:50.341134+00:00",
+   "snippet": "Contrasting with the blunt release of the complete response letter that heralded the initial rejection of deramiocel last summer, the FDA appeared mindful of the optics Friday as it sought to explain why it turned down Capricor Therapeutics’ Duchenne muscular dystrophy cell ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ae2c2f2af8f1",
+   "source": "Fierce Pharma",
+   "title": "Big pharmas ride GTA VI’s promotional coattails in tribute to global phenomenon",
+   "link": "https://www.fiercepharma.com/marketing/big-pharmas-ride-gta-vis-promotional-coattails-tribute-global-phenomenon",
+   "date": "2026-11-23T12:29:50.341134+00:00",
+   "snippet": "What does the pharma industry have in common with gaming giant Rockstar Games and its promotional tour for its new major game Grand Theft Auto VI?",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8458f40be3ef",
+   "source": "Endpoints News",
+   "title": "Kymera’s STAT6 degrader clears mid-stage test in atopic dermatitis",
+   "link": "https://endpoints.news/kymeras-stat6-degrader-clears-mid-stage-test-in-atopic-dermatitis/",
+   "date": "2026-11-23T12:00:56+00:00",
+   "snippet": "Kymera Therapeutics is planning to test its oral eczema drug in a Phase 3 trial next year after the drug breezed past Wall Street’s bar for success in a mid-stage study. In the primary endpoint ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0f3679efb271",
+   "source": "Endpoints News",
+   "title": "After $14B Intra-Cellular success, Sharon Mates returns with new biotech Ritzey Therapeutics",
+   "link": "https://endpoints.news/after-14b-intra-cellular-success-sharon-mates-returns-with-new-biotech-ritzey-therapeutics/",
+   "date": "2026-11-23T12:00:11+00:00",
+   "snippet": "Sharon Mates is back with a new neuro and metabolic drug development startup and $112.5 million to see if she can replicate the success of her previous biotech. After landing one of ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2ad9d3cf0815",
+   "source": "BioPharma Dive",
+   "title": "Why today’s leading drug developers are fine-tuning open models on their own data",
+   "link": "https://www.biopharmadive.com/spons/why-todays-leading-drug-developers-are-fine-tuning-open-models-on-their-ow/875153/",
+   "date": "2026-11-23T10:00:00+00:00",
+   "snippet": "Open or proprietary AI models? What drug developers should weigh before they fine-tune.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dcbf119e561d",
+   "source": "Endpoints News",
+   "title": "Lilly buys Huntington's startup LoQus23 for up to $725M",
+   "link": "https://endpoints.news/lilly-buys-huntingtons-startup-loqus23-for-up-to-725m/",
+   "date": "2026-11-23T09:37:17+00:00",
+   "snippet": "Eli Lilly is headed into Thanksgiving week with an extension to its 2026 shopping bonanza, this time by snapping up a UK-based Huntington's disease biotech set to enter the clinic in the coming months. The ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "17be21bdaca4",
+   "source": "Google News: biosimilar",
+   "title": "Weekly Recap: Enzeevu launch and supply deal and biosimilar targets - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1lndVBjX1QzdTVNcTR4VERxZ3FXck1ldTB5MXJfb2VoTTFlNkFYMi1rVE1XU3F6VmtKM1NEU1Bnb0s3UFRTZzJNWThGYm4wVjZ3QlFHWUtsR0lEQzdLZ25HMlRxVTdTTDhkX3hnYThrbkFuTUo5WVpPSjZzUkNucm5zOVVwRHJYVFpnbjJ5RmE4NnZ3Sk4xMWdkc2N5cnA0dUhpWVBNZTV5SGg0eUZTbWY5TUJXTXZfRmM1RzkyaFk3Z0xfTjM4?oc=5",
+   "date": "2026-11-23T05:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "a943734b3e20",
    "source": "Google News: biosimilar",
@@ -971,6 +1051,18 @@
    "watch": []
   },
   {
+   "id": "8ccf756481d7",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets European Commission nod for breast cancer biosimilar Pebrilzo - DD India",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkVVa2swV3dfX0ZsV2hwc0FYektPODdodWhldkEwR0d0RHJFN1ZTMjRpNmE3dXgxUjZ1RG5pYzFfZmhYYW45al9OaVJCUWFsLUl1dWhvSHo5QVBUMEl0ZzZ3cnNfWGlEOVRRUUxubVZPUFBUMF9lN2tJTXRqY2JHVUFxdmVRdnI5Vk1zT1NzaURTU0lpZXVYUi1jMDZNbGFmWmhYWTRlaw?oc=5",
+   "date": "2026-11-19T14:34:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "7334072d7adf",
    "source": "Endpoints News",
    "title": "Regeneron enters neurology field as FDA approves siRNA for myasthenia gravis",
@@ -1591,11 +1683,35 @@
    "watch": []
   },
   {
+   "id": "74c1a3d4ab5d",
+   "source": "Google News: biosimilar",
+   "title": "Biocon's Pebrilzo gets EU nod for HER2-positive breast cancer treatment - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWcwbVJNdTZheldNOEkwcW8xdWxKZmhIQkdLTzBCUlUtM1Z1REdGVEEwWWJnZmxrelJiUVNKTTZJcFB2Skt2VGd0M3RzdTFINllpTU1PMW55RV9Yc2I5NkNRWmpZTGZSY2NCRDdNVmhTM0loYWFtajMwOWczTTY1azNHQlVrVk1ENkpjaEk0SExHQkRjelJ6YW90RnNzZEdrVXJiUGt4T25YcUE4bDNmcUVqLUtERDZhSkR4Qmw1dWtRc25yNWowNFRZdHNJQzVTSXFMVnVsQdIB3AFBVV95cUxPMUZicTlsYVhqZ1M3UGpVTmNMRmFyeGRCUGo5Nk1nU3l6TmdnRUZWQlJ4NmxOZVdvM2NlUjJUYXZRUWQtbl9qZUFReUtxWkFhUEFKRWtpdXltcjNLSG5CcEt5RVdtM1JlU1JMQkU5NVMwdTItdXhKYWNZeDIxTmZRdGdyaFVDZi1UaXl2MHZMYmNoLUowWkgyQmlWa1hJT1VaX2ZRV1JCa1k4ZmJvZDlVNkxlRWVXMzRyQ2Y5aldUSGVjcmRQU18xbDE4RjNIa0xKVVF2RHRYWnVUUUI4?oc=5",
+   "date": "2026-11-18T03:52:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "6a8e25c6b0d9",
    "source": "Google News: biosimilar",
    "title": "Biocon Receives EC Marketing Authorization For Pebrilzo Biosimilar Pertuzumab In EU - TradingView",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaDI2ZzdfUFFHUHNfSkx4NHVlN0c4c3RUaVRnY3ZyMXpCb3pKZWdlN2xvM0ZDQmMwbEN2Ukt3RkpIMFNFS19hT1dRemluUWJRM3pYNi1LVmEyME9LRHJKODMxZGFaMHliTEl5aWlhUUEyZkd6OENKVlRUTnpZSnFKZUw4YnYwdXlqaU9jeURmU3Mxb2pkTWhLLTNZTG9vNmJ4UFFWYVkyNzJqWTNVUHg4YkpJOHFQRmlBcXBqQ21sQ1lEeUU1MXhDX1dBaUJ2WmIxS3hhbzAyWmtkRU1MN0w4M001WDR5Z09G?oc=5",
    "date": "2026-11-18T03:14:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "d8c15be5d14e",
+   "source": "Google News: biosimilar",
+   "title": "Biocon wins EU approval for first tailored-pathway biosimilar - Multibagg AI",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOXhWUjZHRkZWQXlhaG1BRUo3Uldmdno5N2Z1ZXlHWDNBSlRPYlgtUVUzeEo5Ql8zRVJISnZWMlRBYUhSUFJnN3E5b1ZlNWVOZFJOMTFNRXpiWkI5OEY1NkRsQ2hmcjV3cm15LTJEX1R3R0g2d3p3d2VBNW1acVhBQUhTSDhzT19CbHNBYmtubG9wZVZVQVRpUHdvYXJrVDZGX0RuYm5qY0pzbTMtNWdjQUNnX3Y2eXUxRnlr?oc=5",
+   "date": "2026-11-18T03:04:50+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
