@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:10:41.691413+00:00",
+ "updated": "2026-11-24T13:38:01.333526+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,152 @@
   }
  ],
  "items": [
+  {
+   "id": "09762fde5b0b",
+   "source": "Fierce Biotech",
+   "title": "‘We’ve been a quiet company’: Why viral biotech Vyriad attracts Big Pharmas despite low profile",
+   "link": "https://www.fiercebiotech.com/biotech/vyriad-tells-fierce-how-it-manages-quietly-attract-big-pharmas",
+   "date": "2026-11-24T13:38:01.333526+00:00",
+   "snippet": "Vyriad's leadership may describe the biotech as a “very quiet company” when compared to some of its more buzzy peers, but the drug developer's partnerships speak for themselves.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "25d2b8c53330",
+   "source": "Fierce Biotech",
+   "title": "FDA signs off on Siemens Healthineers next gen multiple sclerosis blood test",
+   "link": "https://www.fiercebiotech.com/medtech/fda-signs-siemens-healthineers-next-gen-multiple-sclerosis-blood-test",
+   "date": "2026-11-24T13:38:01.333526+00:00",
+   "snippet": "The FDA has given de novo marketing authorization for Siemens Healthineers’ Atellica IM Neurofilament Light Chain (NfL) assay.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a75d61dcd450",
+   "source": "Fierce Biotech",
+   "title": "GE HealthCare launches ViewPoint Ultra to simplify ultrasound workflows",
+   "link": "https://www.fiercebiotech.com/medtech/ge-healthcare-launches-viewpoint-ultra-simplify-ultrasound-workflows",
+   "date": "2026-11-24T13:38:01.333526+00:00",
+   "snippet": "GE HealthCare has launched ViewPoint Ultra, an ultrasound workflow solution designed to help health systems standardize clinical documentation and reporting across sites and departments while supporting specialized individual care needs.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d2c9e4df78a1",
+   "source": "Fierce Biotech",
+   "title": "Sanofi inks massive $41B Insmed buyout for post-Dupixent growth drivers",
+   "link": "https://www.fiercebiotech.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers",
+   "date": "2026-11-24T13:38:01.333526+00:00",
+   "snippet": "Sanofi has struck a deal to acquire Insmed for $41 billion, securing three commercial and late-phase respiratory assets to offset Dupixent’s looming loss of exclusivity.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9b90902c465d",
+   "source": "Fierce Biotech",
+   "title": "Exicure expands work into Parkinson’s with X-CUE smart glasses",
+   "link": "https://www.fiercebiotech.com/medtech/exicure-expands-work-parkinsons-x-cue-smart-glasses",
+   "date": "2026-11-24T13:38:01.333526+00:00",
+   "snippet": "Exicure is partnering with NeuroQ Biologics and the South Korean medtech company Laonz to expand its business into medical device technologies designed to assist patients with Parkinson’s disease.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9a906ecc4715",
+   "source": "Fierce Pharma",
+   "title": "Marksans Pharma flagged for 6 observations in wake of FDA inspection",
+   "link": "https://www.fiercepharma.com/manufacturing/marksans-pharma-flagged-six-observations-wake-fda-inspection",
+   "date": "2026-11-24T13:38:01.333526+00:00",
+   "snippet": "Indian drugmaker Marksans Pharma was cited over six observations in a Form 483 from the FDA.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2c9478fe9756",
+   "source": "Fierce Pharma",
+   "title": "Sanofi inks massive $41B Insmed buyout for post-Dupixent growth drivers",
+   "link": "https://www.fiercepharma.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers",
+   "date": "2026-11-24T13:38:01.333526+00:00",
+   "snippet": "Sanofi has struck a deal to acquire Insmed for $41 billion, securing three commercial and late-phase respiratory assets to offset Dupixent’s looming loss of exclusivity.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "2c9abe8a7151",
+   "source": "Fierce Pharma",
+   "title": "Bristol Myers looks within for new CFO as David Elkins plots pivot to Coca-Cola",
+   "link": "https://www.fiercepharma.com/pharma/bristol-myers-looks-within-new-cfo-david-elkins-plots-pivot-coca-cola",
+   "date": "2026-11-24T13:38:01.333526+00:00",
+   "snippet": "Following some seven years as Bristol Myers Squibb’s chief financial officer, plus many more before that in the life sciences industry more broadly, David Elkins is trading the allure of Big Pharma for just about the biggest name there is in the world of refreshment.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "00d2a2e578ea",
+   "source": "Google News: biosimilar",
+   "title": "STADA expands specialty rare-disease offering with tafamidis capsules - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3AyNjdpWERybW44Q0FGaFpELVNSV2pUX2dJVkR6S0stN1ktUlJYRWY5WllUTTMtRnNMdXROLW1HRVdwYkRhZksyUE5CZXdVSjhSTUpHdFlGdkktV2EtWERzaVBsRkItZzdxYU9ONm41UHdhWHBEeG5IWFlHT2lDdFlPSzVkZ3FRZ21DV0Q3RUdEdzdfXzlCMmdtdDc2MXVNM0JITXBpX3ZnSnRVOGJhRmU2ZnNFdw?oc=5",
+   "date": "2026-11-24T13:07:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "ff8ecf8626f3",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz stock gets Buy upgrade as Deutsche Bank lifts target - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1k2cXh4NDE4VElicUhBcEEyU0Z4dFVwSUNhNXZBZlVxOVlRTGJQdnJMa050TzUtTW5VbUtnVUlBaFBBQzNiOXUxSGJ4T1F2enA4ZW9BZ0RlWGlRdzgxRTZkb1h0ZzN5c0lkSFBFRnlfTUQ4UG1VYjhkMUZCRzBLODZMODk3NkYxeWhDbkNYQ2syanpQVExrUEFlMFRzVmdJUWw3R0ZUdEJXUUh0OFJHVG5uZmVOQ3VfUVFZUVFZTQ?oc=5",
+   "date": "2026-11-24T10:11:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
+  {
+   "id": "b760af7c005e",
+   "source": "Google News: biosimilar",
+   "title": "Third Medicare Negotiation Round Cuts Prices By Up To 84%, Adds Part B Drugs And Loses Botox - Pink Sheet",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNZTFIbWNQUUVNMmFnMUhfVFloaE9EdmhwLWxnbUY3V1E2MU5hUG1ULXh2MmVaQy1jV2NQWlpINlVPQkxmU2hnYldrdXBFdVRoRlZldEszeEpobVFicENtX3cxSlZCUFdvVWZHVzVUSzZMNXVCVEF3Z3M2SnNWTi0wSXJXWXE4a3dua3owOVVEOWJpNURrUmpheDdnaFptR1RKa09qTEhRaXBPT29lVTVVNWlYbUpNV3J1eUoteDBPbmRtNFBUOTNmUS12ME5qOTRfUDhMWFJ6NVd1eEZ0U2RTc3luZ0trZlVtUFo4Vm5NYVBCcktqVVV5aVl6UEF5SlljVnhkV3hWVEZWMnFJN3NzSGhaYk5oRUs0T0s5aEJ1QVlpRkEwVTBZ?oc=5",
+   "date": "2026-11-24T09:21:57+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "9376871a5575",
+   "source": "Endpoints News",
+   "title": "Sanofi to buy Insmed for $41B in industry's largest acquisition in years",
+   "link": "https://endpoints.news/sanofi-to-buy-insmed-for-41b-in-industrys-largest-acquisition-in-years/",
+   "date": "2026-11-24T08:20:00+00:00",
+   "snippet": "Sanofi has made it official: The French pharma plans to acquire Insmed for $41 billion in cash, marking the first megadeal in the biopharma industry since Pfizer's $43 billion takeover of ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "99c5a9c9566a",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis promotes regulatory affairs expert Jung Byung-in to vice president, 2 others to managing directors - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wTEZqd0RPQ1FfY3VpOHpBY1R1Ni1rTEM2MGNFejFlQWdGcWE3TlFWNDJpd3EzRThEbzZNblJIcHRvY2xnVkhpQnhVTWM4Y1JxdHFhNGgxQ201QVJxejVhQ0xyNFNDRVczdEJkT3lB?oc=5",
+   "date": "2026-11-24T02:42:17+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
+  {
+   "id": "bd3fa8b64f0b",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Announces Regular Executive Promotions; One VP, Two Managing Directors - 아시아경제",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42TW8yWWpyaVhvNFY4cEZROThIZEh1dmxKUk9Oa0FjeGpPeHd2aldaWFluNGZBMGZ3dDdWUDA1TDNKYjFQbGZGZXVnZ0xkYTRzQTE1dHkzajVKNEhZU0wzcTFVc01DclBhdS1FWXBBUklNbHM?oc=5",
+   "date": "2026-11-24T02:39:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
   {
    "id": "cc9a3e48b4de",
    "source": "Fierce Biotech",
@@ -230,6 +376,16 @@
    "date": "2026-11-23T17:44:26+00:00",
    "snippet": "Roche's breast cancer pill giredestrant won its second FDA approval on Monday, opening up a much larger potential market for the Swiss drugmaker in early-stage disease. The FDA approved the drug ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "977af1e8fda9",
+   "source": "Google News: biosimilar",
+   "title": "Generics, Biosimilars to drive India’s next pharmaceutical growth wave - The Statesman",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0FMSHlpWjZUYkEwMm1Ha3MxM2ZOZ09Dc0xVMG02cnJPcnZJNFA1aGRxLWo2S2gwSUV4MkhZUlhxM21vM2pSV2xJS00xWFJPNWNJeEZkVmtjY193Y1FDV0RhbE1odHVOUEt2RG5hSWZIRnFYYlZIOE9EYVdVWVh4b3YwelQ0MEJJOTFDbE9IaVRwMlFVZkZqaUV0V1Q2STFZUzl0X1NDUFQzbHVMb2RNUzU4d1AzSGVzaE5IVWdSTdIBxAFBVV95cUxNdC1jeEFhT3hQSU5SYU8wVHBoRlRLSGVvNWhZS3pZcExuZ1NkY3Rkc0JrVmNhc3lZS1NqdGJpYlBYcHhVbTIzTWVCeE1ULTlfUUVhTGZTTjJDNUF6clliN1RKTGlFX0ViM0xjbGtuVmRQMjJQRmdteGpubko5VE8yUmx4eWE3Y0o1ZmxXMkRORXdGVGZNRndHVy0tV3VUVms2VGVyY1ZYM3UtTUZTWGFLOXBwVlczUnBzT24tbmg0UGZQUjEx?oc=5",
+   "date": "2026-11-23T16:39:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -991,6 +1147,18 @@
    "watch": []
   },
   {
+   "id": "9eacf926d57f",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Strengthens Global Oncology Portfolio with EU Approval - SMEStreet",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUJfd1JPUC04YU5IOFUxcHZRbnFZM0xsZ1N1NWwwWlNBOTc5SVAyNzdzcHBkeXZuaHR3UkQxOFJycEs3TUxvWFUzdm0zTmp6VXhKMEY4dmtFcmtqVmEwalh2aV9zQlF1QXJ3OVZueEJ5X1huMW42Y3JDM0Q1a2gzdW5iZmM1NmltejV5ckFJMnBKaWpKck01MHIxcVZ1NDVF0gGgAUFVX3lxTE5NQl93Uk9QLThhTkg4VTFwdlFucVkzTGxnU3U1bDBaU0E5NzlJUDI3N3NwcGR5dm5odHdSRDE4UnJwSzdNTG9YVTN2bTNOanpVeEowRjh2a0Vya2pWYTBqWHZpX3NCUXVBcnc5Vm54QnlfWG4xbjZjckMzRDVraDN1bmJmYzU2aW16NXlyQUkycEppakpyTTUwcjFxVnU0NUU?oc=5",
+   "date": "2026-11-20T10:46:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "eb93ca6a3c5a",
    "source": "Google News: biosimilar",
    "title": "Sandoz on its own three years after the Novartis split - The Pharma Letter",
@@ -1485,6 +1653,16 @@
    ]
   },
   {
+   "id": "b36018e6ba3a",
+   "source": "Google News: biosimilar",
+   "title": "Huons Group's PanGen targets Europe with EPO biosimilar, expands CDMO pipeline - 헤럴드경제",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KTFNqTHlCMmlsMDN4Z0owVzR2X1ZPYV9KU21vbkxzTmpSc0phMTg4aVlRU1pfTnJyeWV4ZVJ2aThxcGdtNU56aktZRlQyX2s4WkR3a2NR?oc=5",
+   "date": "2026-11-19T00:22:24+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "a8e24310557a",
    "source": "Endpoints News",
    "title": "How Trump FDA nominee Heidi Overton's confirmation failed",
@@ -1901,6 +2079,18 @@
    "watch": []
   },
   {
+   "id": "1fcd15a1d388",
+   "source": "Google News: biosimilar",
+   "title": "European Commission Approves Biocon’s Pebrilzo Biosimilar - GK Today",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTnp1QXZKTlVFMlhrQWVOREJTZVNpX1I4THV0UVh2ZjB2Rkx3MlNjMW1JT3Z5UjFjdTAyaXc0QUNyMUk3cDRZc1p3VVBsZFplZ1dFcTZlcFhEMmlET3lJd3R6ZjUyX3V4aWR4eW9BVFJ0aDVZZWZRcFdnUms1M1lBcXZrTTJQZTQ?oc=5",
+   "date": "2026-11-18T07:44:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "a6de52d3dc30",
    "source": "Google News: biosimilar",
    "title": "Biocon’s pertuzumab biosimilar gets European Commission approval - ET Manufacturing",
@@ -1971,11 +2161,47 @@
    "watch": []
   },
   {
+   "id": "b606af2fc0ef",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets European Commission's market authorisation for biosimilar for breast cancer treatment - CNBC TV18",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS3pvQjBrRmtFYXFIRk5zOUtfVkZYS0tFOWx5Zm5XU0RCOUp4NkFxMGJodmdPNzNjTUg1dlc1TXdiUENBTklnbE9HcW1TeUw3SkY3OV9JZG85ZENldTdidG9jZDZ4WGp6N0k1V3Jma3BEWV9ybFJpUU04NTk0SmZ0b0tzNEhaSkhzZEtQVzR6OGc2cG1wWTctN2Jkc3RVU1c0Q3l0Y0JoMEVKZ01aUnFFQnZGdTlPdnVQYU9ZN3lEbEJ0U19YVmVuWjRJQnpOdXNrT2s2cXNrdl9kRThISjlnOXY3WHlweWlsbUlJR2VjWW1KV0x30gH6AUFVX3lxTE9TY01OSVUtRUNlX2VIV0JzNVhDRGlkNU4yTFZFSG9sZHJvcTcwdklKZTM0dmM4QnVSd0JUVjVYNWN5Wm9LS1FDWVlqMTdQSmdTbE9EZ0ZjbElHRlZ1cHpuRnQtRFh3T0VHczhzUTg3TlFORFVQb0twVm1Jb2MxT2RfaTNfd3ZpZHVNUHh5aEN0T0ZKWWhaN1JGbXcyOEFnVG40cGxTa3VCLXczUGNmUV91QjhWaVJxNEg0bUVTVGNwQVBVSDFiZEY2c2VZV2ktTzlEUmxna1pDem5GRVZuMTNSUmlIQmV2Y2E5VU1kb3g3TTUyZ0IwanZldmc?oc=5",
+   "date": "2026-11-18T03:52:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "74c1a3d4ab5d",
    "source": "Google News: biosimilar",
    "title": "Biocon's Pebrilzo gets EU nod for HER2-positive breast cancer treatment - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWcwbVJNdTZheldNOEkwcW8xdWxKZmhIQkdLTzBCUlUtM1Z1REdGVEEwWWJnZmxrelJiUVNKTTZJcFB2Skt2VGd0M3RzdTFINllpTU1PMW55RV9Yc2I5NkNRWmpZTGZSY2NCRDdNVmhTM0loYWFtajMwOWczTTY1azNHQlVrVk1ENkpjaEk0SExHQkRjelJ6YW90RnNzZEdrVXJiUGt4T25YcUE4bDNmcUVqLUtERDZhSkR4Qmw1dWtRc25yNWowNFRZdHNJQzVTSXFMVnVsQdIB3AFBVV95cUxPMUZicTlsYVhqZ1M3UGpVTmNMRmFyeGRCUGo5Nk1nU3l6TmdnRUZWQlJ4NmxOZVdvM2NlUjJUYXZRUWQtbl9qZUFReUtxWkFhUEFKRWtpdXltcjNLSG5CcEt5RVdtM1JlU1JMQkU5NVMwdTItdXhKYWNZeDIxTmZRdGdyaFVDZi1UaXl2MHZMYmNoLUowWkgyQmlWa1hJT1VaX2ZRV1JCa1k4ZmJvZDlVNkxlRWVXMzRyQ2Y5aldUSGVjcmRQU18xbDE4RjNIa0xKVVF2RHRYWnVUUUI4?oc=5",
    "date": "2026-11-18T03:52:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "48f11430304f",
+   "source": "Google News: biosimilar",
+   "title": "Biocon secures EU marketing authorisation for biosimilar pertuzumab - Business Upturn",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYndRMDlzWE1aSVljTzNxR0JwNmZLTkI0MzZibzJwMzU1VnBOZ0RUd1hXWW5Md05jUGREYnlaTEVPcld0bF9xT2R1V1RYYVN2d0FzT0pYM0ZtOVZlVzdFa3IzS2owNkt2Nm1tX0FRX2o2QVdITXA2aHpqNWJnWkJxUVdnS3J2UUQ0S1VqYk00T1hnV05BLS1hUXhKZlZXR3lzVG9HVXNSOA?oc=5",
+   "date": "2026-11-18T03:40:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "8087b6cec381",
+   "source": "Google News: biosimilar",
+   "title": "Biocon shares rise after authority grants approval for breast cancer drug sales in European Union - Upstox",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOekZaVlJjMlNDb3dsT2E4LVhNaHdHSFI3VkZ3QlBPTF9rV1YyYnQ2dlNPMk10dGhBMGlkSzdrdUYzTUZxeGVGdTJzYkpnN2VnUEhvZmVFQlFhbmVaUjdRUVNPS2tCb3FweUNmcEFlZm12YTM0aWUxVVY1Q2l6SndWVUUyQUg4a3I1TjdNNEY4REJNeDVyZks4QUtaSnppa2lXNk9OUk1LWF9LSlBkY1ZSSHhrVmpRd2NUYnFiTnJRWkt1RzdfT2J0ZXBzakdXdXJDYS1uVGl3N1RMRnU5cmZlSXVkQlRZQ0VDSzZvaDA1RkxBZw?oc=5",
+   "date": "2026-11-18T03:29:24+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -24304,26 +24530,6 @@
    "link": "https://www.bigmoleculewatch.com/2026/09/25/ultragenyxs-fayuvi-becomes-first-fda-approved-treatment-for-sanfilippo-syndrome-type-a/",
    "date": "2026-09-25T19:23:11+00:00",
    "snippet": "Ultragenyx Pharmaceutical, Inc. has announced FDA approval for FAYUVI (rebisufligene etisparvovec-hopf), a first-ever treatment to stop or slow the progression of mucopolysaccharidosis type IIIA (MPS IIIA), also known as Sanfilippo syndrome type A. MPS IIIA is an ultra-rare ...",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "4e4dcd6d3e16",
-   "source": "GaBI Online",
-   "title": "ANVISA and DINAVISA sign MoU to strengthen border surveillance and regulatory cooperation - Generics and Biosimilars Initiative",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNjdTXzJSaUM4Mjd0ckNKUlNVUDVFVk9EeXpMX3hHcV9vYmpaY3BXM3E1a09IQVZBQmIzNTFjbENfLU1aSGJlcXVqOEFsNnVlSTdjLXBTVkphMm1GaWlDMVVuWE94bnJDODZ5TFgza0ExN2I0N1BvRDdEZzNnVzNIenVIbFF3THFCbkg0a05YcmZ4OU45WVZwU3hwUFpTVzFxbTM1bUFGbFV2WDZfTXUwNENmR1VRQldyUlM3MFVkZ1FrZkJFS0Z5bG9EaEdQdw?oc=5",
-   "date": "2026-09-25T10:04:58+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "4ed89a81609b",
-   "source": "GaBI Online",
-   "title": "Congress pushes biosimilar bills as interchangeability concerns linger - Generics and Biosimilars Initiative",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzJKRDh5WURtUVJYUGZRTWNQWGxOWFRlMWRnY01leEZIYzJrRlp5RUx4QnUtRHp3R2ZsQWExRTk1LVhjZWdrQ1RpTHFnanpVdVBHem1udDVjVlRoaXpxaUxMbWhTelczSmtpQm9iYjRlcmE0NUxUS2FIOFJab1RyVV8yaE5HQ0RvNHdTdnRURm9xd3plREZTbmJEdGMwYVQ4QmlCZFlvdkhPRUxOTlRySDAzNS0?oc=5",
-   "date": "2026-09-25T09:31:17+00:00",
-   "snippet": "",
    "biosimilar": true,
    "watch": []
   }
