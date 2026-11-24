@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:29:50.341134+00:00",
+ "updated": "2026-11-24T02:10:41.691413+00:00",
  "ai": false,
  "feeds": [
   {
@@ -41,7 +41,7 @@
   {
    "name": "Center for Biosimilars",
    "ok": true,
-   "count": 7,
+   "count": 8,
    "error": ""
   },
   {
@@ -52,6 +52,248 @@
   }
  ],
  "items": [
+  {
+   "id": "cc9a3e48b4de",
+   "source": "Fierce Biotech",
+   "title": "House panel pushes to reverse 'hollowing out' of US biotech amid China's rise",
+   "link": "https://www.fiercebiotech.com/biotech/select-committee-china-makes-final-push-us-biotech-vs-china",
+   "date": "2026-11-24T02:10:41.691413+00:00",
+   "snippet": "The U.S. House Select Committee on China has published a report detailing policy recommendations to “reverse the hollowing out of the U.S. drug innovation industry.”",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "902645308a9e",
+   "source": "Fierce Biotech",
+   "title": "Kymera’s oral eczema drug impresses analysts with Dupixent-like phase 2 efficacy",
+   "link": "https://www.fiercebiotech.com/biotech/kymeras-oral-eczema-drug-impresses-analysts-dupixent-phase-2-efficacy",
+   "date": "2026-11-24T02:10:41.691413+00:00",
+   "snippet": "Kymera Therapeutics’ phase 2b eczema clinical trial has hit its primary endpoint and exceeded analyst expectations, teeing up further development of an oral drug candidate that could challenge Dupixent in a range of indications.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "80b54054d2b5",
+   "source": "Fierce Biotech",
+   "title": "Arcus halts phase 3 pancreatic cancer study of CD73 inhibitor that looked destined to fail",
+   "link": "https://www.fiercebiotech.com/biotech/arcus-halts-phase-3-study-cd73-inhibitor-looked-destined-fail",
+   "date": "2026-11-24T02:10:41.691413+00:00",
+   "snippet": "Arcus Biosciences has abandoned a phase 3 trial of quemliclustat after the small-molecule CD73 inhibitor looked unlikely to improve survival for pancreatic cancer.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0d0fe8cb2dee",
+   "source": "Fierce Biotech",
+   "title": "Invivyd aims for Q1’27 submission after Pemgarda successor shows potential in phase 3",
+   "link": "https://www.fiercebiotech.com/biotech/invivyd-aims-q127-approval-submission-after-pemgarda-successor-shows-potential-phase-3",
+   "date": "2026-11-24T02:10:41.691413+00:00",
+   "snippet": "Invivyd is planning to submit an approval application for its follow-up to the FDA-authorized monoclonal antibody Pemgarda in the first quarter of 2027 after hailing “high, durable antiviral activity” in a phase 3 trial.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "c38f0a67d86a",
+   "source": "Fierce Biotech",
+   "title": "Led by founders of J&J-acquired Intra-Cellular, Ritzey debuts with $112M for DYRK1A inhibitors",
+   "link": "https://www.fiercebiotech.com/biotech/led-founders-jj-acquired-intra-cellular-ritzey-debuts-112m",
+   "date": "2026-11-24T02:10:41.691413+00:00",
+   "snippet": "The founder of Intra-Cellular Therapies, which was bought by Johnson & Johnson last year for $14.6 billion, is jumping back into the biotech fray with a new company similarly aimed at signaling pathways in the brain.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "34fce8a8a1ef",
+   "source": "Fierce Pharma",
+   "title": "BridgeBio breaks ground in inherited muscle disorder as first of 3 hoped-for FDA approvals arrives",
+   "link": "https://www.fiercepharma.com/pharma/bridgebio-breaks-ground-inherited-muscle-disorder-1st-3-hoped-fda-approvals-comes-through",
+   "date": "2026-11-24T02:10:41.691413+00:00",
+   "snippet": "The first drug in BridgeBio’s hoped-for troika of new approvals has arrived, with the FDA on Monday giving the all-clear to ribitol, now christened Welgemda, as a targeted treatment for adults and kids with the rare genetic muscle disease limb-girdle muscular dystrophy type ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5054295fd008",
+   "source": "Fierce Pharma",
+   "title": "Novo nets NBA partnership, courting health education with the Philadelphia 76ers",
+   "link": "https://www.fiercepharma.com/marketing/novo-nets-nba-partnership-courting-health-education-philadelphia-76ers",
+   "date": "2026-11-24T02:10:41.691413+00:00",
+   "snippet": "The multi-year partnership offers Novo digital, social and in-person opportunities to promote health education across the Philadelphia area, with fan activations and social media content already on the books.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "56355854f5d0",
+   "source": "Fierce Pharma",
+   "title": "Roche opens key early-stage breast cancer market for oral SERDs with Wilserdly FDA nod",
+   "link": "https://www.fiercepharma.com/pharma/roche-opens-key-early-stage-breast-cancer-market-oral-serds-wilserdly-fda-nod",
+   "date": "2026-11-24T02:10:41.691413+00:00",
+   "snippet": "Roche’s Wilserdly has become the first oral SERD to be approved by the FDA in early-stage breast cancer, kicking off the drug class’s biggest commercial test yet in a post-surgery market that holds the bulk of its multibillion-dollar sales potential.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "365e303179b1",
+   "source": "Fierce Pharma",
+   "title": "Breckenridge recalls US beta-blocker batch after suspected metal contamination",
+   "link": "https://www.fiercepharma.com/pharma/breckenridge-recalls-one-lot-beta-blockers-after-suspected-metal-contamination",
+   "date": "2026-11-24T02:10:41.691413+00:00",
+   "snippet": "Breckenridge Pharmaceutical is recalling one lot of 60-mg propranolol hydrochloride extended-release capsules, citing the potential for metal contamination.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d9919279a595",
+   "source": "Fierce Pharma",
+   "title": "Novartis girds $5B Leqvio sales forecast with early look at cardiovascular disease ph. 3 data",
+   "link": "https://www.fiercepharma.com/pharma/novartis-girds-5b-leqvio-sales-forecast-early-look-cardiovascular-disease-ph-3",
+   "date": "2026-11-24T02:10:41.691413+00:00",
+   "snippet": "After presenting a rosier sales forecast for its cholesterol medicine Leqvio last week, Novartis has offered an early taste of the PCSK9 blockbuster’s potential to reduce cardiovascular risk.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5afacb2df934",
+   "source": "Fierce Pharma",
+   "title": "As FDA delay sent Savara stock tumbling, analysts point to potential agency 'bandwidth issues'",
+   "link": "https://www.fiercepharma.com/pharma/fda-delay-sends-savara-stocks-plummeting-analysts-point-agency-bandwidth-issues",
+   "date": "2026-11-24T02:10:41.691413+00:00",
+   "snippet": "On Friday, the FDA said it would miss a long-anticipated decision target for Savara's rare lung disease candidate. The delay came with little explanation, sending the biotech's shares tumbling ahead of the weekend, even as analysts estimated that the FDA's own capacity issues ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1a985bfb48dd",
+   "source": "Endpoints News",
+   "title": "CMS reveals Medicare's negotiated drug prices for 2028",
+   "link": "https://endpoints.news/cms-reveals-medicares-negotiated-drug-prices-for-2028/",
+   "date": "2026-11-24T00:48:57+00:00",
+   "snippet": "The US government announced final prices for 13 drugs selected for the third round of Medicare negotiations, including Eli Lilly’s GLP-1 Trulicity and Gilead’s HIV drug Biktarvy. The Centers for Medicare ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fd40596affad",
+   "source": "Google News: biosimilar",
+   "title": "Manufacturers seek more alignment, consistency in FDA biosimilar, interchangable strategy document - RAPS",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3R1aWptaU1MWkhIaXRuaGlsRTlORjdTQ3E4eU9JZ0ZRaTBLU21RYTd0b2Z6bWhZVXloRGFVbmZrbGZ1dDFYRE9xdnBPa2F1QzBDY2VFTDhnSTJpa1V0MzdzUmlGRk5DYTRfNGt1TVZjc2ptZUxDUUZ3QVdKWXVQSHFNelZxZGdIT1NkSXZJRWd4MlowbVQ4RVYwbE1DcVN3X0FsYnMxb2ZEcFNHM2gtMXZtb2luRzN5T1ZKMk5oZk52SWpfOHgtY25nVQ?oc=5",
+   "date": "2026-11-23T22:02:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "cec3787c5e46",
+   "source": "Endpoints News",
+   "title": "Capricor says it will challenge FDA's rejection of Duchenne therapy",
+   "link": "https://endpoints.news/capricor-says-it-will-challenge-fdas-rejection-of-duchenne-therapy/",
+   "date": "2026-11-23T19:50:42+00:00",
+   "snippet": "Capricor Therapeutics will appeal the FDA’s Friday rejection of its cell therapy for Duchenne muscular dystrophy, CEO Linda Marbán said Monday. During an interview with Endpoints News, Marbán disputed data integrity concerns raised by the ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "010998cdba08",
+   "source": "Endpoints News",
+   "title": "FDA approves BridgeBio rare disease drug for muscular dystrophy",
+   "link": "https://endpoints.news/fda-approves-bridgebio-rare-disease-drug-for-muscular-dystrophy/",
+   "date": "2026-11-23T19:13:17+00:00",
+   "snippet": "The FDA approved a new rare disease drug from BridgeBio Pharma, the first of an expected three on tap for the company. Regulators on Monday waved through BBP-418 to treat patients with limb-girdle muscular dystrophy ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7d7c8b2d7f0d",
+   "source": "Endpoints News",
+   "title": "Optum Rx CEO bets people are ready to shop for their prescriptions",
+   "link": "https://endpoints.news/optum-rx-ceo-bets-people-are-ready-to-shop-for-their-prescriptions/",
+   "date": "2026-11-23T18:30:25+00:00",
+   "snippet": "UnitedHealth Group’s Optum Rx is getting ready for a world in which more consumers shop around for their healthcare. That might include using personal AI agents to help them find the best prices. “I believe ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "85371c6fd44a",
+   "source": "Endpoints News",
+   "title": "Healthcare spending on AI surpasses other sectors, report says",
+   "link": "https://endpoints.news/healthcare-spending-on-ai-surpasses-other-sectors-report-says/",
+   "date": "2026-11-23T18:05:58+00:00",
+   "snippet": "Spending on AI in healthcare hit $3.7 billion in 2026, up from $1.5 billion in 2025. According to a report from Menlo Ventures, healthcare is spending more than other industries on ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dbb56aa52ab1",
+   "source": "Endpoints News",
+   "title": "Roche wins second FDA approval for breast cancer pill, opening up bigger market",
+   "link": "https://endpoints.news/roche-wins-second-fda-approval-for-breast-cancer-pill-opening-up-bigger-market/",
+   "date": "2026-11-23T17:44:26+00:00",
+   "snippet": "Roche's breast cancer pill giredestrant won its second FDA approval on Monday, opening up a much larger potential market for the Swiss drugmaker in early-stage disease. The FDA approved the drug ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "148974731cd3",
+   "source": "BioPharma Dive",
+   "title": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal",
+   "link": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/",
+   "date": "2026-11-23T16:17:09+00:00",
+   "snippet": "The acquisition hands Lilly what could become a first-of-its-kind treatment designed to inhibit a protein, “MSH3,” that can exacerbate the genetic abnormalities underlying diseases like Huntington's.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "20bdf7b081bc",
+   "source": "Endpoints News",
+   "title": "House committee issues final report on US-China biotech race",
+   "link": "https://endpoints.news/house-committee-issues-final-report-on-us-china-biotech-race/",
+   "date": "2026-11-23T16:00:13+00:00",
+   "snippet": "A House panel focused on economic competition with China warns that the country's growing prowess in the biotech sector, paired with multiple inefficiencies in the US, is shifting global medicine development overseas. The Select Committee ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "1d9aff248d57",
+   "source": "Endpoints News",
+   "title": "Arcus stops Phase 3 study of CD73 inhibitor; Novartis' Leqvio eases heart event risk",
+   "link": "https://endpoints.news/arcus-stops-phase-3-study-of-cd73-inhibitor-novartis-leqvio-eases-heart-event-risk/",
+   "date": "2026-11-23T15:51:54+00:00",
+   "snippet": "Plus, news about IQVIA, Quotient Sciences, CARsgen, Arnatar Therapeutics and Invivyd. Arcus Biosciences cans a Phase 3: The California drug developer ended PRISM-1, a late-stage trial of its CD73 inhibitor quemliclustat ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "921735401d11",
+   "source": "Endpoints News",
+   "title": "Avenzo begins public life, seeks to rival Bristol Myers' EGFRxHER3 bispecific",
+   "link": "https://endpoints.news/avenzo-begins-public-life-seeks-to-rival-bristol-myers-egfrxher3-bispecific/",
+   "date": "2026-11-23T15:43:01+00:00",
+   "snippet": "Avenzo Therapeutics, one of the first US biotechs to go all in on the China in-licensing model four years ago, began trading on the Nasdaq on Monday after completing its reverse ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "59e233b0e6a9",
+   "source": "Google News: biosimilar",
+   "title": "Ozon Pharmaceuticals gains approval for second biologic, trastuzumab biosimilar - Новости GxP",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYUptQ1FDclJIaDlPX3JPdEdqQnBsUXo0WThuSFFXR1JXdGtZa0M0LVlmNEIyWW9iYkd4MHBsbFpHeTZnc01lOUpkNnNOczVaeWZiZHNfRlFhTDJzMXdRTjlIa3dkdG9nSjBmM0UxTlZyWDFYcGdKVDZRRVR3Vy05QnFLTFpQLXlneEtpMkdEeEt5ODQ5aWYyamRMcnFmdzIxbmNPWXFVcHRpbTFuTzUw0gGvAUFVX3lxTE1hSm1DUUNyUkhoOU9fck90R2pCcGxRejRZOG5IUVdHUld0a1lrQzQtWWY0QjJZb2JiR3gwcGxsWkd5NmdzTWU5SmQ2c05zNVp5ZmJkc19GUWFMMnMxd1FOOUhrd2R0b2dKMGYzRTFOVnJYMVhwZ0pUNlFFVHdXLTlCcUtMWlAteWd4S2kyR0R4S3k4NDlpZjJqZExycWZ3MjFuY09ZcVVwdGltMW5PNTA?oc=5",
+   "date": "2026-11-23T14:49:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "2fca2d72b71a",
+   "source": "Google News: biosimilar",
+   "title": "‘If You Think You’re Busy Now…’ – Sandoz’s Robidoux On How Canada Must Prepare For LOE Opportunity - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQbzhoZjVHb2Q3UHotcnQ2NHpCT0JrTnNNQklmV3NpTnBHdUxWbUxWZ09uYndaSnd0bUhVbmEwOVU5UEl5RDV0OThKOU11MW5KZHFVTDg2dGxtMElwMkJsVDhqem5OTmZ0LV83b1AxUy1NSnRyYjJPUExkX1dOOVk5dWd5X0RzNG53SWQ1ZG5hTHRwaWdPWEF5UkN4TGhNZHNGNXFaTHRWSURRZVlBczJ6ZVU5d3htb05OeTg1WkNkNThKNl9sY1M5ZVMwd1hmU3FMZkphbU8ycU9US1Z4X2V0VjEyRGVNWWJEbnVrVTFWRkozVnZqbjF3b0FOR3Q5MTNMM2FUZUpjazJobVN3RTVocVFkcWw2S1Ja?oc=5",
+   "date": "2026-11-23T13:21:31+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
   {
    "id": "17889d68391c",
    "source": "Fierce Biotech",
@@ -83,6 +325,18 @@
    "watch": []
   },
   {
+   "id": "2e586393fae0",
+   "source": "Google News: biosimilar",
+   "title": "Teva's Mixed SMA Signals: Should You Stay Invested or Exit the Stock? - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVlDcU44Z0pycHo2bGxHRkx4cmhnVUprOFliaHlPdTJpbVJFRFFmWGJoZ0t6N0FySDhFaW1ZZ1hPMzF1aktoTm1NSElUQWpaYk5kOFd5ZUZhdGk1OFlFYTdMOGF3c0wxVmplY3BJa3FKUUE3VV9PVWZRTlZ2RWNUOFd2cTFqNkhKcFFPcS1pSjNVbzZid1dxMHRmRERUTmg1WVNiY1BtcVN2ZlViOVNYSDZya3ZhdldOM2NyWFNnb1E?oc=5",
+   "date": "2026-11-23T12:18:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Teva"
+   ]
+  },
+  {
    "id": "8458f40be3ef",
    "source": "Endpoints News",
    "title": "Kymera’s STAT6 degrader clears mid-stage test in atopic dermatitis",
@@ -100,6 +354,16 @@
    "date": "2026-11-23T12:00:11+00:00",
    "snippet": "Sharon Mates is back with a new neuro and metabolic drug development startup and $112.5 million to see if she can replicate the success of her previous biotech. After landing one of ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fb01c697f111",
+   "source": "Google News: biosimilar",
+   "title": "Weekly Recap: FDA dates set for three applications and strong Q3 results - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWTdQN0hNVExzSS1La1lwRHl2YWJGUHVDZHVhaUZuaHNtbXhIN1p5V2lkZE9wMzhGek4yQkhaVjhNNXNoTmZUUV9jaWRRaUNBYmhfY29XMjhwakk2R09hSjFIenZwR0ZZTnRpalZseEtPRmJlc0ZrWGRXYTNIQTNWSnZTbHpBZnJSNll1ZUVwNlZyNFhlQmFLMXF5V19ubEc3WE5sUDZOTkdsQl81VHRXbTFmM0JHSlNCc2JvMW5yT21sQ3ZSdG5fanRkbEJtdw?oc=5",
+   "date": "2026-11-23T11:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -161,6 +425,18 @@
    "snippet": "Danaher Corporation and Microsoft are teaming for a strategic partnership to develop smart scientific instruments and an interoperable agentic ecosystem.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "6709a1b58234",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz launches Ranluspec® (ranibizumab) in Europe, providing an affordable treatment option for patients with retinal diseases - Sandoz",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUIwUXRVbjhqRk52SUVYY1Z5TWpwQ1pSY3lBS0VYdEk0VkpJSDhoSFIxb01KUW1pQ1JRQkpZd1E3NlpTT25CSk52NF9vdEY0bWVXVmx6UEctdG5McEV1NFNibUkxWF9ncHYzMlUwZ1VOaDltR3lsMnBwMkVILVlFeFQ3ZjM0d044OG5IUks2WTd5MGppTEUxdEdSakJMckh6U1R1VXA5dkZnV0ZOQXVZc1RoaGdhbG8?oc=5",
+   "date": "2026-11-22T05:51:46+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
   },
   {
    "id": "43e4e6bbe3b0",
@@ -1041,6 +1317,18 @@
    "watch": []
   },
   {
+   "id": "22221d32c0fa",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets EU nod for breast cancer blockbuster Perjeta biosimilar - ETPharma",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVDZMTl9lTHdTOWVtRjNYZXh4czdVNDUwandsb3pqd2JBeXoxd3ZaRUU0LUxWT0IxcFpDbXR3UkN5YjlWakZMM0NCakZaaUQyRE84QkVLWERHa3hjcHN6aWd1Z05UQmt3UEFBVW02MU9IekFTSWpyUFlKWGZ1RXRvTjNLSGVRMnVZcTAzSHBoUjZfRTZFS2duWHpBN3hJM0dDQ3lNeGdCSHdWVHM4T2RfMnQ5Q1FwdTVqdE5SY2tDN1lJZzVuckhFejNCanBESnlIYmV6SzZ6aS1wNjF5ZGFQWjBMTktjMGZFV0HSAe8BQVVfeXFMT1d1ZXhXRDBLSWR3MXVIOWhzYlo1eUg2VTFSQkF1dVRBd0lxb1NYcmFaR1ZGQmdSSDNadTNsaENHdDl4d2hzTTBEekIzaUJ4Zk1ldHI4NjlBelplOHQzZ2lOVVF3R0tjVGduUlgtUjdhYjJTNkp1b2pFY21ZUnc4SFZMVW8yZ3NXUXEtNFl2aEhrUDdSNjQ1aDQxUUZIVklvUFlKUkVYRVVoOUw0WW1uc0owYS1ESlUzUnRGY1U3U29MdmwxeDluaGFVZWwtZERab0xBTU5rbUYxX2s4Nl9ZTWRHdVZqRHBtLS15QS00TkU?oc=5",
+   "date": "2026-11-19T15:19:08+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "0355295ee36b",
    "source": "BioPharma Dive",
    "title": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease",
@@ -1877,6 +2165,18 @@
    ]
   },
   {
+   "id": "0e8351c4af71",
+   "source": "Google News: biosimilar",
+   "title": "Amneal receives EU approval for omalizumab biosimilar By Investing.com - Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDk2Ym9HaVZCTlRkRk83WDdhcWRpZHVKSFN2dG5xREhnalV6LVBSRGpqdGRnZm8xNUNiR0VSUjJaSmRNOUR6Y2cyNmhxOXZCc0dUUkQ2YzNETXZKaElHNGxjR193Wmx1ZDFja0xNSHB5dEhGcE81S29fd1Q3M3MxOXVjenhKcU9vY21rcUZfb2FIMlhINWY3V1UxV2tRZ0FSck8yOWtTdjFRc2M3VVBPTG5LRXo?oc=5",
+   "date": "2026-11-17T23:18:50+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
+   ]
+  },
+  {
    "id": "9000c7364ac8",
    "source": "Google News: biosimilar",
    "title": "How Congress can lower prescription drug prices - Washington Times",
@@ -1995,6 +2295,18 @@
    "source": "Google News: biosimilar",
    "title": "Amneal Announces European Approval of Adcomfo® (Omalizumab), a Biosimilar to XOLAIR® - Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2t5ZjhuSzJlRFRxMzkzWVNJVEdEaDdtVlFQR1h2bUhwdnFoNW1nYnB5dHk2T2hGMTVidHN2UzR4b3V5Y2RwRlNXc1BTa2FHanhkcFRHeVR0U2dsM3Voc3ZqS2JvUXpFbk16eHVWNXh5RFdoSENmMkxwQWdkLTcxa2VIcFBVU0UyV20xTlJMUklpbVRGNF85QXljYkNTc3dVblJPdnJ3?oc=5",
+   "date": "2026-11-17T21:05:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
+   ]
+  },
+  {
+   "id": "247127d9a335",
+   "source": "Google News: biosimilar",
+   "title": "Amneal Pharmaceuticals, Inc. Announces European Commission Approval of Adcomfo as a Biosimilar to XOLAIR - www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZEk5NmFXeUpWWVUyTlZsam1GMjQtYmxMNGVkazZQVlJHZkR1Y1E2S0JEQnNtMEdrZU9kbWtxVmVFTGs5ZmV4YXpzZmo5dXFJWnJPQWl6Z1ppQnVJUFNnUk5BU2ZXbVd5ZHlRTnFFX3I0SGt1QXlwNEl6eFJoMzZybUdWb1pFWnFXSXgxYzRtVVJsbFpSNW9EbjlMV2Q1bU8xeS04QlZMMmxtRTVIc3Q4VUVOVTNnanIycklacTByNkRteHdXcEJNelJaenVVcjFNQ1h4eTRubUdIVWltVjhnNW9Cdlo?oc=5",
    "date": "2026-11-17T21:05:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -2425,6 +2737,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "9b9fc387bdbd",
+   "source": "Google News: biosimilar",
+   "title": "Biocon bags FDA nod for Perjeta biosimilar - pharma.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOWZDdVZOQm5lYVc1T3FVLVRGS0xOdjgtTVVESDVubEhYZk52VHdOWWdMcjRtSTFSVFlPR0hlV3pKMnA2ODhfY0lSLUduenJ1cmtwYVg0RzlycldhZVBKRnp0Uk0xNXllYjdJTjZpRnlwRll6LVdON19xM1B4R1FZbjZiRXl6aE9ZT0gwVjJqUkY2S1U0TzZtbWEyLXZXMUxoZXdRU1NteFZVR1plUWxFcGJ3NkRpcTByMjlrbEpLd3hvM1l1UW1F0gHMAUFVX3lxTE5vLWMtN0tOc2o2U2FPVVpXWlFfMlNiOTJzZGhYV0ZCYWZjNHMtWFJZaVVmSFFGYVo4R0pYZlFzYmQyRlU2V1U1aDZuQzdhZURsNllZOG96dkpyUExhcHUwUUhYNXdxYl9sZG42bHBleURiaGVVZUVBQnJsd0hlR2h0Wm9HeVFEaHRsazYwNlozX192b1lleVktdzItTmdtaEotLS01cl9PUlVlN3BVR3hQOFNheENMMVNHbTlydklrR1YtRjNEMnpFYnVESA?oc=5",
+   "date": "2026-11-17T10:34:18+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
   },
   {
    "id": "e0db09259102",
@@ -23999,36 +24323,6 @@
    "title": "Congress pushes biosimilar bills as interchangeability concerns linger - Generics and Biosimilars Initiative",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzJKRDh5WURtUVJYUGZRTWNQWGxOWFRlMWRnY01leEZIYzJrRlp5RUx4QnUtRHp3R2ZsQWExRTk1LVhjZWdrQ1RpTHFnanpVdVBHem1udDVjVlRoaXpxaUxMbWhTelczSmtpQm9iYjRlcmE0NUxUS2FIOFJab1RyVV8yaE5HQ0RvNHdTdnRURm9xd3plREZTbmJEdGMwYVQ4QmlCZFlvdkhPRUxOTlRySDAzNS0?oc=5",
    "date": "2026-09-25T09:31:17+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "2ec7b2a4883c",
-   "source": "GaBI Online",
-   "title": "FDA approves third interchangeable insulin glargine biosimilar Langlara - Generics and Biosimilars Initiative",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDV2cEh1ZkVfc2RPSXJCajVxaFlncU1rMUlpazlLdWhYMnZ1b3JkOUhBUVZLcG9NWG1TOHhxbEN0OFBOeFpHbTFMZUhsZkJNVGM1ZGlIZFRWTzlnTTd4MWVXb0NHdjFFUllfUTI1SFk0dk1FS0Q5RHpNY0NEeGZ2akZCU0toal8zeVgtXzNFS3Y1elRxM1QwWHZzeGhaUmUxYkhkS2RnQXBUWmxPSnl0ckZDdExCUQ?oc=5",
-   "date": "2026-09-25T01:54:33+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "ad76b90fb8cc",
-   "source": "Center for Biosimilars",
-   "title": "Generic, Biosimilar Medicines Saved US Health Care $496B in 2025 - Center for Biosimilars",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ2JBbzNsbHhtNjNUY3lhX0k0X0ZkTWRXT09JWVJxQUxaTGhwQ1BYR1MwVHNndXZYcjFSazRnTUtaY3BuNmFkQlNibFpnQmRvc1hxcHBacXBzMmc5Q1UyeXpKT0pqa2paYkNFNmJqNnZ0WGJaTWhqcWVnOFNkcEpQMGJka1Rzb2lTZFRMem1fb09nQTNYVXhUQmp6ZFNHQV80cVczajJYTQ?oc=5",
-   "date": "2026-09-24T23:17:04+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "fb41e246ceaf",
-   "source": "GaBI Online",
-   "title": "FDA approves Zimrixby (rituximab) and Garzulys (insulin aspart) biosimilars - Generics and Biosimilars Initiative",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWEZYU05vSkJlR1B6d3ZzVHZhekVmUldkeXo4Ty1jQ1J2Y0JMYTRFXzVJU3ZWS1ZzZUc3TlRoaTRUODBCRXZ0NThENGRTQVJNVlZDc193QnRjd0ltZ0NOTmJVS2lXMTVyT0dCaXRzTE5YSXBQY1RLOGFfelY5WHBmajJPbUk4Y3FDdkFWMzJuclB3amgwYkk2ZFV5Y0pqODFacndoQkI3MHk1QVhIZF95ZA?oc=5",
-   "date": "2026-09-24T22:51:57+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
