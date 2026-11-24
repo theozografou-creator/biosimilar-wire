@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:38:01.333526+00:00",
+ "updated": "2026-11-24T23:52:27.452387+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,240 @@
   }
  ],
  "items": [
+  {
+   "id": "31b534dc33d1",
+   "source": "Fierce Biotech",
+   "title": "DiaMedica shares signs that drug extends pregnancy in fetal growth restriction trial",
+   "link": "https://www.fiercebiotech.com/biotech/diamedica-shares-signs-drug-extends-pregnancy-fetal-growth-restriction-trial",
+   "date": "2026-11-24T23:52:27.452387+00:00",
+   "snippet": "DiaMedica Therapeutics has shared phase 2 results in severe early-onset fetal growth restriction, reporting that most participants with known delivery dates remained pregnant longer than expected.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "995315f05f74",
+   "source": "Fierce Biotech",
+   "title": "Why Iambic’s CEO believes preclinical cancer therapy could be ‘holy grail’ for CDK inhibitors",
+   "link": "https://www.fiercebiotech.com/research/iambic-ceo-says-they-have-holy-grail-cdk-inhibitors-cancer-therapies",
+   "date": "2026-11-24T23:52:27.452387+00:00",
+   "snippet": "Fresh off a $150 million IPO, Iambic Therapeutics has unveiled preclinical data for a potential challenger in one of oncology's most competitive drug classes: cyclin-dependent kinases.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "cc7801c5dadd",
+   "source": "Fierce Pharma",
+   "title": "Orca deploys undisclosed number of layoffs amid focus on Tregzi launch",
+   "link": "https://www.fiercepharma.com/pharma/orca-deploys-layoffs-prioritize-tregzi-launch",
+   "date": "2026-11-24T23:52:27.452387+00:00",
+   "snippet": "Orca Bio is making cuts to its workforce just months after launching its first FDA-approved therapy, Tregzi.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "004056a2ddeb",
+   "source": "Fierce Pharma",
+   "title": "CMS touts nearly $10B in savings potential as latest round of Medicare negotiated prices unveiled",
+   "link": "https://www.fiercepharma.com/pharma/medicare-projects-92b-drug-cost-savings-latest-round-price-negotiations",
+   "date": "2026-11-24T23:52:27.452387+00:00",
+   "snippet": "In its third round of negotiations, CMS achieved lower prices for 13 drugs under Medicare Part B and Part D. The price changes could have saved Medicare some $9.2 billion had they been in place in 2025, reflecting savings of 45%, the agency suggested.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5519930aba67",
+   "source": "Fierce Pharma",
+   "title": "TJC buys majority stake in healthcare events firm HMP to unleash M&A",
+   "link": "https://www.fiercepharma.com/marketing/tjc-buys-majority-stake-healthcare-events-firm-hmp-unleash-ma",
+   "date": "2026-11-24T23:52:27.452387+00:00",
+   "snippet": "Private equity firm TJC is buying a majority interest in the healthcare events, education and engagement company HMP Global.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6ceec65539e9",
+   "source": "Fierce Pharma",
+   "title": "Rinvoq secures FDA nod in vitiligo, portending market showdown with Incyte",
+   "link": "https://www.fiercepharma.com/pharma/rinvoq-secures-fda-nod-vitiligo-ramping-competition-incyte",
+   "date": "2026-11-24T23:52:27.452387+00:00",
+   "snippet": "AbbVie's immunology blockbuster Rinvoq secured an FDA nod in nonsegmental vitiligo, making it the first oral therapy approved for the condition and the first new targeted treatment to contend with Incyte's established therapy Opzelura.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "52889c83cb96",
+   "source": "Endpoints News",
+   "title": "Cogent prepares for first commercial launch with GI tumor treatment",
+   "link": "https://endpoints.news/cogent-prepares-for-first-commercial-launch-with-gi-tumor-treatment/",
+   "date": "2026-11-24T21:54:24+00:00",
+   "snippet": "The FDA has approved Cogent Biosciences’ second-line treatment for gastrointestinal stromal tumors. Ekitna, also known as bezuclastinib, will be administered in combination with Pfizer’s oral kinase inhibitor Sutent. The approval is ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "976e255dc1a9",
+   "source": "Google News: biosimilar",
+   "title": "Amgen Settlement Sets Conditional U.S. Launch for Opdivo Biosimilar - Securities.io",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZy10aUI1aTl6T1NoUTM2c3dqNUQ2ZERRc002dnphdGUwMUdKX1R4T1gyazFFcWhZd3FhQjBpTER4WlAzSHFKMlpIY2l3ZmxYeFlxWkRPOXlPOVJaMWVmck4zQnE2OWJuZklrUUVUVnc5Z0UybTFsUjFzQ25wcEJGU3dHZ1NmZTRyd3lrTzFVLV9lZzdBd2dDNQ?oc=5",
+   "date": "2026-11-24T21:20:53+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "610c6123699d",
+   "source": "Google News: biosimilar",
+   "title": "AMGEN SECURES PATHWAY FOR U.S. LAUNCH OF BIOSIMILAR TO OPDIVO® FOLLOWING SETTLEMENT AGREEMENT - Amgen",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1gwTndwZVlTdzFNNDBfVm5lLTlEVU93RkhnOXZTWUVkN3MySDFtb3k0SkZUZFl0UzE2MnJOeEdPUzVDYmtOTUkwNHFZNnl0bGdYSjNwSTdnb0Vtb1BMaHZsRWI5Q2o0SHJ1UTNyaGpYd0lmMVQ4OTdGM0ZKNFRHaGx4THZoSFZHMzdCV09HTHpYZFlvckg0TjdOdXRlR1NrX01hT19FNVVtc3J6c0ZLTjhiOGozM1BmajMxWUhJNXIwWjY4VVd4d1dNRmJXTkFpeGNWcnJHNy1Xcy1pSXpv?oc=5",
+   "date": "2026-11-24T21:18:45+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "135c34bb4125",
+   "source": "Google News: biosimilar",
+   "title": "Amgen reaches settlement to launch Opdivo biosimilar in 2028 - StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQODhicnBuTHMwQi1feURlSEJkOXJSenUtQldydE5jZXEyWGt1OTZHYVJrNElrTHlNcjBqNHVSQU9zZEdPSVpXQjRPQ0R3Zl9hM3dtanVvZlEzdzEyVUQ2M2J0S1diVUlSWjc5ZHF5TTZCMkdySnhnWWh2MXFxajVVMEZINm5RWEQ5YVFDQktEd0pvVzJ0RVRKUE1zS2xVTGNadWRVQlR6UEF3LTJ6ZlRBbDhFbFVIWEpkOXhB?oc=5",
+   "date": "2026-11-24T21:04:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "6f4f80718200",
+   "source": "Google News: biosimilar",
+   "title": "The FDA is expected to act by year-end on Amgen's application for an Opdivo-like medicine. - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV0t2R2EycFlvcm1ZT0ktOFhySTYtTlk4X3g1VDczN1hYeDFWNlh5YjdtMWFCVHFhbFV0RzJEQ3g4Z1RQM2lNVmF5aHN3blFSdlZlX3h3U2NsOGtBTjV1S2Y3aVNYNk45NFpGYUwtOXlhMXJhS2UzaXR3SXRBb2VDd3FlWGpMQTAtT3FMT0ljeTh5dEszRlZncG83bzV1V0ZFUVZBRzJJOEJZcEJLUEFiN3ZORXJHZw?oc=5",
+   "date": "2026-11-24T21:01:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "fa71c5c0921b",
+   "source": "Endpoints News",
+   "title": "Drug labels must flag accelerated approval to patients, FDA says",
+   "link": "https://endpoints.news/drug-labels-must-flag-accelerated-approval-to-patients-fda-says/",
+   "date": "2026-11-24T18:58:04+00:00",
+   "snippet": "Drugs and biologics authorized through an accelerated approval will now have to note that nontraditional pathway on their patient labels, the Food and Drug Administration announced Monday. The change follows a ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4d1c6eea543c",
+   "source": "Endpoints News",
+   "title": "Sanofi makes a huge bet on life after Dupixent",
+   "link": "https://endpoints.news/sanofi-makes-a-huge-bet-on-life-after-dupixent/",
+   "date": "2026-11-24T18:31:26+00:00",
+   "snippet": "Sanofi may be getting its mojo back. Shares in the French drugmaker jumped more than 10% on Tuesday as investors and analysts cheered the audacity of CEO Belén Garijo’s $41 billion",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "89ca52a5eec8",
+   "source": "Google News: biosimilar",
+   "title": "Bipartisan Pathways to Lower Costs and Improve Access to Prescription Drugs - Bipartisan Policy Center",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2RoU3dpMWFrVEZBMy00dWtqMkhPYkUwYlJYejV6RkM1SE9RYm01WUk2NXdrY1FBVEdERHFwazk2Y1R6eVB2QkVEREtyNzZnVFJvUUxISkZicVJCdWg1NTdDb3lhRkduUC1TeWk0RFNOSmtjMC1hQTU4cUlGTWVmUVYwSHg4cXhoaDg5TnhJc1E1LU4zVFBCOUJzdnpGRnVLY0lKTG9kRXd1cFEwR18zQVJn?oc=5",
+   "date": "2026-11-24T17:02:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "2840363e1bf8",
+   "source": "BioPharma Dive",
+   "title": "FDA approves BridgeBio muscular dystrophy drug",
+   "link": "https://www.biopharmadive.com/news/fda-bridgebio-welgemda-limb-girdle-muscle-disorder-approval/875610/",
+   "date": "2026-11-24T16:36:00+00:00",
+   "snippet": "Wall Street analysts say a price of nearly $1 million a year should drive blockbuster sales for a medicine that helped patients walk and breathe better.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0c236e1c53a1",
+   "source": "Endpoints News",
+   "title": "Pharming eyes deals, awaits leniolisib readout as it looks for new CEO",
+   "link": "https://endpoints.news/pharming-eyes-deals-awaits-leniolisib-readout-as-it-looks-for-new-ceo/",
+   "date": "2026-11-24T16:20:55+00:00",
+   "snippet": "LONDON — Pharming is looking to stay on course to hit its milestones as the drugmaker hunts for its next leader. On the sidelines of last week's Jefferies Healthcare conference, interim co-CEOs Leverne Marsh and Kenneth ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a05d95a45102",
+   "source": "Endpoints News",
+   "title": "Consumers’ changing relationships with blood testing",
+   "link": "https://endpoints.news/consumers-changing-relationships-with-blood-testing/",
+   "date": "2026-11-24T16:11:38+00:00",
+   "snippet": "In the past few years, lab giant Quest Diagnostics has been growing its consumer business. So far, Patrick Plewman, SVP of Diagnostic Services told me at HLTH last week, the business is still fairly small: ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6c07e973fbde",
+   "source": "Endpoints News",
+   "title": "Kymera's historic $1.75B offering; DiaMedica's fetal growth restriction data",
+   "link": "https://endpoints.news/kymeras-historica-1-75b-offering-diamedicas-fetal-growth-restriction-data/",
+   "date": "2026-11-24T16:11:32+00:00",
+   "snippet": "Kymera Therapeutics notches a record at $1.75B: After standout data on Monday, the Boston-area drug developer priced an upsized stock offering at $1.75 billion, marking the largest-ever follow-on offering for a biotech company. Revolution Medicines ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "d98fea25a191",
+   "source": "Endpoints News",
+   "title": "#SABCS26: Novartis, J&J unveil breast cancer data from biotech buyouts",
+   "link": "https://endpoints.news/sabcs26-novartis-jj-unveil-breast-cancer-data-from-biotech-buyouts/",
+   "date": "2026-11-24T15:41:58+00:00",
+   "snippet": "The San Antonio Breast Cancer Symposium kicks off early next month, and abstracts went live Monday. Endpoints News looked at two of them, featuring assets from Novartis' $2 billion upfront deal with ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "dbb7efdd48b1",
+   "source": "BioPharma Dive",
+   "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
+   "link": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
+   "date": "2026-11-24T15:36:00+00:00",
+   "snippet": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "6142f7abffca",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech, Advanz submit Eylea 8 mg Biosimilar in Europe - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWGRMc1BYX1FCSm1aNEI0blRFcmUyLTJ0UVVLRk93NG9Db1k1YURBcDZReGVtdV93WElzc3ZsVDlQazRIRlZrRzBNbjZIN0p4RnRHemNqUmxNREZPSTZORVNhdS15UXZib3p5THY0VmNLNEpPTmFzU1FlVHZ2OFc2RFFzRQ?oc=5",
+   "date": "2026-11-24T14:24:45+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "4b13ee470220",
+   "source": "Google News: biosimilar",
+   "title": "Amneal obtains European approval of Xolair biosimilar - Drug Store News",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkw3R1B2VmNUZk0yeU9CXzNTUlZYQzNyRl9IOHJRb1gxbmRETmFXLW5OQnNhUG04ajNMRjE2eUM1SndoVGFkUmxhZ3FFZDJYREpYc2lBRFlxMVhmMXJvWGNqZzVVM0RoSDZSaWJlTnlBYkhCcm9TYzUtVDZqMWxIN2Zn?oc=5",
+   "date": "2026-11-24T13:52:59+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
+   ]
+  },
+  {
+   "id": "be9cafb2a9ae",
+   "source": "BioPharma Dive",
+   "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
+   "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
+   "date": "2026-11-24T13:50:59+00:00",
+   "snippet": "Pointing to Insmed’s pipeline and two commercial drugs, Sanofi said the deal will be “transformative” as well as complementary to its immunology and rare disease products.",
+   "biosimilar": false,
+   "watch": []
+  },
   {
    "id": "09762fde5b0b",
    "source": "Fierce Biotech",
@@ -155,6 +389,16 @@
    ]
   },
   {
+   "id": "159c7e6ee5a0",
+   "source": "Google News: biosimilar",
+   "title": "Japan to Review Lilly's Oral Obesity Drug Foundayo alongside New Therapies & Biosimilars - NAVLIN DAILY",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSGo1VDBxWklfbHFiUnItWEV4ZXNjRnB3QkZHcVN0UnYzTGl5WnAzNEp6eC1KMHpZQ1FpeUNRUi05Q21WVXYwV3pPVUVkMURtbDA3cWFaZ3NWeGRFbkhyMXhudmNyWUZzT1FDaExYcC1obXZYQ2ltQVJQSGZaMUNkallEbGNqNnk3ekg1WUJmeDJNQ0RxQXhPcVdKclZwVm9Zb2JJR0NXTGdtdXR5WGtYWVFIUUN3RzlPQ1hIUVZKeVBNUE5ESmlN?oc=5",
+   "date": "2026-11-24T09:42:21+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "b760af7c005e",
    "source": "Google News: biosimilar",
    "title": "Third Medicare Negotiation Round Cuts Prices By Up To 84%, Adds Part B Drugs And Loses Botox - Pink Sheet",
@@ -173,6 +417,18 @@
    "snippet": "Sanofi has made it official: The French pharma plans to acquire Insmed for $41 billion in cash, marking the first megadeal in the biopharma industry since Pfizer's $43 billion takeover of ...",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "9ab1915630c7",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilars: Bayer feels the impact of patent expiry, while Formycon and Pfizer could seize opportunities in the biosimilar market - Stockhouse",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZWFxWGV5bExfUU54bmgzNjdrNHVBU1BONWh3X2tqdnE4WGVGUGxieUxXc2ZhbzdmNWswWFdVOU1iYnJBamVGVll1bW5qWEN5STI0YmstSkl0b203N2NjLU04MVZfNWlRLU5xdHFVbnJQaDd5cnNlYktwalo2TV9IZGF4cFpaWGtWZG1pSHFPQ2lBUzR5MWxUXzZHdW9WTklMbmFNdnByQnUyX2NnY0lhYXpMMkQ5bVlIUzMyRlV2ejFNN2xLWlMyZkoxYw?oc=5",
+   "date": "2026-11-24T04:46:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Formycon"
+   ]
   },
   {
    "id": "99c5a9c9566a",
@@ -425,6 +681,16 @@
    "link": "https://endpoints.news/avenzo-begins-public-life-seeks-to-rival-bristol-myers-egfrxher3-bispecific/",
    "date": "2026-11-23T15:43:01+00:00",
    "snippet": "Avenzo Therapeutics, one of the first US biotechs to go all in on the China in-licensing model four years ago, began trading on the Nasdaq on Monday after completing its reverse ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "7f3d4800e759",
+   "source": "BioPharma Dive",
+   "title": "Kymera eczema pill meets goals in mid-stage trial",
+   "link": "https://www.biopharmadive.com/news/kymera-eczema-pill-phase2-data-protein-degrader-dupixent-ebglyss/875462/",
+   "date": "2026-11-23T14:53:55+00:00",
+   "snippet": "The protein degrader drug showed \"biologic-like efficacy,\" according to Wall Street analysts who argued it could challenge Sanofi and Regeneron’s market leader Dupixent.",
    "biosimilar": false,
    "watch": []
   },
@@ -1781,6 +2047,18 @@
    "snippet": "The sudden end of Heidi Overton’s candidacy likely ensures a Democrat-controlled Congress will choose the FDA’s next leader — but shouldn’t disrupt the agency, analysts say.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "95ad822aff3d",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech at Jefferies Global Healthcare Conference: biosimilar push gains pace - Investing.com Australia",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcFRuTE5feEpENlR3b0lFcHo3ams1cnQzYWt2aUpKVFFsOFJnUHRIeVR6Sk82RXVWRXdxLWtaMldBbTF5ZnAwMlFrTGdyS0lSRzZxOTZOOEpDY1BWTVl5X0w5c280MnVvLTI2b0RwTEdULVRVMnVkLUZ5Wm1EbGJadVBGZzRWYmZ6aXdxbGI3aHRpS0xZNndFd1l5T1JPRVI1UnBydmpRWmp1V1pXNFdKMXZFS1ctR3NKd3BlNTFnbkFYQks5S05xaDZXWW1TQ2tERHRubQ?oc=5",
+   "date": "2026-11-18T16:34:33+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "dc5a4c91b7c3",
@@ -24520,16 +24798,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlBkYzZUQi11LWdBcHpZN0lINy1tb3k0N2VlYjl4aWc1VjZxNzhWS1lmZHhsQTdCZ0FpQW8wTnNCS2l5b2t0a3N5b2tGZjBPMnNlY1FUNV94SnFuVnF2c05MdXJ4bC1QMm5uMlE0WDdsakRQSUxfVmhFX0ViajI0OUdVaHIxNW1Sc2VteHJVZDUxdnZOMjNpTnhRcmN2N0U2X1oxZEFDNGNOSFNvMEl6OEJVaw?oc=5",
    "date": "2026-09-26T02:51:44+00:00",
    "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "5ef172c1ab69",
-   "source": "Big Molecule Watch",
-   "title": "Ultragenyx’s FAYUVI Becomes First FDA-Approved Treatment for Sanfilippo Syndrome Type A",
-   "link": "https://www.bigmoleculewatch.com/2026/09/25/ultragenyxs-fayuvi-becomes-first-fda-approved-treatment-for-sanfilippo-syndrome-type-a/",
-   "date": "2026-09-25T19:23:11+00:00",
-   "snippet": "Ultragenyx Pharmaceutical, Inc. has announced FDA approval for FAYUVI (rebisufligene etisparvovec-hopf), a first-ever treatment to stop or slow the progression of mucopolysaccharidosis type IIIA (MPS IIIA), also known as Sanfilippo syndrome type A. MPS IIIA is an ultra-rare ...",
    "biosimilar": true,
    "watch": []
   }
