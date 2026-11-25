@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:27:29.086016+00:00",
+ "updated": "2026-11-25T19:13:15.045868+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,363 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 47,
+   "count": 60,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "abdefc56b7d6",
+   "source": "Fierce Biotech",
+   "title": "Bayer becomes latest Big Pharma to head to Hansoh in $3.3B deal for phase 1 ADC",
+   "link": "https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc",
+   "date": "2026-11-25T19:13:15.045868+00:00",
+   "snippet": "Bayer has become the latest drug giant to turn to Hansoh Pharma for its antibody-drug conjugate expertise.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9c8577dde76d",
+   "source": "Fierce Biotech",
+   "title": "Schrödinger signs €22M biologics collab with sequencing automation outfit Enpicom",
+   "link": "https://www.fiercebiotech.com/biotech/schrodinger-forms-ties-sequencing-automation-outfit-enpicom-eur22m",
+   "date": "2026-11-25T19:13:15.045868+00:00",
+   "snippet": "Computational discovery biotech Schrödinger has finalized a collaboration with sequencing automation company Enpicom in an all-cash deal worth €22 million.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "b038fe50f359",
+   "source": "Fierce Biotech",
+   "title": "FDA issues noncompliance letters to 2 biotechs over lack of trial data reporting",
+   "link": "https://www.fiercebiotech.com/biotech/fda-issues-noncompliance-letters-biotechs-over-lack-trial-data-reporting",
+   "date": "2026-11-25T19:13:15.045868+00:00",
+   "snippet": "The FDA has issued two biotechs with noncompliance letters for failure to report clinical trial results.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "3f14121a0a13",
+   "source": "Fierce Biotech",
+   "title": "Finnish biotech delivers durable symptom relief in phase 2 birch pollen allergy trial",
+   "link": "https://www.fiercebiotech.com/biotech/desentum-delivers-durable-symptom-relief-phase-2-birch-pollen-allergy-trial",
+   "date": "2026-11-25T19:13:15.045868+00:00",
+   "snippet": "A phase 2 trial of Desentum’s birch pollen allergen immunotherapy has hit its primary endpoint, teeing up further study of a short-course medication that could provide a persistent effect.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "9a5d9f66a2d4",
+   "source": "Fierce Biotech",
+   "title": "‘The potential is there’: BetterLife’s LSD cousin mirrors neuroplasticity in mice without the hallucinations",
+   "link": "https://www.fiercebiotech.com/research/betterlifes-lsd-cousin-mirrors-neuroplasticity-without-hallucinations-mice",
+   "date": "2026-11-25T19:13:15.045868+00:00",
+   "snippet": "With the boom in researching psychedelics to treat neurological conditions, scientists have begun to explore ways to alter these drugs to remove the hallucinogenic effects while salvaging the neuroplastic tendencies of these drugs.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a8090533df1f",
+   "source": "Fierce Pharma",
+   "title": "Bayer to pull kidney blockbuster Kerendia in Germany amid reimbursement dispute",
+   "link": "https://www.fiercepharma.com/pharma/bayer-pulls-kidney-blockbuster-kerendia-german-health-system-amid-pricing-dispute",
+   "date": "2026-11-25T19:13:15.045868+00:00",
+   "snippet": "After a reimbursement dispute with German health regulators, Bayer is pulling its kidney disease and heart failure blockbuster Kerendia from the market there.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "555c9937b736",
+   "source": "Fierce Pharma",
+   "title": "Bristol Myers' Sotyktu posts a hit and a miss in pair of ph. 3 lupus trials",
+   "link": "https://www.fiercepharma.com/pharma/bristol-myers-sotyktu-posts-hit-and-miss-pair-ph-3-lupus-trials",
+   "date": "2026-11-25T19:13:15.045868+00:00",
+   "snippet": "Results came across both good and less-so in topline readouts from two phase 3 Sotyktu trials in systemic lupus erythematosus Wednesday, with Bristol Myers Squibb offering a mixed outlook on its TYK2 inhibitor’s expansion prospects heading into the Thanksgiving holiday.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fd65494ef9c5",
+   "source": "Fierce Pharma",
+   "title": "Cogent secures 2nd-line approval in rare GI cancer, the first in 20 years",
+   "link": "https://www.fiercepharma.com/pharma/cogent-secures-2nd-line-approval-rare-stomach-cancer-first-20-years",
+   "date": "2026-11-25T19:13:15.045868+00:00",
+   "snippet": "Cogent Biosciences’ kinase inhibitor secured FDA approval as a second-line treatment for patients with advanced gastrointestinal stromal tumors who have previously received imatinib. It’s the first new second-line treatment option in two decades.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "ecd5a9460578",
+   "source": "Fierce Pharma",
+   "title": "GSK eyes approval filings after asthma med Exdensur scores in rare vascular disease",
+   "link": "https://www.fiercepharma.com/pharma/gsk-eyes-approval-filings-after-asthma-med-exdensur-scores-rare-vascular-disease",
+   "date": "2026-11-25T19:13:15.045868+00:00",
+   "snippet": "Approaching one year since the medicine’s FDA approval, GSK is bolstering the case for its ultra-long-acting biologic Exdensur to help patients beyond its inaugural indication in severe asthma.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "fc4110d57992",
+   "source": "BioPharma Dive",
+   "title": "Medicare sets 2028 prices for 13 new drugs under Biden-era law",
+   "link": "https://www.biopharmadive.com/news/inflation-reduction-act-2028-final-medicare-drug-price/875717/",
+   "date": "2026-11-25T16:26:00+00:00",
+   "snippet": "Drugs nearing or past patent expiration are facing steep cuts as the Inflation Reduction Act expands the number of medicines subject to cost controls.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "e21e257ae626",
+   "source": "BioPharma Dive",
+   "title": "Amgen takes next step toward biosimilar Opdivo; Bristol Myers taps a new finance head",
+   "link": "https://www.biopharmadive.com/news/arcus-quemliclustat-belite-amgen-opdivo-biosimilar/875512/",
+   "date": "2026-11-25T16:24:00+00:00",
+   "snippet": "It’s the second big change to Bristol Myers’ executive ranks this month. Elsewhere, Cogent secured a cancer drug approval while Arcus Biosciences and Belite Bio hit setbacks.",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "0d94e03fb126",
+   "source": "Google News: biosimilar",
+   "title": "Amgen takes next step toward biosimilar Opdivo; Bristol Myers taps a new finance head - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQWlkMGpvS2pwYmZlX2xZdm9fQWc0LVhHcE5ySUJRUVVmR3dwM25qa1ZDR0R6NDJuVnJkUS1rT193VVNNU0V1OVdCemxpT1dhaWljbWRlZUpnN2pscjZOaTlacXVvbnY0YVc0cGdac29mQ2lLcjF3eGR2ckFCRWRGZFZrZFd4UkJ6Q1IxaDh5MERZRTA?oc=5",
+   "date": "2026-11-25T16:24:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "d0d78a0a93fb",
+   "source": "Endpoints News",
+   "title": "Bayer goes to Hansoh for ADC deal worth $150M up front",
+   "link": "https://endpoints.news/bayer-goes-to-hansoh-for-adc-deal-worth-150m-up-front/",
+   "date": "2026-11-25T15:55:19+00:00",
+   "snippet": "Hansoh Pharma continues to line up partners as dealmaking with China’s biotech industry shows no signs of abating. Bayer is the latest to sign up for a piece of Hansoh’s pipeline. The German giant on ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "0151f84bbfeb",
+   "source": "Endpoints News",
+   "title": "Bayer pulls blockbuster drug from Germany over pricing dispute",
+   "link": "https://endpoints.news/bayer-pulls-blockbuster-drug-from-germany-over-pricing-dispute/",
+   "date": "2026-11-25T15:51:44+00:00",
+   "snippet": "Bayer is pulling its blockbuster heart and kidney disease drug Kerendia from Germany, its home market, in a reimbursement dispute that highlights growing tensions between drugmakers and European governments over the price of innovative medicines. ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "696950d766f1",
+   "source": "Endpoints News",
+   "title": "GSK's autoimmune success; AbbVie drug gets expanded label for vitiligo",
+   "link": "https://endpoints.news/gsks-autoimmune-success-abbvie-drug-gets-expanded-label-for-vitiligo/",
+   "date": "2026-11-25T15:22:38+00:00",
+   "snippet": "Plus news about MPN Therapeutics, Desentum, Schrödinger and CirCode Biomed. GSK’s Exdensur matches Nucala in Phase 3: The UK drugmaker’s Exdensur, given twice a year, achieved non-inferior disease remission rates when set against the company’s ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "41557353b5f3",
+   "source": "Endpoints News",
+   "title": "'Prof Oak' is now lending his expertise to Anthropic",
+   "link": "https://endpoints.news/prof-oak-is-now-lending-his-expertise-to-anthropic/",
+   "date": "2026-11-25T15:00:14+00:00",
+   "snippet": "An unlikely person is involved in Anthropic’s biology R&D, as the artificial intelligence giant adjusts to life after its record-breaking IPO. Cody Tranbarger, who unmasked himself last month as prolific X-poster \"",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "96017b8e3392",
+   "source": "Endpoints News",
+   "title": "Bristol Myers reports one Phase 3 success, one failure in Sotyktu lupus trials",
+   "link": "https://endpoints.news/bristol-myers-reports-one-phase-3-success-one-failure-in-sotyktu-lupus-trials/",
+   "date": "2026-11-25T14:27:50+00:00",
+   "snippet": "Bristol Myers Squibb’s attempt to push Sotyktu, its oral TYK2 inhibitor, into lupus has hit a snag. The drug was being tested in two Phase 3 studies for systemic lupus, with Bristol Myers toplining the ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "a79beda02b1c",
+   "source": "Google News: biosimilar",
+   "title": "‘Buckle up’: Opdivo biosimilar settlement sets BMS up for make-or-break moment - BioSpace",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYk82U3BDeEFRTnRsaGRwcWx6ckFrN29OQ3BETU9lYjFVV1ozV09kNUhBZkRUZUZtcWpKcFNkcVJHd2hlZURxNXVLbzFxUFNSTDhTV3pYMC1PMmNyQl9Pd1JnTGJfdGw2ZERxcE5wSHpuLV83ZjcxZEZGeC1TeVpYS3VOOHpVTVVDMjB3M2gtOU5wQjNOeW9DY1FRb21OUWU4cEt5MzFTcGV6S0ZSNUE?oc=5",
+   "date": "2026-11-25T14:26:50+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "4f6dd01362b4",
+   "source": "Google News: biosimilar",
+   "title": "Ono Pharma and BMS reach settlement with Amgen over Opdivo - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOVIxV2RadnlpVzN4eHVCaXBWc3VKQlUwSEZGdGx0VXFmN055Y3VELXpDLVF2UGNDMURQNTlCT1hsN2lxSktVV3BjelpMRlgwVjV6V25OTmVITGNJc0NhWkJCRG5GYlRLRGlQZndCMndTYWtXRkpFUldVNEp3c09kQ0pPTzlWTFo5OHQwSHJKX1ZoeHpRRXZuaUs3bHV2MnhiaGF1czVqUzVKcFk?oc=5",
+   "date": "2026-11-25T14:08:34+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "604240a4a4e9",
+   "source": "Google News: biosimilar",
+   "title": "Amgen (AMGN) to Launch Biosimilar for Bristol-Myers Squibb's Opd - GuruFocus",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0dLdDVDdHBNZ0YxNi1SMXk2a0t3cVlESmdMMDU0bnNRbE5aS3JfbkNXWThyUi1oTXZYVkZjTzBpYlB4Nkl5b3dtTzdib0RobFZkNEtSd3BCVnY0Q2Vnb3EwbGtQUWtKVWE5Qm10ZUg5VVhxejg3NHZHVWZfVDNnRmxSRHFVYlkwRnB1dE05d01wNXpQM2Roc19sVnZrNTBxbk1MTFBpQ2lta0VyN2t3?oc=5",
+   "date": "2026-11-25T14:03:06+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "44baf9d739db",
+   "source": "Google News: biosimilar",
+   "title": "Amgen Settlement Clears Path for Us Biosimilar Launch of Bristol-Myers Blockbuster Cancer Drug - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdWdKTlhXQ084V2V6cmo2ZG4xMktwRzVldnhYZHZrZ3pBRWJqcVVEX2lsSTZHcTNaMEd4UGVXNXlRcUdGN0E4MDZqOTJHQUxHLVFFUlRTaFBkUWhOOWNXYXN4djZCNV9rVFZCb0lzbzVnMEJZcE1JeU1xSlg1aTFqUVV3aGlhSzBNampXSmZiS1EtaWdxNXdnM1hyTGZGbkFLUGhZLW5BeDYwdm5KcGJwQUtEQXNNY0t3ODd4bnpGZWhqRFlqcE1QYi1Hd2VjTjFmckZFUlkwNHlqeFEwVVR6b25yOHhVSF9T?oc=5",
+   "date": "2026-11-25T13:53:49+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "c429f6c7c1e3",
+   "source": "Google News: biosimilar",
+   "title": "Why is Amgen Stock Trading Higher Today/ - Amgen (NASDAQ:AMGN) - Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOGRzeXVVeDl0SjFwcThXRW56VGVVQVBoTW5rSXE5S2k2QWFTaGE4ZE41WW5fNG1EVTFEREg2dHJjT05uUWtYX1RodnZSSUFaM2NZeTVVNlkxS3lRUENETFVJUVR0UUk5akRXZlA4UEpFejlVY3RfMTZIRXdHQ3lLQ2FQdXJjWEk5dC1RWmNEVmRkLXF6UVl6MXlsdjdvMDNWS2pJeUJhcTFBMzRxY1AzNGlJODRyRWsyclVfUllPZm4zV0xHSGFaNWd5YTVVRnRNTFpZNFJGbGxnM0NwR2hLMDVxSm81Zw?oc=5",
+   "date": "2026-11-25T13:53:49+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "9babab648051",
+   "source": "Google News: biosimilar",
+   "title": "Amgen, Bristol settle Opdivo patent row, setting up biosimilar launch in 2028 - Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEt2OVR5Z3ZUeWJ2T1poTjFKTFNpVE9IcEJUcC1XTFV4MUtRUF9Ta0dTU25Cb1BfMHJmRFhsanN2UnVrMzhXRzlDamYxMXluTkdWR0Z0ZmhuT25ITzZ6TXhtY0gwVFdiNHJSQUdZSkppTXZqQVdkbmxpRnkxNXBsSlAySXRiSTZPcFpSUDlxWmtYaWl3WHFsSHZSNUlqZjJYeFB3?oc=5",
+   "date": "2026-11-25T13:09:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "3d1822f7e05f",
+   "source": "Google News: biosimilar",
+   "title": "Amgen reaches deal to bring biosimilar Opdivo to US market - pharmaphorum",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUV6ZGJoMUczWlRTYzZaYzBEVWRUTHhoUmJjUThKU2dGMjAzS01pcngtTFBwc2xST0JMcS1CWGZwSURWYW9LMm1NbzZ3TUdzTXZUZVhqdEVGUmF4bVVnaG0zelp2MFpsdUFpcnBTYkJQTElMdUtwWUxkRGVieGdGLVF5anViclNhbmc?oc=5",
+   "date": "2026-11-25T13:08:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "f763bc80e252",
+   "source": "Google News: biosimilar",
+   "title": "CGT Catapult partners with Ena Biologics to scale up UK GLP-1 biosimilar manufacturing - Manufacturing Chemist",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmt3LU1nMy04WENMaHBsSXlrTjI2ZThTZ0VGdjg0UExFUzZjWXJKZ2c2NkRQQm1GMnhHOC1qdzd5TE15eFc0ek5aQlZOOEVTbUV5bUctLVg2bUVDRXBzb1gxX2lzYVhIaWhVNV80dzV2WkhxMHVQSkpfdFljdWJ3bzd6aUJhV29MNkRYTnExbmVtWlExVkJaZQ?oc=5",
+   "date": "2026-11-25T12:27:47+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "3ec1855c3030",
+   "source": "Endpoints News",
+   "title": "Pharming pauses Ruconest production, warns of supply interruption",
+   "link": "https://endpoints.news/pharming-pauses-ruconest-production-warns-of-supply-interruption/",
+   "date": "2026-11-25T12:13:28+00:00",
+   "snippet": "Pharming said Wednesday it has paused the production of its marketed drug for acute attacks of hereditary angioedema (HAE) due to issues at an unnamed third-party manufacturer. The drugmaker has notified the FDA that the ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "5fdf713e88e4",
+   "source": "Google News: biosimilar",
+   "title": "RBC favours pharma growth stocks on biosimilar, dermatology opportunities - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT2dEa1dkbmZSQWFJUW1FcEZwdEJOalFSclJPRW5CUG9SOFV4M2Uya1NUdmxpaTNQQlI3aEpXb29RcmFiWGQ4YkljcW5lQVlTSHBZcUlUYkNsSlcwaTFNUUgwSnVDNC1fMkg0UzVab3g4b0ZFRVZhUFZyRlJBWjUwSzNNcFMyMmNHUG9JU0dHZ2twRDZjb0tFd2NVNWZHU2U1U3hURVZhaUdPVDNCQktOTlRPRzB5TlNOSjB6R1ZxMGZXbW9SMDZNOQ?oc=5",
+   "date": "2026-11-25T12:04:46+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "b595590da769",
+   "source": "Google News: biosimilar",
+   "title": "Bristol Myers Squibb stock settles Opdivo patent case with Amgen - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTGtSVVNwOFRPdWhFcVJBOFM2dWp0T0hnZ0swLXdxQnlNdEQ2Y0xEVEJNb0ZfWWt3X0p4NDIxdi1zS2ZDZFU3cEwzV3F1ZjUyeG1OY01KTlhNOHI3eWZTNHpTY0N0S0tWUEx6YzJjNlpQa3hyaU5aYWFaamdzS2VUMjRFdDJ0MlFkekFuVVVkcmpwNnNMaDFjelozb0hGM2F2aEkzNGw3bnJTQl9mLXlqRXdqdEVRYUpYR3FxVC1sbkNSemNQSkE?oc=5",
+   "date": "2026-11-25T12:04:24+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "724f8ba54060",
+   "source": "Endpoints News",
+   "title": "The 38-year history behind Insmed, now Sanofi's strongest wager since 2004",
+   "link": "https://endpoints.news/the-38-year-history-behind-insmed-now-sanofis-strongest-wager-since-2004/",
+   "date": "2026-11-25T12:02:17+00:00",
+   "snippet": "The biggest biopharma deal since 2023 — a $41 billion buyout of a respiratory drugmaker — was 38 years in the making. Sanofi's move Tuesday for Insmed marked the culmination of a complicated saga ...",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "09a167f6a691",
+   "source": "Google News: biosimilar",
+   "title": "Amgen stock secures 2028 path for Opdivo biosimilar - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV2Y5aHdMM1JJM2RZNEVYQmpKeXc2Yk01S0w2MXFjUkN3Mkcwb3NyZDVFdGtqaGFJVFJVaVktOHZMbEgyVEt5SGRZSlBYUEhQb0h0Umo0ZHJjM2wtMzA0TkRoeGpIOWhWY2N6M0F3QmtKeUpVQW1FRXdZb096c0l2YTRwYTl2X05BajkzT25QanpxdmNEOHdGa3FVT3VjZkhrS0NUSkRmLXIzS3pISVZyeF9PZ0M?oc=5",
+   "date": "2026-11-25T11:59:24+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "facc3b36665f",
+   "source": "Google News: biosimilar",
+   "title": "Amgen Settlement Sets 2028 Date For US Opdivo Biosimilar Launch - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTk9QbGprVm9QVFd5WmthdHhrc2MtQmdRMGV4YlZhWTFONW55M0o0NnRVU1J3YWFZR19JWWNTYXBOZFNGSzJ4Zm9kMlRjaTdkS21RRDFkQU0zWWRQQnJPVWRCaXJOakluNGlsdDBuNEZmTnVxU2MySVdyQ252WXgwaEdtM3ZmNkJLbnFjUE42QXFnSmE2MzR2VFNvMnBWTGNBR1E2MTRxQk5JZ0JKdEtMc3dGLVpYdjQzVm01RzhSalhnUDRCNlB6RFV5NUtzT1BVT2poNnhUeGQ3SlBQQlFCV2JRSnZMTWZsc2c?oc=5",
+   "date": "2026-11-25T11:51:50+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "80fd583e6ad3",
+   "source": "Google News: biosimilar",
+   "title": "Ono keeps Opdivo royalties to at least 2036 after Amgen settlement - Tokyo Brief",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQTWFjcGNRMWJoSDdmeGlLc1podjZQTV9kNVJQTU8zY18yUk1ITlpiNHNzTzl3eVptR2Z0VEl3UmdrTU0zRDlKbnJBZElVeDZqSWhSdExjTXRXc29fbDd1ZHBET0dacFFZcDN1SDZ4dERjUDNzSlJaRU5pVl8?oc=5",
+   "date": "2026-11-25T11:04:38+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "f81341454dbe",
+   "source": "Google News: biosimilar",
+   "title": "BMO Capital reiterates Bristol-Myers Squibb stock rating amid Opdivo biosimilar clarity - Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUmstbnFRNUN6c0dDQ1JCbDdnNG1xbkI4THhvLVo0Q213NDk0Vl80bTkzRFdEczFnSlRWUi1odUk5azRVc0tKUjVOMV81X3QwNFZEVmREVXFjLWkzS21IMk1kOFBfZXpsR1Z3X0hCOXJ2aW52NlMxWjFGM25CM19GZFJnVnlKQ0ZkeDhGX09VazJPd1B4akxmT1ZsY255ZHRaVWdsMUgzajVXTWpsUURnYVhaM1BDVUNUZnc0VmhGUEdkVVNIZzlrTzZDaUQzbnZKM0pLOUFMZnNDdW5sbVFwUQ?oc=5",
+   "date": "2026-11-25T10:54:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "867336d16379",
+   "source": "Google News: biosimilar",
+   "title": "How biosimilars are changing US prescribing from arthritis to cancer care - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZFEzeHVmdkx5Z3ZlMHpTMC1lM2Nra1NvMVB0R29HNEtLMDFvUV9iMVA2NmM4TGFYdEd4VG44U1RZNEg5NmRxdGZ6M0NfQk5QRldhNGI3REF0SUhwSVpYS3JhZ1RwaXZFWHp3V0RDa2dJWGR2VmpnbmVGRXBPOGVzZGMzbTc4aUVqWUg0ZmEtekV2YmpnR2RfVVMzYTN1WWxkcW9FeFgtT2MzbXpVYy13UjNaeHU?oc=5",
+   "date": "2026-11-25T10:17:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "d1e3aa9917d9",
+   "source": "Google News: biosimilar",
+   "title": "Sandoz stock: RBC upgrades rating and lifts target to CHF 96 - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWU5bVM3VkRaWlZOeHFGMTdYelN3ZEpOYnBpZk9DdHE1YUJIQXNhZFV6cWVJYTc2dDNMamZxRHNiM2tsZVdtVFo3ZUk4YTliOVZOWW9LTUdibmNSVjhZTXg1R0RhOVd2NXc3bHg0cTMySmV4NTFiWVB3OUFXVXl0M3JvT2x6YzRaYzNrZ05Td3dueW1QN2xmTDVuYzVUMUVWOG50SVA5V0JNQ2VqZ25BV3hxTG5URnRLMUQ1ZmdISQ?oc=5",
+   "date": "2026-11-25T10:10:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
+   ]
+  },
   {
    "id": "539c64969e95",
    "source": "Fierce Biotech",
@@ -486,6 +838,16 @@
    "date": "2026-11-24T08:20:00+00:00",
    "snippet": "Sanofi has made it official: The French pharma plans to acquire Insmed for $41 billion in cash, marking the first megadeal in the biopharma industry since Pfizer's $43 billion takeover of ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "37f82193a4d2",
+   "source": "Google News: biosimilar",
+   "title": "CMS Sets Negotiated Prices for 13 More Medicare Drugs for 2028 - The American Journal of Managed Care",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaTFlSXhWX29OcU85NnFLZWZqTnlmTTRiazNkbmJqS0h6cGoxS3RrS0hVMi1qTVRYSThJekdORHFubURPNHE3ck52UkRmTU1pUUlRZEtUeHpmZ0VnU1JmVnd6OV92ZWVPbDUxb2JsSURSTzVyT2FpZVZSUmdxay1RdnRfZ2k1eGpxVmJGYUY2Tmp3Zw?oc=5",
+   "date": "2026-11-24T08:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -1997,6 +2359,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "6ccc74a55a0b",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion holds No. 1 biosimilar share across key Asian markets - 헤럴드경제",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZcVdfT1Z2WkRTMF9yUkdabmRUUWZqcWdvLTF1MVViRjNGSEprYVh6ckVMVVRQWVEzVGxtaVhIak55akQtSVZGbXFQWUZPLVcwT3RyX1ZHdw?oc=5",
+   "date": "2026-11-19T00:21:37+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
   },
   {
    "id": "a8e24310557a",
@@ -24847,16 +25221,6 @@
    "title": "Medicines for Europe calls for Biotech Act reforms to address ‘biosimilar void’ - Generics and Biosimilars Initiative",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3FQQ0p0N19CRENUMzBCZDkwRlNWOUdPMDhOdU9xOHdxdUEzVmItbDNtdEU0eGd1VHltNGRkTEc0YkdyR3RlS25TQ2FmbVJfWEFrQ0NfeWM4VkhLWHpmOW1XRWd5Nm02bkdoYjBTbTZEZmIxeV9LOGVNNGN3TUZ0My1xejI5OU14TWh6ZHFJcmFLQldKcU5qdmtTQVFvSVZtUFZYZE9ZdmtKa1VQUFIzMlFaVVdVMnY3MHZ2eXhQZmxxZw?oc=5",
    "date": "2026-09-27T14:12:31+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "97915e3aa5e1",
-   "source": "GaBI Online",
-   "title": "FDA approves first interchangeable ranibizumab biosimilar Ranluspec - Generics and Biosimilars Initiative",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUE0Sk1LYVpzUG1mSUszSGkzY04wSWMtSHpKZUtOZk42bFFSeFFrOEtJWHRaQ3ZHOHp1OVJ1TU5hZE1nZVRYMlZRSFhUeURvNG56WUI3NmNYU0RtUzdRQ1Vkc3AzY0dXamJEdEJnVU1BWW1zX25oUEJ3bFpyTTN1NTU4NU1mNlVoSHJaeEJURGlVY25xZFZqZzlQb21PZ2FxMTZyWElzUDJqZlNGR3ozQQ?oc=5",
-   "date": "2026-09-26T09:51:22+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
