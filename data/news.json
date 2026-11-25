@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:52:27.452387+00:00",
+ "updated": "2026-11-25T08:27:29.086016+00:00",
  "ai": false,
  "feeds": [
   {
@@ -47,11 +47,51 @@
   {
    "name": "Google News: biosimilar",
    "ok": true,
-   "count": 60,
+   "count": 47,
    "error": ""
   }
  ],
  "items": [
+  {
+   "id": "539c64969e95",
+   "source": "Fierce Biotech",
+   "title": "Thermo Fisher Scientific nabs FDA expanded use clearance for EXENT analyser system",
+   "link": "https://www.fiercebiotech.com/medtech/thermo-fisher-scientific-nabs-fda-expanded-use-clearance-exent-analyser-system",
+   "date": "2026-11-25T08:27:29.086016+00:00",
+   "snippet": "Thermo Fisher Scientific announced FDA clearance for expanded intended use of its EXENT Analyser with the EXENT GAM Assay.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4fe90b59e72e",
+   "source": "Fierce Biotech",
+   "title": "ARM CEO reflects on ‘wild 12 months’ pushing back on FDA’s shifting gene therapy stance",
+   "link": "https://www.fiercebiotech.com/biotech/arm-ceo-reflects-wild-12-months-navigating-fdas-shifting-gene-therapy-stance",
+   "date": "2026-11-25T08:27:29.086016+00:00",
+   "snippet": "When Fierce first met up with Tim Hunt back in November 2025, the CEO of the Alliance for Regenerative Medicine (ARM)—which represents over 400 members, including biotechs—was optimistic that cell and gene therapies were high on the government’s agenda.",
+   "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "8c1c7ac9dcd2",
+   "source": "Google News: biosimilar",
+   "title": "Amgen Reaches Settlement Agreement With BMS Over Opdivo Biosimilar - Gotrade",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ3d3M25HYkkwSHBGVWxZV0tVazY4VjJvbzZnaFFaSFhmajRkOUVhZk1rR0dhazVIb09LM3ZtZlJOajVJWDh6dkM1cllnNDc5cU5kMEhNUVc1VlVMYnhXY0R1UGxGd3lfcjRrSWFhMllWLVN4Rm5lNnRaejRlM1pZRWFXZi1yenMtQ1dQVzFBYVVEZzI4WHZr?oc=5",
+   "date": "2026-11-25T04:10:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "1c230badccf8",
+   "source": "Google News: biosimilar",
+   "title": "Amgen (AMGN) Settles Nivolumab Biosimilar Patent Dispute with Br - GuruFocus",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd3BLLTFheERDYmRUNFc1QkM3T2FlVW5wNzdBQl9QM3hJdC1zdGd2dDRXNUtIN0dxLWR2R3J0d3BfQm5LcFNFUnVfMDRpOGNINVJ5WFExd3IxQTlaZFpOU1RmMmFZX2N4b3FkWjJPeXFVTzlPOHdUS2N2UHM4VXhfck1jeTgzbW04VkJKX3JqV1J4VnpEeVE3NzdjUkpnMnZTbnRUS2dMQkNyd3ZFMDFTc0I5dGoydXh4cEpLRjB5RWk3UWlJUDVNeVc2TS1wSU1NWGs4MjB3WEh1SjNKOWRMSjZkUzc?oc=5",
+   "date": "2026-11-25T00:53:08+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "31b534dc33d1",
    "source": "Fierce Biotech",
@@ -120,6 +160,26 @@
    "date": "2026-11-24T21:54:24+00:00",
    "snippet": "The FDA has approved Cogent Biosciences’ second-line treatment for gastrointestinal stromal tumors. Ekitna, also known as bezuclastinib, will be administered in combination with Pfizer’s oral kinase inhibitor Sutent. The approval is ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "303434451dea",
+   "source": "Google News: biosimilar",
+   "title": "Amgen Settles Patent Litigation Over ABP 206 Biosimilar - TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaS1jTEFwR3FBSUxFaWt4aVZObHJmbVZZelA3elN5RXo5bVlWSUNPUjI2NGxzOWhnNldIWDJ5WFlGQW1GUEdzMmFRZk9IQ3AzNTJWR0h0bE1XY2VIUzRacThkc2Y4NVhzUmZaR1otNk1waGdXS0hCWl9JVjBsVm5rZ055QVdiVVFRc2NLYW94Mm1IZ1VCYmRHVDdkZVJrMzNiaHBoYThiWTIyZFk?oc=5",
+   "date": "2026-11-24T21:51:15+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "34d80f51ee6c",
+   "source": "Google News: biosimilar",
+   "title": "Amgen settles with Bristol Myers and Ono, setting an Oct. 1, 2028 US launch for its Opdivo biosimilar - MLQ.ai",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRWEwRjZIbFpIZEx5dnpkdENUbkJVbEt5TVhhQWVvVGpiTTBlM0dxQWYzTHFVVFhYc1l5aUZ2RWFFc1ZBQUhHSXNJRVMzTFJoYnRWcXdfNDdCNVhHMEpxQzRSNWd2LXd3QkNoQ3FINDU2WDZZOVJIaWotcmpsNkRPOGtkcXhZa1l4eHFjQVpxNHJBSWdjQlkwUkZsYllQSEpvWVpaM05UeDNEcFFhVE1HM2ltelNKRXdEWkl3?oc=5",
+   "date": "2026-11-24T21:31:57+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -230,6 +290,16 @@
    "date": "2026-11-24T16:11:32+00:00",
    "snippet": "Kymera Therapeutics notches a record at $1.75B: After standout data on Monday, the Boston-area drug developer priced an upsized stock offering at $1.75 billion, marking the largest-ever follow-on offering for a biotech company. Revolution Medicines ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "4dbd0bbc3537",
+   "source": "Google News: biosimilar",
+   "title": "IRA biosimilar fix among health bills seeking passage - BioWorld News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV19ndzJUUWE2TjNQc1Y3dTNQbnM1TFlEbHFHaF9fNjlBV2NEaFBacGY0UW5YWEw5ZzAyTnhSaXV2SWlDdTBJQkRsVFMyWHQ1bTUzYmhTS21IVzRSelo0S3BaLWVfY0xaeEhwRTFLODhTQnBDa1hIN3IzS05PZmkwdFBIREpweUpoRnZhYm9QWnJKMlhGOVJydm1R?oc=5",
+   "date": "2026-11-24T16:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -24787,16 +24857,6 @@
    "title": "FDA approves first interchangeable ranibizumab biosimilar Ranluspec - Generics and Biosimilars Initiative",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUE0Sk1LYVpzUG1mSUszSGkzY04wSWMtSHpKZUtOZk42bFFSeFFrOEtJWHRaQ3ZHOHp1OVJ1TU5hZE1nZVRYMlZRSFhUeURvNG56WUI3NmNYU0RtUzdRQ1Vkc3AzY0dXamJEdEJnVU1BWW1zX25oUEJ3bFpyTTN1NTU4NU1mNlVoSHJaeEJURGlVY25xZFZqZzlQb21PZ2FxMTZyWElzUDJqZlNGR3ozQQ?oc=5",
    "date": "2026-09-26T09:51:22+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "54479f1950b4",
-   "source": "GaBI Online",
-   "title": "Biosimilar interchangeability: a necessary fix, but not a silver bullet - Generics and Biosimilars Initiative",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlBkYzZUQi11LWdBcHpZN0lINy1tb3k0N2VlYjl4aWc1VjZxNzhWS1lmZHhsQTdCZ0FpQW8wTnNCS2l5b2t0a3N5b2tGZjBPMnNlY1FUNV94SnFuVnF2c05MdXJ4bC1QMm5uMlE0WDdsakRQSUxfVmhFX0ViajI0OUdVaHIxNW1Sc2VteHJVZDUxdnZOMjNpTnhRcmN2N0U2X1oxZEFDNGNOSFNvMEl6OEJVaw?oc=5",
-   "date": "2026-09-26T02:51:44+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
