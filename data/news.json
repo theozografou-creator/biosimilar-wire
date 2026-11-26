@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:32:22.588742+00:00",
+ "updated": "2026-11-26T16:50:39.577282+00:00",
  "ai": false,
  "feeds": [
   {
@@ -35,7 +35,7 @@
   {
    "name": "GaBI Online",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": ""
   },
   {
@@ -52,6 +52,96 @@
   }
  ],
  "items": [
+  {
+   "id": "cc2ef701d2a4",
+   "source": "Google News: biosimilar",
+   "title": "Spotlight On: BMS, Amgen reach biosimilar settlement for Opdivo - FirstWord Pharma",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PWjBoMmk2X1dCWWxfNUJDaExFM3ZLVUhzdi1vN0ZBWHRxVTUzWG55NHczUTZyRVlmUXktUmd4VjVTcVBuN0Juam9rNHY0VS13SmdF?oc=5",
+   "date": "2026-11-26T16:03:04+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "21409b91da16",
+   "source": "Google News: biosimilar",
+   "title": "Biologics Market to Reach USD 1,009.33 Billion by 2035 as - GlobeNewswire",
+   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPbldZNXNISWl3T0ZCcldPZ1lZQ1NuTXdJekgtMlFtUks3RlZ6eWtDOEtSN0l0LWJFWWZqSVh4b2wwQlh3ejdBT3VSazNGR2JrUkZWQWFSekpjZ0x2NGcxajZsakVEYTQ3dzRxU0wxZmdCRzljV1RNRFRQdWFnZFJCdzJUWHVwRlp4Z2FwUjVjMURrYWNIQmxhRnlfYnFnVWN5QjJTRU96eDlLdmdTLUJGR3pVUUVIZW5lSURWTXVybEQ0Y2RkZFhlb0cwa19wbEQzZWNTQ09mTUtZRklsMUFlSFh4c2piaGV3TkZoZURDUS1ucGlZVmVGcml5ZlNuNHFodzlLLWwzTHpVS2hadlJxNTlrXzFuQ0ZTYmhicnpiSU9MSzE3SFdFdzNRUE1QRzBmYUNQM1JQOUs?oc=5",
+   "date": "2026-11-26T15:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "01e395a673b4",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech to appeal US injunction against its Simponi biosimilar AVT05 - MLQ.ai",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQXdfd19FYldXbG8tUlk3bzYydzltZGNHWTJlM3hGZExlRUNsSTNGazh2YzRTZGwyQjY4Y1JPQ0RZT09TckhwQ0E1VjB4QmJyUm5zcHdzRGlWSFFibGliMnZYdXY1U3Q5NTVJNXpLVnhldWswUFlmUlIyWUZaSDdUWjFCX25MMFN5SFVOR1lLamd0Mk54?oc=5",
+   "date": "2026-11-26T13:09:13+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "1c4364f74cd1",
+   "source": "Google News: biosimilar",
+   "title": "Xbrane Biopharma AB (publ) announces that Siavash Bashiri will leave his role as COO & Head of Biosimilars - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNc3NPcXcybm9mRTNRLWE1VE5PSGZrNnUxaFJyU2k5a3hIWkYwSnpMdi1TeXpBZ0M0RXpZRHJLQVd5X3lJeE5kcFRqTlRFM3pBS2dXelJpd21hVzVXSmhsSmNzLWdtcGlNM1YzaXVzT01BMXA5WlpaankxVzdLUmxsaDZDMU40M3h4THl0ZUFkTmlwa08zb0k1VHFHR28tTDA4bUxxM1JGVHl5S0R5ZE5zUUtBWFJ1SmFLNUxLYmNfSjVDSDh4dXBiYkJFLTR0SVBlMFdYZ3Z4RFo4ZzZTbjktd3hmR1ZKa01VM2FQXzN2Mk5TeXF0am5McmU0d3E?oc=5",
+   "date": "2026-11-26T10:20:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "483010f3354c",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech to appeal U.S. court’s preliminary injunction on simponi biosimilar - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa3ZJUEU5ZjNYM0ZEU0JEQzRON09wWWJNVFNRQVhWMElhaU96SWJNc21nZ29jbmZFcDlnMXdLOTJpLVZtYzl5WmpCTXQ1TmR1U2xlamthOTlrbWxROEhpQ2p1N0NTTDVrOFFlQzRuQ2hHS1Ffci1XYnl0bVdDYkQyMl9qSDFrcFQ4Nkx4N2owRlRpU2ZaQ3JTeXhQVkM3RENEalY0ZDNxX0h4TEZzSjRUa0hmMEtOdVhHQmY5Rnd6cXBQY0VVaEdvckRMakZCeWFlS21lQg?oc=5",
+   "date": "2026-11-26T10:13:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "69f6d85c51f6",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech to Appeal US Preliminary Injunction Decision Relating to AVT05 - Quantisnow",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVhxeFp4OVlCekV1NE5vUGtJLVlLazdVeWxIYzRCZjNVcU0tVy1kX0ZHanI0REF6czl6WVNMTzExcmhnRmdKbG1saE9qSE9SSUJZY3ZTR3FtbE4xRlR1YUpkblFKN1BhaU15NFRCWGJMTDlRWFFwN2dtbGRuMTJiVkRjYUprM25GT2IyNFRGRUp2WTNQTGpnbjlTQ2o4SjhaWV82dW5GYjFSUUV6X2NjT0J1TEk?oc=5",
+   "date": "2026-11-26T09:41:27+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "38abedf6a835",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech to Appeal Preliminary Injunction on AVT05 Biosimilar to Simponi in U.S. Patent Dispute - Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWJEa09ncEVET19iQ3Q1RDdpb3NFWGUtbWhFdXJqTjBaZXZldG8xQi1RdWtOV2tMa1V3YmRoTThubkxOOEs5MjgwcDhWWUdsR2Zjb0FkWmZpb3hoRGlMR205MXJ2dlRJUHBBZ1ZRRkpqdFl6dXRVSXVBdWxIelZId2lTYzZaQnZoekoxR3RfYUNGUWg2aGhUSllxYVh5UmJIQ3VaV0Q3OE14QXA0WFlBOUZCdGRRQU94cy1hV2l6V2xYSjlwZElB?oc=5",
+   "date": "2026-11-26T09:40:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "3736e1de8906",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech to Appeal U.S. Preliminary Injunction Over AVT05 Biosimilar to Simponi - Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnBxRjBpQ25ncWoySzNYeFFMLWktQ3dHNy1jcHB4RzhSakFsTGVWRHJ4WkJXb0FnN2cyeU1XTkdjdWNLRkhxdE45allWSkpaVlJWNUFyYmR3QnlKcnhLb3pWcDNQcnM4aEFVbkFqSFFPbkNqbkhGdWV0Mlo3U3dIY3ZiNHhMYWVVU1YxbUtqT05vOXRpUU5lb2xNeTAtbzBJYUw2c1BPWVJTTjlmdk1vNGRB?oc=5",
+   "date": "2026-11-26T09:40:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
   {
    "id": "420209063dd4",
    "source": "Google News: biosimilar",
@@ -437,6 +527,16 @@
    "watch": []
   },
   {
+   "id": "62a511701720",
+   "source": "Google News: biosimilar",
+   "title": "BMO Capital reiterates Bristol-Myers Squibb stock rating amid Opdivo biosimilar clarity - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbVRGdWdPbWhLbi1GVDNvYjdMN01BVHk2TTE1aHk0djI1Ti12cm00QVNJRmlqZUxvczdDOXZGZmNwbnhBc1p0TjhxVl9rcFNHUjZfR0hmS21NOVBuNFZwXzBkUmZLaWNOVVgyYnNmT2I0QjRVSENSRUpQaHR3bGxUMkZLNkFtRmFGUVJhdG1KeXNsOWtFZHJzRHFWUW9SYzRhTmZlX3ZYMmNmX05JR1RVU2Z2SE9OZ1UzVmI5clkwbXhFLVRBNl9IWEItRjV5aE1hUlNqcmNJR1R5Y3NNRFZJ?oc=5",
+   "date": "2026-11-25T11:15:01+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "80fd583e6ad3",
    "source": "Google News: biosimilar",
    "title": "Ono keeps Opdivo royalties to at least 2036 after Amgen settlement - Tokyo Brief",
@@ -758,6 +858,18 @@
    "biosimilar": true,
    "watch": [
     "Alvotech"
+   ]
+  },
+  {
+   "id": "205f219816e7",
+   "source": "Google News: biosimilar",
+   "title": "Did EU Biosimilar Approval Just Shift Amneal Stock's Investment Narrative? - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWVXdEE3UUJOZWRDajJKZGx1dWcyMmpLazRzWUpJa3V4X3dsTlU2Mllra3RnY3ZJUjFJS0V5Q09leUUyenVhcW5sWGxidHd0WkFjcEt3MWlQLTljdmQ3cHRYT1cxRjdaNmFtNTRMb2JHS1lYdklBcHB4NG1OV2ZpMGdaQVFjT203ZU1OdmRNYWhwNl96dU9R?oc=5",
+   "date": "2026-11-24T14:08:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Amneal"
    ]
   },
   {
@@ -1761,6 +1873,16 @@
    "watch": []
   },
   {
+   "id": "74be5672b7d4",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilars Market Analysis Report Examining Demand Patterns and Competitive Landscape - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmdDZ1VneGVQb2VaajNMSVpOZHpqLWtJRHBVV2VSbG5vY2l3b3R0bmZfYm5KdmpYa04xVHY2b25IRmthZlk2bEFyV3NaU1R2SFFEajNfSzN5S1V2VDg1cWlvZnUzek1KVjFNbjVQdjM1YnZwUE1DRWJJQXExaUJVQ2hkNjB6amh3WHNWVTU2MThMMTdjSkhEZ3N4alhtb3YtZzQ4ZVZMOHpqZDlOZXdLUTZvTDFnM0RyRlpVcG5PblJZb0NzeFJF?oc=5",
+   "date": "2026-11-20T16:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "ccc85ccb7521",
    "source": "Endpoints News",
    "title": "Merck gets another Phase 3 win for sac-TMT, this time in gastric cancer",
@@ -1841,6 +1963,16 @@
    "source": "Google News: biosimilar",
    "title": "Research Report on the Biologic and Biosimilar RA Drugs Market Providing Analysis of Growth, Segments - EIN Presswire",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWkhhT01CVVF1ZHpPekljTmJ2NF9hX0J6cHg4bkFlb0JZaXpGS3JvRVp3SUpkYi1yUzJKSi1vYWlqcVo4UE9nZG16M0l2bnZzV0dkWUJPdHU4R0dCRU5ZWUFTZXRXLWYwdWtWOVpCejZHbVZ4Q1BBMDlUVGZSZFJIYjhoN3NzWFNCYkFBTFBISUY3NWxFSzd0dlN4Z3UzWWo1M2FyRjlUMGVZck4ydlVIOU8wT1ZMT0tieExuYlFZRG5JR0JsajNxN1hJQVQxWnNkRnJ2RXZsTklibmJCRjNaSQ?oc=5",
+   "date": "2026-11-20T13:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "a7f1de02cf5d",
+   "source": "Google News: biosimilar",
+   "title": "Research Report on the Biologic and Biosimilar RA Drugs Market Providing Analysis of Growth, Segments - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVVdENjlPMlFzWmYzYmV1bnZZYkVCWUFhUHR3aC0yUEgxQ2NTRlIwQkppQm5ySnJ3T1lSTXA2TE1YN0lCM25MbkNxUG5ZSUgzc3BYdHU5YlNHRkpHaDhhaGlKME9XZGd0bS1NMmpNY202T2h3LTJkNXVaLVI3YmZzZ1RjSDVsaHFDejh4STZXdU5JYUoxZUxiVmYzMk5OMldjZ0lQeVBkV1lycldULW5pNGZ6Yjh1dExEUHVzSkhfOWt3WnZ2Snc5NmZkSHZBRWN2anQwYnRjUzUwZw?oc=5",
    "date": "2026-11-20T13:00:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -25297,16 +25429,6 @@
    "title": "Prestige BioPharma wins Brazil approval for Herceptin biosimilar Tuznue - Korea Biomedical Review",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03NzJmNGQyUld4OUMtTGMxZGJ2ekdLTkVuMzRxX3J1WDJrQjRKZHp3dzRWM1gtcWlwT1VoMU50OWxuOHEyNmRQdFcxaTdCeGVvajg5Wk1yVG0wYUtiUmxoUlQ2MG4zWHlJVzQzSWJn0gFyQVVfeXFMTTlUdVZaTFRHUDNnYzcyUXkwMTJRRHJlWFp4SVBSMXNOUVZfd3BNd3pDdVNXV0lDSG5lRU5DWUJSNWFxZmFxbWx3QmtMX0djSlhfaUVhZVVyQ2JJTjI2blNZaFY3MkYzNEkwUVRTREtucENR?oc=5",
    "date": "2026-09-28T06:14:26+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "a186b0a44cb5",
-   "source": "GaBI Online",
-   "title": "Medicines for Europe calls for Biotech Act reforms to address ‘biosimilar void’ - Generics and Biosimilars Initiative",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3FQQ0p0N19CRENUMzBCZDkwRlNWOUdPMDhOdU9xOHdxdUEzVmItbDNtdEU0eGd1VHltNGRkTEc0YkdyR3RlS25TQ2FmbVJfWEFrQ0NfeWM4VkhLWHpmOW1XRWd5Nm02bkdoYjBTbTZEZmIxeV9LOGVNNGN3TUZ0My1xejI5OU14TWh6ZHFJcmFLQldKcU5qdmtTQVFvSVZtUFZYZE9ZdmtKa1VQUFIzMlFaVVdVMnY3MHZ2eXhQZmxxZw?oc=5",
-   "date": "2026-09-27T14:12:31+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
