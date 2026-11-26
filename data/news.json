@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:13:15.045868+00:00",
+ "updated": "2026-11-26T03:32:22.588742+00:00",
  "ai": false,
  "feeds": [
   {
@@ -52,6 +52,26 @@
   }
  ],
  "items": [
+  {
+   "id": "420209063dd4",
+   "source": "Google News: biosimilar",
+   "title": "Amgen Opdivo Biosimilar Deal Sets October 2028 US Launch; Medicare Delay Requests Due Next Month - Tech Times",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUnN2bl9VWnIxc0hRVzFSSmZfVjlNQ3BvWUViaEp2ZFFxbzdIYVZEM2hTSkpTZFA3VlRGdTh5aVp3ejgwVEJERFlUZUMyRk9vZ09xZ3c5cW0tV01faktqWFJXSUM4eDVGcGpXb3lJVmlFUXhPZUFNeEJwYkFXOFV5aEVBVm5qT2xsWlhSTXo5bU0xdHdva09rSXNoeVNOWDZ5QkhNeDJSNXFET0NzSnBLdE9odUdSRGVxRTUtM0JfajhEdHFfV0o0dkI2X2ZZdm1GNWUtZnNHX2JaMDNVRHVFZzRiMGY?oc=5",
+   "date": "2026-11-26T02:15:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "900089b12faa",
+   "source": "Google News: biosimilar",
+   "title": "Analysis Weighs Economic Value of IL-23 Inhibitors Versus Adalimumab Biosimilars in Psoriasis | Derm Immuno Today - DocWireNews",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU2hHVk1IalQ0U3pLUU9Ybk9hb3EyWDFfU3BvZlhYT3JwYkhSdGt4YlJrUmZXOG92VEtGYUE1WUhSVmtpMHNMMnlWQjVIZVpxb2U0OHJFcGRwd2hveVd6ZENzVmk3N21aX19SUVhOSW50R0J5cFFHRlVuV0xXQmVERURJejVEV3pyR2dYNWxyb3psSDZZekJJMVdlcFVBYTFhcXZHQWZkdlhNbEFXR1BhVElLMlRKQQ?oc=5",
+   "date": "2026-11-25T20:32:32+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
   {
    "id": "abdefc56b7d6",
    "source": "Fierce Biotech",
@@ -283,11 +303,31 @@
    "watch": []
   },
   {
+   "id": "6f03683bac34",
+   "source": "Google News: biosimilar",
+   "title": "Amgen, Bristol settle Opdivo patent row, setting up biosimilar launch in 2028 - Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc3R0a1M1LS1veGUyTGhwVVFrdU52ZXRJVWVBWGozdXl6dS1PUGpjaU92VkYyR0RZbnlud3hTZzNxekNRWkJRd3JSVEF6amlWLXREcndQNnpJNTI0QUVmVlVhRzVVRG83eUZ6UkN3dmhuLXFaTEE2ZE14Tjd1WFE5bURUVVItdnVoZ0E?oc=5",
+   "date": "2026-11-25T13:09:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "3d1822f7e05f",
    "source": "Google News: biosimilar",
    "title": "Amgen reaches deal to bring biosimilar Opdivo to US market - pharmaphorum",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUV6ZGJoMUczWlRTYzZaYzBEVWRUTHhoUmJjUThKU2dGMjAzS01pcngtTFBwc2xST0JMcS1CWGZwSURWYW9LMm1NbzZ3TUdzTXZUZVhqdEVGUmF4bVVnaG0zelp2MFpsdUFpcnBTYkJQTElMdUtwWUxkRGVieGdGLVF5anViclNhbmc?oc=5",
    "date": "2026-11-25T13:08:25+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "6f256547d17d",
+   "source": "Google News: biosimilar",
+   "title": "European Parliament Gives Final Approval to Pharma Package, Adopts Critical Medicines Act - NAVLIN DAILY",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaDlfZHdXS0NfaDZHaTNfSGZnYVpOM19pdWJPUE0yMXRSWUVFYlY1LTR6ZkRRWGRZYm5YRzhveHJUNlNLUjRDY3NSRkpkZU9NY0lIVTRpTW1PUnZGNUFQSkVzUk5EbXJrTjhKTnEtT0M0eHBIb3VGTmNEeGZQTE8tY2pKajBSZUVyRk9ROUcybHh3MEJKTWFUdEh0RVV4bHBjWGJZUG9LcVRlWHQ5MmZKZjFBbjh6aFN3dlhRS1dzTjdFTDlXUURFU2RR?oc=5",
+   "date": "2026-11-25T12:50:42+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -301,6 +341,30 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "2dc5d9cc2d9c",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech to Present at Upcoming Investor Conferences in December - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONkYwOHNxSVVnUld3XzNKWDEyNl81blBMOVNiTVBTNjRlY1p1VlM3U2k0RUJkdDZGN255S0puM2g4V3pVb3NUMmtHdFJYM3owbGhPMElLdlphcklVdl9YQUcyQ24tbHJtNGZ3eUZ1UUNhM2lnZFVQWV90Q1B4Tm1CU3JiTnFwTnBKMUZrZ0JmZlh4QnM5Qml2RE50UFZkSDlJN2tMdUhhbE9jWW5ENTJqVnNyUzFTMGVUVWFVRmgtNzE1UFlHRl9BcnUwWjczYm02YjNkTEliTE82Z9IB2gFBVV95cUxONkYwOHNxSVVnUld3XzNKWDEyNl81blBMOVNiTVBTNjRlY1p1VlM3U2k0RUJkdDZGN255S0puM2g4V3pVb3NUMmtHdFJYM3owbGhPMElLdlphcklVdl9YQUcyQ24tbHJtNGZ3eUZ1UUNhM2lnZFVQWV90Q1B4Tm1CU3JiTnFwTnBKMUZrZ0JmZlh4QnM5Qml2RE50UFZkSDlJN2tMdUhhbE9jWW5ENTJqVnNyUzFTMGVUVWFVRmgtNzE1UFlHRl9BcnUwWjczYm02YjNkTEliTE82Zw?oc=5",
+   "date": "2026-11-25T12:20:20+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "0a3cd92c380b",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech to Present at Upcoming Investor Conferences in December - The Manila Times",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU1NiTXZWaXoxc3FrLTlyNkJrcWExYm9ocVpTN0szSWJkRkNGSExObDlnc1U5V0QwQVlsalpFbE1ZZ2dQTHBvaS1WR0pXWnFrQlhZaHh5bnlEWTF4ck5KUzVJQ3IxWDNMM3FEanBQVnU1MTJ4cEk3SENuUm9JUkt1NmFrZGxxSkdQbGpVTzdOVmdGaDVjbEJpQmw4eHlfSVFyVExpa3dxRUhrRHBGX05TeEhOekM1V05qUEZLYU42Tmo2ZXdIb05JZlhwbnF2OVkwUVIxMjJPRHlrQdIB2gFBVV95cUxOU1NiTXZWaXoxc3FrLTlyNkJrcWExYm9ocVpTN0szSWJkRkNGSExObDlnc1U5V0QwQVlsalpFbE1ZZ2dQTHBvaS1WR0pXWnFrQlhZaHh5bnlEWTF4ck5KUzVJQ3IxWDNMM3FEanBQVnU1MTJ4cEk3SENuUm9JUkt1NmFrZGxxSkdQbGpVTzdOVmdGaDVjbEJpQmw4eHlfSVFyVExpa3dxRUhrRHBGX05TeEhOekM1V05qUEZLYU42Tmo2ZXdIb05JZlhwbnF2OVkwUVIxMjJPRHlrQQ?oc=5",
+   "date": "2026-11-25T12:19:52+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
   },
   {
    "id": "3ec1855c3030",
@@ -358,6 +422,16 @@
    "title": "Amgen Settlement Sets 2028 Date For US Opdivo Biosimilar Launch - insights.citeline.com",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTk9QbGprVm9QVFd5WmthdHhrc2MtQmdRMGV4YlZhWTFONW55M0o0NnRVU1J3YWFZR19JWWNTYXBOZFNGSzJ4Zm9kMlRjaTdkS21RRDFkQU0zWWRQQnJPVWRCaXJOakluNGlsdDBuNEZmTnVxU2MySVdyQ252WXgwaEdtM3ZmNkJLbnFjUE42QXFnSmE2MzR2VFNvMnBWTGNBR1E2MTRxQk5JZ0JKdEtMc3dGLVpYdjQzVm01RzhSalhnUDRCNlB6RFV5NUtzT1BVT2poNnhUeGQ3SlBQQlFCV2JRSnZMTWZsc2c?oc=5",
    "date": "2026-11-25T11:51:50+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "7633b101786c",
+   "source": "Google News: biosimilar",
+   "title": "BMO Capital reiterates Bristol-Myers Squibb stock rating amid Opdivo biosimilar clarity - Investing.com Australia",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSlhYcWI2dV91ck9wb3N5SWYtemdPY2h5eVhkU0wyZ1ItMWxDSFpWY2NtSS1FUHVvVXVDc3JKekRmQ0RNNEZMLVZwQ0k1aTI3NFlVVHktQmRHMnA4OTBBRTJ3dmJnR2Q4YktnZU5IRE90cmJPX3o4TXQwNEJmUE1aQjlfR2dONlcwU3A2dDI4SVJmTGZ0bV9PODBXc3NpY3ltVHdLX1R3RTYtejNUTmNRQ0hSaWpIcGVzMGFLQXhmVnIwZEFBbHp5aTEzeGNoREVMa3R5MjNiYWwyVGZ0aTF6Qw?oc=5",
+   "date": "2026-11-25T11:26:03+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
@@ -1897,6 +1971,18 @@
    "snippet": "Crown Biosciences looks destined to go unworn for a while longer after its planned $204 million acquisition by China's Adicon fell through.",
    "biosimilar": false,
    "watch": []
+  },
+  {
+   "id": "198d499d0ecb",
+   "source": "Google News: biosimilar",
+   "title": "Blockbuster Patents Expiring in Succession... Can Celltrion Sustain Its Growth? - 아시아경제",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01RFdtVlVTcWlCWU9hRFVocGtVTHJVSVlwQ0V0cUJQbzE0UXA2cHM1ZFplTnNvYk5IYkd5WVZobHViMkpkQzU5U0VIdU96eVJEYy1KcklxTFNtRWJya05NQWJHTGw?oc=5",
+   "date": "2026-11-19T23:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
   },
   {
    "id": "61de17b14e96",
