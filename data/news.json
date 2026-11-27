@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:50:39.577282+00:00",
+ "updated": "2026-11-27T01:43:01.256616+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,6 +53,26 @@
  ],
  "items": [
   {
+   "id": "5dce6b4b22d2",
+   "source": "Google News: biosimilar",
+   "title": "Opdivo biosimilar launch set for 2028 as Amgen resolves lawsuit with BMS - Life Sciences IP Review",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNckNzWVV3bWRyTE05b2JFeTNpZTBub3dnQkFrTU45N0NEZWVSQXhEMDdXdnh4R0hveFd3bHU0eXZSZm15M2lFTWNFR1NHQkxCTDY2WDBXQUtmbnBqNFlNeTJGRFVlQ3ZRaFFJWmJHZWc1UHFaOFF6elN4eHdDdzM5RFFkNTZhN0x0VXMySl9zZTNpY1gwSmRJYnpaYmFDbzlfa2YweE1XYVFiTFQyWFpOMXBZeFdTd3g4?oc=5",
+   "date": "2026-11-26T19:28:31+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "120a27f7e110",
+   "source": "Google News: biosimilar",
+   "title": "Ena Biologics and CGT Catapult progress UK GLP-1 biosimilar manufacturing - European Pharmaceutical Review",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFNHa3NoR3phMVBIRFNYU2UyUlAtUTFGODNhLWFlR2dmUFgzTXYyTy13WUJZUEFnWC1FdmdwMEtYQ2tpZVZSaVhqMHJudkNPWXB5WXozTG9ZQ2VxTnI3a3BoZWpuTGNFUkJWdWJUSFhPUE94LXUzSFdxUW1HS1BUYlZCUEx3VmtvSGtOLTJWbXcwQndaSHdrVEtMUDVJVWR4WEtLRzh6WWFqZEpLWGFjYzktRGpUS1prRjk5SmtaazNGTW5DRkJuel9HQnJlb1N0eGFSUDJn?oc=5",
+   "date": "2026-11-26T17:36:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "cc2ef701d2a4",
    "source": "Google News: biosimilar",
    "title": "Spotlight On: BMS, Amgen reach biosimilar settlement for Opdivo - FirstWord Pharma",
@@ -73,6 +93,18 @@
    "watch": []
   },
   {
+   "id": "d8d34c811585",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech to Appeal US Injunction Over AVT05 Biosimilar - grafa.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZl9GbHRtUjV2bzRpVURTSDNCTmZRa3pQZHA2dFU0bmNUcHBCWEg5cldDUzFjMnN4X1U5aFhFX3RnSkZxcExZdkI0NlRCZmIyQ0s1YjdFcjFPUklIcmdzeFZnWWdHeTlhZEFEa2RfSWZJdGFQR1dRa0NHeVB4N3Y3RmZQcndlOHZiRVBBX1J0bDI4TzdFWTdnMUlGVQ?oc=5",
+   "date": "2026-11-26T14:49:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "01e395a673b4",
    "source": "Google News: biosimilar",
    "title": "Alvotech to appeal US injunction against its Simponi biosimilar AVT05 - MLQ.ai",
@@ -83,6 +115,16 @@
    "watch": [
     "Alvotech"
    ]
+  },
+  {
+   "id": "f722861966b4",
+   "source": "Google News: biosimilar",
+   "title": "Xbrane Sees Path Into China With Deal For Ranibizumab Biosimilar - insights.citeline.com",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcXNlOWh4Uk9SXzhNNnFubi03d1M3MDNSZ3prN29UUDZfUHg4dm03YnlBMDNFU3NPMnpYOVhuSXR0aXVzWTJuZHhSaXRQS0puWlpKSWpvT2xQRlJab1lCUjVacUx6THcybXR3VXZlUVJLVS1BbVFXbXBBc3l4WUNOQ2hKSE1hZHRvQlkydDVhaDZtVlRuTGNnUlBwelhaaTZ1TXFObkJjTjVpUmFJYjMwN3JJRk04YlNIZi1TelNIWnhkRGxjX2N4dWVLVC1Ja2RxTUFYS2xrNHF2MlVXYnpEWGV4ZFlNVE81SkNR?oc=5",
+   "date": "2026-11-26T11:39:48+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "1c4364f74cd1",
@@ -423,6 +465,16 @@
    "watch": []
   },
   {
+   "id": "b556dce47328",
+   "source": "Google News: biosimilar",
+   "title": "RBC favours pharma growth stocks on biosimilar, dermatology opportunities - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZEp5SWJlZnl1bldYenBmYWp2dE5wQUplbkdZY0tCR05FOHM0akRHanppeFdZcDI0U2VYTG16LWlsR1F6LTdTZml1WXN2b2ZyRDlEUkFwZnRTdzdDenJ5QTlGcFQ0c1JTMXJ6dXRpSTdXd0huaWQ2bHlSd0hCVE5aZ2FqTDFfUnJCYjYtMDVRT0ltaXU1SmhrZQ?oc=5",
+   "date": "2026-11-25T12:28:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "f763bc80e252",
    "source": "Google News: biosimilar",
    "title": "CGT Catapult partners with Ena Biologics to scale up UK GLP-1 biosimilar manufacturing - Manufacturing Chemist",
@@ -596,6 +648,16 @@
    "date": "2026-11-25T08:27:29.086016+00:00",
    "snippet": "When Fierce first met up with Tim Hunt back in November 2025, the CEO of the Alliance for Regenerative Medicine (ARM)—which represents over 400 members, including biotechs—was optimistic that cell and gene therapies were high on the government’s agenda.",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "352fb85b22f3",
+   "source": "Google News: biosimilar",
+   "title": "New EU medicine laws will strengthen access and timely competition - The Pharma Letter",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdmlidkViY1JvNlRzS09FQ1NucWpWb2ZuOGtCaXotcnVQYVBnWkVnd0N1Ni12TFlRcWV3VEdTamVCUUtIYlZPRnRla1NXTnYxaFBNWTVJd2FHS1VRdDlPa3JEa1JraFVQeHFxWTZrdUE3RWM1YnNfeFZnclJPUWhZeHp3UlY1LUJXU3hBNk9xaktPUnlyTFQzaTZnNXRPUjRkRGo4eHpUTUlzYWhTTGs5NDVhTW5OZw?oc=5",
+   "date": "2026-11-25T08:00:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
