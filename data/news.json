@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:11:06.732865+00:00",
+ "updated": "2026-11-27T21:13:04.857937+00:00",
  "ai": false,
  "feeds": [
   {
@@ -10,9 +10,9 @@
   },
   {
    "name": "Fierce Pharma",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 25,
+   "error": ""
   },
   {
    "name": "Endpoints News",
@@ -53,6 +53,98 @@
  ],
  "items": [
   {
+   "id": "d57f53472881",
+   "source": "Google News: biosimilar",
+   "title": "Biocon announces approval for biosimilar Pertuzumab in Brazil through local partner Bionovis - BioSpectrum India",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeXFwLVdGWEFUZ09IbVFCVWtFMVd2WDNnclB1Q21uQ1FQTXd3eDZFM3dPZ1gtZ3VMMkZiMlFkdUYxUmRWeEk3MU5PY01pLTEtRVlPTlNIbVFVbUJ3LVdGZmM0eDhEcGdYbHVIQWowUUlzbm93YTFtVm9SNkFJM3JRU2J4MDZ1RVgwZEV5anV0WGw1cEhJOE13dHlDTEI4bDhyay1vdXEyanU3OXBoRmZFOEpIbmF5cG0yZGJJT21kWFFCUFFoZzZOUXhucTNGaElkdzhndkdyMHI0Xzli?oc=5",
+   "date": "2026-11-27T17:45:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "d156d2161ddd",
+   "source": "Google News: biosimilar",
+   "title": "Johnson & Johnson (JNJ) Secures Injunction Delaying Simponi Biosimilar Launch - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSk1YX2V5eHRacjJyN0tJaFltbWpfRFY4cmM3a0stekd5X0Q2RGJydXJselBDd2pNQkZLRVpOdEhzVFZRVjNndFZLQ2RicmM1TGhFWTJqeGt1YlNCWXlZZV9ST190UlJfRmpTc0RfOXhneUI3UHBIUUV0WnU5TGtDZXhra0J0YV9jX1ZQR1plTjQ0NFJvUk8xMEw4N2R0TlMwUzV2LVFYUThhaDcweDB3TXVGVGpMaWIwU213NjB2WmhjalJlVUVuUUlXb01yRXJlc0pEQVJaODd5dEFVUlRTQk9BRjDSAeQBQVVfeXFMT0pNWF9leXh0WnIycjdLSWhZbW1qX0RWOHJjN2tLLXpHeV9ENkRicnVybHpQQ3dqTUJGS0VaTnRIc1RWUVYzZ3RWS0NkYnJjNUxoRVkyanhrdWJTQll5WWVfUk9fdFJSX0ZqU3NEXzl4Z3lCN1BwSFFFdFp1OUxrQ2V4a2tCdGFfY19WUEdaZU40NDRSb1JPMTBMODdkdE5TMFM1di1RWFE4YWg3MHgwd011RlRqTGliMFNtdzYwdlpoY2pSZVVFblFJV29NckVyZXNKREFSWjg3eXRBVVJUU0JPQUYw?oc=5",
+   "date": "2026-11-27T17:11:20+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "7f076c22ffed",
+   "source": "Google News: biosimilar",
+   "title": "J&J Unit Secures Block Against Alvotech’s Simponi Biosimilars - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVGhDN2tncDdoc1Y3Ny1rbWhzblhBREpCOUpDMWhyRGdIRWUydURJeDJfeklpRE1SLTJQSDZRQmdWTU4wWG5oYXZxcVkxT09hT0JXbWhTMHNXMlZmZ2NIc3ZINW84bzdYR0dod3B5OUd2QlNna01pQ3JLam9ha0xoY1lBbWphZmZ5OHB5TGFrVFAwVkhQSnRwcVJPcGRnQQ?oc=5",
+   "date": "2026-11-27T16:59:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "e58cd4c1a51e",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech (NASDAQ:ALVO) Penny Stock Slides 9% Pre-Market Today as Court Order Halts Its Simponi Biosimilar Launch - kalkine.ca",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdjdIdG5VdGlPVU1LWXN6bm1ocEtIMWttbWZGX1VxM1VHN2xJbFVKTDNSUDZxU0FNT0U3M0QzbmFBbHBkX19paVBDQzc0Umw4NC0xRmtyMXJBNzFtMlRsbXdJVURlQXFKZndaQ1BtdDQ5cElhZktHbWJxV3ByM0NIWk1kX205QW4teVRYb2M0aVZlYlFpUzFwazlGazk3bUN6ZWhKQ1Z0RzZCaWhrWEJkX1RVc1dTaW5mSnYyYnFjMDdoUG1NWUg1SWdsSjBYempnbzNacXJDdWlmVXM?oc=5",
+   "date": "2026-11-27T14:19:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "ebb4934d3934",
+   "source": "Google News: biosimilar",
+   "title": "Health care and industry demand that public procurement of biosimilars not be limited to price. - Demócrata",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTEVRcF9vTHFmSXo4WjFFWHFZeExxQm1ZRjA5ZmpKdjlhbHhmaDJNdVAycGc5cG5TZVUxQ20wOTVwdHVQLXhGbWlWSHQ5bVV5U0Q4SEtldmZVaGVDLVkwYkN2Z2w2b3lZTGU3S25KenczNzhOaVZsbEs0YkdXQlJKQVJodnlfUW9VMnNfTUltUExmWG9NTm1DS3hhTlhkVXlBS0tYVjNkM2VJSF9NclNyOTlPVTRYYmxyMHJTMHNPRVJPRV9SaS1sVzVB0gHPAUFVX3lxTE1UQ3lGTlh1YkJqM2d3amRCR0FXdUpuWnFhSTUwd3psN3F1X1pXb0FjUk5VSzNNdzNTbkJQb3NxMkdLTWx1S3VFX2hRdEFNTnlUVkJtOG9VMEo1TDRCM0xzMEY0QTFXb09kVWN0dEtIVWp3X2Q0aHRYVDhkaFVwUFdpTlRmV3A4eTZlTzZtdGptQTB1UEU1cTNfTDVfcm9ZU2RtNnAwTUFBUXFtdE9sZkJISGQ1NkxyX3c1aVlkN0g4UFVQTzEzVFBfRWNJcXdyYw?oc=5",
+   "date": "2026-11-27T13:36:35+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "93f3a0923494",
+   "source": "Google News: biosimilar",
+   "title": "Janssen Injunction Delays Alvotech’s US Biosimilar Rollout - Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWFlVaTNDNmpMM0o1UFpRVS1OTHlBQUM5dHI1V3lPRUdaNWpOcG4xNlJUX19meG9MM2JZbjVYcU9NZUpUNWtFblYtdldtYzFPanoyT1cxY2hGUzRnVElMMDF6M1ZjVnFEME1tNVh4RDJKWTRTWG5QblVPeXVXOEtoT2tWNG9ocEl6SU1qeFRsQ0dRbE1XNlM2VmpDVGUyako4ZHNBdHZpMDZyZVBQenktZm85aEplMjd5S2c?oc=5",
+   "date": "2026-11-27T13:10:49+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "8858eb2a68c5",
+   "source": "Google News: biosimilar",
+   "title": "Janssen Injunction Delays Alvotech’s US Biosimilar Rollout - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUEN0RzFpd1ZFNjE0cThEajBwWFNfX0cxQ0FvZkNyMzMxRmNHYnZqUGZEVlQtSmtfM2JHck9IbFIxQ2RaRWhvRi1ZYmlKdFNPdmItNS1QUzRPU3BKTTRndmNUZFlmM2pfOGpsRzRaMExMeE1qdmJBaGZoX28zeTF2dmVBUGR2QTljWVY5WElHeTRpZVBzcHpGTnItNU1WaGJpeWRxYnlHaVExeTdCdEJmSThHM3EtZ3RH?oc=5",
+   "date": "2026-11-27T13:10:49+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "290af1f41850",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Limited Announces Approval For Biosimilar Pertuzumab Hertuzo In Brazil Through Local Partner Bionovis - www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVnllWkx4MXJpYzh6NWFYejhCMm9mQ1g4MTRsbjlRWjFhY2JsaVRBN05wRGlXODZETHg5QTVUb214ckRuZDYwbU5nbGwzZjFET1p5MVFiTWF2Snk2OUtYM0p4ZXJYVEpmWmNOVkY4VFFIS3UzbXVoOFNGc214UUtnSE5SV193TXBVZER3UFZKazRxNnVJMm1naHRsSlJkR0RsOW5Zc214X2JXQkNrUUEzWGpyV0RBRXZadUV5R0FET2xmOGVQNV9reVFuSGtDcDBIWWhidUhOZW1QWENOTFkzSXhEWWxHRDg?oc=5",
+   "date": "2026-11-27T12:41:32+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "536762471c58",
    "source": "Google News: biosimilar",
    "title": "Biocon Announces Approval for Biosimilar Pertuzumab in Brazil Through Local Partner Bionovis - IndiaMedToday",
@@ -75,6 +167,18 @@
    "watch": []
   },
   {
+   "id": "33e59c33c571",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech Plans Appeal of US Block on its Biosimilar Autoimmune Drug - marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3dsUW5jNnVLYl9Ga0F0M2p4MWtIWk5QUFBvQVNLMzUxRFRWTFItUTFabjh1T0cxb0REbHJuWXFwdnpNd0ZINnNKaUcxdFgzQXJOMFNQbzVoVUdkcDQ1U1h6eThUSG9zd2hlM0Nha19PRmJ4VnlpbWwxcXhtdWp4OVpnZFRTdENPbWV4a1hCV2Fia2VUeVp4Z05lTk5QRXh0TzRhZzVvbUZFaVBveHVYTXlKNkNTRDk3NkROeA?oc=5",
+   "date": "2026-11-27T09:00:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "8ce992874922",
    "source": "Google News: biosimilar",
    "title": "Goldman Sachs upgrades Fresenius to Buy, sees 27% upside on biosimilars - Investing.com",
@@ -83,6 +187,18 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
+  },
+  {
+   "id": "fc3b4a33b31b",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion builds case for 2027 Japan launch of Remsima SC with 44-week data - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nMXUwZmVxWWZoeFZmZGpHaWNWM09vR0w5R2ZQcGduaktZdDJvWVRITEFScVQwNVBOT1ZJbS1ObHpJNk5sVkw1eUUtTkJyM2VqdnAwQzllMjl6Smt1VWJscFhObjFHOWlGei1CWE930gFyQVVfeXFMTzZlRm14SE85Rkw4cXFwSTByT3pLZ0xwT2ktNTl0eS14RkVDUWFiSERBUW4yeVdxWUQ1Zm83OW9mdTIya3pjY19adW9OaUtBNDIxWHFWTUZLbWR4cXhudFBhMnFKcmJVZUZXZHhrUU0xUnNB?oc=5",
+   "date": "2026-11-27T07:51:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
+   ]
   },
   {
    "id": "8559931fa94b",
@@ -118,6 +234,18 @@
    "biosimilar": true,
    "watch": [
     "Biocon"
+   ]
+  },
+  {
+   "id": "e5a9822c8014",
+   "source": "Google News: biosimilar",
+   "title": "Biosimilar Market to Reach USD 261.0 Billion by 2036, with Amgen, Roche and Sandoz in Focus - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0h1SG1yY2Q5RS1GRFQwTkhLRGZhTWI3VTZjZVdFaGdWZ0xuQWZEaFpjQWFsUlIwX3lBOTJWaUZ2bU1tSVFuYkV5Y1pwT2F5SGRrVWN6NkdLUDlOQXUwTmE0QU53R2M0YS1Kdm5wclU3LXRoNGlscGR6ZVJmdU9kV2xXRzNuT21qWVpsb3o4WThfa3FIMnljVkRZd3pHSWxY?oc=5",
+   "date": "2026-11-27T07:07:24+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Sandoz"
    ]
   },
   {
@@ -181,11 +309,47 @@
    ]
   },
   {
+   "id": "bf621e366abe",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets Brazil approval for Pertuzumab biosimilar via Bionovis - scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzBKWU1iTksxWTdsQjFRbXcwcERQWDhRcThYS3RpU3JyZi1HdE1tb3ZfdkdGUHFXUS1qclJrNVdfcGZvUG1tUnd2ZEw5cEpyUzA3M21fZkxFMFo1a2pKOUN3N0xBNlJhM05xOVJkeWt2eU85Uks0RTlCLUNkLWtsMXltMHhnUnZwaXc4d2IzOGtQQkVoX2tnY24yLVhsOXVTZ0YxUHZWSHlNTkZLVnA2TFp4cmVfM1A5STNj?oc=5",
+   "date": "2026-11-27T04:32:38+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
    "id": "5cc3a7756248",
    "source": "Google News: biosimilar",
    "title": "Biocon Secures Brazil ANVISA Approval for Breast Cancer Biosimilar Hertuzo; Shares Rise 0.71% - HDFC Sky",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTV2WXlrRVhQaDNzY090TlVBU2hydVZFVXBaODZ5QnhWY085ZkY2MWlUeTJpWUZsYU8zelNoMElvMEFmMHlGV2l5RndOZE92d051Y1pwS21xLTBpRzdZRm5kMW1iWFBZSVYtSlhVeVNkMUZySjFScjlreERnWmxkdi14UURrR3lhbzgxSHhKZ3NjUmRBTEktenRDSk9uLWh5SmtqYU9QZ0Jadlk2Yjdpbw?oc=5",
    "date": "2026-11-27T04:14:32+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "4aca861d721d",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Gets Brazil ANVISA Approval For Biosimilar Pertuzumab Via Bionovis - Sahi",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDQ1WW8taVlCUzZyYklsTWhWSEd2TG80amxOYTFObk1NUlNsZ3dOM0ZhRUZ6dzc4ejM2dDBWcTNQV1Q3eVdWWWU1NXFJaWh1VlJjTFgwdTBCUzVHdTE3X3FxU3lhQnhuUnFwSl9Wa0JYUFFpZEJKNXZSSW9zM244OHp2YklXUC1xZTV1U0Ywd29FaXpDQWRWNUNZXzVDNHlG?oc=5",
+   "date": "2026-11-27T03:53:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "8775e0b9e101",
+   "source": "Google News: biosimilar",
+   "title": "Biocon secures Brazilian approval for biosimilar Pertuzumab through Bionovis partnership - TaxGuru",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTlFldkxhQzZJYkZkRGNBcGtZa2VyZnFnSG1kUmZ6Wm9JcXlXLXdEdDZlNEhScmVrNDRaSy14UVdWenhyQzBGZFp3TDdiSTFldDc0SlhNTmMwbHFxVDhkZFcza2ZTaHROOTNUUkt6RHNkQTlUbldJVV90akxlR2kwdmg1RGloNEJEei1uX01ZX3RzTFlnZDF1T3JoWER5S01RRW1lWnJSS1pKVGpxdUxacEdDR3B5UGNlUHVhVU1kRFJMc2VoYkJIUQ?oc=5",
+   "date": "2026-11-27T02:57:31+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -289,6 +453,18 @@
    "watch": []
   },
   {
+   "id": "2a64ac99a295",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech (ALVO) Faces U.S. Injunction on Biosimilar AVT05 Amid S - GuruFocus",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVlk0RElFVzNVb0tLaF9sZUpkaWxIRUpCdHljVjdEVnE5a1JtbklHLTk0RGR4b3ZpbjlrbUVuUk01MmZqSkthblBCQmYzT3ZtdlpqVjRRbDRYcXdFT1RMX1Vjc1dkOGxLUlRIaHNROHpWNTF0TUhEajRWRWc0N2k1bXRKQnFmS3VpSkRsVnFSNVhuMjQ0Y0EwRWdVeU9udFhDcG1QOEFmaUZjVktHWDVxVHZQNWtzQQ?oc=5",
+   "date": "2026-11-26T11:05:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
    "id": "1c4364f74cd1",
    "source": "Google News: biosimilar",
    "title": "Xbrane Biopharma AB (publ) announces that Siavash Bashiri will leave his role as COO & Head of Biosimilars - TradingView",
@@ -304,6 +480,18 @@
    "title": "Alvotech to appeal U.S. court’s preliminary injunction on simponi biosimilar - TradingView",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa3ZJUEU5ZjNYM0ZEU0JEQzRON09wWWJNVFNRQVhWMElhaU96SWJNc21nZ29jbmZFcDlnMXdLOTJpLVZtYzl5WmpCTXQ1TmR1U2xlamthOTlrbWxROEhpQ2p1N0NTTDVrOFFlQzRuQ2hHS1Ffci1XYnl0bVdDYkQyMl9qSDFrcFQ4Nkx4N2owRlRpU2ZaQ3JTeXhQVkM3RENEalY0ZDNxX0h4TEZzSjRUa0hmMEtOdVhHQmY5Rnd6cXBQY0VVaEdvckRMakZCeWFlS21lQg?oc=5",
    "date": "2026-11-26T10:13:30+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "93c19faf5737",
+   "source": "Google News: biosimilar",
+   "title": "Alvotech to appeal US court injunction blocking its biosimilar AVT05 to Simponi - Pluang",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZjhkOGJIbmNxQlY5WkFVSEdYbXd6dFZxWTFpOEFISzVNcDFVNk9IVHlneldhU2lRaTBkQVBkd3p0UDZWZjlzOHJ2YVhtcjNSVzBJUGlMbHNhdjFVN3dZWEwwM3l1Q0xOdlR3WDBlX3hiaWU3dEhXMXdOS00tSW1LbE1RM2UtNGpsTmtLdXpWcVU?oc=5",
+   "date": "2026-11-26T09:56:02+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -25558,92 +25746,6 @@
    "link": "https://www.bigmoleculewatch.com/2026/09/28/uspto-institutes-four-iprs-challenging-janssens-golimumab-method-of-treatment-patents/",
    "date": "2026-09-28T21:13:39+00:00",
    "snippet": "On September 9, 2026, the U.S. Patent and Trademark Office issued a Notice of Decisions on Institution granting institution in four inter partes review proceedings challenging Janssen Biotech, Inc.’s golimumab method-of-treatment patents: IPR2026-00256, IPR2026-00257, ...",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "925aa18818cc",
-   "source": "Google News: biosimilar",
-   "title": "Teva wins biosimilar approval of Amgen's Xgeva - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXFNTjJ6dlY1ODhCTVR0dVRRUmJJbEVpZi1ESjdBRnlnWlN5Y0puLV82YXRXeWpDcFYwM19kcDNHTEdyV2t4My1Ga2s3QnZtUDF5UTVROUpBa2tQSDBHNm5iaU4wUDA5bUM1a1E0MThmSm9ITGJOaW9ZZHhEcDVLQmlQaEVCVkZVZzFYQWYwU2xPWHd1Zks5bFBac2txNklYajQ1OTJUaWVyLU8zeVE?oc=5",
-   "date": "2026-09-28T20:57:59+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": [
-    "Teva"
-   ]
-  },
-  {
-   "id": "c64e2399eb76",
-   "source": "Google News: biosimilar",
-   "title": "Biosimilars: The Prescription for Lower Costs & Improved Access - Physician's Weekly",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWNaTS1TOUpKcHhDN0lnWlNBR0xEWTVwVTlaVVBfNnZIbmwxLTllMFVkOGkyWlM3SDBOdWZDLW1ZM3BUcElxMXByRGdEVXpUQW1FWmxtYUN0NnNmdG9kLV8zeFVMLVdDWXlfeGFuM2FsTHE5akgtVnBhRWtxSEhQQkFWNU45cnFpUjVKRmEtNGNGYklCUDRRdFd2R2kxRk0?oc=5",
-   "date": "2026-09-28T20:17:53+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "785703a139b2",
-   "source": "Google News: biosimilar",
-   "title": "Teva Continues Biosimilar Momentum With U.S. FDA Approval of DEGEVMA (Denosumab-adet), a Biosimilar to Xgeva (Denosumab) - Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNejl2c2tFRUxxVjhrR1F3TmxVdVd5YUxUYVBwNUNTTEFwY3dSR1ZuWlVzS3JHLWVSMFpqUncyR21hRjExc21ZTm9WQzhUUFZybjVRY1dlazAwQzdoMWZtX0JHdTJEaFQ3VXJZOVVtbmRrbTEzX0c0bndXZzFlNkNaak42Y3RBb0VfMEpPLUJOYkFWdnNZZk9maUVjNU9kSUk3eEs1bnlnRmtvaUQ5THNv?oc=5",
-   "date": "2026-09-28T20:00:00+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": [
-    "Teva"
-   ]
-  },
-  {
-   "id": "d829dae31a36",
-   "source": "Google News: biosimilar",
-   "title": "Teva Continues Biosimilar Momentum with U.S. FDA Approval - globenewswire.com",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNY2JNN2hFUXJWeEt1c0h2eDVKRE9MRDZ1UU5LeGFBeXE5eVRuMHdQUko1NmphRWJ5bTNVcHhBUk9hdFM3U3lkZGRqbmNvY2RkVWJxaGUyc3VORWFlRndTSWNwaXgzNy1FWGt5T1BhcnVNRVd3OXRyLUNYeC1Ob3F0b2ZkeHk1ZTNqbTBSQlpTS3Z0UGM2bENiTDQ3TlhVemNaZmFPbHJtMTJxd2RLZ3dvVTYteDNfMGZDNlZNdHpiQVBLNTktWjAzMGN2aG5SRGpseko1dG42TVdVUkVpQ0xseGZwd1c0VTVRWGo3YktrX3gwcWN3X2M4NGx0SXN6YjU0RXdmU1JQcVA5OE55NmgzN3hySzY?oc=5",
-   "date": "2026-09-28T20:00:00+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": [
-    "Teva"
-   ]
-  },
-  {
-   "id": "9ba74e932e09",
-   "source": "Google News: biosimilar",
-   "title": "Meitheal Pharmaceuticals Announces FDA Approval of High-Concentration Formulation of YUSIMRY - Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdnRVaEdkeTBmX3RtQlNYRTQ1Z0l6cHp1eHhVaEc1UzVkTVU3M0d0dlpZdUNVZGJJaTRJelZUNS0tcVNURWU5bHp1SWk3QlNwakZxck13M0gxZ2pxZUJNOVpPZDFVUklkVThyV0tDZ05ESEpGdW5qZFpxWDhxV0tOUm8xNU0zQkNsazdMSlhCaDZvNUs3akNqSGU2X3MxeThPOTVKM1N1QXgtWm1kbnNwN1ZwZ3BVZTJocHhNcElLaXhRc0dJM0hXVXNqeHRRczJRdjFnUzhzQmZ1cXI5Q2FEY0N6d0NPUXZMd1g4OVpCem1oWl92M1Q1eGlBTURIVzdzc3c?oc=5",
-   "date": "2026-09-28T18:00:00+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "6540f6cb5a2e",
-   "source": "Big Molecule Watch",
-   "title": "Dualitas Therapeutics and Roche Enter Research Collaboration to Discover and Develop Bispecific Antibodies",
-   "link": "https://www.bigmoleculewatch.com/2026/09/28/dualitas-therapeutics-and-roche-enter-research-collaboration-to-discover-and-develop-bispecific-antibodies/",
-   "date": "2026-09-28T16:35:29+00:00",
-   "snippet": "On September 17, 2026, Dualitas Therapeutics, Inc. (“Dualitas”) announced a research collaboration and license agreement with Roche to advance novel bispecific antibodies (“BsAbs”) for immunology and inflammation diseases, using Dualitas’ DualScreen Bispecific Discovery Engine. ...",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "784bf960a2cd",
-   "source": "Big Molecule Watch",
-   "title": "GSK to Acquire Trispecific T Cell-Engager for Multiple Myeloma from Chimagen Biosciences",
-   "link": "https://www.bigmoleculewatch.com/2026/09/28/gsk-to-acquire-trispecific-t-cell-engager-for-multiple-myeloma-from-chimagen-biosciences/",
-   "date": "2026-09-28T16:29:11+00:00",
-   "snippet": "On September 15, 2026, GSK plc (“GSK”) announced that it agreed to acquire a trispecific T cell-engager (“TCE”) from Chimagen Biosciences (“Chimagen”), a privately held biotechnology company. GSK plans to develop and commercialize the asset for multiple myeloma, with phase I ...",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "e9a6c59fa919",
-   "source": "Google News: biosimilar",
-   "title": "STADA and SBP Group launch biosimilars partnership - The Pharma Letter",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2Y3SVdLUW9SUDAwR0FobTBHZmh2aTAtOFI3X3UtZVpZd2d4ejVES19yV0dEcENXaVFCMGFYYzFMRUp2bkhwWW9iMTNRaE92emFTQTNuZTROaTZzdERHNU40MVRwaEhUbW9WU0pCR3lSWDhkNFpIV000ckRucEJQaVJscl84OFJtVnloakdjM28xdFAtNDhweGpUUmFya1NY?oc=5",
-   "date": "2026-09-28T12:51:31+00:00",
-   "snippet": "",
    "biosimilar": true,
    "watch": []
   }
