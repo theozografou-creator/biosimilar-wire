@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:43:01.256616+00:00",
+ "updated": "2026-11-27T12:11:06.732865+00:00",
  "ai": false,
  "feeds": [
   {
@@ -10,9 +10,9 @@
   },
   {
    "name": "Fierce Pharma",
-   "ok": true,
-   "count": 25,
-   "error": ""
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 403: Forbidden"
   },
   {
    "name": "Endpoints News",
@@ -52,6 +52,168 @@
   }
  ],
  "items": [
+  {
+   "id": "536762471c58",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Announces Approval for Biosimilar Pertuzumab in Brazil Through Local Partner Bionovis - IndiaMedToday",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS1FJLXB1b09wOW0tdTUtUWgybnpCWXVQZ1d6bGJOajJXTjZ4QUtoSTJ5T0hTYmpLbDZsMDdVa2NsUlVTd0g5VWEzWDFzY3RRR2lMM21nRUVaV1FMMU1qTUhEVW1CQm5UaGlPSlFGeFBzQllDeDBmV29TQnViZURMNE1KbUxOOVdFMnk2enhGRG5IaGFaVVNCSWR1MG9PemJYMVhteGFwWVVsMFFFOUp2NUNSZHJpM1JSNm9n?oc=5",
+   "date": "2026-11-27T11:14:52+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "44d4de5f719c",
+   "source": "Google News: biosimilar",
+   "title": "Goldman Sachs Turns Bullish on Fresenius, Raises Target Price to €67 on Biosimilars' Decade-Long Growth Momentum - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kN2paX08yRjRWMHRJUno2VmVBWHNiWEVWNEVpUl9hZlVwdDVZckRlMjhPMHBDUGNOa3h6OVAtYmlBZ1k5V1g4N3BfUENsa1JQU2ZBQU03UjNqZ0FrY1ZPSGNpNW1SWG9jX3JLN1RpOE10ZDVQX1E?oc=5",
+   "date": "2026-11-27T09:05:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "8ce992874922",
+   "source": "Google News: biosimilar",
+   "title": "Goldman Sachs upgrades Fresenius to Buy, sees 27% upside on biosimilars - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZks2RHpvRzBBdDdSNkJ2cEhIOERnWERPU1Vkd3BRci1UQTlZZjNTVDZxX1hvTVZxN29SaFh6UnpURFloekhaYXNEdzFCaDRjQXFqT1NXUnNrNktyWTVncW1fbU5sTElia0hlZzhXMC1KV3FGbUliemN1cUN6TVRpZEtkYlJOeDJscGgyNnF0TGZpYU5HTXhiNlpJMzdnWlMxY2lQVlNKMWY1a2NFWlhPa1BleG5JSUNxQkhGTlBPRko0Zk80?oc=5",
+   "date": "2026-11-27T07:52:37+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "8559931fa94b",
+   "source": "Google News: biosimilar",
+   "title": "Biocon shares gain after Brazil health regulator approves biosimilar for breast cancer drug - CNBC TV18 - LinkedIn",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDNKYjJ6cjQtdko2a2FKbmdVelJlR042Ylo3b1Z3V3FTdFhUYXhkVjY0V2t4SXhWdzdCZGNuYWQyMDZodmtoX19KNkl2TnhDWVVVckVjUllRckdjSzg1R3R2WVA5Z0U1X21PbFR0RFFROE9EaXVVYVdOVzNEN1M3SmtNT0JVaFNqVHJWUUVDcWNDNVVlNHJXVWVVb3NjMDZ4SHFQYzQxQXljWTlwcEFvRkpzTklkSWpFZVlZZWJNY1A?oc=5",
+   "date": "2026-11-27T07:26:07+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "ae9f21d4a8f2",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets Brazilian regulator nod for biosimilar Pertuzumab for breast cancer treatment - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSVNDMXRVZmRYbHI5R1lVdzNUZThTbHJ1YnZKbl9Ba2xDb1V2QUNfcVVIVW0yRkc3RGRjMU1aVEdBSlhlTVBXQmFuTnN6cGYyTThlRzZ2M25xdURVNzdWYjlkSEFqWEQ3Z2dfdWM4SEl0VC1jb0xleUR6V25UN0VLSjMtVUw2dGdvRjdXbWRkUU1HTUxsSFlwVlNrRXloZlltc0FjdmZiNWJJeVdCaUhFOFZYR09VZE1fZ0NScE85bFN6bnBlNWRTSkpURXlQYTBiRll3cUtHc3JPVEl4YkNPM3czSkZVX3BnRW5Od9IB8wFBVV95cUxNZV9IenZPb2poYnFTT0MtWm81RmlyZHhPaWc2bTktcWhEcDBzWmRWcHZnQmtDV3BUaERDWFFMZFJOMEFXSjFKNmdZaDMtU2wtN0Q4bks3RlpSeHROYWdmaVN4NGhfRkpreTV0NlB5dHZQQzZ5WTJvd3hiOTMtSWJCQm0xZDB1RThDcE5aNXBUU2RPY290a3Z5bTZnazJ0aEpjcDczaXhOQkhHV1VsbFIzWGNFNm5TOG4xeFVSV0hRdTg4QjVVM3RMcTEyd3UzVFYwa0JyNVpqZ1Q3VF90WlhERklKU3BvWHdPTDFMVFUxN216V0E?oc=5",
+   "date": "2026-11-27T07:14:51+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "fa7c937eed77",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets Brazilian regulator nod for biosimilar Pertuzumab for breast cancer treatment - ET Manufacturing",
+   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOelU5U2N2TXlqRTEySk1uc19NVDcyNnVJTkwyWGFsZzFCNEgwRUlyNW5UVnZ0bmc3NzRHamlBN2FnVVRMa0dHMDBJSWZBcFZFSXZJcjlBVl9xTDVsbGR0NHp6TWxwQXhWMGZza21XZEJ1VG5DaXA3VVJmc3B4U0REU1o5RmZKVVRoazhYYW4zM1c2TFFmU1FaU2dZZnRJQmg5bnVJZWJvRTBnV3ZoWmV0cEh2cWdTV0pZaVVPWURGaFBXNTItVzhwOGxsclVxSUJLTlE3WFNLQmlIWTBET0RDZkxOUWJXV1ZDZWZ3XzJUNzFGNUdrQUJSdHUwZGJfclNLRjJvTkdESTV2eklBbTBSa3pIWFJhQjlnZ3ZRNW8tSHZ6TnJNOThkcDZVbFZZaXpyYjQybzBWMkxkd9IBgwJBVV95cUxNRzRwWk5YeUh0bno4cGktcDZlX2VRTHlvTnpGTTRYYTVWLXJwcll4YkU3SWFyWmkxckprblctdk83QTBNbXFiTm9UOFpJbWsxMS1Xc3o3dlFBX0E4YzFWcDRKZDZJZk5kQldJd3BvZ3ZPUGhiWllyX0VoNGUtTHZGTzZGbFVVdWk3bXM1dDB6b1FFM01rbjBVTS14NTNUSGRDb0JYcWVnVVZjdHpkZ052ZVQ1ZGFFVW5lbGVnR0N6RVJtYkhQcUc0YkNES2NZazV4U3Y5STVsQndUTGVucVlmMEM0RTQzVGZYRjk2WUw5aUpudThCX1J0MUd3Mjlhd3dQdFFJ?oc=5",
+   "date": "2026-11-27T07:11:11+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "954a6d64d757",
+   "source": "Google News: biosimilar",
+   "title": "Biocon gets Brazilian regulator nod for biosimilar Pertuzumab for breast cancer treatment - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPRktBVnRDT3ZLUkxRbjdoc3Y2SDhyRlYxNjBGXzlqSHplSHp3VEZQelJJSmVFNG9NTmptWVVzal9iZDV5SmpWZHFnUmpxZjRTS0w3a09RSzJBYmFPb1BhYW9WaEpkVXFQNndzWkpMelRaNUg0ejdUVDRZM3FaMW4zZVA2TXBDbk5WUmV4LVg1bkN4cEZ5NDE2Q3BTQVlYSGQxVFlReHlFS1NEdTNrZWEtaDFmUTNPWld3Ri1naWhFeVZGWmh2MTNibWZoQVpvak42T05kOE1jOU1mYzl2V2V1R19BWlNKVkQybGJIWThNcEtMU0xPLWthV095Smg0X1prZHBibDExMVA5SW5zOXZ1NHNPSVJWemFRS2ZjVTBaTHlQSHM2Zlk3NkxJcll4TFFpVU9PSGJIVjJVcWVvX0NBQi1yck1oOUFzR3owRmRnRHpOdnB6Z1ktZWJKWVZVNWdHZVExc2E0eFAwOWNZVVN6ampoQnE5ak12OG9takNJNNIBmwJBVV95cUxNYkpjd3c3VnN6bTVGS3d4bUNIS0FVUmpCNThMSU5VM1ktWmJmVDJKRXpOeXh0NHNjaFltOC1QUWpFZzdZWk91Vjk2SHFVS0hpZmEtV0MwbG82SGk2b2trX0ZkTUJQaFU4eVZGaDAzRW5ZdHEwZ0dDSTMxM25MYnZydjNGUkhmZTViMDV6Y2UxZVgzZ0RCQk0xWWlTOWFMd3JwYjE1TG5remtmU1pLbEFsandQbkgyREJxNXphUExZbi1iMlN0azBWeEkxaFBQUUVUb1FqaU01QnVpQkFzdHU5VFJZVnpUc1Bpb054TEZOWE5zU0VmejU5blQ1UXhXX3lsQUlCWXI0NUlPUEEtdEhRd0Z3UThtblp6cEtv?oc=5",
+   "date": "2026-11-27T06:38:28+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "2ec0c1513332",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Gets Brazil Approval for Cancer Biosimilar Hertuzo, Advancing 10-Year Partnership - Dalal Street Investment Journal",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX0d6blBRNWxPT1cwcXFiS0syblhwVDZRS0JaRUpPc1g3QzA0MDNmSUU3b1FyZW9QX2FVYWxVTzBVdkxqUFZuTTRIckczaU5rM3hUSjF3b25qYkE3Q2hsaXU5WGhVdGVPSy1NSm1fYVpTRVpybkM2WThXbGdJc01iVWw2MDdxX1BnanQzVDVKa2dINDV5VUFrSWlhV2lfcEdSazN3R1Y4bnJ1ZU1oQl9XY2h1NXE2bkZXM1c2UTZJam5naGhVNGJTejhB?oc=5",
+   "date": "2026-11-27T06:36:32+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "1c072d89375c",
+   "source": "Google News: biosimilar",
+   "title": "Biocon's Pertuzumab Biosimilar Approved in Brazil for Breast Cancer - Rediff MoneyWiz",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1BRU1hwOG91NmtqX05sNjdneXliZG9Ed1dHX1RkbWx5STVCSW51bWxRNWZ1Ukk0QzlKVVZPVTh6N3JKWGZzdGhULVk5dk9LQWE2TjFrbHZVd0pwSWE5R21lR0pjSnp6YlRYRWE4dGNxZGJreG9jRlA2cl9NbnhIWVZuSnNoblI2bHhvVkpFUVctVXZRUVowZ1dERjFmNE9NeXBGdTZPMlprd2dQYmVBVXl0eTRkT2E0NkVR0gHAAUFVX3lxTE84SGpqakp3Z0xEaEk0amVTWWpCWWlkVk9Gd0VrdnRoeW96a0JyZlk0QWs4OTlocmFmTFY4ai1RcTlwTUEzVnhKcm5fcXJQWkhEVlBPajVTa083dUtwQjVnakZSQlhHYVQ5WnZ5R29fVXFTQ2FVcUphNFJma0JHTFRJc2V1aU1GVTZXVmtYRU9DTk14enJOazZnLTdsaTFxc3IzeS16TnZUVXpaTndFdHZFZERKTl9kRVFIRXZpZkhZMQ?oc=5",
+   "date": "2026-11-27T06:24:55+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "bc98becccf00",
+   "source": "Google News: biosimilar",
+   "title": "Biocon’s biosimilar Pertuzumab receives ANVISA approval in Brazil - Express Pharma",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEFHRm9ucUgyMG95cXgxeGY0WjE0T1FTazNMaVNZX3lmM0NBUzhiNllvTG9TcndJZHJMUENmT2dWQUstQnBjOUdndTlibmhyUjZHei02d0JxazdldEdNVHp4bm9ITnNqN25GNkMwaHBuQ25tM25wcHZDQnA0Q1p1WFpjVVZ1SU9aS1plNXJGYVBTLUlIZk1IZ0hR?oc=5",
+   "date": "2026-11-27T05:54:53+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "bec2851e21fa",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Gets ANVISA Approval for Hertuzo Biosimilar Pertuzumab to Treat Breast Cancer in Brazil - Kotak Neo",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkRWaUlHamVKY0ZwS0Jla0Vab1FBcVJpYWQzUTBUbFN0Wk42TFM5OGhSSjduTGtDbzJvVmpqaW5OTXNQMGNUeVZlRUV1a2F6MTZoMjZONHlJSGRFcVo3QUdBWkxocmFPSTE2QnZlU0IzZHpJMjNGRmVMMWRPX1VvdlRkclBCMzN6QWV1RmpXRGVfVWI4Um5TSFliN3NHN1lQdDFrdjh6YzhrX1ZTaXZwVVpFT0xKajhLMXQ2aTk3MUc4TFNDcWplR1A1QzY3TzlCNEFOSV9MMnVaaEF6TGJN?oc=5",
+   "date": "2026-11-27T05:05:53+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "5cc3a7756248",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Secures Brazil ANVISA Approval for Breast Cancer Biosimilar Hertuzo; Shares Rise 0.71% - HDFC Sky",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTV2WXlrRVhQaDNzY090TlVBU2hydVZFVXBaODZ5QnhWY085ZkY2MWlUeTJpWUZsYU8zelNoMElvMEFmMHlGV2l5RndOZE92d051Y1pwS21xLTBpRzdZRm5kMW1iWFBZSVYtSlhVeVNkMUZySjFScjlreERnWmxkdi14UURrR3lhbzgxSHhKZ3NjUmRBTEktenRDSk9uLWh5SmtqYU9QZ0Jadlk2Yjdpbw?oc=5",
+   "date": "2026-11-27T04:14:32+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "289b17d1bea7",
+   "source": "Google News: biosimilar",
+   "title": "The Difference Between Originators And Generics Or Biosimilars - CodeBlue",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQczFGcFkwWHQ2blNBbEFwYS1QOWx6UlVDTXAzdEU2LWtWVzJpa1RiSEhIWllmajdiYXpHemRPdkNsbXotaUkxY19NWl93bzAzRi16RUpxQWRnYTZJcXVFTE9nRzhVSGRqNjJOcVV3RkJ5aXJ6OVNpRWdxY1FMVlY1MDRpbjE4MVZadXVsalVhNmd2a3JCRlRsN0FkMnpxSTR3Y1dEZGs4WQ?oc=5",
+   "date": "2026-11-27T02:01:40+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "fb64b877c0e4",
+   "source": "Google News: biosimilar",
+   "title": "Samsung Bioepis Surges on US Biosimilar Incentive Bill[K-Bio Pulse] - edaily.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOUxyOUhtS0FINGtPV1Rvb1ZBS0IwT0EzOTc1QWJSakdfYXlDRzg2SGFVMFdBTjFoTmFSNHAzZmQ2SFFVWDdvNmVMZ29QZDhxbnZQNWswT3ZsMG1mZkIyMjgzSG1xTkdXRlI3cHA1Yi0wTkxRWGVlSm1SZnp2VXVBag?oc=5",
+   "date": "2026-11-26T23:01:03+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Samsung Bioepis"
+   ]
+  },
   {
    "id": "5dce6b4b22d2",
    "source": "Google News: biosimilar",
@@ -183,6 +345,16 @@
    "watch": [
     "Alvotech"
    ]
+  },
+  {
+   "id": "68d6d679ad96",
+   "source": "Google News: biosimilar",
+   "title": "Generics, Biosimilars to drive India’s next pharmaceutical growth wave - Asia News Network",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTzlEQkl5QVNOeUhvM05vdDM2QldrNkJkSlNpSTFxdUZKeTUybVByLWJHUFhUOURsalUwRl9LQTUxLUtYNnp4Z2djY0VxajRoMUpZWGdrbTNYWVBFZnh3WjJ4NUZyNmFnNUhBajZQQTN0THp6dXQ4NWlHX0x2cGVnNzZvT2xqbWxuQTMyTTJaVzUxa1cyeFdsRV9B?oc=5",
+   "date": "2026-11-26T04:09:42+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "420209063dd4",
@@ -25471,26 +25643,6 @@
    "title": "STADA and SBP Group launch biosimilars partnership - The Pharma Letter",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2Y3SVdLUW9SUDAwR0FobTBHZmh2aTAtOFI3X3UtZVpZd2d4ejVES19yV0dEcENXaVFCMGFYYzFMRUp2bkhwWW9iMTNRaE92emFTQTNuZTROaTZzdERHNU40MVRwaEhUbW9WU0pCR3lSWDhkNFpIV000ckRucEJQaVJscl84OFJtVnloakdjM28xdFAtNDhweGpUUmFya1NY?oc=5",
    "date": "2026-09-28T12:51:31+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "a5b777408e8a",
-   "source": "Google News: biosimilar",
-   "title": "Strengthening regulatory review of biosimilars to help more patients access affordable, quality, safe and efficacious treatment - World Health Organization (WHO)",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTng1bUtGcEJpVjZrTlJwTUp2RGJ5enA0WVplWFk2TllPczlsM2kwRm1EOWxtaHFVc3p5ZnRGMjBYMVp4ZklCYzJxXzM4bWlrdzFhWUZjY0gweFZQVFhRSFFkY19VT2Y2a2VQcWp3WXdqTEpCUlFwZFVuaUJRSTQzWDF3U0JCZHI5M19sVFNWZ0RHQ0xwUDhvT2tzQ0R0WjVNMWFJajZTRC1vZXlRUnUtcVJYWktObVpGbVVGOURvVVZFWjB0alhYXzA2SEMxWm5mUFBiU2g1MWdZWHBhUlBZcTExOWwyN2FwT2hFTlEwMTM3djdoR3dibXhWNWF1S2NCY1hwajBMNTkwY0JXTUZXYg?oc=5",
-   "date": "2026-09-28T10:15:47+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "3b43bcdd7b8b",
-   "source": "Google News: biosimilar",
-   "title": "Prestige BioPharma wins Brazil approval for Herceptin biosimilar Tuznue - Korea Biomedical Review",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03NzJmNGQyUld4OUMtTGMxZGJ2ekdLTkVuMzRxX3J1WDJrQjRKZHp3dzRWM1gtcWlwT1VoMU50OWxuOHEyNmRQdFcxaTdCeGVvajg5Wk1yVG0wYUtiUmxoUlQ2MG4zWHlJVzQzSWJn0gFyQVVfeXFMTTlUdVZaTFRHUDNnYzcyUXkwMTJRRHJlWFp4SVBSMXNOUVZfd3BNd3pDdVNXV0lDSG5lRU5DWUJSNWFxZmFxbWx3QmtMX0djSlhfaUVhZVVyQ2JJTjI2blNZaFY3MkYzNEkwUVRTREtucENR?oc=5",
-   "date": "2026-09-28T06:14:26+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": []
