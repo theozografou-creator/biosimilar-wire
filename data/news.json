@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:18:28.761386+00:00",
+ "updated": "2026-11-28T15:28:01.093968+00:00",
  "ai": false,
  "feeds": [
   {
@@ -53,10 +53,44 @@
  ],
  "items": [
   {
+   "id": "4d66225e8883",
+   "source": "Google News: biosimilar",
+   "title": "Biocon Hertuzo® Biosimilar Pertuzumab Receives ANVISA Approval in Brazil - Machine Maker",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQU5uQmVYVlNrYUlxNVVsWi1OemJfb20xazh4U3hvYnJnY3JkNml4VnJua3Rkb0lZWXl0ZVppTm5pdVlCYVRqRG9KNEpjSTFNcTJPWkpqWXQ2ZWlyMERxWDN3U19tLTNYRnh4MVdXM185a1pGZUEwVkl4SkRfTVlnMmtrVXN3N2lLajVfN0JDRmNsM0NvSUNWOGFyUGJub1V2TGdOQmoxUGg?oc=5",
+   "date": "2026-11-28T06:24:41+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "73e886669202",
+   "source": "Google News: biosimilar",
+   "title": "Researchers Produce Ramucirumab Biosimilar Candidate in CHO Cells Reaching High Titer - Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGt4UjNxcUk2WGZkYUdidUd3MHpGdWpDODBOTXBZMmliZ1hjbW9ybEVwM21pM2NrRlpwU05xdkxZU0FNcXlfbUlKQ3NEQ0dEN04xcFFSZ1dYNDQ5dXFlTVBwTk5BOVBheVdrcF9abE1FTWllUm4tZVRWc1ZsanE0QV9Wc0FTa2xydFQyNVlkYmZ1XzVrUElBbkk3VjJacG5jZTBiaWFCVXpieW15cE1B?oc=5",
+   "date": "2026-11-28T05:53:12+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "d57f53472881",
    "source": "Google News: biosimilar",
    "title": "Biocon announces approval for biosimilar Pertuzumab in Brazil through local partner Bionovis - BioSpectrum India",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeXFwLVdGWEFUZ09IbVFCVWtFMVd2WDNnclB1Q21uQ1FQTXd3eDZFM3dPZ1gtZ3VMMkZiMlFkdUYxUmRWeEk3MU5PY01pLTEtRVlPTlNIbVFVbUJ3LVdGZmM0eDhEcGdYbHVIQWowUUlzbm93YTFtVm9SNkFJM3JRU2J4MDZ1RVgwZEV5anV0WGw1cEhJOE13dHlDTEI4bDhyay1vdXEyanU3OXBoRmZFOEpIbmF5cG0yZGJJT21kWFFCUFFoZzZOUXhucTNGaElkdzhndkdyMHI0Xzli?oc=5",
+   "date": "2026-11-27T17:45:10+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Biocon"
+   ]
+  },
+  {
+   "id": "8bee54649367",
+   "source": "Google News: biosimilar",
+   "title": "Biocon announces approval for biosimilar Pertuzumab in Brazil through local partner Bionovis - BioSpectrum India",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSGdGOUliTXJtLU9rWXlYTmtRWEpSc2tWR1BJRi1VR2V2SlZpeGg3bjRFTHNjSllXT3ZRX09vQlZaR0lwWWdhRXB0TWhyMUN0YndzdkRxQ2s1anY0RGxDOTl2aWI0dUxuMFRvMHB2SUFJZC16c1VUVjY4cjBPcl9RMkR0bjFMZ00xVDR0alhxT1NReGV1VGRHSGtvOE5VRXdMWEJQcDNxTkJfb05ZYWxLSUctYlhHaHhRWFBqczRucnk0Z0ZSQmdvd1Z4YnhoY29YMmFWdUtOaw?oc=5",
    "date": "2026-11-27T17:45:10+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -89,6 +123,18 @@
    "source": "Google News: biosimilar",
    "title": "J&J Unit Secures Block Against Alvotech’s Simponi Biosimilars - Bloomberg Law News",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVGhDN2tncDdoc1Y3Ny1rbWhzblhBREpCOUpDMWhyRGdIRWUydURJeDJfeklpRE1SLTJQSDZRQmdWTU4wWG5oYXZxcVkxT09hT0JXbWhTMHNXMlZmZ2NIc3ZINW84bzdYR0dod3B5OUd2QlNna01pQ3JLam9ha0xoY1lBbWphZmZ5OHB5TGFrVFAwVkhQSnRwcVJPcGRnQQ?oc=5",
+   "date": "2026-11-27T16:59:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "f46d7c1a269d",
+   "source": "Google News: biosimilar",
+   "title": "J&J Units Secure Block Against Alvotech’s Simponi Biosimilars - Bloomberg Law News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVl9IWkgwVWdodUhMYVdBRHI3WXlPVHJsYTl3VGl4OXNhSkpWSDIza21qWTViN29kangzUnlJV0hSQWd6Rk1hZi1NcFRzRVZoVWUwTE9BaENkWm5TMm94QjFQNElDZ1NycEFSS3BxeENXMU5CajlyT242SEV1eXpSUTlmNC1QZWVya0VIR3lLM2ticHBYanZBTkNBUEpkS3NuVzZF?oc=5",
    "date": "2026-11-27T16:59:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -165,6 +211,16 @@
    "watch": [
     "Biocon"
    ]
+  },
+  {
+   "id": "459b073a54ab",
+   "source": "Google News: biosimilar",
+   "title": "Congress Examines Patent Thickets And Biosimilars; Legislation On The Horizon - Legal 500",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY09hZ3NLTkplMk1kd0p2djFWN29yMV9sZVJNMHNYWjVpS0RPUHdnbjFTeVFiWWkyN1QyZWZEc3ltWkdfWVpLZlRmakNPa2dmeDQzcHFETERLUHQ5Ti0wd1cxQk1aZ2dkMlIxQkNzVHZ5UmNwZU1xbV9NNDA0NXVfOWNWcUUzb1RxYTFjVWRPOWxWOHpJMjF4YTA4TzVEYThGQ0hONTJQRzNRTGVEM3NTOWpuM0RCbktEVEJiR2dVcU9uOE05aXJ1dXFVSHhuT0tSd3RfSlJBczVNMFo5X2JrdWtjRnk?oc=5",
+   "date": "2026-11-27T12:26:59+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "536762471c58",
@@ -25686,102 +25742,6 @@
    "snippet": "",
    "biosimilar": true,
    "watch": []
-  },
-  {
-   "id": "43d038be1760",
-   "source": "Google News: biosimilar",
-   "title": "Sandoz opens biosimilar production plant in Slovenia - SeeNews",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDB4U0hzdGtxbDVGOEhuSHdDamdVMDdFOFdJMnFxQ2s0X3JjQ3FiYzN6QThabVNPbjhsNXoxaG1hdUdhUGVuM2o4WVM4TjZJcGczQWxCNUp3RkROTWx6ZFczdlJ4RXd3NnJzVnR0QXhIYzZMOGpaS0FBaXVJRGNRbThoYjRJTXdtaEdZaXRn?oc=5",
-   "date": "2026-09-29T14:12:56+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": [
-    "Sandoz"
-   ]
-  },
-  {
-   "id": "dad4203e3b22",
-   "source": "Google News: biosimilar",
-   "title": "Why Waltz Health, Fresenius Kabi Are Taking Biosimilars Direct - pharmaceuticalcommerce.com",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzBGVXEzWFJSNmpNZUFTM0dfeXhUeEp5ZWJRaF9nemF2bVk0Uzl6RUdMcFhXdG14ZTlreW1GZkoyUUhkbjdGZ3pGU0xPMF80SDZwNXlYVXNTdXdseEdDWEdfV254VjZEMEtWTHJHUEdiYVhkMVFnNER2VkNLb0NoTDZiV1ZKLWZsYWFIVVVMcVNUakRYSXJOblJQLUtwSnpzR0czZFAzWVE?oc=5",
-   "date": "2026-09-29T13:09:10+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": [
-    "Fresenius Kabi"
-   ]
-  },
-  {
-   "id": "73dcefe55005",
-   "source": "Google News: biosimilar",
-   "title": "Waltz Health and Fresenius Kabi Expand Direct Access to Biosimilars Through Waltz Connect Platform - PR Newswire",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaWVUTnZGTkFIazZMTlIzS3JYam1nZDdMRXRIa2owYlZiZ2FEeFdTblVXLWMyTnltd09iOHRyX1o4a0NsTU4zNE8wYUdDdGVYT0ZZQ3A1bEhJdVMyd1VUX3RweFBCWV9oN3FBNW1CYS1XV0kzZi1kNkVwSlE4R0o2NzBXY1lvSG9QX1FaSUhyWml1WUpkX0ZZdXhuVkg1elAtdWxEbVNxS240NHB5UXh4dk9KUG5lR1JkS2VTSTB1bGF6b1NoN1BtclhIUWk0V3RMWFJXeFNmZWM4QjZNcDE3c3F1WGtYczd5NUE?oc=5",
-   "date": "2026-09-29T13:00:00+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": [
-    "Fresenius Kabi"
-   ]
-  },
-  {
-   "id": "abfa4b0758dd",
-   "source": "Google News: biosimilar",
-   "title": "Teva Receives U.S. FDA Approval for Denosumab Biosimilar for Oncology Indications - Oncodaily",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfUm42a0kxTVhVZ1IxeTduYlpRWjh1UmN6YzJRd1VkbG41VHZmZThUSVJKTmptVmtWZ0F0UUk3akVPeWxFNXRSaDBlbFJpdlloS0QwelpzckRWRzBCUXpINVlELTZ3SDh2YjRJcXhR?oc=5",
-   "date": "2026-09-29T10:36:17+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": [
-    "Teva"
-   ]
-  },
-  {
-   "id": "facfd4849894",
-   "source": "Center for Biosimilars",
-   "title": "Teva Completes Denosumab Biosimilar Pair With FDA Nod for Degevma - Center for Biosimilars",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXRJNHBVNUIzdkZydjMwckpRSGFmYklGN3JiVGNBaF9YYU16Z2ZYRmhjd25rdnQzbkMwVmVDQmw2TnR5MGVINUR3TTBkR1ZOUVc5TWNOa2RQeVZnT2VpeDlDN2l1eFI2VW9pZ2hXMVpwd3VnS3oyRURhODRsZkRVUGZ1eHdLMmgyYVpKYXQ5ZGpwQTVna0RqN0c2RWZ2eldfWlRkMXRXUUdOSWc?oc=5",
-   "date": "2026-09-29T07:00:00+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": [
-    "Teva"
-   ]
-  },
-  {
-   "id": "4e80daccf0a9",
-   "source": "Google News: biosimilar",
-   "title": "FDA Approves Teva’s DEGEVMA Biosimilar to Xgeva for Cancer Bone Complications - The Clinical Trial Vanguard",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNndzZWxhc2htZGlSUkhfM09mT0dxalE3YkE4eFlpQ19qOWU0ZXB3dVMtLVE1QkxYYUF5S0ZJdjBZZ0N2RlY5YWRKREVkMVBkMW1ObmVtM0NST0o0cmxVMFFXZXNlOTE2YjVfcUJ4aERDUjVKSWVibW5HNTRudldqd0FHcWE2Um4zZFRENl9SNnp4WXRmbEVzZmhiUnEwMW5Zc1pKcjd0bUViV0ZYTms0eUJjVE9PMVdWSkJTTw?oc=5",
-   "date": "2026-09-29T06:38:58+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": [
-    "Teva"
-   ]
-  },
-  {
-   "id": "92a2789460d5",
-   "source": "Google News: biosimilar",
-   "title": "Sandoz opens advanced high-volume drug substance manufacturing centre in Lendava, significantly strengthening in-house capacity and flexibility across leading European biosimilar network - Sandoz",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYUd1T1FqakhSNTdXdG41a2JCTWptOXpzNzRnOFJwUk9XSWtyS3ZCVVF1QS1zYjItVHBBV1dnYWRfZ3dyTjduMkpzWWJPSTB3WHdKSUtyWFlTSlZJMGlYUE5HZmNRUlVlSGZKcHFWaEE1WUh6RG5pdHFhdnJhR2x5OGlmX3BfYVdCZlVYN2x3dUF4ZHRNd3hxYVl0MFNoUVp2YWU0TFN4X3R6YS10SUJEczhtajRlQQ?oc=5",
-   "date": "2026-09-29T05:33:25+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": [
-    "Sandoz"
-   ]
-  },
-  {
-   "id": "34e205118c92",
-   "source": "Google News: biosimilar",
-   "title": "Sandoz eröffnet neues Biosimilar-Produktionszentrum in Lendava - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kbGNSWTRMVWc3emFEMlJ1Qjl2LXdGaWtMRHpsTFNOY2tmSC1kb24zb2hIZGdkV3RKM2Q3emdMdlRVNUdDZmxqRU94cTNzMkZGWE9MTXpnWWNQOExoMWtlTjFiRQ?oc=5",
-   "date": "2026-09-29T05:06:00+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": [
-    "Sandoz"
-   ]
   }
  ]
 }
