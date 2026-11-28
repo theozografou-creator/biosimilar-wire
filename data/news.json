@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:13:04.857937+00:00",
+ "updated": "2026-11-28T03:18:28.761386+00:00",
  "ai": false,
  "feeds": [
   {
@@ -75,6 +75,16 @@
    "watch": []
   },
   {
+   "id": "fea62c883120",
+   "source": "Google News: biosimilar",
+   "title": "Johnson & Johnson (JNJ) Secures Injunction Delaying Simponi Biosimilar Launch - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZXVucUQwXzZ5bkhleHF5MDg1U2F2bTlsc3Ezb2ZrZW5keEtRVDdUMTdtd1ZraGdqQlA4OXBwRV9zVS0tUlJ4VHZjbnJNbTdmaEMzNlRVeDU2YnFlTFo3cHFaakUyX0UxSkdsa2QtdG9rZWdVdU1ueTVOS1Y1UEItZUZ0dFI0UHRsTENVVHQ0SFNrbDhubThhWEpULUJBcTdQcklTZllXQ0tzcjdvV29DWjRVb256aUJXa0hLNzkwNHByVlRLbnp0c1p0akR0Y1c4ZXlsdnJrTW1SWFNpaGpr0gHkAUFVX3lxTE9KTVhfZXl4dFpyMnI3S0loWW1tal9EVjhyYzdrSy16R3lfRDZEYnJ1cmx6UEN3ak1CRktFWk50SHNUVlFWM2d0VktDZGJyYzVMaEVZMmp4a3ViU0JZeVllX1JPX3RSUl9GalNzRF85eGd5QjdQcEhRRXRadTlMa0NleGtrQnRhX2NfVlBHWmVONDQ0Um9STzEwTDg3ZHROUzBTNXYtUVhROGFoNzB4MHdNdUZUakxpYjBTbXc2MHZaaGNqUmVVRW5RSVdvTXJFcmVzSkRBUlo4N3l0QVVSVFNCT0FGMA?oc=5",
+   "date": "2026-11-27T17:11:20+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
    "id": "7f076c22ffed",
    "source": "Google News: biosimilar",
    "title": "J&J Unit Secures Block Against Alvotech’s Simponi Biosimilars - Bloomberg Law News",
@@ -92,6 +102,18 @@
    "title": "Alvotech (NASDAQ:ALVO) Penny Stock Slides 9% Pre-Market Today as Court Order Halts Its Simponi Biosimilar Launch - kalkine.ca",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdjdIdG5VdGlPVU1LWXN6bm1ocEtIMWttbWZGX1VxM1VHN2xJbFVKTDNSUDZxU0FNT0U3M0QzbmFBbHBkX19paVBDQzc0Umw4NC0xRmtyMXJBNzFtMlRsbXdJVURlQXFKZndaQ1BtdDQ5cElhZktHbWJxV3ByM0NIWk1kX205QW4teVRYb2M0aVZlYlFpUzFwazlGazk3bUN6ZWhKQ1Z0RzZCaWhrWEJkX1RVc1dTaW5mSnYyYnFjMDdoUG1NWUg1SWdsSjBYempnbzNacXJDdWlmVXM?oc=5",
    "date": "2026-11-27T14:19:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Alvotech"
+   ]
+  },
+  {
+   "id": "114fe60d7fa7",
+   "source": "Google News: biosimilar",
+   "title": "Court Order Blocking Its Simponi Biosimilar Launch Sends Alvotech (NASDAQ:ALVO) Penny Stock Down 9% Pre-Market Today - kalkine.com",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTHJ3UjRVWnR2ck5meE9oZ1p6ekhVc3ZXb3d6RWJDZF9RR1dPUmZEbkVjc2E2WkNBXzZWbnV3YTdXZmtYTE0wT3p2X2M4cGhnSGVwSGE2TDhiOXQzNkFsWnVmNHpobVRPZDUya2pOWEdrdXJWd0kxM2diaXNVZkFyQzNmSkdya0diUHJfMjU5R1lVQ2Y4UW9NbTBLUEpRMTMyRXJBVWVoVnBKMGNNRGdKN1hvTUNhbHlHOVBnbUFZQWJvNUlCZGxLNHp2RWRQT0Rkd2diUHdYWWpRQ1Qzc2o3WFpn?oc=5",
+   "date": "2026-11-27T14:06:00+00:00",
    "snippet": "",
    "biosimilar": true,
    "watch": [
@@ -176,6 +198,18 @@
    "biosimilar": true,
    "watch": [
     "Alvotech"
+   ]
+  },
+  {
+   "id": "51d6256b8074",
+   "source": "Google News: biosimilar",
+   "title": "Celltrion builds case for 2027 Japan launch of Remsima SC with 44-week data - Korea Biomedical Review",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82ZUZteEhPOUZMOHFxcEkwck96S2dMcE9pLTU5dHkteEZFQ1FhYkhEQVFuMnlXcVlENWZvNzlvZnUyMmt6Y2NfWnVvTmlLQTQyMVhxVk1GS21keHF4bnRQYTJxSnJiVWVGV2R4a1FNMVJzQdIBckFVX3lxTE82ZUZteEhPOUZMOHFxcEkwck96S2dMcE9pLTU5dHkteEZFQ1FhYkhEQVFuMnlXcVlENWZvNzlvZnUyMmt6Y2NfWnVvTmlLQTQyMVhxVk1GS21keHF4bnRQYTJxSnJiVWVGV2R4a1FNMVJzQQ?oc=5",
+   "date": "2026-11-27T07:55:53+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": [
+    "Celltrion"
    ]
   },
   {
@@ -331,6 +365,16 @@
    "watch": [
     "Biocon"
    ]
+  },
+  {
+   "id": "bbfdf1bcf32d",
+   "source": "Google News: biosimilar",
+   "title": "News by CNBC TV18 on TradingView, 2026-11-27 — cnbctv:31d230a69094b:0 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yTlJOLWcxclJ0UjBka3RPTDdRSHN4aWYtX1RrQkhuSXpqLWhiSHlxYnNFTUc0MnNlSGF3YzVlOFZQQmJXdUZ1ajdrbThncGIwVHdhYnJ2VWd6UWI3eWJGU1c3d3N6cm8?oc=5",
+   "date": "2026-11-27T03:56:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
   },
   {
    "id": "4aca861d721d",
@@ -692,6 +736,16 @@
    "date": "2026-11-25T15:55:19+00:00",
    "snippet": "Hansoh Pharma continues to line up partners as dealmaking with China’s biotech industry shows no signs of abating. Bayer is the latest to sign up for a piece of Hansoh’s pipeline. The German giant on ...",
    "biosimilar": false,
+   "watch": []
+  },
+  {
+   "id": "bce539e7e74c",
+   "source": "Google News: biosimilar",
+   "title": "RBC favours pharma growth stocks on biosimilar, dermatology opportunities - StreetInsider",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMU1weHJmVVZ0RTY5T0toRUZiUVg3VURnVTBwX0tCdG9TNTNYa3o4SXV2c1NwVFVsbEdlbmFHeFFMWXkyWGt0UF9JZUk0MXpHQVRRV1NJeFI3dnJ1dGZsbEhYRThXRW9KSU02bkdnenVaQVo2SXJGaW9LWDB3Tkx0YW1RQ1BzeUt5X1FOck5xLUFKOUJnRWVZa2MwcHVXcWs0ZnRfajY3T2VseDM0U3VZTS1KRXk4b20xWGZNYjZVTTllSllQNE9WTw?oc=5",
+   "date": "2026-11-25T15:52:26+00:00",
+   "snippet": "",
+   "biosimilar": true,
    "watch": []
   },
   {
@@ -1165,6 +1219,16 @@
    "source": "Google News: biosimilar",
    "title": "The FDA is expected to act by year-end on Amgen's application for an Opdivo-like medicine. - Stock Titan",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV0t2R2EycFlvcm1ZT0ktOFhySTYtTlk4X3g1VDczN1hYeDFWNlh5YjdtMWFCVHFhbFV0RzJEQ3g4Z1RQM2lNVmF5aHN3blFSdlZlX3h3U2NsOGtBTjV1S2Y3aVNYNk45NFpGYUwtOXlhMXJhS2UzaXR3SXRBb2VDd3FlWGpMQTAtT3FMT0ljeTh5dEszRlZncG83bzV1V0ZFUVZBRzJJOEJZcEJLUEFiN3ZORXJHZw?oc=5",
+   "date": "2026-11-24T21:01:00+00:00",
+   "snippet": "",
+   "biosimilar": true,
+   "watch": []
+  },
+  {
+   "id": "f2c468202e7f",
+   "source": "Google News: biosimilar",
+   "title": "Amgen (AMGN) Sets ABP 206 U.S. Launch for October 1, 2028, Subject to FDA Approval - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWUNOcndHREl4Q3A1Yi1YRjMwMUtDOW1YeHBjOC1JOEpvMF9TYUU1aDdTV0lLekFsRVdqdENkRGMxUzBIMlRVRmFmbzRMZzhSWFF3dGc0NGpxTnNSd0xyMUR5aF9UTDQ3VkRqdW5qcW5ETm1ZSXhqakp5YjVXNGtpdDU0SU43VmNvY185WFN5NEtqS0o0bXd2RXAwRm9kb2wxRXdSUGVoQlpWUndqSDRyZENCU3VmN2IwSXdLQ2lacGo1elV6eTg0Mk8yUFBnczJCZDJpZHRR?oc=5",
    "date": "2026-11-24T21:01:00+00:00",
    "snippet": "",
    "biosimilar": true,
@@ -25718,36 +25782,6 @@
    "watch": [
     "Sandoz"
    ]
-  },
-  {
-   "id": "1fc2a67e12e4",
-   "source": "Google News: biosimilar",
-   "title": "Meitheal Pharmaceuticals Announces FDA Approval of High-Concentration Formulation of YUSIMRY®, a Biosimilar to Humira - BioSpace",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZEZGYWMzc1V4YjY1Q0x2UHV2OGQya0t1SkJGcGktVS05MnBsVW45cDRaczc4RHlpQnRZZnNuZ1h5Mmt3cEdzNkNCZTYyQWtQdVdwSm9TRkR3ZmZZdnBNRG5OaEpFdlF5UUhUR1lBT0xuelQ5SHJPUkhiNFBmNW1zWjRHSGpjNEFxbTFmY0NPMXQ2M0RQWU1JT3hSS3FWUnRUQXZlUlk1NkxtdV9zSnNwX09nTFpxc29CY1JRSjJ4cFRPVVFJREktamI4UEZ3dDZnMkktNGQwekJRTkpoUGlzZWpiMlc4LXpaTXpB?oc=5",
-   "date": "2026-09-29T02:05:21+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "ff3ea76ee32a",
-   "source": "Google News: biosimilar",
-   "title": "Biosimilars: The Prescription for Lower Costs & Improved Access - Physician's Weekly",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDNOenJTU2p1MV9wZ2xpb0JDWmFoWEhHVmZ6a1lHREtWVjhlSGNRR2NnMC10NEpEQnh0Wms1NEo4U2FscWl2R3ptZXB2UmNNcjl1UWxpblJRRE9JSldqWU1CVDE3UC0tSFUyaEh4RlRrUXVrdGRYbkxBRm9hUFlnWElKbV8tSDN0U3ptS0hoSXdTRlA2STEyU3BkTEpSOURYVTdERllzT2VQZw?oc=5",
-   "date": "2026-09-28T22:56:26+00:00",
-   "snippet": "",
-   "biosimilar": true,
-   "watch": []
-  },
-  {
-   "id": "ff385a5046ae",
-   "source": "Big Molecule Watch",
-   "title": "USPTO Institutes Four IPRs Challenging Janssen’s Golimumab Method-of-Treatment Patents",
-   "link": "https://www.bigmoleculewatch.com/2026/09/28/uspto-institutes-four-iprs-challenging-janssens-golimumab-method-of-treatment-patents/",
-   "date": "2026-09-28T21:13:39+00:00",
-   "snippet": "On September 9, 2026, the U.S. Patent and Trademark Office issued a Notice of Decisions on Institution granting institution in four inter partes review proceedings challenging Janssen Biotech, Inc.’s golimumab method-of-treatment patents: IPR2026-00256, IPR2026-00257, ...",
-   "biosimilar": true,
-   "watch": []
   }
  ]
 }
